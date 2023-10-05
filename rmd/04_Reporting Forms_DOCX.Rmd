@@ -1,0 +1,54 @@
+
+# Overview of the status of the data reported for 2021 {#datastatus2021}
+
+## Nominal catch, catch and effort, and size frequency data 
+
+Nominal catch data, geo-referenced catch and effort data, and size frequency data for the reference year 2021 were reported to the IOTC Secretariat in a timely manner and according to the IOTC reporting standards for the very large majority of the industrial purse seine, longline fisheries, and some coastal fisheries (**Table  \@ref(tab:DataStatus2021)**). By contrast,  there are still some fleets not reported the three main datasets to date. 
+
+The situation is more contrasted for the nominal catches of all other fisheries, with data well reported for major fishing nations such as I. R. Iran, Sri Lanka, Oman, Maldives, and Thailand, no data reported by some important coastal countries such as Yemen, Madagascar, and Tanzania, and several subsequent data submissions received from Indonesia. For the other fisheries, little information on catch and effort was available except for the fisheries of Maldives, Comoros, Sri Lanka and UK  (**Table  \@ref(tab:DataStatus2021)**). Almost no size frequency data were made available for the other fisheries, except for Comoros, some fisheries of Indonesia and Iran.
+
+\pagebreak
+
+```{r DataStatus2021, tab.cap = "Nominal catch (t) and data reporting quality of the main IOTC datasets by fishery group (industrial purse seine, industrial longline, and all other fisheries) and flag as reported in 2022 (for reference year 2021) for all IOTC species and sharks caught by tuna and tuna-like species in the Indian Ocean. NC = nominal catch; CE = catch and effort; SF = size frequency. Color key is given in **Table 4**"}
+DATA_QUALITY_STATUS_2021_ALL_FT
+```
+
+<br>
+
+## Discard data collected through the form 1DI
+
+Estimates of discards reported to the Secretariat are derived from logbooks or observers although data on discards reported in the logbook may be collated from the latter in some cases. In 2022, a total of 11 fleets provided positive reports of discards for the reference year 2021 (**Table \@ref(tab:TotalDiscardsByFleet)**). The comparison of discards levels between fleets and fisheries is hampered by the great heterogeneity of the information provided by CPCs, particularly in the levels of sampling coverage and absence of raising for most of the fisheries. Although [IOTC Resolution 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) states that discards should be extrapolated to the fishery, the level of discarded catch reported by CPCs are low and in number based mostly on observation, which do not give any indication of extrapolation.
+
+Other issues regarding the nature of discards data reporting includes email notifications which are focused on specific resolutions requirements (Res. 13/05, Res.12/06, Res.13/04, Res 12/04, Res. 17/05 and Res.19/03). Therefore, the information received is fragmented, and does not comply with the IOTC standards included in form 1 DI in accordance to Res 15/02. 
+In 2022 five fleets submitted nil reports of discards, compare to eight fleets 2021: UK, India, I. R. Iran, Madagascar, and Thailand. Although most of the fisheries of these CPCs are coastal and the very large majority of the bycatch (e.g., sharks) may be retained for local markets, some discarding would still be expected to take place, as it has been shown to occur in the gillnet fishery of I. R. Iran [@Shahifar2013] and observed in some swordfish-targeted longline fisheries operating in the region and similar to the semi-industrial longline fisheries of Madagascar and Kenya [@Sabarros2013].
+
+```{r TotalDiscardsIOTCspBygear, tab.cap = "Total discard levels in numbers of IOTCSP by Gear in 2021 as reported to the IOTC Secretariat"}
+DISCARDS_2021_IOTC_TABLE_FT
+```
+
+<br>
+
+```{r ETPDiscardsBygear, tab.cap = "Total discards (numbers) of sensitive species by fishing gear and species group in 2021 as reported to the IOTC Secretariat. ELL = swordfish-targeted longline; FLL = fresh longline; GIOF = offshore gillnets; LL = deep-freezing longline; LLCO = coastal longline; PS = purse seine; PSLS = purse seine on schools associated with drifting floating objects; RNOF = offshore ringnets"}
+DISCARDS_2021_ETP_TABLE_FT
+```
+Although the scarcity of the data most fleets record the fate of the species on discards, indicating that more than 90 % of sea turtles and around 60% of the sharks discarded are released alive.
+
+```{r ETPDiscardsFate, tab.cap = "Total discards (numbers) of sensitive species by fate and species group in 2021 as reported to the IOTC Secretariat. AL = Alive; DE = Dead; UNK = Unknown"}
+DISCARDS_2021_ETP_FATE_TABLE_FT
+```
+
+The information currently available on discards cannot be used to estimate the magnitude and composition of the phenomenon at regional level. However, it does provide some indication of the occurrence of sensitive species in some fisheries and gaps that need to be considered to improve the quality of the data for further analysis. 
+
+
+<br>
+
+## FAD-related data, including the activities of supply vessels
+
+A comprehensive description of the FAD-related data submitted to the IOTC Secretariat between 2013 and 2021 has been made at the 3^nd^ IOTC ad hoc Working Group on FADs (WGFAD03) in October 2022, along with the release of the consolidated [data sets](https://iotc.org/WGFAD/03/Data/01-FA) [@IOTC2022a]. Although with some improvement compared the previous year still some issues were found in the data reported  for some purse seine fleets mostly due to misinterpretation of the data reporting requirements related to FAD activities (**Table \@ref(tab:FADSupplyDataStatus)**). The WGFAD03 endorsed the creation of a small Working Group to discuss methods to facilitate FAD data submissions (revise existing data submission forms) as well as harmonise definitions and classifications related to FAD fisheries.  
+
+Effort data for supply vessels in 2021 have been fully reported to the Secretariat as the total number of days spent at sea, stratified by flag, year, month, and 1°x1° CWP grid within the IOTC area of competence (**Table \@ref(tab:FADSupplyDataStatus)**).
+
+```{r FADSupplyDataStatus, tab.cap = "Data reporting status of FAD-related and supply vessel data in 2021 as reported to the IOTC Secretariat. Color key is given in **Table 4**"} 
+FAD_STATUS_FT
+```
+

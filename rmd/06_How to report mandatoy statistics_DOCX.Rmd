@@ -1,0 +1,94 @@
+# Status of the IOTC fishing craft statistics (FC) and active vessels (AV) databases {#vessels}
+
+The number of vessels targeting IOTC species in the IOTC Area of Competence is used to:
+
+- derive input-fishing capacity in the Indian Ocean [@Moreno2013];
+
+- estimate the catches of fleets that operate under the flags of countries that do not report data to the IOTC;
+
+- assess the completeness of the catches reported by IOTC CPCs and completing those catches when the fleets concerned are not fully monitored by their flag countries.
+
+## NEI category: numbers of vessels
+
+The numbers of vessels operating under the flags of countries that do not report their catches to the IOTC are estimated from data reported by other countries. Those data include:
+
+-	IOTC IUU list ([IOTC Resolution 11/03](https://www.iotc.org/cmm/resolution-1103-establishing-list-vessels-presumed-have-carried-out-illegal-unreported-and));
+
+-	identification, dimensions, and other attributes, by vessel, for those foreign vessels that owed fishing licenses to operate within the Economic Exclusive Zone (EEZ) of the reporting country (as specified in [IOTC Resolution 14/05](https://www.iotc.org/cmm/resolution-1405-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area));
+
+-	identification and total catches unloaded, by species and vessel, for those foreign vessels using ports in the territory of the reporting country (as specified in [IOTC Resolution 10/11](https://www.iotc.org/documents/resolution-1011-port-state-measures-prevent-deter-and-eliminate-illegal-unreported-and) & [05/03](https://www.iotc.org/cmm/resolution-0503-relating-establishment-iotc-programme-inspection-port));
+
+-	identification and total catches transshipped, by species and vessel, for vessels participating in the IOTC Transhipment Programme (as specified in [IOTC Resolution 14/06](https://www.iotc.org/cmm/resolution-1406-establishing-programme-transhipment-large-scale-fishing-vessels));
+
+-	data provided by other parties, including data on the imports of tuna for canning, by species and vessel, from processors cooperating with the International Seafood Sustainability Foundation (ISSF) or other initiatives.
+
+The catches for those fleets are estimated by using the estimated vessel numbers (obtained as above) and the catch data for vessels from other (reporting) fleets that operated in the same areas and targeted the same species (i.e., proxy fleets). The catches of this component are recorded under the NEI category.
+
+## Partially reported fleets
+
+In addition, the Secretariat estimates catches for countries that report only partial statistics for their fleets, i.e., catches of fleets of IOTC CPCs that are not fully monitored by their flag states. The catches reported by these countries are assumed incomplete because the average catches estimated by vessel by year are significantly lower than those estimated for similar fleets of other countries, on the assumption that both fleets have the same levels of activity. 
+
+This applies to the following fleets:
+
+-	longline fleet of India: up to 100 longliners have been operating in Indian waters in recent years, including fresh-tuna longliners and deep-freezing longliners;
+
+-	longline fleets of Indonesia: Indonesia does not monitor the catches of vessels under its flag that are unloaded in ports outside its territory;
+
+and additional catches estimated for these CPCs are also included into the NEI category.
+
+## Fishing craft statistics
+
+### General findings
+
+Data from artisanal (small-scale) fisheries are overall scarce and inconsistent in many cases. On the contrary, the statistics of large-scale and medium-scale fleets are thought to be fairly complete:
+
+- Purse seine fisheries:
+
+    + the number of large-scale purse seiners fishing for tropical tunas on the high seas (usually referred to as “industrial”) is well known. At present, these are flagged in countries of the European Union, Seychelles, I.R. Iran, Mauritius, Japan, and the Republic of Korea;
+    
+    + there is a large fleet of Indonesian purse seiners operating mostly in the coastal waters of Indonesia, but the industrial component of this fishery (gear code PS) is poorly known, and seems to exclude several vessels of length overall larger than 24 m that should be considered as industrial and reported as such;
+    
+    + recently, a fleet of six medium-sized purse seiners has been developed in Kenya (since 2020) but little information is available on the fishing activities of these vessels for which no data have been submitted to the Secretariat so far.
+
+- Longline fisheries:
+
+    + there are many high seas longline fleets fishing tuna in the Indian Ocean, that include a mix of deep-freezing and fresh longline vessels. These fleets fly the flags of Taiwan,China, Seychelles, Indonesia, Sri Lanka, Japan, China, the Republic of Korea, Malaysia, the EU (France, Spain, France, Portugal, and Great Britain), South Africa, Mozambique, Oman, Australia, Madagascar, Mauritius, and Tanzania;
+    
+    + there are also very important coastal longline fisheries in the Indian Ocean (which are currently considered of artisanal nature and historically classified under the _line_ gear category) which caught more than 110,000 t of tuna and tuna-like species in 2020, mainly in Indonesia, Sri Lanka, I. R. Iran, India, Maldives, Kenya, and in Reunion and Mayotte (France) and Seychelles and Mozambique to a lesser extent;
+    
+    + in the past, there were other longliners operating under various flags of non-reporting countries, with the total number of non-reporting longliners estimated by the Secretariat whenever new information was received from third parties (NEI category);
+
+- High seas gillnet fisheries: the number of oceanic gillnet vessels operating in the Indian Ocean is well known for I.R. Iran and poorly known for Pakistan;
+
+- Offshore gillnet/longline fisheries: the number of offshore gillnet/longline vessels that operate under the flag of Sri Lanka is well known;
+
+- Pole-and-line fisheries: the number of pole-and-liners that operate under the flag of Maldives is well known.
+
+### Vessels records for 2021
+
+```{r FCTable, tab.cap = "Number of fishing vessels targeting tuna and tuna-like species in the Indian Ocean by CPC and fishery group as reported in the record of active vessels (industrial fleets) and fishing crafts statistics (artisanal and industrial vessels"}
+FISHING_CRAFTS_TABLE_2022_FT
+```
+
+<br>
+
+Information available at the IOTC Secretariat on the numbers of active vessels targeting tuna and tuna-like species in the Indian Ocean is incomplete and sometimes inconsistent between data sources, i.e., (a) the mandatory record of active vessels which covers the industrial fleets (IOTC RAV), (b) the voluntary form 2FC which covers all fleets, and (c) the national reports submitted every year for the Scientific Committee. In 2021, information on fishing crafts was only provided by nine fishing CPCs, (**Table \@ref(tab:FCTable)**).
+
+Compiling the statistics by fishery type (i.e., artisanal vs. industrial) generates some confusion when the information provided by the CPCs is not accurate. Tuna fisheries are not necessarily limited to coastal or offshore areas and the fishery type also depends on the size of the vessels and on the fishing gear. In particular, purse seine and longline vessels can operate in both coastal areas and the high seas (**Fig. \@ref(fig:BarplotFishingCraftsByFisheryGroup)**). Some gillnet fleets of some CPCs are also known to operate beyond the EEZ while the fishery type is also unclear for some vessels equipped with pole and line and other gears and reported as industrial, e.g., trawlers less than 24 m from Australia may only operate in coastal areas while they have been reported in the RAV. 
+
+```{r BarplotFishingCraftsByFisheryGroup, fig.cap = "Number of fishing vessels by fishery group reported to the IOTC Secretariat for the year 2021 for each fishery type. ART = artisanal; IND = industrial; SEMI = semi-industrial, i.e., vessels less than 24 m length overall that may operate in the high seas"}
+include_graphics("../outputs/charts/FISHING_CRAFTS/FISHING_CRAFT_BARPLOT_FISHERY_GROUP.png")
+```
+
+Interannual changes in fishing capacity of the artisanal fisheries of the Indian Ocean catching tuna and tuna-like species cannot be estimated from the information currently available at the Secretariat. In addition to the non-reporting of the numbers of fishing crafts by many CPCs (e.g., **Table \@ref(tab:FCTable)** for 2020), the reporting coverage may vary from year to year for others. 
+
+\pagebreak
+
+
+
+
+
+
+
+
+

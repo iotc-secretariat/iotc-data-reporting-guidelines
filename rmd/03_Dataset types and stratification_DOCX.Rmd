@@ -1,0 +1,75 @@
+# Availability and timeliness of IOTC data (2012-2022) {#timeliness}
+
+
+The deadline of submission for the nominal catch (NC), catch and effort (CE), and size frequency (SF) data is the 30^th^ of June every year, with the possibility of submitting final versions of the data sets for longline fisheries until the 30^th^ of December. 
+
+Failures or delays in data reporting are a major impediment to the quality of the scientific analyses performed on IOTC fisheries data sets. The timeliness of data submissions to the IOTC Secretariat is essential to provide enough time for the preparation of data sets required for the different Working Parties and Scientific Committee of the IOTC. Therefore, late reporting compromises the validation and verification of data by the IOTC Secretariat, especially when these are submitted close to, or during, Working Party meetings devoted to the stock assessment of IOTC species. 
+
+In the case of nominal catch for the 16 IOTC species, a standard procedure is used to estimate the missing data by repeating the catch data from the previous year or deriving them from a range of sources, mainly from the [FAO FishStat database](http://www.fao.org/fishery/statistics/global-capture-production/query/en) (see **Appendix V** of @IOTC2014).
+
+In general, the different types of data sets (i.e., NC, CE, and SF) are submitted by a CPC at the same date. Upon data reception, standard controls and checks are performed to ensure that the metadata and data submitted to the Secretariat are consistent and include all mandatory fields. The controls depend on each type of data set and may require the submission of revised data from CPCs if the original one is found to be inconsistent (e.g., unknown gear code) or incomplete (e.g., missing CWP spatial grid).
+
+## Nominal catch data
+
+### Availability
+
+In 2022, eight (8) CPCs did not report nominal catch data for 2021 to the IOTC Secretariat: Australia, Eritrea, EU-Italy, Pakistan, Somalia, Sudan, Tanzania, and Yemen. Except for Somalia, where the current status of fisheries is unknown but catches of tuna and tuna-like species from coastal fisheries are assumed to be negligible, the nominal catches of the seven (7) other countries were repeated from previous year. Besides the non-reporting CPCs, one (1) CPC, Kenya, submitted repeated catch of 2020. In addition, nominal catch data had to be estimated for the following non-members of the IOTC: United Arab Emirates, Bahrain, Djibouti, Egypt, Jordan, Kuwait, Myanmar, Saudi Arabia, and Timor Leste. United Arab emirates, on the other hand, responded direct to the Secretariat with revised catches by species from 2012 to 2021, based on a recent review of catch data from localities. 
+Overall, the part of non-reported nominal catches in 2022 increased, representing `r round(sum(TIMELINESS_2022_C[DATASET_CODE == "NC", NC_NOT_REPORTED])/sum(TIMELINESS_2022_C[DATASET_CODE == "NC", TOTAL_NC])*100, 1)`% of the total nominal catches estimated for that year, compare to 2021, (`r TIMELINESS_TABLE[DATASET_CODE == "NC"  & REPORTING_YEAR %in% 2021, round(mean(NOT_REPORTED))]`% ).
+
+Information collated on data submission to the IOTC Secretariat spanning the decade 2012-2022 shows sign of improvement in the levels of reporting for all IOTC species over time. Although the levels of reporting vary according to the species groups, the part of non-reported nominal catches has substantially decreased since 2012 for each species group, particularly for neritic and billfish species (**Fig. \@ref(fig:TimelinessBarplotNC)**). For neritic tunas, the percentage of nominal catch not reported to the Secretariat amounted to about `r TIMELINESS_TABLE[DATASET_CODE == "NC" & SPECIES_WP == "Neritic tunas" & REPORTING_YEAR %in% 2012:2013, round(mean(NOT_REPORTED))]`% in 2012-2013 and decreased to `r TIMELINESS_TABLE[REPORTING_YEAR == 2022 & DATASET_CODE == "NC" & SPECIES_WP == "Neritic tunas", NOT_REPORTED]`% in 2022 (**Fig. \@ref(fig:TimelinessBarplotNC)**). Although less marked, the level of reporting has also much improved for tropical tunas over the last decade, decreasing from `r TIMELINESS_TABLE[DATASET_CODE == "NC" & SPECIES_WP == "Tropical tunas" & REPORTING_YEAR == 2012, round(NOT_REPORTED, 1)]`% in 2012 to `r TIMELINESS_TABLE[DATASET_CODE == "NC" & SPECIES_WP == "Tropical tunas" & REPORTING_YEAR == 2021, round(NOT_REPORTED, 1)]`% in 2021 (**Fig. \@ref(fig:TimelinessBarplotNC)**). 
+
+```{r TimelinessBarplotNC, fig.cap = "Annual percentage of total nominal catch of each of the IOTC species groups according to the date of submission of the nominal catch data by each fleet to the IOTC Secretariat. The submission deadline is the 30^th^ June of each year"}
+include_graphics("../outputs/charts/TIMELINESS/NC_TIMELINESS_BARPLOT.png")
+```
+
+### Timeliness
+
+Most of the nominal catches reported between 2012 and 2022 were received by the IOTC Secretariat by the deadline of June 30^th^ every year (**Fig. \@ref(fig:TimelinessBarplotNC)**). The respect of the data submission deadline is particularly evident for temperate tunas (albacore and southern bluefin tuna) for which only `r TIMELINESS_TABLE[SPECIES_WP == "Temperate tunas" & DATASET_CODE == "NC", round(mean(BY_WPDCS))]`% of the nominal catch has been reported after the 30^th^ of June between 2018 and 2021. However, in 2022, reporting of temperate tunas catches was incomplete (`r TIMELINESS_TABLE[SPECIES_WP == "Temperate tunas" & DATASET_CODE == "NC" & REPORTING_YEAR  == 2022, round(mean(BY_DEADLINE))]`%  by the 30^th^ of June). Apropos Billfish species, although the late submission improved in 2022, from `r TIMELINESS_TABLE[SPECIES_WP == "Billfish" & DATASET_CODE == "NC" & REPORTING_YEAR  == 2021, round(mean(BY_WPDCS))]`% in 2021, to `r TIMELINESS_TABLE[SPECIES_WP == "Billfish" & DATASET_CODE == "NC" & REPORTING_YEAR  == 2022, round(mean(BY_WPDCS))]`% in 2022, the non-reporting increase to `r TIMELINESS_TABLE[SPECIES_WP == "Billfish" & DATASET_CODE == "NC" & REPORTING_YEAR  == 2022, round(mean(NOT_REPORTED))]`%. Nonetheless, late submission of Neritic tunas reduce to the same level (average of `r TIMELINESS_TABLE[SPECIES_WP == "Neritic tunas" & DATASET_CODE == "NC", round(mean(BY_WPDCS), 1)]`% during the period 2012-2022), and for tropical tunas, the average of `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "NC", round(mean(BY_WPDCS), 1)]`% of the total catch has been submitted to the Secretariat after the deadline. The reporting year 2022, shows an improvement in the report of nominal catch reported after the deadline, i.e., `r TIMELINESS_TABLE[DATASET_CODE == "NC" & REPORTING_YEAR == 2022 & SPECIES_WP == "Temperate tunas", BY_WPDCS]`%, `r TIMELINESS_TABLE[DATASET_CODE == "NC" & REPORTING_YEAR == 2022 & SPECIES_WP == "Tropical tunas", BY_WPDCS]`%, `r TIMELINESS_TABLE[DATASET_CODE == "NC" & REPORTING_YEAR == 2022 & SPECIES_WP == "Neritic tunas", BY_WPDCS]`%, and `r TIMELINESS_TABLE[DATASET_CODE == "NC" & REPORTING_YEAR == 2022 & SPECIES_WP == "Billfish", BY_WPDCS]`%, for temperate tunas, tropical tunas, neritic tunas, and billfish, respectively (**Fig. \@ref(fig:TimelinessBarplotNC)**), following the slowdown in all activities, including reporting of data in 2021 due to the global CoViD-19 pandemic.
+
+<br>
+
+## Catch and effort data 
+
+### Availability
+
+The amount of geo-referenced catch and effort data not reported to the IOTC Secretariat is larger than for nominal catches (**Fig. \@ref(fig:TimelinessBarplotCE)**). Information is particularly limited for neritic species (i.e., neritic tunas and seerfish) for which catch and effort data were missing for the strata accounting for `r TIMELINESS_TABLE[DATASET_CODE == "CE" & SPECIES_WP == "Neritic tunas" & REPORTING_YEAR %in% 2012:2018, round(mean(NOT_REPORTED), 1)]`% of total nominal catches between 2012 and 2018. Besides neritic tunas, bilfish species also have low geo-referenced data i.e., for strata accounting for more than `r TIMELINESS_TABLE[DATASET_CODE == "CE" & SPECIES_WP == "Billfish" & REPORTING_YEAR %in% 2012:2018, round(mean(NOT_REPORTED))]`% of total nominal catch of billfish species between 2012 and 2018. Nevertheless, the situation has improved for all IOTC species over the last decade, if not for significant late reporting in 2021, as shown by the increasing percentage of nominal catch data for which catch and effort data are available (**Fig. \@ref(fig:TimelinessBarplotCE)**). 
+
+```{r TimelinessBarplotCE, fig.cap = "Annual percentage of total nominal catch of each of the IOTC species groups according to the date of submission of the geo-referenced catch and effort data by each fleet to the IOTC Secretariat. The submission deadline is the 30^th^ June of each year"}
+include_graphics("../outputs/charts/TIMELINESS/CE_TIMELINESS_BARPLOT.png")
+```
+
+### Timeliness
+
+Considerable amount of geo-referenced catch and effort data for tropical and temperate tunas submitted to the Secretariat have been mostly reported by the deadline between 2012 and 2022 (**Fig. \@ref(fig:TimelinessBarplotCE)**), although there are more variable for tropical tunas, with `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "CE" & REPORTING_YEAR %in% 2018:2022, round(mean(BY_WPDCS), 1)]`% of the total nominal catch having their corresponding geo-referenced catch and effort data submitted after the deadline between 2018 and 2021. In 2022, submission of geo-referenced for most species improved from `r TIMELINESS_TABLE[DATASET_CODE == "CE" & REPORTING_YEAR %in% 2021, round(mean(BY_WPDCS), 1)]`% in 2021 to `r TIMELINESS_TABLE[DATASET_CODE == "CE" & REPORTING_YEAR %in% 2022, round(mean(BY_WPDCS), 1)]`%, following the substantial late submission in 2021, due to the CoViD-19 pandemic that disrupted some of the activities of sampling and data management.
+
+##  Size frequency data
+
+### Availability
+
+Limited information is available on the size composition of the nominal catches of several IOTC species. Although a large proportion of billfish catches are from  industrial fisheries, limited size frequency data continued to receive for billfish species. on the contrary, for Neritic tunas, there is improvement in the submission of size frequency data in recent years. Between 2012 and 2021, `r TIMELINESS_TABLE[REPORTING_YEAR %in% 2012:2021 & SPECIES_WP == "Neritic tunas" & DATASET_CODE == "SF", round(mean(NOT_REPORTED), 1)]`% of neritic tunas nominal catch did not have any corresponding size frequency data, and in 2022, sampling of neritic tunas species improved to `r TIMELINESS_TABLE[REPORTING_YEAR %in% 2022 & SPECIES_WP == "Neritic tunas" & DATASET_CODE == "SF", round(mean(NOT_REPORTED), 1)]`%. Concerning billfish, between 2012 and 2021, on average `r TIMELINESS_TABLE[REPORTING_YEAR %in% 2012:2021 & SPECIES_WP == "Billfish" & DATASET_CODE == "SF", round(mean(NOT_REPORTED), 1)]`% of the nominal catches of did not have any corresponding size frequency data, and worsen in 2022 to `r TIMELINESS_TABLE[REPORTING_YEAR %in% 2022 & SPECIES_WP == "Billfish" & DATASET_CODE == "SF", round(mean(NOT_REPORTED), 1)]`% (**Fig. \@ref(fig:TimelinessBarplotSF)**). The availability of size frequency data has increased over time for temperate and tropical tunas and was the highest in recent years. Size frequency of temperate tunas was also 100% available in 2020 and 2021, but declined in 2022, and tropical tunas size frequency remained approximately the same for the recent years. In 2022, nonetheless, the nominal catches with corresponding size frequency data were `r TIMELINESS_TABLE[SPECIES_WP == "Temperate tunas" & DATASET_CODE == "SF" & REPORTING_YEAR == 2022, 100 - NOT_REPORTED]`% and `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "SF" & REPORTING_YEAR == 2022, 100 - NOT_REPORTED]`% for tropical and temperate tunas, respectively.
+
+```{r TimelinessBarplotSF, fig.cap = "Annual percentage of total nominal catch of each of the IOTC species groups according to the date of submission of the size frequency data by each fleet to the IOTC Secretariat. The submission deadline is the 30^th^ June of each year"}
+include_graphics("../outputs/charts/TIMELINESS/SF_TIMELINESS_BARPLOT.png")
+```
+
+### Timeliness
+
+When available, size frequency data have been mostly reported by the deadline between 2012 and 2022, with a significant part of the size data for tropical tunas reported with some delays in recent years. Between 2018 and 2022, size frequency data were submitted lately to the Secretariat for `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "SF" & REPORTING_YEAR %in% 2018:2022, round(mean((BY_WPDCS)), 1)]`% of the nominal catches of tropical tunas on average (**Fig. \@ref(fig:TimelinessBarplotSF)**). Although there were delays in 2021 for nominal catch and catch and effort data and again attributed to the CoViD-19 pandemic, in 2022 the overall reporting increase, but size frequency decline further.
+
+
+The following key points should be noted:
+
+-	Reporting coverage is highest for nominal catch, followed by catch and effort, while size data reporting levels are well below the levels reported by the other two data sets;
+
+-	Levels of timeliness and reporting coverage vary substantially between species groups, e.g., catch and effort and size data are particularly poorly reported for neritic species (i.e., between `r TIMELINESS_TABLE[SPECIES_WP == "Neritic tunas" & DATASET_CODE == "CE", round(mean((BY_DEADLINE)), 1)]`%  for catch and effort, and  `r TIMELINESS_TABLE[SPECIES_WP == "Neritic tunas" & DATASET_CODE == "SF", round(mean((BY_DEADLINE)), 1)]`% for size frequency), compare to tropical tunas (i.e., between `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "CE", round(mean((BY_DEADLINE)), 1)]`%  for catch and effort, and  `r TIMELINESS_TABLE[SPECIES_WP == "Tropical tunas" & DATASET_CODE == "SF", round(mean((BY_DEADLINE)), 1)]`% for size frequency) as the majority of neritic catches are accounted for by coastal artisanal fisheries;
+
+-	Similarly, the proportion of size frequency data available for billfish species is also very low (`r TIMELINESS_TABLE[SPECIES_WP == "Billfish" & DATASET_CODE == "SF", round(mean((BY_DEADLINE)), 1)]`%), compared to tropical and temperate tunas;
+
+-	In recent years there have been improvements in the timeliness of reporting from some coastal CPCs, while some distant water fishing nations reported fisheries statistics either late or not in agreement with the basic IOTC data reporting requirements;
+
+- although there are sign of recovery from the COVID pandemic in reporting in 2022, some major fisheries, both industrial and coastal fisheries, are still delay in reporting. 
+
+
+
+
+

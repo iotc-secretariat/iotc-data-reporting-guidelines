@@ -1,0 +1,114 @@
+# Overview of data collection and reporting related to IOTC Resolutions {#reporting}
+
+The nature and resolution of data sets to be reported to the Secretariat varies according to the type of fishery operating in the IOTC area of competence. The IOTC considers two distinct categories of fisheries whose definition relies on the IOTC Record of Authorized Vessels (RAV) defined as per [IOTC Resolution 19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence): (1) **authorised fishing vessels** which have to be recorded in the RAV are fishing vessels of 24 m overall length and over, and under 24 meters if they fish outside national Exclusive Economic Zones (EEZ) and (2) **coastal (or artisanal) fishing vessels** which are vessels of less than 24 m length overall that only operate within national EEZs and do not require to be recorded in the RAV.
+
+According to [IOTC Resolution 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and), the IOTC fisheries are defined as follows:
+
+- **Longline fisheries**: fisheries undertaken by vessels in the RAV that use longline gear;
+
+- **Surface fisheries**: all fisheries undertaken by vessels in the RAV other than longline fisheries, in particular purse seine, pole-and-line, gillnet, handline, and trolling fisheries;
+
+- **Coastal fisheries**: fisheries other than longline or surface, as defined above, also called **artisanal fisheries**.
+
+Hence, the IOTC definition of artisanal fisheries differs from definitions found in the fisheries science literature [e.g., @Rousseau2019].To shade some light of the classification and definition on coastal fisheries, FAO introduced a pilot testing of the Small Scale fisheries Matrix (@Funge2019), with the aim of providing statistical definition of the small fisheries. 
+
+**Table \@ref(tab:IOTCdataRequirements)** provides an overview of the different data sets to be reported to the IOTC Secretariat along with the active IOTC resolutions defining the context, objectives, and data requirements (see [Appendix I](#appendix1)).
+
+```{r IOTCdataRequirements, tab.cap = "Summary of IOTC Data Requirements applicable to species managed by the IOTC. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks"}
+REPORTING_TABLE_FT
+```
+
+\pagebreak
+  
+## Nominal catch data
+  
+Nominal catches correspond to the total retained catches (in live weight) estimated per year, Indian Ocean major area, fleet, and gear ([IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)) and can be reported through [IOTC form 1RC](https://iotc.org/sites/default/files/documents/data/Form_1RC.zip). In addition, and in order to support the monitoring of the catch limits implemented as part of the rebuilding plan for yellowfin tuna, [IOTC Res. 19/01](https://iotc.org/cmm/resolution-1901-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence), which applies to CPCs who objected the superseded resolution [21/01](https://iotc.org/cmm/resolution-2101-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence),  requests CPCs to submit their catches of yellowfin tuna, from 2019 onward, explicitly disaggregated by vessel length and area of operation (i.e., for vessel of 24 m overall length and over, and for those under 24 m if they fish outside the Exclusive Economic Zone (EEZ) of the flag state) ([IOTC Form 1RC-YFT](https://iotc.org/sites/default/files/documents/data/Form_1RC_YFT.zip)).
+
+A series of processing steps is applied to derive the best scientific estimates of nominal catches for the 16 IOTC species (see **Appendix V** of @IOTC2014), by implementing the following rules:
+
+a. When nominal catches are not reported by a CPC, catch data from the previous year may be repeated or catches may be derived from a range of sources, e.g., partial catch and effort data, the [FAO FishStat database](http://www.fao.org/fishery/statistics/global-capture-production/query/en), data on imports of tropical tunas from processing factories collaborating with the [International Seafood Sustainability Foundation](https://iss-foundation.org/), etc.;
+
+b. For some specific fisheries characterized by well-known, outstanding issues in terms of data quality, a process of re-estimation of species and/or gear composition may be performed based on data available from other years or areas, or by using proxy fleets, i.e., fleets occurring in the same strata which are assumed to have a very similar catch composition, e.g., @Moreno2012 and @IOTC2018;
+
+c. Finally, a disaggregation process is performed to break down the catches by species and gear when they are reported as aggregates.
+
+## Discard data
+
+The IOTC follows the definition of discards adopted by FAO in previous reports [@Alverson1994;@Kelleher2005] which considers all non-retained catch, including individuals released alive or discarded dead. Estimates of total annual discard levels in live weight (or number) by Indian Ocean major area, species and type of fishery shall be reported to the Secretariat as per [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and). The [IOTC form 1DI](https://iotc.org/sites/default/files/documents/data/Form_1DI.zip) has been designed for the reporting of discards and the data contained shall be extrapolated at the source to represent the total level of discards for the year, gear, fleet, Indian Ocean major area and species concerned, including turtles, cetaceans, and seabirds.
+
+Nevertheless, discard data reported by CPCs to the Secretariat through [IOTC Form 1DI](https://www.iotc.org/sites/default/files/documents/data/Form_1DI.zip) are generally scarce, not raised, and not complying with all IOTC reporting standards. For these reasons, the most accurate information available on discards comes from the IOTC Regional Observer Scheme ([IOTC Res. 11/04](https://www.iotc.org/cmm/resolution-1104-regional-observer-scheme)) that aims to collect detailed information (e.g., higher spatio-temporal resolution, fate) on discards of IOTC and bycatch species for authorized fisheries (see above). Notwithstanding the low coverage currently recorded from fisheries with scientific observer on-board, besides the none coverage from several fisheries (@IOTC2021_SC07). 
+
+## Fishing craft data
+
+To complement the information on active and authorized vessels required for compliance purpose as per [IOTC Resolution 10/08](https://iotc.org/node/3626) and [IOTC Resolution 19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence), which is limited to longline and surface fisheries, the IOTC Secretariat has developed the voluntary [form 2FC](https://www.iotc.org/sites/default/files/documents/data/Form_2FC.zip) for the submission of data on the annual number of fishing crafts operated by flag states by type of fishery, type of craft, and craft size. When information on vessels from longline and surface fisheries is conflicting between the active vessel list (AVL) and the [form 2FC form](https://www.iotc.org/sites/default/files/documents/data/Form_2FC.zip), clarification is sought with respect to the discrepancies and preference is given to the AVL if no feedback is provided by the concerned CPC. Furthermore, the fishing craft statistics database is a repository for number of smaller crafts which are not registered in IOTC vessel record. 
+
+Following @Moreno2013, three types of fleets are considered to better reflect the range of technical characteristics and spatial extent of the vessels fishing tuna and tuna-like species in the Indian Ocean. The fleet type is derived from the information available on vessel length, motorisation, and areas of operation (**Table \@ref(tab:IOTCFisheryTypes)**). However, the classification causes many confusion for several reasons:
+-1: Most of the small vessels fall into two or more categories;
+-2: Changes in fisheries operational activities make the classification redundant for many countries;
+-3: For better annotations, need broader classification 
+
+\pagebreak
+
+```{r IOTCFisheryTypes, tab.cap = "Classification scheme for vessels in the Indian Ocean depending on type, size and area of operation"}
+IOTC_FISHERY_TYPES_FT
+```
+
+<br>
+
+## Catch and effort data
+
+Catch and effort data refer to fine-scale data, usually from logbooks, reported in aggregated format and stratified per year, month, CWP[^1] grid, fleet, gear, type of school, and species ([IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)). The [IOTC forms](https://iotc.org/node/4076) designed for reporting geo-referenced catch and effort data vary according to the nature of the fishing gear (e.g., surface, longline, and coastal gears). In addition, information on the use of fish aggregating devices (FADs) and activity of the support vessels that assist industrial purse seiners also has to be collected and reported to the Secretariat through [IOTC forms 3FA](https://iotc.org/sites/default/files/documents/data/Form_3FA.zip) and [3SU](https://iotc.org/sites/default/files/documents/data/Form_3SU.zip).
+
+[^1]: FAO Coordinating Working Party on Fishery Statistics, see also its [tools and resources](https://www.fao.org/cwp-on-fishery-statistics/handbook/tools-and-resources/en/)
+
+## FAD-related data
+
+The entry in force of [IOTC Res. 15/08](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (September 15^th^ 2015), combined with the new requirements expressed by [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and), called all CPCs with vessels fishing on Fish Aggregating Devices (FADs) to report to the Secretariat (in agreement with the annual statistical data submission cycle of IOTC) all data elements specific to activities on drifting and anchored FADS, possibly with the support of the recommended [IOTC form 3FA](https://iotc.org/sites/default/files/documents/data/Form_3FA.zip). 
+
+In 2020 the IOTC Secretariat developed [IOTC form 3FD](https://www.iotc.org/sites/default/files/documents/data/Form_3FD.zip) to support the temporary data reporting requirements introduced by [IOTC Res. 19/01](https://www.iotc.org/cmm/resolution-1901-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence), which required CPCs to provide collated geo-referenced data on the total number of FADs deployed in 2018 and 2019 by their purse seine and associated supply vessels by 1°x1° grid (see Para. 19).
+
+## Buoy position data
+
+As a consequence of the entry in force of [IOTC Res. 19/02](https://www.iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan), IOTC CPCs with fishing vessels using drifting FOBs have now the obligation to report daily information (since January 1^st^ 2020) on all active FADs monitored at sea with satellite-tracked buoys. The information to report to the Secretariat shall follow the structure and formats of [IOTC form 3BU](https://www.iotc.org/sites/default/files/documents/data/Form_3BU.zip) and contain the date, instrumented buoy ID, assigned vessel and daily position of each monitored buoy, which shall be compiled at monthly intervals, and reported to the IOTC Secretariat with a time delay of at least 60, but no longer than 90 days. 
+
+## Size frequency data
+
+The size composition of catches may be derived from the data set of individual body lengths or weights collected at sea and during the unloading of fishing vessels. The [IOTC Form 4SF](https://iotc.org/sites/default/files/documents/data/Form_4SF.zip) provides all fields requested for reporting size frequency data to the Secretariat following a stratification by fleet, year, gear, type of school, month, CWP grid and species as required by [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and). While the great majority of size data reported through IOTC Form 4SF are for retained catches, some size data on fish discarded at sea may be collected through onboard observer programs and reported to the Secretariat as part of the Regional Observer Scheme (see below).
+
+## Socio-economic data
+
+The [IOTC Form 7PR](https://iotc.org/sites/default/files/documents/data/Form_7PR.zip) has been designed to voluntarily report prices of fish per type of product and market for the target species of Indian Ocean tuna and tuna-like species. In addition, the IOTC encourages the reporting of information on the socio-economic dimension of tuna and tuna-like fisheries at national level, with indicators describing for instance the contribution to the Gross Domestic Product and the number of jobs in the fisheries and post-harvest sector.
+
+## Biological data
+
+The IOTC Secretariat is responsible for the periodical update of the morphometric relationships (i.e., length-length and length-weight equations) and conversion factors that may be required to standardize the size data submitted by the CPCs and (ii) estimate the catch in live weight equivalent when some processing occurs (e.g., gilled and gutted). In addition, information on sex-ratios, maturity, or any other biological data required for the assessments of IOTC and shark species should be made available by the CPCs for transparency and re-use of the data. The Secretariat is in the process of designing a new database aimed at hosting morphometric and other biological data collected by the CPCs in order to foster comparative analysis across fisheries and species and build regional data sets which are required to determine the factors of variability of the relationships (e.g., space, time, sex, fishing gear). To date, some morphometric datasets collated by the Secretariat....
+
+## Observer data
+
+The IOTC definition for bycatch differs from those used in other areas and fisheries as bycatch species correspond to "all species other than the 16 IOTC listed in Annex B of the [IOTC Agreement](https://www.iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf), whether caught or interacted with by fisheries for tuna and tuna-like species in the IOTC area of competence". Hence, early juveniles of tropical tunas (<1-1.5 kg) that are generally not marketable are not considered as a bycatch of tuna fisheries, although they are not targeted in most cases.
+
+[Resolution 11/04](https://www.iotc.org/cmm/resolution-1104-regional-observer-scheme) on a _Regional Observer Scheme_ (ROS) makes provision for the development and implementation of national observer schemes among the IOTC CPCs starting from July 2010 with the overarching objective of collecting _"verified catch data and other scientific data related to the fisheries for tuna and tuna-like species in the IOTC area of competence"_. The ROS aims to cover _"at least 5% of the number of operations/sets for each gear type by the fleet of each CPC while fishing in the IOTC Area of competence of 24 meters overall length and over, and under 24 meters if they fish outside their EEZs shall be covered by this observer scheme"_.
+
+Observer data collected as part of the ROS include: (i) fishing activities and vessel positions, (ii) catch estimates with a view to identifying catch composition and monitoring discards, bycatch, and size frequency, (iii) gear type, mesh size and attachments employed by the master, and (iv) information to enable the cross-checking of entries made to the logbooks (i.e., species composition and quantities, live and processed weight and location). Observer data are in particular complementary to the nominal and catch and effort data sets as they include information on the fate of the catches (i.e. retained or discarded at sea) as well as on the condition of the discards. Furthermore, they are also the main source of spatial information on interactions between IOTC fisheries and seabirds, marine turtles, cetaceans, as well as any other bycatch species encountered.
+
+## Tagging data
+
+Since 2002, the Secretariat has been coordinating and supervising the Indian Ocean Tuna Tagging Programme (IOTTP). The specific objective of the programme was to reinforce the scientific knowledge of tropical tuna stocks and the rate of exploitation in the Indian Ocean by obtaining the crucial model parameters for stock assessment. The programme was implemented through a combination of a main tagging project, the Regional Tuna Tagging Project in the Indian Ocean (RTTP-IO), funded by the EU (9^th^ EDF, DG-Dev), and several pilot and small-scale tuna tagging projects that took place in Maldives, India, Mayotte, and Indonesia and were funded by the DG-Fish (ex DG-Mare) and the government of Japan. In 2012, the data from past projects implemented in Maldives in the 1990s were added to the tagging database at the Secretariat. In total, `r prettyNum(sum(TAG_SUMMARY_YEAR_SPECIES_TABLE_TOTAL[, -1]), big.mark = ",")` tropical tunas were tagged between `r min(TAGREC$TAG_Year)` and `r max(TAGREC$TAG_Year)` (**Table \@ref(tab:SummaryTagsDeployed)**). All the tagging and recapture data are hosted at IOTC Secretariat and available upon request to the Executive Secretary.
+
+\newpage
+
+```{r SummaryTagsDeployed, tab.cap = "Number of tropical tunas tagged throughout the Indian Ocean Tuna Tagging Programme (IOTTP). BET = bigeye tuna; SKJ = skipjack tuna; YFT = yellowfin tuna"}
+TAG_SUMMARY_YEAR_SPECIES_TABLE_FT
+```
+
+## Data reporting quality {#quality}
+
+A scoring system has been designed to assess the reporting quality of the nominal catch, catch and effort, and size-frequency data available at the Secretariat for all IOTC and the most commonly caught shark species as defined in [IOTC Resolution 15/01](https://iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence). The determination of the score varies according to each type of data set and aims to account for reporting coverage and compliance with IOTC reporting standards (**Table \@ref(tab:DisplayQualityScoreKey)**). Overall, the lower the score, the better the quality. It is to note that the quality scoring does not account for sources of uncertainty affecting the nominal catches such as under-reporting and misreporting.
+
+\pagebreak
+
+```{r DisplayQualityScoreKey, tab.cap = "Key to IOTC quality scoring system"}
+QUALITY_SCORE_KEY_FT
+```
+
+\pagebreak

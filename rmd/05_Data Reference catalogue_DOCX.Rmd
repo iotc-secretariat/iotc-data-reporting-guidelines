@@ -1,0 +1,13 @@
+# Reporting status of the IOTC nominal catch, catch and effort, and size-frequency data sets, 1981-2021 {#datastatusall}
+
+**Fig. \@ref(fig:QualityStatusAll)** provides an overview of the reporting status of the three main IOTC data sets between 1981 and 2021. The data reporting status for each fishery group (i.e., purse seine, pole and line, gillnet, longline, and line fisheries) is given in [Appendix III](#dbStatusFisheryGroup). 
+
+```{r QualityStatusAll, fig.cap = "Reporting status of nominal catch (NC), catch and effort (CE), and size frequency (SF) data for the 16 IOTC species, by year and species (1981-2021). Percentage (%) of catch indicates the contribution of the catches of each species to the total catches of all IOTC species between 1981 and 2021. For each species, the first, second, and third rows correspond to NC, CE, and SF data, respectively. Color key is given in **Table 4**"}
+include_graphics("../outputs/charts/QUALITY/DATA_QUALITY_STATUS_ALL.png")
+```
+
+<!-- score ==0  => color = 0 (green) -->
+<!-- score == 1 | score == 2 => color = 1 (light green) -->
+<!-- score == 3 | score == 4 => color = 2 (pink) -->
+<!-- score == 5 | score == 6 => color = 3 (light brown) -->
+<!-- score == 7 | score == 8 => color = 4 (dark brown) -->
