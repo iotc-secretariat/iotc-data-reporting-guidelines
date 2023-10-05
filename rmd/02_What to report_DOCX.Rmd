@@ -1,5 +1,12 @@
 # Overview of data collection and reporting related to IOTC Resolutions {#reporting}
 
+
+##DESCRIBE CONCEPTS ABOUT THE TYPE OF DATA EXPECTED TO BE REPORTED ACCORDING TO THE CMMS REQUIREMENTS###
+##include fisheries definition and wizard presentation##
+#discards, strata and other main concepts##
+
+### its not the text KEEPING FOR REFRENCE BY NOW####
+
 The nature and resolution of data sets to be reported to the Secretariat varies according to the type of fishery operating in the IOTC area of competence. The IOTC considers two distinct categories of fisheries whose definition relies on the IOTC Record of Authorized Vessels (RAV) defined as per [IOTC Resolution 19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence): (1) **authorised fishing vessels** which have to be recorded in the RAV are fishing vessels of 24 m overall length and over, and under 24 meters if they fish outside national Exclusive Economic Zones (EEZ) and (2) **coastal (or artisanal) fishing vessels** which are vessels of less than 24 m length overall that only operate within national EEZs and do not require to be recorded in the RAV.
 
 According to [IOTC Resolution 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and), the IOTC fisheries are defined as follows:
@@ -83,32 +90,7 @@ The [IOTC Form 7PR](https://iotc.org/sites/default/files/documents/data/Form_7PR
 
 The IOTC Secretariat is responsible for the periodical update of the morphometric relationships (i.e., length-length and length-weight equations) and conversion factors that may be required to standardize the size data submitted by the CPCs and (ii) estimate the catch in live weight equivalent when some processing occurs (e.g., gilled and gutted). In addition, information on sex-ratios, maturity, or any other biological data required for the assessments of IOTC and shark species should be made available by the CPCs for transparency and re-use of the data. The Secretariat is in the process of designing a new database aimed at hosting morphometric and other biological data collected by the CPCs in order to foster comparative analysis across fisheries and species and build regional data sets which are required to determine the factors of variability of the relationships (e.g., space, time, sex, fishing gear). To date, some morphometric datasets collated by the Secretariat....
 
-## Observer data
 
-The IOTC definition for bycatch differs from those used in other areas and fisheries as bycatch species correspond to "all species other than the 16 IOTC listed in Annex B of the [IOTC Agreement](https://www.iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf), whether caught or interacted with by fisheries for tuna and tuna-like species in the IOTC area of competence". Hence, early juveniles of tropical tunas (<1-1.5 kg) that are generally not marketable are not considered as a bycatch of tuna fisheries, although they are not targeted in most cases.
 
-[Resolution 11/04](https://www.iotc.org/cmm/resolution-1104-regional-observer-scheme) on a _Regional Observer Scheme_ (ROS) makes provision for the development and implementation of national observer schemes among the IOTC CPCs starting from July 2010 with the overarching objective of collecting _"verified catch data and other scientific data related to the fisheries for tuna and tuna-like species in the IOTC area of competence"_. The ROS aims to cover _"at least 5% of the number of operations/sets for each gear type by the fleet of each CPC while fishing in the IOTC Area of competence of 24 meters overall length and over, and under 24 meters if they fish outside their EEZs shall be covered by this observer scheme"_.
-
-Observer data collected as part of the ROS include: (i) fishing activities and vessel positions, (ii) catch estimates with a view to identifying catch composition and monitoring discards, bycatch, and size frequency, (iii) gear type, mesh size and attachments employed by the master, and (iv) information to enable the cross-checking of entries made to the logbooks (i.e., species composition and quantities, live and processed weight and location). Observer data are in particular complementary to the nominal and catch and effort data sets as they include information on the fate of the catches (i.e. retained or discarded at sea) as well as on the condition of the discards. Furthermore, they are also the main source of spatial information on interactions between IOTC fisheries and seabirds, marine turtles, cetaceans, as well as any other bycatch species encountered.
-
-## Tagging data
-
-Since 2002, the Secretariat has been coordinating and supervising the Indian Ocean Tuna Tagging Programme (IOTTP). The specific objective of the programme was to reinforce the scientific knowledge of tropical tuna stocks and the rate of exploitation in the Indian Ocean by obtaining the crucial model parameters for stock assessment. The programme was implemented through a combination of a main tagging project, the Regional Tuna Tagging Project in the Indian Ocean (RTTP-IO), funded by the EU (9^th^ EDF, DG-Dev), and several pilot and small-scale tuna tagging projects that took place in Maldives, India, Mayotte, and Indonesia and were funded by the DG-Fish (ex DG-Mare) and the government of Japan. In 2012, the data from past projects implemented in Maldives in the 1990s were added to the tagging database at the Secretariat. In total, `r prettyNum(sum(TAG_SUMMARY_YEAR_SPECIES_TABLE_TOTAL[, -1]), big.mark = ",")` tropical tunas were tagged between `r min(TAGREC$TAG_Year)` and `r max(TAGREC$TAG_Year)` (**Table \@ref(tab:SummaryTagsDeployed)**). All the tagging and recapture data are hosted at IOTC Secretariat and available upon request to the Executive Secretary.
-
-\newpage
-
-```{r SummaryTagsDeployed, tab.cap = "Number of tropical tunas tagged throughout the Indian Ocean Tuna Tagging Programme (IOTTP). BET = bigeye tuna; SKJ = skipjack tuna; YFT = yellowfin tuna"}
-TAG_SUMMARY_YEAR_SPECIES_TABLE_FT
-```
-
-## Data reporting quality {#quality}
-
-A scoring system has been designed to assess the reporting quality of the nominal catch, catch and effort, and size-frequency data available at the Secretariat for all IOTC and the most commonly caught shark species as defined in [IOTC Resolution 15/01](https://iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence). The determination of the score varies according to each type of data set and aims to account for reporting coverage and compliance with IOTC reporting standards (**Table \@ref(tab:DisplayQualityScoreKey)**). Overall, the lower the score, the better the quality. It is to note that the quality scoring does not account for sources of uncertainty affecting the nominal catches such as under-reporting and misreporting.
-
-\pagebreak
-
-```{r DisplayQualityScoreKey, tab.cap = "Key to IOTC quality scoring system"}
-QUALITY_SCORE_KEY_FT
-```
 
 \pagebreak

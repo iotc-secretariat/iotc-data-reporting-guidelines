@@ -1,33 +1,4 @@
 
-# Other IOTC data holdings {#otherdata}
+# Other IOTC tools###
 
-## Socio-economic data
- 
-To date, very little information on the socio-economics of tuna and tuna-like fisheries has been reported to the Secretariat with the notable exception of time series of monthly prices by species, fishing gear, and area reported by Oman since 2005. The Secretariat has recently started to liaise with the [GLOBEFISH](https://www.fao.org/in-action/globefish/en/) team at FAO as well as with the [Pacific Islands Forum Fisheries Agency](https://www.ffa.int/) (FFA) to access open repositories of socio-economic data, including fish sale prices, oil price, import and exports of processed tuna as well as some national economic indicators such as the Gross Domestic Product [@IOTC2021b].
-
-## Biological data
-
-Few biological data have been provided to the IOTC Secretariat and data available are of variable quantity and quality [@IOTC2013]. In 2016, following a study by the European Union on the length-weight relationship of tropical tunas caught by the purse seine fishery, important updates to the length-weight conversion factors for tropical tuna species were included in the standard equations [@Chassot2016].
-
-## Observer data # to update
-
-A comprehensive description of the current status, coverage and data collected as part of the ROS has been recently presented in 2021 at the first ad-hoc Working Group on the development of Electronic Monitoring programme Standards (WGEMS01) [@IOTC2021]. To date, the ROS Regional Database contains information for a total of 1,582 commercial fishing trips (886 from purse seine vessels and 696 from longline vessels of various types) made during the period 2005-2020 from 7 fleets: Japan, EU,France and Sri Lanka for longline fisheries and EU,Spain, EU,France, Korea, Mauritius, and Seychelles for purse seine fisheries. In addition, observer reports have been submitted to the Secretariat by some CPCs (e.g., Taiwan,China) but data sets were not provided in a format suitable for data extraction at operational level as required by the [ROS standards](https://iotc.org/documents/WPDCS/14/35-ROS_Standards).
-
-<!-- ## Field and sampling -->
-
-<!-- [IOTC Resolution 11/04](https://www.iotc.org/cmm/resolution-1104-regional-observer-scheme) also contains provisions covering the monitoring of artisanal fisheries:  -->
-
-<!-- “The number of the artisanal fishing vessels landings shall also be monitored at the landing place by field samplers. The indicative level of the coverage of the artisanal fishing vessels should progressively increase towards 5% of the total levels of vessel activity (i.e., total number of vessel trips or total number of vessels active).”  -->
-
-<!-- In order to assess the level of coverage of artisanal fleets by coastal countries in the IOTC Region, in 2011 the IOTC Secretariat initiated a Pilot Project. To this purpose, the Secretariat hired the services of a Consultant, who prepared a report covering the fisheries in nine coastal countries in the Region, having important catches of tropical tunas (70% of the total catches estimated for coastal countries): the final report produced by the Consultant is available at the Secretariat and summarized in a document presented to the IOTC Scientific Committee in 2011 (IOTC-2011-SC14-38). -->
-
-<!-- Since the last IOTC WPDCS Meeting, the IOTC Secretariat has coordinated capacity building activities in some of the countries covered in the above report. These actions followed requests from local institutions, as well as priorities identified by the IOTC Working Parties and Scientific Committee and were possible thanks to financial support from the IOTC and its partners, including the Overseas Fisheries Cooperation Foundation of Japan, WWF and the European Union. -->
-<!-- Capacity building activities were implemented in Indonesia, Tanzania, Oman, and Mauritius with more details about these activities provided in a separate document. -->
-
-## Tagging data
-
-As of November 2021, a total of `r prettyNum(sum(REC_SUMMARY_YEAR_SPECIES_TABLE_TOTAL[, -1]), big.mark = ",")` tags deployed on tropical tunas had been recovered (**Table \@ref(tab:SummaryRecoveries)**). The large range of information collected throughout the IOTTP-IO has been used to better understand the population dynamics of the three tropical tunas (i.e., growth, mortality, and movements; @Murua2015) and is routinely included in the assessment models of the three species since 2008 [e.g., @Fu2020].
-
-```{r SummaryRecoveries, tab.cap = "Number of tropical tunas recovered throughout the Indian Ocean Tuna Tagging Programme (IOTTP). BET = bigeye tuna; SKJ = skipjack tuna; YFT = yellowfin tuna"}
-REC_SUMMARY_YEAR_SPECIES_TABLE_FT
-```
+Online data validation

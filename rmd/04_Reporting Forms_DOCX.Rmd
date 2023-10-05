@@ -1,54 +1,59 @@
+### data reporting forms##
 
-# Overview of the status of the data reported for 2021 {#datastatus2021}
+Main structure of IOTC data reporting forms 
+Each form consists of two separate worksheets for Metadata and data respectively. 
+•	Metadata worksheets request information regarding the submission, calling for the identification of a focal point and organization with their contact details (e-mail), submission date and finalization date. All metadata needs to be filled. 
+•	Data worksheets included headers for each data fields linked to a reference data browser corresponding to the code list specific for that data field. Rows are all free-text cells with some pre-defined formatting for cells representing values. The form must be completed with the CODE of each reference data (e.g., AUS instead of Australia). The form is case sensitive, so codes should be entered in upper case only. 
 
-## Nominal catch, catch and effort, and size frequency data 
+Reporting of total annual retained catches 
+Calls for retained catches by species in live weight, by quarter, IO area according to Res. 15/02.
+CPC must submit one form 1-RC for the reporting of total annual retained catches (all fisheries, data sources, species, and areas included)	
+CPCs for which Res. 19/01 is still binding must submit additionally the form 1RC-YFT with retained YFT catches in live weight for EEZ and ABNJ areas by gear and vessel category. 
 
-Nominal catch data, geo-referenced catch and effort data, and size frequency data for the reference year 2021 were reported to the IOTC Secretariat in a timely manner and according to the IOTC reporting standards for the very large majority of the industrial purse seine, longline fisheries, and some coastal fisheries (**Table  \@ref(tab:DataStatus2021)**). By contrast,  there are still some fleets not reported the three main datasets to date. 
+Reporting of discard levels 
+Calls for discard levels in live weight or numbers by species, by quarter, IO area according to Res. 15/02.
+CPCs must submit one form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas included).
 
-The situation is more contrasted for the nominal catches of all other fisheries, with data well reported for major fishing nations such as I. R. Iran, Sri Lanka, Oman, Maldives, and Thailand, no data reported by some important coastal countries such as Yemen, Madagascar, and Tanzania, and several subsequent data submissions received from Indonesia. For the other fisheries, little information on catch and effort was available except for the fisheries of Maldives, Comoros, Sri Lanka and UK  (**Table  \@ref(tab:DataStatus2021)**). Almost no size frequency data were made available for the other fisheries, except for Comoros, some fisheries of Indonesia and Iran.
+Reporting status matrix 
+Calls for binary data regarding positive catches or discards (1) by main IOTC species, sharks, and other species of interest, by fishery according to Res. 18/07
+CPCs must submit one form 1-DR for the reporting of positive/zero catches by fishery type (all fisheries and species included).
 
-\pagebreak
+Reporting Catch-and-effort 
+CPCs may use two types of form (form 3-CE and form 3-CE multiple) to report catch and effort for industrial fisheries (fig. XX).
+In the form 3- CE the metadata worksheet included information regarding data source, data processing, data raising, coverage type, effort and catch units. The use of this form implies that one form must be completed for each fishery.
+Form 3 – CE multiple supports the provision of data for multiple fisheries through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
+CPCs must submit one forms 3-CE for the reporting of annual geo-referenced catch-and-effort data, i.e., for each type of industrial fishery (all months, data sources, species, and grids included);
+Or One form 3-CE multiple for the reporting of annual geo-referenced catch-and-effort data, i.e., for all the industrial fisheries together (all months, data sources, species, and grids included).
+For artisanal fisheries, CPCs must submit forms 3-AR for the reporting of annual geo-referenced catch-and-effort data, i.e., one for each type of coastal fishery (all months, data sources, species, and areas included).
 
-```{r DataStatus2021, tab.cap = "Nominal catch (t) and data reporting quality of the main IOTC datasets by fishery group (industrial purse seine, industrial longline, and all other fisheries) and flag as reported in 2022 (for reference year 2021) for all IOTC species and sharks caught by tuna and tuna-like species in the Indian Ocean. NC = nominal catch; CE = catch and effort; SF = size frequency. Color key is given in **Table 4**"}
-DATA_QUALITY_STATUS_2021_ALL_FT
-```
+Fish Aggregating Devices (FAD) data related.
+The requirements for the submission of FAD data related are defined by the Resolutions 15/02 and 19/02 and corresponds to three types of datasets.
 
-<br>
+FAD numbers, interactions, and catches 
+Calls for data about the interactions with floating objects (FADs and natural objects) by purse seiners and supply vessels, including number of sets and corresponding catches by 1° grid area and month strata. 
+CPCs must submit one form 3-FA for the reporting of annual geo-referenced FAD data, for each type of industrial surface fishery (all months, data sources species and grids included).
+3FA multiple?
 
-## Discard data collected through the form 1DI
+Support vessels information 
+Requires the number of support vessels and effort by 1° grid area and month strata. CPCs with active supply vessels are expected to provide one form 3-SU for the reporting of annual supply vessels’ efforts (all months and grids included).
+CPCs must submit one form 3-SU for the reporting of support vessels effort by grid area and month strata. 
 
-Estimates of discards reported to the Secretariat are derived from logbooks or observers although data on discards reported in the logbook may be collated from the latter in some cases. In 2022, a total of 11 fleets provided positive reports of discards for the reference year 2021 (**Table \@ref(tab:TotalDiscardsByFleet)**). The comparison of discards levels between fleets and fisheries is hampered by the great heterogeneity of the information provided by CPCs, particularly in the levels of sampling coverage and absence of raising for most of the fisheries. Although [IOTC Resolution 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) states that discards should be extrapolated to the fishery, the level of discarded catch reported by CPCs are low and in number based mostly on observation, which do not give any indication of extrapolation.
+Daily buoys positions 
+Compiled monthly buoys day positions by vessel of active equipping FADs and natural floating objects for each purse seine vessel.  CPCs must submit one form 3-BU for the reporting of instrumented buoys’ position for each vessel by month.
+3BU multiple?
 
-Other issues regarding the nature of discards data reporting includes email notifications which are focused on specific resolutions requirements (Res. 13/05, Res.12/06, Res.13/04, Res 12/04, Res. 17/05 and Res.19/03). Therefore, the information received is fragmented, and does not comply with the IOTC standards included in form 1 DI in accordance to Res 15/02. 
-In 2022 five fleets submitted nil reports of discards, compare to eight fleets 2021: UK, India, I. R. Iran, Madagascar, and Thailand. Although most of the fisheries of these CPCs are coastal and the very large majority of the bycatch (e.g., sharks) may be retained for local markets, some discarding would still be expected to take place, as it has been shown to occur in the gillnet fishery of I. R. Iran [@Shahifar2013] and observed in some swordfish-targeted longline fisheries operating in the region and similar to the semi-industrial longline fisheries of Madagascar and Kenya [@Sabarros2013].
+Size frequency data 
+CPCs may use two types of form (4-SF and form 4-SF multiple) to report size frequency data.
+As in the case of catch and effort, in the form 4-SF the metadata worksheet included data specifications and the use of this form implies that one form must be completed for each fishery.
+Form 4-SF multiple supports the provision of data for multiple fisheries and species through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
+CPCs must submit one forms 4-SF for the reporting of annual geo-referenced catch-and-effort data, i.e., for each type of fishery (all months and grids included).
+Or One form 4-SF multiple for the reporting of annual geo-referenced catch-and-effort data, i.e., for all the industrial fisheries together (all months and grids included).
 
-```{r TotalDiscardsIOTCspBygear, tab.cap = "Total discard levels in numbers of IOTCSP by Gear in 2021 as reported to the IOTC Secretariat"}
-DISCARDS_2021_IOTC_TABLE_FT
-```
+Voluntary datasets
 
-<br>
+Fishing crafts form 2-FC
+Total annual number of fishing crafts operated by type of fishery, type of craft and craft size for fisheries targeting IOTC species.
+Socio-economic data – Fish prices – form 7-PR
+Average prices of fish per type of fish product (preservation, processing), weight units, type of currency, month and market.
 
-```{r ETPDiscardsBygear, tab.cap = "Total discards (numbers) of sensitive species by fishing gear and species group in 2021 as reported to the IOTC Secretariat. ELL = swordfish-targeted longline; FLL = fresh longline; GIOF = offshore gillnets; LL = deep-freezing longline; LLCO = coastal longline; PS = purse seine; PSLS = purse seine on schools associated with drifting floating objects; RNOF = offshore ringnets"}
-DISCARDS_2021_ETP_TABLE_FT
-```
-Although the scarcity of the data most fleets record the fate of the species on discards, indicating that more than 90 % of sea turtles and around 60% of the sharks discarded are released alive.
-
-```{r ETPDiscardsFate, tab.cap = "Total discards (numbers) of sensitive species by fate and species group in 2021 as reported to the IOTC Secretariat. AL = Alive; DE = Dead; UNK = Unknown"}
-DISCARDS_2021_ETP_FATE_TABLE_FT
-```
-
-The information currently available on discards cannot be used to estimate the magnitude and composition of the phenomenon at regional level. However, it does provide some indication of the occurrence of sensitive species in some fisheries and gaps that need to be considered to improve the quality of the data for further analysis. 
-
-
-<br>
-
-## FAD-related data, including the activities of supply vessels
-
-A comprehensive description of the FAD-related data submitted to the IOTC Secretariat between 2013 and 2021 has been made at the 3^nd^ IOTC ad hoc Working Group on FADs (WGFAD03) in October 2022, along with the release of the consolidated [data sets](https://iotc.org/WGFAD/03/Data/01-FA) [@IOTC2022a]. Although with some improvement compared the previous year still some issues were found in the data reported  for some purse seine fleets mostly due to misinterpretation of the data reporting requirements related to FAD activities (**Table \@ref(tab:FADSupplyDataStatus)**). The WGFAD03 endorsed the creation of a small Working Group to discuss methods to facilitate FAD data submissions (revise existing data submission forms) as well as harmonise definitions and classifications related to FAD fisheries.  
-
-Effort data for supply vessels in 2021 have been fully reported to the Secretariat as the total number of days spent at sea, stratified by flag, year, month, and 1°x1° CWP grid within the IOTC area of competence (**Table \@ref(tab:FADSupplyDataStatus)**).
-
-```{r FADSupplyDataStatus, tab.cap = "Data reporting status of FAD-related and supply vessel data in 2021 as reported to the IOTC Secretariat. Color key is given in **Table 4**"} 
-FAD_STATUS_FT
-```
 

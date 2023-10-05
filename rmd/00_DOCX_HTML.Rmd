@@ -1,5 +1,5 @@
 ---
-title: "Report on IOTC data collection and statistics"
+title: "GUIDELINES FOR THE REPORTING OF FISHERIES STATISTICS TO THE IOTC"
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 # output:
 #   officedown::rdocx_document:
