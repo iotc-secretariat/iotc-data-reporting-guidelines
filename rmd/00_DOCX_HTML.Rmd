@@ -1,0 +1,98 @@
+---
+title: "Report on IOTC data collection and statistics"
+author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
+# output:
+#   officedown::rdocx_document:
+#     reference_docx: "../templates/doc_template.docx"
+output:
+  word_document2:
+    reference_docx: "../templates/doc_template.docx"
+    number_sections: FALSE
+
+  html_document2:
+    css: "../templates/html_template.css"
+    number_sections: FALSE
+    toc: yes
+    toc_float:
+      collapsed: FALSE
+      smooth_scroll: FALSE
+#       
+# reference_num: TRUE
+# fig_caption: TRUE
+
+csl: iotc.csl
+bibliography: WPDCS.bib
+---
+  
+```{r general_options, echo=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  tidy = TRUE,
+  tidy.opts = list(width.cutoff = 60),
+  size = 'small',
+  
+  tab.cap.pre = "Table ",
+  tab.cap.sep = ". ",
+  tab.cap.style ='Table Caption',
+  
+  fig.cap.style = "Caption label",
+  fig.cap.pre = "Fig. ", 
+  fig.cap.sep = ". ",
+  
+  fig.width   = 8,
+  fig.height  = 4.5
+)
+
+knit_hooks$set(
+  inline = function(x) {
+    #prettyNum(x, big.mark = ",")
+    prettyNum(x, big.mark = "")
+  }
+)
+```
+
+```{r child = "01_DOCX.Rmd"}
+```
+
+```{r child = "02_DOCX.Rmd"}
+```
+
+```{r child = "03_DOCX.Rmd"}
+```
+
+```{r child = "04_DOCX.Rmd"}
+```
+
+```{r child = "05_DOCX.Rmd"}
+```
+
+```{r child = "06_DOCX.Rmd"}
+```
+
+```{r child = "07_DOCX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "APPENDIX1_DOCX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "APPENDIX2_DOCX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "APPENDIX3_DOCX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "APPENDIX4_DOCX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = '90_DOCX.Rmd'}
+```

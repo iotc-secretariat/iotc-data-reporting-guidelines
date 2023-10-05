@@ -1,0 +1,12 @@
+# PURPOSE OF THE GUIDELINES
+
+The Guidelines for the Reporting of Fisheries Statistics to the Indian Ocean Tuna Commission (IOTC), are addressed to IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) and other parties having vessels under their flag that fish for species under the IOTC mandate within the IOTC area of competence (IOTC Area). The overarching objective of the Guidelines is to provide the CPCs with a set of rules and best practices to streamline the collection and reporting of fisheries and biological data to the IOTC Secretariat as per the data requirements defined in the IOTC Conservation and Management and Measures (CMMs) in place.
+
+The type of statistical data to be submitted depends on currently standing IOTC CMMS (Fig. 1) and varies with the fisheries and the target and bycatch species these interact with.
+
+The IOTC forms aim to ensure the comprehensiveness and completeness of the metadata and data sets to be submitted along with the consistency with the code lists used in the IOTC databases as per the IOTC Conservation and Management Measures (CMMs).
+
+### to modify checking input table####
+```{r DataReportingforms, fig.cap = "IOTC data reporting forms, reference datasets and spatial-temporal resolution covered.RC-YFT Applies only to CPCs for which Res. 19/01 is still binding"}
+include_graphics("../inputs/charts/IOTC_data_reporting_forms_2022.PNG")
+```
