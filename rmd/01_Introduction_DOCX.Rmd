@@ -11,3 +11,5 @@ include_graphics("../inputs/charts/IOTC_data_reporting_forms_2022.PNG")
 ```
 ```{r Datarequirements, fig.cap = "IOTC data requirements according the CMMs, fisheries and the target and bycatch species these interact with."}
 include_graphics("../inputs/charts/IOTC_data_requirements_2022.PNG")
+```
+Datasets are mandatory for reporting for the fisheries that are actively operating in the Indian Ocean for a given CPC and requested for the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). Fishing craft and fish price datasets submission remains voluntary.

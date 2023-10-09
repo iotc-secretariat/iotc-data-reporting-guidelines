@@ -7,6 +7,30 @@
 
 ### its not the text KEEPING FOR REFRENCE BY NOW####
 
+ 
+Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this has to be aggregated and reported to the IOTC Secretariat.
+
+The spatial-temporal stratification depends of the dataset (Table 1), although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data).
+
+The main data elements to be collected and included within each dataset are dictated by currently standing IOTC Resolutions (15/02 and others,  Fig. 1), and described as following:
+
+
+Fisheries
+
+Species
+
+Area
+
+Data sources
+
+Data processing
+
+Estimation method
+
+Coverage rate
+
+
+
 redefine fisheries concept
 
 concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery.
@@ -59,7 +83,7 @@ the type of fishery derives from the combination of a) purpose, b) characteristi
 
 Table XXX: proposed definitions of IOTC fishery types by fishery purpose, vessel size, and area of operation. EEZ = Exclusive Economic Zone. AFVs = Authorised Fishing Vessels. * indicates an implicit categorization
 
-input IOTC fishery types by fishery purpose 
+###input IOTC fishery types by fishery purpose ###
 
 More formally, and in analogy to what proposed for the definition of fishery, a fishery type Y is defined as:
 	 Y=f(P,A,L)
