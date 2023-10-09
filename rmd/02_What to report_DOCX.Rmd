@@ -17,40 +17,43 @@ The main data elements to be collected and included within each dataset are dict
 
 Fisheries
 
-The type of fishery derives from the combination of a) purpose, b) characteristics of the participating vessels, and c) their area of operation (consistent with the RAV requirements)(Table xx).
+Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
+The IOTC fisheries identification wizard is an interactive tool with the purpose of helping IOTC CPCs in the identification and categorization of their fisheries.
+
+Therefore the definition of fishery F in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species.
 
 
-Table XX: proposed definitions of IOTC fishery types by fishery purpose, vessel size, and area of operation. EEZ = Exclusive Economic Zone. AFVs = Authorised Fishing Vessels. * indicates an implicit categorization
-
-###input IOTC fishery types by fishery purpose ###
-when: 
-P = purpose of the fishery; can be one among:
+(i) purpose of the fishery:
 	recreational, i.e., the fish is caught for recreational purposes only
 	subsistence, i.e., the fish is exclusively consumed by the fishermen and their households
 	commercial, i.e., the fish is sold at the landing site or at a market, exported, or sold to processing / canning factories
 	scientific, i.e., the fishery only operates to collect scientific information or support the training of scientists and fishermen
-A = area of operation of the vessels engaged in the fishery; can be one among: 
+	
+(ii) area of operation of the vessels engaged in the fishery: 
 	EEZ, i.e., vessels operate exclusively within areas under national jurisdiction of their flag state (territorial sea, contiguous zone as well as EEZ waters)
 	EEZ and ABNJ, i.e., vessels operate in areas under national jurisdiction as well as in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
 	ABNJ, i.e., vessels operate exclusively in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
-L = category of length overall (LoA) of the vessels engaged in the fishery; can be one among:
+	
+(iii) category of length overall (LoA) of the vessels engaged in the fishery:
 	LoA < 15 m
 	15 m ≤ LoA < 24 m
 	LoA ≥ 24 m
-	
-	
-	
-GC = gear category; mapped on the latest ISSCFG gear groups, can be one among:
+
+(iv) gear category; mapped on the latest ISSCFG gear groups:
 	Purse seines, a subset of ISSCFG 01 (surrounding nets) that includes purse seines (01.1) and ringnets, i.e., surrounding nets without purse seines (01.2)
 	Gillnets, a subset of ISSCFG 07 (gillnets and encircling nets) that includes set gillnets (07.1), drift gillnets (07.2) and encircling gillnets (07.3)
 	Hooks and lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized handlines (09.2), vertical lines (09.4) and trolling lines (09.5)
 	Longlines, a subset of ISSCFG 09 (hooks and lines) that  includes set longlines (09.31), drifting longlines (09.32) and longlines (nei) (09.39)
 	Pole-and-lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized pole-and-lines (09.2)
 	Other, a subset of ISSCFG 02 (seine nets), 03 (trawls), 05 (lift nets), 07 (falling gear), 08 (traps), and 10 (miscellaneous gear)
-G = gear used to catch the fish; mapped on the latest ISSCFG gear codes, and more specifically on those belonging to the selected gear category GC
-C = the specific configuration of the gear used to catch the fish (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
-M = fishing mode (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
-T = target species (optional), i.e., the species that most accurately represent(s) the target of the fishery; chosen from an ad hoc classification, can be one among:
+	
+(v) gear used to catch the fish; mapped on the latest ISSCFG gear codes, and more specifically on those belonging to the selected gear category GC
+
+(vi)the specific configuration of the gear used to catch the fish (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
+
+(vii) fishing mode (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
+
+(viii) target species (optional), i.e., the species that most accurately represent(s) the target of the fishery; chosen from an ad hoc classification:
 	neritic tunas and seerfish
 	tropical tunas
 	temperate tunas
@@ -64,11 +67,6 @@ T = target species (optional), i.e., the species that most accurately represent(
 	swordfish and albacore tuna
 	yellowfin and albacore
 	non-IOTC species
-The purpose of the fishery, which is not considered by the current IOTC classification, is now actively used to determine the fishery and its categorization.
-
-
-
-
 
 
 Species
