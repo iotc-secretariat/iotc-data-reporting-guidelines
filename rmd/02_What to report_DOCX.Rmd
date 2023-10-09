@@ -71,7 +71,7 @@ Therefore the definition of fishery F in the IOTC are function of (i)Purpose of 
 
 Species
 
-Refers to the species interacting with Indian Ocean fisheries as: target species (retained or discarded), non-target species (retained or discarded) and sampled individuals;including the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP).
+Refers to the species interacting with Indian Ocean fisheries as: target species (retained or discarded), non-target species (retained or discarded) and sampled individuals, including the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP).
 
 
 
