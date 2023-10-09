@@ -17,27 +17,13 @@ The main data elements to be collected and included within each dataset are dict
 
 Fisheries
 
-Species
-
-Area
-
-Data sources
-
-Data processing
-
-Estimation method
-
-Coverage rate
+The type of fishery derives from the combination of a) purpose, b) characteristics of the participating vessels, and c) their area of operation (consistent with the RAV requirements)(Table xx).
 
 
+Table XX: proposed definitions of IOTC fishery types by fishery purpose, vessel size, and area of operation. EEZ = Exclusive Economic Zone. AFVs = Authorised Fishing Vessels. * indicates an implicit categorization
 
-redefine fisheries concept
-
-concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery.
-
-definition of fishery F in the IOTC:
-	F = f(P,A,L,GC,G,C,M,T)
-Where:
+###input IOTC fishery types by fishery purpose ###
+when: 
 P = purpose of the fishery; can be one among:
 	recreational, i.e., the fish is caught for recreational purposes only
 	subsistence, i.e., the fish is exclusively consumed by the fishermen and their households
@@ -51,6 +37,9 @@ L = category of length overall (LoA) of the vessels engaged in the fishery; can 
 	LoA < 15 m
 	15 m ≤ LoA < 24 m
 	LoA ≥ 24 m
+	
+	
+	
 GC = gear category; mapped on the latest ISSCFG gear groups, can be one among:
 	Purse seines, a subset of ISSCFG 01 (surrounding nets) that includes purse seines (01.1) and ringnets, i.e., surrounding nets without purse seines (01.2)
 	Gillnets, a subset of ISSCFG 07 (gillnets and encircling nets) that includes set gillnets (07.1), drift gillnets (07.2) and encircling gillnets (07.3)
@@ -78,19 +67,18 @@ T = target species (optional), i.e., the species that most accurately represent(
 The purpose of the fishery, which is not considered by the current IOTC classification, is now actively used to determine the fishery and its categorization.
 
 
-the type of fishery derives from the combination of a) purpose, b) characteristics of the participating vessels, and c) their area of operation (to remain consistent with the RAV requirements) and introduces a more fine-grained characterization (Table 2) 
 
 
-Table XXX: proposed definitions of IOTC fishery types by fishery purpose, vessel size, and area of operation. EEZ = Exclusive Economic Zone. AFVs = Authorised Fishing Vessels. * indicates an implicit categorization
 
-###input IOTC fishery types by fishery purpose ###
 
-More formally, and in analogy to what proposed for the definition of fishery, a fishery type Y is defined as:
-	 Y=f(P,A,L)
-Where:
-P = purpose of the fishery
-A = area of operation of the vessels engaged in the fishery
-L = category of length overall (in meters) of the vessels engaged in the fishery
-Therefore, by combining (1) and (2) we can give the following, more compact definition of fishery as:
-	F=f(Y,GC,G,C,M,T)
+Species
 
+Area
+
+Data sources
+
+Data processing
+
+Estimation method
+
+Coverage rate
