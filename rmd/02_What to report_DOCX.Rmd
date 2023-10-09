@@ -7,90 +7,66 @@
 
 ### its not the text KEEPING FOR REFRENCE BY NOW####
 
-The nature and resolution of data sets to be reported to the Secretariat varies according to the type of fishery operating in the IOTC area of competence. The IOTC considers two distinct categories of fisheries whose definition relies on the IOTC Record of Authorized Vessels (RAV) defined as per [IOTC Resolution 19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence): (1) **authorised fishing vessels** which have to be recorded in the RAV are fishing vessels of 24 m overall length and over, and under 24 meters if they fish outside national Exclusive Economic Zones (EEZ) and (2) **coastal (or artisanal) fishing vessels** which are vessels of less than 24 m length overall that only operate within national EEZs and do not require to be recorded in the RAV.
+redefine fisheries concept
 
-According to [IOTC Resolution 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and), the IOTC fisheries are defined as follows:
+concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery.
 
-- **Longline fisheries**: fisheries undertaken by vessels in the RAV that use longline gear;
-
-- **Surface fisheries**: all fisheries undertaken by vessels in the RAV other than longline fisheries, in particular purse seine, pole-and-line, gillnet, handline, and trolling fisheries;
-
-- **Coastal fisheries**: fisheries other than longline or surface, as defined above, also called **artisanal fisheries**.
-
-Hence, the IOTC definition of artisanal fisheries differs from definitions found in the fisheries science literature [e.g., @Rousseau2019].To shade some light of the classification and definition on coastal fisheries, FAO introduced a pilot testing of the Small Scale fisheries Matrix (@Funge2019), with the aim of providing statistical definition of the small fisheries. 
-
-**Table \@ref(tab:IOTCdataRequirements)** provides an overview of the different data sets to be reported to the IOTC Secretariat along with the active IOTC resolutions defining the context, objectives, and data requirements (see [Appendix I](#appendix1)).
-
-```{r IOTCdataRequirements, tab.cap = "Summary of IOTC Data Requirements applicable to species managed by the IOTC. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks"}
-REPORTING_TABLE_FT
-```
-
-\pagebreak
-  
-## Nominal catch data
-  
-Nominal catches correspond to the total retained catches (in live weight) estimated per year, Indian Ocean major area, fleet, and gear ([IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)) and can be reported through [IOTC form 1RC](https://iotc.org/sites/default/files/documents/data/Form_1RC.zip). In addition, and in order to support the monitoring of the catch limits implemented as part of the rebuilding plan for yellowfin tuna, [IOTC Res. 19/01](https://iotc.org/cmm/resolution-1901-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence), which applies to CPCs who objected the superseded resolution [21/01](https://iotc.org/cmm/resolution-2101-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence),  requests CPCs to submit their catches of yellowfin tuna, from 2019 onward, explicitly disaggregated by vessel length and area of operation (i.e., for vessel of 24 m overall length and over, and for those under 24 m if they fish outside the Exclusive Economic Zone (EEZ) of the flag state) ([IOTC Form 1RC-YFT](https://iotc.org/sites/default/files/documents/data/Form_1RC_YFT.zip)).
-
-A series of processing steps is applied to derive the best scientific estimates of nominal catches for the 16 IOTC species (see **Appendix V** of @IOTC2014), by implementing the following rules:
-
-a. When nominal catches are not reported by a CPC, catch data from the previous year may be repeated or catches may be derived from a range of sources, e.g., partial catch and effort data, the [FAO FishStat database](http://www.fao.org/fishery/statistics/global-capture-production/query/en), data on imports of tropical tunas from processing factories collaborating with the [International Seafood Sustainability Foundation](https://iss-foundation.org/), etc.;
-
-b. For some specific fisheries characterized by well-known, outstanding issues in terms of data quality, a process of re-estimation of species and/or gear composition may be performed based on data available from other years or areas, or by using proxy fleets, i.e., fleets occurring in the same strata which are assumed to have a very similar catch composition, e.g., @Moreno2012 and @IOTC2018;
-
-c. Finally, a disaggregation process is performed to break down the catches by species and gear when they are reported as aggregates.
-
-## Discard data
-
-The IOTC follows the definition of discards adopted by FAO in previous reports [@Alverson1994;@Kelleher2005] which considers all non-retained catch, including individuals released alive or discarded dead. Estimates of total annual discard levels in live weight (or number) by Indian Ocean major area, species and type of fishery shall be reported to the Secretariat as per [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and). The [IOTC form 1DI](https://iotc.org/sites/default/files/documents/data/Form_1DI.zip) has been designed for the reporting of discards and the data contained shall be extrapolated at the source to represent the total level of discards for the year, gear, fleet, Indian Ocean major area and species concerned, including turtles, cetaceans, and seabirds.
-
-Nevertheless, discard data reported by CPCs to the Secretariat through [IOTC Form 1DI](https://www.iotc.org/sites/default/files/documents/data/Form_1DI.zip) are generally scarce, not raised, and not complying with all IOTC reporting standards. For these reasons, the most accurate information available on discards comes from the IOTC Regional Observer Scheme ([IOTC Res. 11/04](https://www.iotc.org/cmm/resolution-1104-regional-observer-scheme)) that aims to collect detailed information (e.g., higher spatio-temporal resolution, fate) on discards of IOTC and bycatch species for authorized fisheries (see above). Notwithstanding the low coverage currently recorded from fisheries with scientific observer on-board, besides the none coverage from several fisheries (@IOTC2021_SC07). 
-
-## Fishing craft data
-
-To complement the information on active and authorized vessels required for compliance purpose as per [IOTC Resolution 10/08](https://iotc.org/node/3626) and [IOTC Resolution 19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence), which is limited to longline and surface fisheries, the IOTC Secretariat has developed the voluntary [form 2FC](https://www.iotc.org/sites/default/files/documents/data/Form_2FC.zip) for the submission of data on the annual number of fishing crafts operated by flag states by type of fishery, type of craft, and craft size. When information on vessels from longline and surface fisheries is conflicting between the active vessel list (AVL) and the [form 2FC form](https://www.iotc.org/sites/default/files/documents/data/Form_2FC.zip), clarification is sought with respect to the discrepancies and preference is given to the AVL if no feedback is provided by the concerned CPC. Furthermore, the fishing craft statistics database is a repository for number of smaller crafts which are not registered in IOTC vessel record. 
-
-Following @Moreno2013, three types of fleets are considered to better reflect the range of technical characteristics and spatial extent of the vessels fishing tuna and tuna-like species in the Indian Ocean. The fleet type is derived from the information available on vessel length, motorisation, and areas of operation (**Table \@ref(tab:IOTCFisheryTypes)**). However, the classification causes many confusion for several reasons:
--1: Most of the small vessels fall into two or more categories;
--2: Changes in fisheries operational activities make the classification redundant for many countries;
--3: For better annotations, need broader classification 
-
-\pagebreak
-
-```{r IOTCFisheryTypes, tab.cap = "Classification scheme for vessels in the Indian Ocean depending on type, size and area of operation"}
-IOTC_FISHERY_TYPES_FT
-```
-
-<br>
-
-## Catch and effort data
-
-Catch and effort data refer to fine-scale data, usually from logbooks, reported in aggregated format and stratified per year, month, CWP[^1] grid, fleet, gear, type of school, and species ([IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)). The [IOTC forms](https://iotc.org/node/4076) designed for reporting geo-referenced catch and effort data vary according to the nature of the fishing gear (e.g., surface, longline, and coastal gears). In addition, information on the use of fish aggregating devices (FADs) and activity of the support vessels that assist industrial purse seiners also has to be collected and reported to the Secretariat through [IOTC forms 3FA](https://iotc.org/sites/default/files/documents/data/Form_3FA.zip) and [3SU](https://iotc.org/sites/default/files/documents/data/Form_3SU.zip).
-
-[^1]: FAO Coordinating Working Party on Fishery Statistics, see also its [tools and resources](https://www.fao.org/cwp-on-fishery-statistics/handbook/tools-and-resources/en/)
-
-## FAD-related data
-
-The entry in force of [IOTC Res. 15/08](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (September 15^th^ 2015), combined with the new requirements expressed by [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and), called all CPCs with vessels fishing on Fish Aggregating Devices (FADs) to report to the Secretariat (in agreement with the annual statistical data submission cycle of IOTC) all data elements specific to activities on drifting and anchored FADS, possibly with the support of the recommended [IOTC form 3FA](https://iotc.org/sites/default/files/documents/data/Form_3FA.zip). 
-
-In 2020 the IOTC Secretariat developed [IOTC form 3FD](https://www.iotc.org/sites/default/files/documents/data/Form_3FD.zip) to support the temporary data reporting requirements introduced by [IOTC Res. 19/01](https://www.iotc.org/cmm/resolution-1901-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence), which required CPCs to provide collated geo-referenced data on the total number of FADs deployed in 2018 and 2019 by their purse seine and associated supply vessels by 1°x1° grid (see Para. 19).
-
-## Buoy position data
-
-As a consequence of the entry in force of [IOTC Res. 19/02](https://www.iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan), IOTC CPCs with fishing vessels using drifting FOBs have now the obligation to report daily information (since January 1^st^ 2020) on all active FADs monitored at sea with satellite-tracked buoys. The information to report to the Secretariat shall follow the structure and formats of [IOTC form 3BU](https://www.iotc.org/sites/default/files/documents/data/Form_3BU.zip) and contain the date, instrumented buoy ID, assigned vessel and daily position of each monitored buoy, which shall be compiled at monthly intervals, and reported to the IOTC Secretariat with a time delay of at least 60, but no longer than 90 days. 
-
-## Size frequency data
-
-The size composition of catches may be derived from the data set of individual body lengths or weights collected at sea and during the unloading of fishing vessels. The [IOTC Form 4SF](https://iotc.org/sites/default/files/documents/data/Form_4SF.zip) provides all fields requested for reporting size frequency data to the Secretariat following a stratification by fleet, year, gear, type of school, month, CWP grid and species as required by [IOTC Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and). While the great majority of size data reported through IOTC Form 4SF are for retained catches, some size data on fish discarded at sea may be collected through onboard observer programs and reported to the Secretariat as part of the Regional Observer Scheme (see below).
-
-## Socio-economic data
-
-The [IOTC Form 7PR](https://iotc.org/sites/default/files/documents/data/Form_7PR.zip) has been designed to voluntarily report prices of fish per type of product and market for the target species of Indian Ocean tuna and tuna-like species. In addition, the IOTC encourages the reporting of information on the socio-economic dimension of tuna and tuna-like fisheries at national level, with indicators describing for instance the contribution to the Gross Domestic Product and the number of jobs in the fisheries and post-harvest sector.
-
-## Biological data
-
-The IOTC Secretariat is responsible for the periodical update of the morphometric relationships (i.e., length-length and length-weight equations) and conversion factors that may be required to standardize the size data submitted by the CPCs and (ii) estimate the catch in live weight equivalent when some processing occurs (e.g., gilled and gutted). In addition, information on sex-ratios, maturity, or any other biological data required for the assessments of IOTC and shark species should be made available by the CPCs for transparency and re-use of the data. The Secretariat is in the process of designing a new database aimed at hosting morphometric and other biological data collected by the CPCs in order to foster comparative analysis across fisheries and species and build regional data sets which are required to determine the factors of variability of the relationships (e.g., space, time, sex, fishing gear). To date, some morphometric datasets collated by the Secretariat....
+definition of fishery F in the IOTC:
+	F = f(P,A,L,GC,G,C,M,T)
+Where:
+P = purpose of the fishery; can be one among:
+	recreational, i.e., the fish is caught for recreational purposes only
+	subsistence, i.e., the fish is exclusively consumed by the fishermen and their households
+	commercial, i.e., the fish is sold at the landing site or at a market, exported, or sold to processing / canning factories
+	scientific, i.e., the fishery only operates to collect scientific information or support the training of scientists and fishermen
+A = area of operation of the vessels engaged in the fishery; can be one among: 
+	EEZ, i.e., vessels operate exclusively within areas under national jurisdiction of their flag state (territorial sea, contiguous zone as well as EEZ waters)
+	EEZ and ABNJ, i.e., vessels operate in areas under national jurisdiction as well as in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
+	ABNJ, i.e., vessels operate exclusively in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
+L = category of length overall (LoA) of the vessels engaged in the fishery; can be one among:
+	LoA < 15 m
+	15 m ≤ LoA < 24 m
+	LoA ≥ 24 m
+GC = gear category; mapped on the latest ISSCFG gear groups, can be one among:
+	Purse seines, a subset of ISSCFG 01 (surrounding nets) that includes purse seines (01.1) and ringnets, i.e., surrounding nets without purse seines (01.2)
+	Gillnets, a subset of ISSCFG 07 (gillnets and encircling nets) that includes set gillnets (07.1), drift gillnets (07.2) and encircling gillnets (07.3)
+	Hooks and lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized handlines (09.2), vertical lines (09.4) and trolling lines (09.5)
+	Longlines, a subset of ISSCFG 09 (hooks and lines) that  includes set longlines (09.31), drifting longlines (09.32) and longlines (nei) (09.39)
+	Pole-and-lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized pole-and-lines (09.2)
+	Other, a subset of ISSCFG 02 (seine nets), 03 (trawls), 05 (lift nets), 07 (falling gear), 08 (traps), and 10 (miscellaneous gear)
+G = gear used to catch the fish; mapped on the latest ISSCFG gear codes, and more specifically on those belonging to the selected gear category GC
+C = the specific configuration of the gear used to catch the fish (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
+M = fishing mode (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
+T = target species (optional), i.e., the species that most accurately represent(s) the target of the fishery; chosen from an ad hoc classification, can be one among:
+	neritic tunas and seerfish
+	tropical tunas
+	temperate tunas
+	temperate and tropical tunas
+	marlins and sailfish
+	tunas NEI
+	sharks
+	albacore tuna
+	southern bluefin tuna
+	swordfish
+	swordfish and albacore tuna
+	yellowfin and albacore
+	non-IOTC species
+The purpose of the fishery, which is not considered by the current IOTC classification, is now actively used to determine the fishery and its categorization.
 
 
+the type of fishery derives from the combination of a) purpose, b) characteristics of the participating vessels, and c) their area of operation (to remain consistent with the RAV requirements) and introduces a more fine-grained characterization (Table 2) 
 
 
-\pagebreak
+Table XXX: proposed definitions of IOTC fishery types by fishery purpose, vessel size, and area of operation. EEZ = Exclusive Economic Zone. AFVs = Authorised Fishing Vessels. * indicates an implicit categorization
+
+input IOTC fishery types by fishery purpose 
+
+More formally, and in analogy to what proposed for the definition of fishery, a fishery type Y is defined as:
+	 Y=f(P,A,L)
+Where:
+P = purpose of the fishery
+A = area of operation of the vessels engaged in the fishery
+L = category of length overall (in meters) of the vessels engaged in the fishery
+Therefore, by combining (1) and (2) we can give the following, more compact definition of fishery as:
+	F=f(Y,GC,G,C,M,T)
+
