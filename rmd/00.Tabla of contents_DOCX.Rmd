@@ -8,7 +8,7 @@
 *Introduction to the guide	
 
 *What to report ( main concepts and definitions for data elements)
-*
+
 *Dataset types and stratification
 
 *Data reference catalogue	
