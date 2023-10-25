@@ -4,11 +4,12 @@ Online data validators are designed to allow users to self-assess the quality of
 Each form must be uploaded to the correspondent validator link when completed. This will provide an overview of the analysis carried out on the content.
 
 The result will be a list of 'validation messages', ranging from summary information messages to increasing levels of identified issues messages: 
-INFO messages are for information only, and include mainly a summary of the processed info
+
+INFO messages include a summary of the processed info
 
 WARN message indicates something that will not prevent the form to be processed, although its content are less than optimal (e.g., provision of species / gear aggregates)
 
-ERROR message indicates something that can be easily fixed by correcting codes, changing values, or providing missing information
+ERROR message indicates something that can be easily fixed by correcting codes, changing values, or providing missing information.
 
 FATAL message indicates something that will prevent reading the content of the file, e.g. wrong type of file uploaded, presence of empty rows / columns, or no fleet identified for the provided reporting entity / vessel flag.
 
