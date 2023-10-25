@@ -1,6 +1,4 @@
-
 # Online data validation
-
 
 Online data validators are designed to allow users to self-assess the quality of their data by checking that all mandatory elements have been included and that all reference codes have been used correctly.
 Each form must be uploaded to the correspondent validator link when completed. This will provide an overview of the analysis carried out on the content.
