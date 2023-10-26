@@ -5,9 +5,7 @@
 ##include fisheries definition and wizard presentation##
 #discards, strata and other main concepts##
 
-### its not the text KEEPING FOR REFRENCE BY NOW####
 
- 
 Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this has to be aggregated and reported to the IOTC Secretariat.
 
 The spatial-temporal stratification depends of the dataset (Table 1), although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data).
@@ -20,7 +18,7 @@ Fisheries
 Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
 The IOTC fisheries identification wizard is an interactive tool with the purpose of helping IOTC CPCs in the identification and categorization of their fisheries.
 
-Therefore the definition of fishery F in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species.
+Therefore the definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species.
 
 
 (i) purpose of the fishery:
@@ -39,7 +37,7 @@ Therefore the definition of fishery F in the IOTC are function of (i)Purpose of 
 	15 m ≤ LoA < 24 m
 	LoA ≥ 24 m
 
-(iv) gear category; mapped on the latest ISSCFG gear groups:
+(iv) gear category; mapped by gear groups according to the ISSCFG categorization:
 	Purse seines, a subset of ISSCFG 01 (surrounding nets) that includes purse seines (01.1) and ringnets, i.e., surrounding nets without purse seines (01.2)
 	Gillnets, a subset of ISSCFG 07 (gillnets and encircling nets) that includes set gillnets (07.1), drift gillnets (07.2) and encircling gillnets (07.3)
 	Hooks and lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized handlines (09.2), vertical lines (09.4) and trolling lines (09.5)
