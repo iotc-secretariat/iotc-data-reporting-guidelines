@@ -14,7 +14,7 @@ Calls for binary data regarding positive catches or discards (1) by main IOTC sp
 CPCs must submit one form 1-DR for the reporting of positive/zero catches by fishery type (all fisheries and species included).
 
 Reporting Catch-and-effort 
-CPCs may use two types of form (form 3-CE and form 3-CE multiple) to report catch and effort for industrial fisheries (fig. XX).
+CPCs may use two types of form (form 3-CE and form 3-CE multiple) to report catch and effort for industrial fisheries (fig. XX??).
 In the form 3- CE the metadata worksheet included information regarding data source, data processing, data raising, coverage type, effort and catch units. The use of this form implies that one form must be completed for each fishery.
 Form 3 – CE multiple supports the provision of data for multiple fisheries through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
 CPCs must submit one forms 3-CE for the reporting of annual geo-referenced catch-and-effort data, i.e., for each type of industrial fishery (all months, data sources, species, and grids included);
