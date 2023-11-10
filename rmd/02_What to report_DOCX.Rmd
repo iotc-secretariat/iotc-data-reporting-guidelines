@@ -15,10 +15,7 @@ The main data elements to be collected and included within each dataset are dict
 
 Fisheries
 
-Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
-The IOTC fisheries identification wizard is an interactive tool with the purpose of helping IOTC CPCs in the identification and categorization of their fisheries.
-
-Therefore the definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species.
+Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery.  Therefore the definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species, as follows:
 
 
 (i) purpose of the fishery:
@@ -66,20 +63,25 @@ Therefore the definition of fishery in the IOTC are function of (i)Purpose of th
 	yellowfin and albacore
 	non-IOTC species
 
+For the identification and categorisation of fisheries the IOTC Fisheries Identification Wizard is available [https://iotc.org/data/fisheries/wizard]
 
 Species
 
-Refers to the species interacting with Indian Ocean fisheries as: target species (retained or discarded), non-target species (retained or discarded) and sampled individuals, including the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP).
-
-
+Refers to the species interacting with Indian Ocean fisheries as: target species (retained or discarded), non-target species (retained or discarded) and sampled individuals, including the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). The reporting of statistics by species for other species is also encouraged, especially when the catches of these species represent a significant proportion of the total catches of the fishery concerned. 
 
 Area
 
+The IOTC Area of Competence is defined in Article 2 of the IOTC Agreement, but the spatial resolution to be used for the provision of mandatory statistical data is defined for each particular dataset. IOTC adopts the CWP grid classification system defined by a regular geo-referenced grid [https://www.fao.org/cwp-on-fishery-statistics/handbook/general-concepts/main-water-areas/en/#c737533]
+IOTC Resolution 10/02 states that alternative areas can be used for coastal fisheries if they better represent the fishery concerned.  In general, the areas chosen should be of small size, preferably lower in size than any of the 5° grid areas located at a latitude and longitude similar to that of the area concerned. 
 
 Data sources
 
+Indicates where and by whom the information used to monitor fishing activities for the estimation of fisheries statistics is collected (e.g. Amounts as recorded in the vessel fishing logbook, Catch-and-effort data collected by scientific observers, Individual fish lengths /weights monitored at the landing place by staff from research institutions)
+
+
 Data processing
 
-Estimation method
+Refers to the type of processing or estimation method applied to raw information (e.g. Retained catches derived from catch assessment survey data, Catch-and-effort by species adjusted by using the size samples available for each trip (or alternative time-area strata), Total enumeration of individual fish lengths /weights (no estimation required).
+
 
 Coverage rate
