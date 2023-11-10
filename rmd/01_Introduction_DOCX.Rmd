@@ -4,12 +4,13 @@ The Guidelines for the Reporting of Fisheries Statistics to the Indian Ocean Tun
 
 The type of statistical data to be submitted depends on currently standing IOTC CMMS (Table. 1) and varies with the fisheries and the target and bycatch species these interact with (Fig.2).
 
-## revise table or figure? for 1 refernce datasets##
+```{r IOTCdataRequirements, tab.cap = "Summary of IOTC Data Requirements applicable to species managed by the IOTC. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks"}
+REPORTING_TABLE_FT
+```
 
 ```{r Referencedatasets, fig.cap = "IOTC reference datasets of statistical data to be submitted and spatial-temporal resolution covered.RC-YFT Applies only to CPCs for which Res. 19/01 is still binding"}
 include_graphics("../inputs/charts/IOTC_data_reporting_forms_2022.PNG")
 ```
-```{r Datarequirements, fig.cap = "IOTC data requirements according the CMMs, fisheries and the target and bycatch species these interact with."}
-include_graphics("../inputs/charts/IOTC_data_requirements_2022.PNG")
-```
+
 Datasets are mandatory for reporting for the fisheries that are actively operating in the Indian Ocean for a given CPC and requested for the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). Fishing craft and fish price datasets submission remains voluntary.
+
