@@ -1,11 +1,5 @@
 # Overview of data collection and reporting related to IOTC Resolutions {#reporting}
 
-
-##DESCRIBE CONCEPTS ABOUT THE TYPE OF DATA EXPECTED TO BE REPORTED ACCORDING TO THE CMMS REQUIREMENTS###
-##include fisheries definition and wizard presentation##
-#discards, strata and other main concepts##
-
-
 Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this has to be aggregated and reported to the IOTC Secretariat.
 
 The spatial-temporal stratification depends of the dataset (Table 1), although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data).
@@ -78,10 +72,14 @@ Data sources
 
 Indicates where and by whom the information used to monitor fishing activities for the estimation of fisheries statistics is collected (e.g. Amounts as recorded in the vessel fishing logbook, Catch-and-effort data collected by scientific observers, Individual fish lengths /weights monitored at the landing place by staff from research institutions)
 
-
 Data processing
 
 Refers to the type of processing or estimation method applied to raw information (e.g. Retained catches derived from catch assessment survey data, Catch-and-effort by species adjusted by using the size samples available for each trip (or alternative time-area strata), Total enumeration of individual fish lengths /weights (no estimation required).
 
+Data raising
+
+Call for the level of raising applied to the data, to understand the level of representativeness that this data have with respect to the total catches and effort.
 
 Coverage rate
+
+Refers to metrics used to determine the proportion that the amount of fish (number or weight) or fishing effort monitored (sampled) represents of the total (number or weight) or estimated fishing effort of each stratum for a given dataset.
