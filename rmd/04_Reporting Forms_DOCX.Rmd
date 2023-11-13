@@ -8,12 +8,12 @@ Each form consists of two separate worksheets for Metadata and data respectively
 •	Metadata worksheets request information regarding the submission, calling for the identification of a focal point and organization with their contact details (e-mail), submission date and finalization date. All metadata needs to be filled. 
 •	Data worksheets included headers for each data fields linked to a reference data browser corresponding to the code list specific for that data field. Rows are all free-text cells with some pre-defined formatting for cells representing values. The form must be completed with the CODE of each reference data (e.g., AUS instead of Australia). The form is case sensitive, so codes should be entered in upper case only. 
 
-Reporting of total annual retained catches 
+Total annual retained catches 
 Calls for retained catches by species in live weight, by quarter, IO area according to Res. 15/02.
 CPC must submit one form 1-RC for the reporting of total annual retained catches (all fisheries, data sources, species, and areas included)	
 CPCs for which Res. 19/01 is still binding must submit additionally the form 1RC-YFT with retained YFT catches in live weight for EEZ and ABNJ areas by gear and vessel category. 
 
-Reporting of discard levels 
+Discard levels 
 Calls for discard levels in live weight or numbers by species, by quarter, IO area according to Res. 15/02.
 CPCs must submit one form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas included).
 
@@ -21,7 +21,7 @@ Reporting status matrix
 Calls for binary data regarding positive catches or discards (1) by main IOTC species, sharks, and other species of interest, by fishery according to Res. 18/07
 CPCs must submit one form 1-DR for the reporting of positive/zero catches by fishery type (all fisheries and species included).
 
-Reporting Catch-and-effort 
+Catch-and-effort data
 CPCs may use two types of form (form 3-CE and form 3-CE multiple) to report catch and effort for industrial fisheries (fig. XX).
 In the form 3- CE the metadata worksheet included information regarding data source, data processing, data raising, coverage type, effort and catch units. The use of this form implies that one form must be completed for each fishery.
 Form 3 – CE multiple supports the provision of data for multiple fisheries through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
@@ -29,7 +29,7 @@ CPCs must submit one forms 3-CE for the reporting of annual geo-referenced catch
 Or One form 3-CE multiple for the reporting of annual geo-referenced catch-and-effort data, i.e., for all the industrial fisheries together (all months, data sources, species, and grids included).
 For artisanal fisheries, CPCs must submit forms 3-AR for the reporting of annual geo-referenced catch-and-effort data, i.e., one for each type of coastal fishery (all months, data sources, species, and areas included).
 
-Fish Aggregating Devices (FAD) data related.
+Fish Aggregating Devices (FAD) data related
 The requirements for the submission of FAD data related are defined by the Resolutions 15/02 and 19/02 and corresponds to three types of datasets.
 
 FAD numbers, interactions, and catches 
@@ -46,7 +46,6 @@ Compiled monthly buoys day positions by vessel of active equipping FADs and natu
 3BU multiple?
 
 Size frequency data 
-
 CPCs may use two types of form (4-SF and form 4-SF multiple) to report size frequency data.
 As in the case of catch and effort, in the form 4-SF the metadata worksheet included data specifications and the use of this form implies that one form must be completed for each fishery.
 Form 4-SF multiple supports the provision of data for multiple fisheries and species through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
