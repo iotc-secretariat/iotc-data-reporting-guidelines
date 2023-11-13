@@ -1,6 +1,9 @@
 ### data reporting forms##
 
+The data reporting forms facilitate the compilation of large datasets for  submission to the IOTC ensuring information is provided according to the required standards. 
+
 Main structure of IOTC data reporting forms 
+
 Each form consists of two separate worksheets for Metadata and data respectively. 
 •	Metadata worksheets request information regarding the submission, calling for the identification of a focal point and organization with their contact details (e-mail), submission date and finalization date. All metadata needs to be filled. 
 •	Data worksheets included headers for each data fields linked to a reference data browser corresponding to the code list specific for that data field. Rows are all free-text cells with some pre-defined formatting for cells representing values. The form must be completed with the CODE of each reference data (e.g., AUS instead of Australia). The form is case sensitive, so codes should be entered in upper case only. 
@@ -44,8 +47,6 @@ Compiled monthly buoys day positions by vessel of active equipping FADs and natu
 
 Size frequency data 
 
-
-
 CPCs may use two types of form (4-SF and form 4-SF multiple) to report size frequency data.
 As in the case of catch and effort, in the form 4-SF the metadata worksheet included data specifications and the use of this form implies that one form must be completed for each fishery.
 Form 4-SF multiple supports the provision of data for multiple fisheries and species through a single form in which different values for regarding data source, data processing, data raising, coverage type, effort and catch units could be reported according to the format of the data worksheet.
@@ -55,8 +56,11 @@ Or One form 4-SF multiple for the reporting of annual geo-referenced catch-and-e
 Voluntary datasets
 
 Fishing crafts form 2-FC
+
 Total annual number of fishing crafts operated by type of fishery, type of craft and craft size for fisheries targeting IOTC species.
+
 Socio-economic data – Fish prices – form 7-PR
+
 Average prices of fish per type of fish product (preservation, processing), weight units, type of currency, month and market.
 
 

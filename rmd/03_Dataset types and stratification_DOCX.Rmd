@@ -1,3 +1,5 @@
+# Datasets and stratification
+
 The type of statistical data to be submitted depends on currently standing IOTC Resolutions and varies with the fisheries and the target and bycatch species these interact with (Table 1).
 Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this has to be aggregated and reported to the IOTC Secretariat.
 Resolution 12/02 specifies the minimum confidentiality policies to ensure that sensitive data is not publicly disseminated – unless properly aggregated – once it is received by the Secretariat.
