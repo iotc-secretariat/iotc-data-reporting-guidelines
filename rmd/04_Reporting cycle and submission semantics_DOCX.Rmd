@@ -1,0 +1,28 @@
+# IOTC data reporting cycle
+
+When the validation process is completed, Statistical data must be submitted by e-Maris electronic reporting system according to the IOTC data reporting cycle specified in paragraph 7 (Timeliness of data submission to the IOTC Secretariat) of IOTC Resolution 15/02 as follows:
+
+	Mandatory statistics (RC, DI, DR, CE, SF) for the year before: Jun. 30th.  
+	Daily position active buoys data (3-BU):  at least 60 days, but no longer than 90 days from the end of the month.
+	ROS Observers data:  within 150 days of completion of each trip.
+	Update of mandatory statistical data for longline fleets:  Dec 30th. In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. 
+
+Revisions to existing datasets (for all fisheries) can be provided at any time within the limits indicated by Res. 15/02 (para. 7c) as follows: Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the Secretariat and reviewed by the Scientific Committee. The Scientific Committee will advise the Secretariat if revisions are then accepted for scientific use. 
+
+# Data submission semantics
+
+The new  data reporting forms are designed to accommodate for the reporting of complete annual datasets of a given type, stratified by the relevant criteria.
+This means that at each annual submission from a CPC, the Secretariat expects to receive:
+•	One Form 1-RC interim for the reporting of total annual retained catches (all fisheries, data sources, species, and areas)
+•	One Form 1-DI interim for the reporting of total annual discards (all fisheries, data sources, species, and areas)
+•	One Form 1-DR for the reporting of zero catches by fishery type (all fisheries and species)
+•	One Form 2-FC interim for the voluntary reporting of fishing craft statistics (all fisheries, data sources and boat types)
+•	One Form 3-CE interim (multiple) for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
+•	One Form 4-SF interim (multiple) for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
+•	One or more Form 3-BU (multiple) for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
+•	One or more form 3-DA (multiple) for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
+The semantics of the data submission process are defined as follows:
+a)	CPCs should submit by the deadline one form for each data set, and each of these forms shall contain information for all fisheries and species for a given reference year, except for Form 3-BU, 3-DA, and 3-AA (if endorsed) which might require multiple submissions due to their different spatio-temporal resolution
+b)	Any subsequent resubmission of forms 1-RC interim, 1-DI interim, 1-DR, 2-FC interim, 3-CE ¬interim (multiple), 4-SF interim (multiple) is considered as a full replacement of the annual information for that given dataset as originally provided in a)
+c)	The use of the single versions of form 3-CE interim, 3-BU, and 4-SF interim is endorsed only for the provision of updates of already submitted annual data in a) or b) for a single fishery (3-CE), species (4-SF), or vessel (3-BU).
+
