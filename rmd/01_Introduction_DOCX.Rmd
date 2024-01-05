@@ -11,3 +11,8 @@ REPORTING_TABLE_FT
 ```
 
 <!-- Table 1 to check to be aligned with Resolution dataset and data elements, we discussed about don't include the forms reference in this first table -->
+
+Datasets are mandatory for reporting for the fisheries that are actively operating in the Indian Ocean for a given CPC and requested for the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). Fishing craft and fish price datasets submission remains voluntary. 
+
+
+<!-- Redo/ review  figure 1 . IOTC reference data requirements by species and fisheries according IOTC Resolutions -->

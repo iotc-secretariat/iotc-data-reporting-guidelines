@@ -58,3 +58,4 @@ REPORTING_TABLE_FT =
   fix_border_issues(part = "all")
 
 print("Reporting requirements table initialized!")
+
