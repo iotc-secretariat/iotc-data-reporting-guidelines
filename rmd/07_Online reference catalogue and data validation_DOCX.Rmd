@@ -1,0 +1,18 @@
+# Data reference catalogue 
+
+Several standard and IOTC-specific code lists are used in the IOTC forms for reporting statistical data. IOTC forms are complemented by a catalogue of reference data categorized by their functional domain including a collection of codelists modelling the followings:
+	Administrative and geospatial: vessel flags and / or data reporting countries, fishing fleets, IOTC CPCs, geospatial data for irregular areas and / or regular grids of relevance to the IOTC.
+	Fisheries and fishing technologies: all IOTC fisheries and their configuration elements, fishing trip details (ROS), vessel characteristics and technologies (ROS), gear characteristics, fishing activities, FAD-related classifications, bycatch mitigation measures and devices and transhipments data.
+	Biological and morphometric: species details and categorizations, tagging details, sampling details, morphometric data. 
+	Data and metadata: characterizing elements of core statistical datasets (type of data, data raising, and estimation), all types of data sources and data processing (dataset-specific), original data coverage. 
+	Legacy and external data references domains: FAO reference codes (CWP-ISSCFG, FIRMS-GRSF, NOCS) IUCN reference codes, UN reference codes (UN/LOCODE port codes)
+Each code list is preceded by a short description and references to the IOTC data reporting forms on which the code list is referenced, and includes an alphabetical code, an English and French name, and relevant information according to each data domain. The reference data catalogue allows codelists to be filtered and ordered by field and downloaded as a CSV file for offline reference. 
+
+# Online data validation
+Online data validators are designed to allow users to self-assess the quality of their data by checking that all mandatory elements have been included and that all reference codes have been used correctly. Each form must be uploaded to the correspondent validator link when completed. The tool will provide an overview of the analysis carried out on the content.
+The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-colored summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC. 
+When a form is fully filled, and all the mandatory data were included according to the IOTC standard an INFO message will be provided including a summary of the processed information and a validation summary message indicating that the form provided can be successfully processed and submitted to the IOTC.
+
+
+
+
