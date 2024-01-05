@@ -1,72 +1,36 @@
-# Overview of data collection and reporting related to IOTC Resolutions {#reporting}
+# Overview of data collection and reporting related to IOTC Resolutions 
 
-Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this has to be aggregated and reported to the IOTC Secretariat.
+Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this must be aggregated and reported to the IOTC Secretariat.
+The spatial-temporal stratification depends on the dataset, although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data), (Table1).
 
-The spatial-temporal stratification depends of the dataset (Table 1), although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data).
+Core data elements
+The IOTC Resolutions define a set of requirements that are translated into a minimum set of data elements that must be included in each data set. The central data elements to be identified, collected, and included within each dataset are described as following:
 
-The main data elements to be collected and included within each dataset are dictated by currently standing IOTC Resolutions (15/02 and others,  Fig. 1), and described as following:
+Fleet
 
+Flag + data reporting entity
 
 Fisheries
-
-Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery.  Therefore the definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species, as follows:
-
-
-(i) purpose of the fishery:
-	recreational, i.e., the fish is caught for recreational purposes only
-	subsistence, i.e., the fish is exclusively consumed by the fishermen and their households
-	commercial, i.e., the fish is sold at the landing site or at a market, exported, or sold to processing / canning factories
-	scientific, i.e., the fishery only operates to collect scientific information or support the training of scientists and fishermen
-	
-(ii) area of operation of the vessels engaged in the fishery: 
-	EEZ, i.e., vessels operate exclusively within areas under national jurisdiction of their flag state (territorial sea, contiguous zone as well as EEZ waters)
-	EEZ and ABNJ, i.e., vessels operate in areas under national jurisdiction as well as in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
-	ABNJ, i.e., vessels operate exclusively in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states)
-	
-(iii) category of length overall (LoA) of the vessels engaged in the fishery:
-	LoA < 15 m
-	15 m ≤ LoA < 24 m
-	LoA ≥ 24 m
-
-(iv) gear category; mapped by gear groups according to the ISSCFG categorization:
-	Purse seines, a subset of ISSCFG 01 (surrounding nets) that includes purse seines (01.1) and ringnets, i.e., surrounding nets without purse seines (01.2)
-	Gillnets, a subset of ISSCFG 07 (gillnets and encircling nets) that includes set gillnets (07.1), drift gillnets (07.2) and encircling gillnets (07.3)
-	Hooks and lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized handlines (09.2), vertical lines (09.4) and trolling lines (09.5)
-	Longlines, a subset of ISSCFG 09 (hooks and lines) that  includes set longlines (09.31), drifting longlines (09.32) and longlines (nei) (09.39)
-	Pole-and-lines, a subset of ISSCFG 09 (hooks and lines) that includes manual (09.1) and mechanized pole-and-lines (09.2)
-	Other, a subset of ISSCFG 02 (seine nets), 03 (trawls), 05 (lift nets), 07 (falling gear), 08 (traps), and 10 (miscellaneous gear)
-	
-(v) gear used to catch the fish; mapped on the latest ISSCFG gear codes, and more specifically on those belonging to the selected gear category GC
-
-(vi)the specific configuration of the gear used to catch the fish (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
-
-(vii) fishing mode (optional); chosen from an ad hoc classification whose possible values are determined by the specific gear G selected among those available for the gear category GC
-
-(viii) target species (optional), i.e., the species that most accurately represent(s) the target of the fishery; chosen from an ad hoc classification:
-	neritic tunas and seerfish
-	tropical tunas
-	temperate tunas
-	temperate and tropical tunas
-	marlins and sailfish
-	tunas NEI
-	sharks
-	albacore tuna
-	southern bluefin tuna
-	swordfish
-	swordfish and albacore tuna
-	yellowfin and albacore
-	non-IOTC species
+IOTC Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
+Therefore, the new proposed definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species,
 
 For the identification and categorisation of fisheries the IOTC Fisheries Identification Wizard is available [https://iotc.org/data/fisheries/wizard]
+
+<!-- Fabio suggestion was add a paragraph that describes how we currently use the legacy fishery codes that DO NOT include the target species etc. We'll move to new forms, so no legacy codes?-->
+
 
 Species
 
 Refers to the species interacting with Indian Ocean fisheries as: target species (retained or discarded), non-target species (retained or discarded) and sampled individuals, including the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). The reporting of statistics by species for other species is also encouraged, especially when the catches of these species represent a significant proportion of the total catches of the fishery concerned. 
+As per the recommendations of the Working Parties and the Scientific Committee, the IOTC Secretariat has developed Identification Guides for marine turtles, seabirds, and sharks and rays that maybe incidentally caught or otherwise interacted with by IOTC fisheries targeting tuna and tuna-like species in the Indian Ocean. These guides are intended for use by scientific observers, field samplers, as well as fishers in order to improve the quality of the data being recorded and reported to the IOTC Secretariat. IOTC Species Identification cards and another identification resources are available on the Science section of the  IOTC website.
 
 Area
 
-The IOTC Area of Competence is defined in Article 2 of the IOTC Agreement, but the spatial resolution to be used for the provision of mandatory statistical data is defined for each particular dataset. IOTC adopts the CWP grid classification system defined by a regular geo-referenced grid [https://www.fao.org/cwp-on-fishery-statistics/handbook/general-concepts/main-water-areas/en/#c737533]
-IOTC Resolution 10/02 states that alternative areas can be used for coastal fisheries if they better represent the fishery concerned.  In general, the areas chosen should be of small size, preferably lower in size than any of the 5° grid areas located at a latitude and longitude similar to that of the area concerned. 
+The IOTC Area of Competence is defined in Article 2 of the IOTC Agreement, but the spatial resolution to be used for the provision of mandatory statistical data is defined for each dataset. IOTC adopts the CWP grid classification system defined by a regular geo-referenced grid.
+IOTC Resolution 15/02 states that alternative areas can be used for coastal fisheries if they better represent the fishery concerned. In general, the areas chosen should be of small size, preferably lower in size than any of the 5° grid areas located at a latitude and longitude similar to that of the area concerned. 
+
+Data type
+Preliminary / Final
 
 Data sources
 
