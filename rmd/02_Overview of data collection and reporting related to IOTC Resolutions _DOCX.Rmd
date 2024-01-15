@@ -7,8 +7,12 @@ Core data elements
 The IOTC Resolutions define a set of requirements that are translated into a minimum set of data elements that must be included in each data set. The central data elements to be identified, collected, and included within each dataset are described as following:
 
 Fleet
+Refers to the flag or reporting country submitting a dataset to the IOTC Secretariat.
 
 Flag + data reporting entity
+
+It generally corresponds to a country, but can also reference: the European Union (EUR) submitting data on behalf of one of its flag states;
+IOTC or IPTP (Indo-Pacific Tuna Programme) when historical data was available to these two institutions only; an unknown data provider (NEI).
 
 Fisheries
 IOTC Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
