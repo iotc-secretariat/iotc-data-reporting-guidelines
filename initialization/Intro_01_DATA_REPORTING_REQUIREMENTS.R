@@ -51,8 +51,8 @@ REPORTING_TABLE_FT =
   width(width = c(2, 1, 1, 1, 1.5, 1.5)) %>%
   border_inner(border = fp_border(color = "black", style = "solid", width = 1)) %>%
   border_outer(border = fp_border(color = "black", style = "solid", width = 2)) %>%
-  flextable::border(part = "body", i = c(2, 4, 5, 9, 10, 11, 12), border.bottom = fp_border(width = 2)) %>%
-  flextable::border(part = "all", j = c(2, 4), border.right = fp_border(width = 2)) %>%
+  flextable::border(part = "body", i = c(3, 11, 12, 17, 20, 23, 26,27,28,29,32,33,34,35), border.bottom = fp_border(width = 2)) %>%
+  flextable::border(part = "all", j = c(1,2,3,4,5), border.right = fp_border(width = 2)) %>%
   bg(part = "header", bg = "grey") %>%
   fix_border_issues(part = "all")
 
