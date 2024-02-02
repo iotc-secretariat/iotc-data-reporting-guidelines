@@ -11,7 +11,7 @@ FP_COLOR = colors_for_fishery_group("OT")$FILL
 
 # Read the XLSX table of reporting requirements
 
-REPORTING_TABLE = read.xlsx("../inputs/data/DataRequirements.xlsx", sep.names = " ", sheet = "TABLE")
+REPORTING_TABLE = read.xlsx("../inputs/data/Datasets_table.xlsx", sep.names = " ", sheet = "TABLE")
 
 REPORTING_TABLE_FT =
   REPORTING_TABLE %>%
