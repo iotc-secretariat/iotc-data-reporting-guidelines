@@ -55,6 +55,6 @@ REPORTING_TABLE_FT =
   flextable::border(part = "all", j = c(2, 4), border.right = fp_border(width = 2)) %>%
   bg(part = "header", bg = "grey") %>%
   fix_border_issues(part = "all")
-## add links to the Resolutions in the web page###
+
 print("Reporting requirements table initialized!")
 
