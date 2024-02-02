@@ -10,13 +10,12 @@ Fleet
 Refers to the flag or reporting country submitting a dataset to the IOTC Secretariat.
 
 Data reporting entity
-
 It generally corresponds to a country, but can also reference: the European Union (EUR) submitting data on behalf of one of its flag states;
 IOTC or IPTP (Indo-Pacific Tuna Programme) when historical data was available to these two institutions only; an unknown data provider (NEI).
 
 Fisheries
 IOTC Fisheries definition combines concepts from the fishing effort domain (fishing gear, fishing ground, and fishing mode) with concepts from the catches’ domain (target species) and that by doing so it can accurately describe fishing practices for groups of vessels and be used to characterize sub-units within a fishery. 
-Therefore, the new proposed definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species,
+Therefore, the proposed definition of fishery in the IOTC are function of (i)Purpose of the fishery, (ii) Area of operation, (iii) category of length overall, (iv) gear category, (v) gear used to catch the fish, (vi) specific configuration of the gear used to catch the fish, (vi) fishing mode, and (viii) target species,
 
 For the identification and categorisation of fisheries the IOTC Fisheries Identification Wizard is available [https://iotc.org/data/fisheries/wizard]
 
