@@ -1,0 +1,5 @@
+# General purpose and scope
+
+The overarching objective of the Data Reporting Guidelines (DRGs) is to provide a set of rules and best practices to the staff responsible for the collection and reporting of fisheries and biological data to the IOTC Secretariat according to the current version of the IOTC Conservation and Management Measures ([CMMs](#CMM)). The DRGs are addressed to all IOTC Contracting Parties and Cooperating Non-Contracting Parties ([CPCs](#CPC)) and any other parties that fish in the IOTC area of competence for species managed by the IOTC.
+
+

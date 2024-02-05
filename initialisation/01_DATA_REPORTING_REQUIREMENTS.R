@@ -1,4 +1,3 @@
-
 print("Initializing table of reporting requirements...")
 
 NC_COLOR = lighten(colors_for_fishery_group("LL")$FILL, amount = 0.4)

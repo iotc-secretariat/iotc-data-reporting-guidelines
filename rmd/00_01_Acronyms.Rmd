@@ -1,0 +1,7 @@
+# List of acronyms
+
+```{r Acronyms}
+ACRONYMS = fread("../inputs/data/DATA_SECTION_ACRONYMS.csv")
+
+kable(ACRONYMS)#, "html", booktabs = FALSE)
+```
