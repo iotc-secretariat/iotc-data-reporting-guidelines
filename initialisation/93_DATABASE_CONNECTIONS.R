@@ -1,3 +1,5 @@
+print("Configuring database connections...")
+
 # Connection to Master database
 C_MASTER =
   DBI::dbConnect(
@@ -10,3 +12,5 @@ C_MASTER =
     encoding = "CP1252",
     clientcharset = "UTF-8"
   )
+
+print("Database connections configured!")
