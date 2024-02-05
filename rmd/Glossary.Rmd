@@ -20,12 +20,11 @@
 
 **Byproduct**. A species taken incidentally in a fishery while fishing for the target species that has some commercial value and is retained for sale.
 
-#### C
+#### C {#C}
 
 **Coastal fishery (IOTC)**. Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Equivalent to IOTC artisanal fishery. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
 
-**Conservation and Management Measure**. Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, and more generally where not applicable to IOTC such measures that are consistent with
-international law.
+**Conservation and Management Measure**. Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, and more generally where not applicable to IOTC such measures that are consistent with international law.
 
 **Coordinating working party on Fishery Statistics (CWP)**. International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents ([https://www.fao.org/cwp-on-fishery-statistics/background/en/](https://www.fao.org/cwp-on-fishery-statistics/background/en/)).
 

@@ -1,14 +1,8 @@
 # Terminology 
 
-Resolutions 15/01 and 15/02 set the standards in terms of what operational data should be collected at national level and how this must be aggregated and reported to the IOTC Secretariat. The spatial-temporal stratification depends on the dataset, although strata generally include CPC / fleet, year, fishery, and species. Some datasets are further stratified by quarter and Indian Ocean major area (e.g., annual retained catches and annual discards) while other are stratified by month and by Indian Ocean statistical regular grids (e.g., catch-and-effort, FAD interactions, and size-frequency data) (**Table 1**).
+The central data elements to be identified, collected, and included within each dataset are described as following:
 
-## Core data elements
-
-The IOTC Resolutions define a set of requirements that are translated into a minimum set of data elements that must be included in each data set. The central data elements to be identified, collected, and included within each dataset are described as following:
-
-### Fleet
-
-Refers to the flag or reporting country submitting a dataset to the IOTC Secretariat.
+Fishing fleet. Refers to the flag or reporting country submitting a dataset to the IOTC Secretariat.
 
 ### Data reporting entity
 

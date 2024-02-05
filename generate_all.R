@@ -8,10 +8,10 @@ setwd("..")
 TITLE = "DRGs"
 
 ### DRG - DOCX
-render("rmd/00_DOCX_HTML.Rmd", 
-       output_dir    = "outputs/docx/", 
-       output_file   = paste0(TITLE, ".docx")
-)
+# render("rmd/00_DOCX_HTML.Rmd", 
+#        output_dir    = "outputs/docx/", 
+#        output_file   = paste0(TITLE, ".docx")
+# )
 
 ### DRG - HTML
 render("rmd/00_DOCX_HTML.Rmd", 
