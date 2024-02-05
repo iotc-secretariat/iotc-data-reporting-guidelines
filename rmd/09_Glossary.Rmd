@@ -1,7 +1,4 @@
-
-Glossary
-
-
+# Glossary
 
 By catch: All species, other than the 16 species listed in Annex B of the IOTC Agreement, caught or interacted with by 
 fisheries for tuna and tuna-like species in the IOTC area of competence. A bycatch species includes those non-IOTC 

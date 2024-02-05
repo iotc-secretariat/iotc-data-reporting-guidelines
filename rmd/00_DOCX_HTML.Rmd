@@ -19,9 +19,9 @@ output:
 #       
 # reference_num: TRUE
 # fig_caption: TRUE
-
-csl: iotc.csl
-bibliography: WPDCS.bib
+#
+#csl: iotc.csl
+#bibliography: WPDCS.bib
 ---
   
 ```{r general_options, echo=FALSE}
@@ -51,48 +51,55 @@ knit_hooks$set(
 )
 ```
 
-```{r child = "01_DOCX.Rmd"}
+```{r child = "01_Introduction.Rmd"}
 ```
 
-```{r child = "02_DOCX.Rmd"}
+```{r child = "02_Overview.Rmd"}
 ```
 
-```{r child = "03_DOCX.Rmd"}
+```{r child = "03_Datasets.Rmd"}
 ```
 
-```{r child = "04_DOCX.Rmd"}
+```{r child = "04_Cycle.Rmd"}
 ```
 
-```{r child = "05_DOCX.Rmd"}
+```{r child = "05_Semantics.Rmd"}
 ```
 
-```{r child = "06_DOCX.Rmd"}
+```{r child = "06_Reference_catalogue.Rmd"}
 ```
 
-```{r child = "07_DOCX.Rmd"}
+```{r child = "07_Validation.Rmd"}
 ```
 
-\pagebreak
-
-```{r child = "APPENDIX1_DOCX.Rmd"}
+```{r child = "08_References.Rmd"}
 ```
 
-\pagebreak
-
-```{r child = "APPENDIX2_DOCX.Rmd"}
+```{r child = "09_Glossary.Rmd"}
 ```
 
-\pagebreak
 
-```{r child = "APPENDIX3_DOCX.Rmd"}
-```
+<!-- \pagebreak -->
 
-\pagebreak
+<!-- ```{r child = "APPENDIX1_DOCX.Rmd"} -->
+<!-- ``` -->
 
-```{r child = "APPENDIX4_DOCX.Rmd"}
-```
+<!-- \pagebreak -->
 
-\pagebreak
+<!-- ```{r child = "APPENDIX2_DOCX.Rmd"} -->
+<!-- ``` -->
 
-```{r child = '90_DOCX.Rmd'}
-```
+<!-- \pagebreak -->
+
+<!-- ```{r child = "APPENDIX3_DOCX.Rmd"} -->
+<!-- ``` -->
+
+<!-- \pagebreak -->
+
+<!-- ```{r child = "APPENDIX4_DOCX.Rmd"} -->
+<!-- ``` -->
+
+<!-- \pagebreak -->
+
+<!-- ```{r child = '90_DOCX.Rmd'} -->
+<!-- ``` -->

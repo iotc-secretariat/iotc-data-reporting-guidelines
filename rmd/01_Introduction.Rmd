@@ -1,18 +1,19 @@
 # PURPOSE OF THE GUIDELINES
 
 The Guidelines for the Reporting of Fisheries Statistics to the Indian Ocean Tuna Commission (IOTC), are addressed to IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) and other parties having vessels under their flag that fish for species under the IOTC mandate within the IOTC area of competence (IOTC Area). The overarching objective of the Guidelines is to provide the CPCs with a set of rules and best practices to streamline the collection and reporting of fisheries and biological data to the IOTC Secretariat as per the data requirements defined in the IOTC Conservation and Management and Measures (CMMs) in place, usually referred as IOTC Resolutions. 
+
 The timely and accurate submission of fisheries statistics to the IOTC is a core task for all CPCs, as the information provided is eventually used for purposes such as support the work of the Scientific Committee and its subsidiary bodies, assess the status of compliance with respect to mandatory reporting requirements, and determining annual contributions for members.
 This updated guideline document relates to the new sets of data reporting forms, which are to be used as mandatory format to report fisheries statistics to the IOTC Secretariat. 
 The type of statistical data to be submitted depends on currently standing IOTC CMMS (Table. 1) and varies with the fisheries and the target and bycatch species these interact with (Fig.1).
 
 
-```{r IOTCdataSets, tab.cap = "Summary of IOTC Data sets and main data elements required by the IOTC Resolutions. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks"}
+```{r IOTCdataSets, tab.cap = "Summary of IOTC Data sets and main data elements required by the IOTC Resolutions. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks", eval = FALSE}
 REPORTING_TABLE_FT
 ```
 
 Datasets are mandatory for reporting for the fisheries that are actively operating in the Indian Ocean for a given CPC and requested for the 16 IOTC species, sharks and rays’ species of relevance to the IOTC and endangered, threatened, and protected species (ETP). Fishing craft and fish price datasets submission remains voluntary. 
 
-```{r IOTCdatarequirements, fig.cap = "Summary of IOTC data requirements. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks"}
+```{r IOTCdatarequirements, fig.cap = "Summary of IOTC data requirements. M = mandatory; V = voluntary; FSA = UN Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks", eval = FALSE}
 DATA_REQUIREMENTS
 ```
 
