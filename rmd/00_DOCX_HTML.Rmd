@@ -1,14 +1,14 @@
 ---
-title: "GUIDELINES FOR THE REPORTING OF FISHERIES STATISTICS TO THE IOTC"
+title: "Guidelines for the reporting of fisheries statistics to the IOTC"
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
-# output:
-#   officedown::rdocx_document:
-#     reference_docx: "../templates/doc_template.docx"
 output:
-  word_document2:
-    reference_docx: "../templates/doc_template.docx"
-    number_sections: FALSE
-
+  officedown::rdocx_document:
+    reference_docx: "../templates/rdoc_template.docx"
+# output:
+#   word_document2:
+#     reference_docx: "../templates/doc_template.docx"
+#     number_sections: FALSE
+# 
   html_document2:
     css: "../templates/html_template.css"
     number_sections: FALSE
@@ -25,64 +25,56 @@ output:
 ---
   
 ```{r general_options, echo=FALSE}
-knitr::opts_chunk$set(
-  echo = FALSE,
-  tidy = TRUE,
-  tidy.opts = list(width.cutoff = 60),
-  size = 'small',
-  
-  tab.cap.pre = "Table ",
-  tab.cap.sep = ". ",
-  tab.cap.style ='Table Caption',
-  
-  fig.cap.style = "Caption label",
-  fig.cap.pre = "Fig. ", 
-  fig.cap.sep = ". ",
-  
-  fig.width   = 8,
-  fig.height  = 4.5
-)
-
-knit_hooks$set(
-  inline = function(x) {
-    #prettyNum(x, big.mark = ",")
-    prettyNum(x, big.mark = "")
-  }
-)
+knitr::opts_chunk$set(echo = FALSE, 
+                      tab.cap.pre = "Tab. ", 
+                      tab.cap.sep = ". ", 
+                      tab.cap.style ="Table Caption", 
+#                      tab.cap.fp_text = officer::fp_text_lite(italic = TRUE, bold = TRUE), 
+                      fig.cap = TRUE, 
+                      fig.cap.pre = "Fig. ", 
+                      fig.cap.sep = ". ", 
+                      fig.cap.style = "Caption label", 
+                      dpi = 150
+                      )
 ```
 
-```{r child = "01_Introduction.Rmd"}
+```{r child = "01_Purpose.Rmd"}
 ```
 
-```{r child = "02_Overview.Rmd"}
+```{r child = "02_Scope.Rmd"}
 ```
 
-```{r child = "03_Datasets.Rmd"}
+```{r child = "03_Terminology.Rmd"}
 ```
 
-```{r child = "04_Cycle.Rmd"}
+```{r child = "03_Overview.Rmd", eval = FALSE}
 ```
 
-```{r child = "05_Semantics.Rmd"}
+```{r child = "04_Datasets.Rmd", eval = FALSE}
 ```
 
-```{r child = "06_Reference_catalogue.Rmd"}
+```{r child = "05_Cycle.Rmd", eval = FALSE}
 ```
 
-```{r child = "07_Validation.Rmd"}
+```{r child = "06_Semantics.Rmd", eval = FALSE}
 ```
 
-```{r child = "08_References.Rmd"}
+```{r child = "07_Reference_catalogue.Rmd", eval = FALSE}
 ```
 
-```{r child = "09_Glossary.Rmd"}
+```{r child = "08_Validation.Rmd", eval = FALSE}
 ```
 
+```{r child = "09_References.Rmd", eval = FALSE}
+```
 
-<!-- \pagebreak -->
+```{r child = "10_Glossary.Rmd"}
+```
 
-<!-- ```{r child = "APPENDIX1_DOCX.Rmd"} -->
-<!-- ``` -->
+\pagebreak
+
+```{r child = "ANNEX_1_IOTC_SPECIES.Rmd"}
+```
 
 <!-- \pagebreak -->
 

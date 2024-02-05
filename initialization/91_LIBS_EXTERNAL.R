@@ -4,15 +4,9 @@ pacman::p_load(
   "flextable",
   "scales",
   "openxlsx",
-  "ggpubr",
-  "gridExtra",
   "rmarkdown",
   "knitr",
   "bookdown",
-  "officer",
-  "dplyr",
-  "webshot",
-  "treemap"
+  "officer"
   )
 
-#webshot::install_phantomjs(force = TRUE)
