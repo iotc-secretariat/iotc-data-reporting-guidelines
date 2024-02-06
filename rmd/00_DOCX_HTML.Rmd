@@ -44,22 +44,19 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "01_Purpose.Rmd"}
 ```
 
-```{r child = "02_Scope.Rmd"}
+```{r child = "02_Terminology.Rmd"}
 ```
 
-```{r child = "03_Terminology.Rmd"}
+```{r child = "03_Metadata.Rmd"}
 ```
 
-```{r child = "03_Overview.Rmd", eval = FALSE}
+```{r child = "04_Dimensions.Rmd"}
 ```
 
-```{r child = "04_Datasets.Rmd", eval = FALSE}
+```{r child = "05_Datasets.Rmd"}
 ```
 
-```{r child = "05_Cycle.Rmd", eval = FALSE}
-```
-
-```{r child = "06_Semantics.Rmd", eval = FALSE}
+```{r child = "06_Cycle.Rmd"}
 ```
 
 ```{r child = "07_Reference_catalogue.Rmd", eval = FALSE}

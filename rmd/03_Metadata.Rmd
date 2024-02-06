@@ -1,0 +1,3 @@
+# Reporting metadata {#metadata}
+
+Several descriptive metadata elements have been identified to provide key information related to each IOTC dataset: information on the submission process and general information on the dataset.

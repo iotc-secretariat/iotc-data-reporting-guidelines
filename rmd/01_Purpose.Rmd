@@ -1,17 +1,15 @@
 # General purpose
 
-The collection and reporting of information on fisheries is essential for the conservation and sustainable management of tuna and tuna-like species in the Indian Ocean. Several datasets have been identified by the IOTC to be instrumental in the monitoring of tuna and tuna-like fisheries and analysis of the status and trends of the populations and marine ecosystems that support them. These datasets must be reported by the IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) as part of the IOTC Agreement but they are also requested from any other parties that fish in the IOTC area of competence for species managed by the IOTC.
+The collection and reporting of information on fisheries is essential for the conservation and sustainable management of tuna and tuna-like species in the Indian Ocean. Several datasets have been identified by the IOTC as instrumental in the monitoring of tuna and tuna-like fisheries and analysis of the status and trends of the populations and marine ecosystems that support them. These datasets must be reported by the IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) as part of the IOTC Agreement but they are also requested from any other parties that fish in the [IOTC area of competence](#AreaCompetence) for species managed by the IOTC.
 
-Since its establishment in 1996, the IOTC has developed and implemented several Conservation and Management Measures (CMMs) which define the nature and characteristics of the data that must be collected at national level and reported to the IOTC. The Secretariat is in charge of the collation and curation of the different datasets to support the IOTC scientific process.
+Since its establishment in 1996, the IOTC has developed and implemented several Conservation and Management Measures (CMMs) containing some provisions on the nature and characteristics of the data that must be reported to the IOTC. It is a national responsibility to develop and implement data recording and reporting systems that address the requirements of the IOTC defined through the [CMMs](#CMM) and the Secretariat is in charge of the collation and curation of the different datasets that support the IOTC scientific process. 
+
+The overarching objective of the Data Reporting Guidelines (DRGs) is to provide a set of rules and best practices to the staff responsible for the collection and reporting of fisheries and biological data to the IOTC Secretariat according to the current ([CMMs](#CMM)). The DRGs a minimum set of data elements that must be included in each data set
 
 Development of the data standards XXX
 
+
 <!-- The resolutions [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) constitute the core [CMMs](#C) on the collection and reporting of the core datasets pertaining to IOTC fisheries. The former sets the standards on the collection of data while the latter gives the details on the sources, units, resolution, aggregation and raising levels of each dataset for each IOTC fishery category. -->
 
-The overarching objective of the Data Reporting Guidelines (DRGs) is to provide a set of rules and best practices to the staff responsible for the collection and reporting of fisheries and biological data to the IOTC Secretariat according to the current ([CMMs](#CMM)).
-
-<!-- ## Core data elements -->
-
+<!-- core data elements -->
 <!-- and key IOTC concepts -->
-
-<!-- define a set of requirements that are translated into a minimum set of data elements that must be included in each data set.  -->

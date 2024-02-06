@@ -110,10 +110,70 @@ including under any conservation and management measure.
 **IOTC record of authorised vessels**. The list of vessels authorised to operate in the IOTC Area of Competence in a given time period, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that may operate in waters outside the economic exclusive zone of the flag State. These vessels are referred to as authorised fishing vessels (AFVs). Cf. Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence).
 
 **IOTC species**. Any or all of the 16 tuna and tuna-like species listed in Annex B of the IOTC Agreement.
-Instrumented buoy. A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
 
+**Instrumented buoy**. A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
 
+#### L
 
+**Large-scale driftnets**. Gillnets or other nets or a combination of nets that are more than 2.5 km in length whose purpose is to enmesh, entrap, or entangle fish by drifting on the surface of, or in, the water column.
+
+**Length overall (LOA)**. Distance in a straight line parallel to the design waterline, between the foremost point of the bow and the aftermost point of the stern ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+**Line fishing**. Fishing methods that use fishing lines in one form or another, including handlines, hand reels, powered reels, pole-and-line, droplines, longlines, trotlines and troll lines.
+
+**Live weight equivalent**. Weight derived from the landed or product weight by the application of certain factors and designed to represent the actual weight of the fishery product as it was taken from the water and before being subjected to any processing or other operations ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Live_weight_of_fishery_products#:~:text=Live%20weight%20of%20fishery%20products%20is%20derived%20from%20the%20landed,any%20processing%20or%20other%20operations.)).
+
+**Longline fishery (IOTC)**. Fishey undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+
+**Longline gear**. Fishing gear in which short lines (branchlines or droppers) carrying hooks are attached to a longer main line at regular intervals. Pelagic longlines are suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 100 km and have several thousand hooks. Droppers on demersal longlines (set at the seabed with weights) are usually more closely spaced.
+
+**Lower-jaw fork length**. Length of a fish measured as the straight distance between the tip of the lower jaw and the point of the fork or ‘V’ of the tail.
+
+#### M
+
+**Metadata**. Description of the the content, context and provenance of datasets in a standardised and structured manner, typically describing the purpose, origin, temporal characteristics, geographic location, authorship, access, and conditions and terms of use of a dataset (UK data service).
+
+#### N
+
+**Neritic**. Designating, or of, the ecological zone (neritic zone) of the continental shelf extending from low tide to a depth of around 180 m.
+
+**Net tonnage**. Dimensionless measure of the useful capacity of a ship ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+**Nominal catches**. Officially declared aquatic organisms captured during fisheries and expressed as live weight equivalent. Nominal catches do not include unreported catches, such as unreported discards, and may differ considerably from the real catch ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Nominal_catch)).
+
+**Non-target species**. Species that are unintentionally taken by a fishery or not routinely assessed for fisheries management.
+
+#### O
+
+**Oceanic**. Open-ocean waters beyond the edge of the continental shelf.
+
+**Operational buoy**. Any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log, which transmits position and any other available information such as echo-sounder estimates. Cf. Res. 19/02.
+
+#### P
+
+**Pelagic**. Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks.
+
+**Pole-and-line fishing**. Fishing method in which fishers attract schools of fish to the vessel with live or dead bait, get them into a feeding frenzy with more bait and water sprayed onto the sea surface to simulate the behaviour of small baitfish, and then use poles with short, fixed lines and lures to ‘pole’ the fish aboard.
+
+**Purse seining**. Harvesting of surface-schooling pelagic fish by surrounding the school with a net. A line that passes through rings on the bottom of the net can be tightened to close the net so that the fish cannot escape.
+
+#### S
+
+**Semi-industrial fishery**. Fishery that (i) catches fish from medium- (and/or small-) sized vessels fitted out with mechanised methods of operating the fishing gear, (ii) process the catch in land bases, and (iii) distributed the fish and fish products around a limited area, and in exceptional cases only for export. These activities are aimed at the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and transport facilities ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+**Semi-industrial fishing vessel**. Medium-sized vessel, typically of 12 m in length but less than 24 m in length, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+**Semi-industrial fishing vessel (IOTC)**. Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state. Cf. [IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07).
+
+**Size-frequency**. The number of individuals in a catch or catch sample in each group of sizes (size intervals).
+
+**Small-scale fishery**. Fishery characterised in most cases by fishing vessels with non-mechanized propulsion systems (sails and oars) or low-horsepower outboard or inboard engines, use of passive fishing methods, manual operation of fishing gear (setting, shooting and hauling) and the absence of electronic fish-finding and navigational devices ([Tietze et al. 2000](https://www.fao.org/3/x8294e/X8294E00.htm)). From a socio-economic perspective, small-scale fisheries can be broadly categorised as a dynamic and evolving sector employing labour intensive harvesting, processing and distribution technologies to exploit marine and inland water fishery resources. The activities of this sub-sector, conducted full-time or part-time, or just seasonally, are often targeted on supplying fish and fishery products to local and domestic markets, and for subsistence consumption ([FAO 2004](https://www.fao.org/3/y5245e/y5245e00.htm)).
+
+**Subsistence fishery**. Subsistence fishery is a fishery where the fish caught are consumed directly by the families of the fishers rather than being bought by middle-(wo)men and sold at the next larger market ([FAO 1999](https://www.fao.org/3/x2465e/x2465e.pdf)).
+
+**Surface fishery**. Fishing with pole and line, bait vessel, troll or purse seine to target surface-swimming species.
+
+**Surface fishery (IOTC)**. Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet fisheries, handline and trolling vessels. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
 
 
 

@@ -1,0 +1,43 @@
+# Dataset dimensions 
+
+<!-- ### Data type -->
+
+<!-- Longline fleets operating in the high seas shall provide provisional data for the previous year no later than 30 June. Final data shall be submitted no later than 30 December. All other fleets (including supply vessels) shall submit their final data for the previous year no later -->
+<!-- than 30 June. -->
+
+<!-- ### Data sources -->
+
+<!-- Indicates where and by whom the information used to monitor fishing activities for the estimation of fisheries statistics is collected (e.g. Amounts as recorded in the vessel fishing logbook, Catch-and-effort data collected by scientific observers, Individual fish lengths /weights monitored at the landing place by staff from research institutions) -->
+
+<!-- ### Data processing -->
+
+<!-- Refers to the type of processing or estimation method applied to raw information (e.g. Retained catches derived from catch assessment survey data, Catch-and-effort by species adjusted by using the size samples available for each trip (or alternative time-area strata), Total enumeration of individual fish lengths /weights (no estimation required). -->
+
+<!-- ### Data raising -->
+
+<!-- Call for the level of raising applied to the data, to understand the level of representativeness that this data have with respect to the total catches and effort. -->
+
+<!-- ### Coverage rate -->
+
+<!-- Refers to metrics used to determine the proportion that the amount of fish (number or weight) or fishing effort monitored (sampled) represents of the total (number or weight) or estimated fishing effort of each stratum for a given dataset. -->
+
+<!-- ### Data type -->
+
+<!-- Longline fleets operating in the high seas shall provide provisional data for the previous year no later than 30 June. Final data shall be submitted no later than 30 December. All other fleets (including supply vessels) shall submit their final data for the previous year no later -->
+<!-- than 30 June. -->
+
+<!-- ### Data sources -->
+
+<!-- Indicates where and by whom the information used to monitor fishing activities for the estimation of fisheries statistics is collected (e.g. Amounts as recorded in the vessel fishing logbook, Catch-and-effort data collected by scientific observers, Individual fish lengths /weights monitored at the landing place by staff from research institutions) -->
+
+<!-- ### Data processing -->
+
+<!-- Refers to the type of processing or estimation method applied to raw information (e.g. Retained catches derived from catch assessment survey data, Catch-and-effort by species adjusted by using the size samples available for each trip (or alternative time-area strata), Total enumeration of individual fish lengths /weights (no estimation required). -->
+
+<!-- ### Data raising -->
+
+<!-- Call for the level of raising applied to the data, to understand the level of representativeness that this data have with respect to the total catches and effort. -->
+
+<!-- ### Coverage rate -->
+
+<!-- Refers to metrics used to determine the proportion that the amount of fish (number or weight) or fishing effort monitored (sampled) represents of the total (number or weight) or estimated fishing effort of each stratum for a given dataset. -->

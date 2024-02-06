@@ -1,0 +1,48 @@
+## Datasets
+
+### Species presence in the catch
+
+#### Description
+
+Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group (hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears) broken down by broad fishery category (coastal or industrial).
+
+#### CMMs
+
+Res. 18/07
+
+#### Source
+
+Logbooks, landings, observations at sea
+
+#### Contents
+
+Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) to indicate positive catch or a value of 'zero' (0) to indicate no catch (zero landings + zero discards). 
+
+#### Scope
+
+IOTC species, most commonly caught elasmobranch species, and other bycatch species (i.e., shortbill spearfish, other sharks, and other bony fishes).
+
+#### Metadata
+
+Focal point full name, focal point email, organisation name, organisation email, finalisation date, submission date, reporting year, reporting entity, and flag country.
+
+#### Dimensions
+
+[Species](https://data.iotc.org/reference/latest/domain/biological/#allSpecies) and [gear group](https://data.iotc.org/reference/latest/domain/fisheries/#gearGroups).
+
+#### Checks
+
+\pagebreak
+
+### Amount of fish caught and retained
+
+#### Description
+
+Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species. Estimates must be reported in live weight equivalent (metric tonnes; t). Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches. Data must be reported for the IOTC species as well as for the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”). It is important to note that no retained catches of thresher sharks (Res. 12/09), oceanic whitetip sharks (Res. 13/06), and mobulid rays  (Res. 19/03) are expected to be reported from longline and surface fisheries which are subject to retention bans for these species.
+
+#### Scope
+
+#### Metadata
+
+#### Dimensions
+
