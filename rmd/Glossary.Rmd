@@ -60,6 +60,10 @@ All non-retained catch, including individuals released alive or discarded dead (
 
 Fish aggregating device not tethered to the bottom of the ocean typically composed of a floating structure (such as a bamboo or metal raft with buoyancy provided by buoys, corks, etc.) and of a submerged structure (made of canvass, ropes, etc.).
 
+#### Drifting longline {#driftinglongline}
+
+Longline kept near the surface or at a certain depth by means of regularly spaced floats. Drifting longlines may be of considerable length, and the snoods are usually longer and more widely spaced than for the bottom longlines. Some drifting longlines are set vertically, each line hanging from a float at the surface. They are usually worked in groups of several lines operated by a single boat ([Nédélec and Prado 1999](https://www.fao.org/3/t0367t/t0367t00.htm)).
+
 #### Driftnet {#driftnet}
 
 Type of gillnet that is not fixed to the seabed but allowed to drift with the current (<https://www.fao.org/fishery/en/geartype/220/en>). Synonym to drift gillnet.
@@ -192,7 +196,7 @@ The list of vessels authorised to operate in the IOTC Area of Competence in a gi
 
 #### IOTC species {#iotcspecies}
 
-Any or all of the 16 tuna and tuna-like species listed in Annex B of the IOTC Agreement.
+Any or all of the 16 tuna and tuna-like species listed in Annex B of the [IOTC Agreement](#iotcagreement).
 
 #### Instrumented buoy {#instrumentedbuoy}
 
@@ -220,9 +224,9 @@ Weight derived from the landed or product weight by the application of certain f
 
 Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
 
-#### Longline gear {#longlinegear}
+#### Longline {#longline}
 
-Fishing gear in which short lines (branchlines or droppers) carrying hooks are attached to a longer main line at regular intervals. Pelagic longlines are suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 100 km and have several thousand hooks. Droppers on demersal longlines (set at the seabed with weights) are usually more closely spaced.
+A fishing gear in which branch lines (called snoods or gangions) carrying baited or unbaited hooks are attached to a longer main line at regular intervals. A snood is a short length of line, attached to the main line using a clip or swivel, with the hook at the other end.  Longlines are classified mainly by where they are placed in the water column. They can be laid on the bottom or suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 150 km and have several thousand hooks ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
 
 #### Lower-jaw fork length {#lj}
 
@@ -268,13 +272,13 @@ Any instrumented buoy, previously activated, switched on and deployed at sea on 
 
 Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks.
 
-#### Pole-and-line gear {#poleandlinegear}
+#### Pole-and-line {#poleandline}
 
 #### Pole-and-line fishing {#poleandlinefishing}
 
-Fishing method in which fishers attract schools of fish to the vessel with live or dead bait, get them into a feeding frenzy with more bait and water sprayed onto the sea surface to simulate the behaviour of small baitfish, and then use poles with short, fixed lines and lures to 'pole' the fish aboard.
+A fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/)). 
 
-#### Purse seine gear {#purseinegear}
+#### Purse seine {#purseine}
 
 TO DO
 
@@ -295,6 +299,10 @@ Medium-sized vessel, typically of 12 m in length but less than 24 m in length, e
 #### Semi-industrial fishing vessel (IOTC) {#iotcsemindustrialfishingvessel}
 
 Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state. Cf. [IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07).
+
+#### Set longline {#setlongline}
+
+Longline consisting of a main line set either horizontally on or near the bottom or less commonly near the surface ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)).
 
 #### Size-frequency {#sizefrequency}
 

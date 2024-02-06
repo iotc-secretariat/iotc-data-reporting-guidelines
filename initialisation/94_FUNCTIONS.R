@@ -3,16 +3,17 @@ dtfunction = function(dataset){
   datatable = datatable(dataset, 
           rownames = FALSE, 
           filter = "bottom", 
-          extensions = "Buttons", 
+#          extensions = "Buttons", 
           options = 
             list(dom = "Bfrtip", 
-                 buttons = list(
-                   list(
-                     extend = "csv", 
-                     filename = paste0(dataset)
-                   )
-                 )
+                 autoWidth = TRUE #, 
+#                 buttons = list(
+#                   list(
+#                     extend = "csv", 
+#                     filename = paste0(dataset)
+#                   )
+#                 )
             )
 ) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left')
-  print(datatable)
+  return(datatable)
 }
