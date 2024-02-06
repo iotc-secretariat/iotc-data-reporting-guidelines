@@ -1,0 +1,23 @@
+## Amount of discards {#DI}
+
+#### Description
+
+Total annual estimates of the amount of fish caught and discarded by fishing fleet, fishery, IOTC main area, species, and condition. Estimates can be reported in numbers or live weight equivalent. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards. Data must be reported for the IOTC species, mobulid rays (Res. 19/03), whale sharks (Res. 13/05), cetaceans (Res. 23/06), and the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”).
+
+#### Resolutions
+
+Res/ Res. 15/02
+
+#### Source
+
+#### Contents
+
+#### Scope
+
+#### Metadata
+
+#### Dimensions
+
+#### Checks
+
+#### Form

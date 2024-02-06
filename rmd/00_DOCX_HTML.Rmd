@@ -53,16 +53,16 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "04_Dimensions.Rmd"}
 ```
 
-```{r child = "05_Datasets.Rmd"}
+```{r child = "05_01_Datasets.Rmd"}
 ```
 
-```{r child = "06_Cycle.Rmd"}
+```{r child = "05_02_Datasets.Rmd"}
 ```
 
-```{r child = "07_Reference_catalogue.Rmd", eval = FALSE}
+```{r child = "05_03_Datasets.Rmd"}
 ```
 
-```{r child = "08_Validation.Rmd", eval = FALSE}
+```{r child = "06_Submission.Rmd"}
 ```
 
 ```{r child = "09_References.Rmd", eval = FALSE}
@@ -83,25 +83,3 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ```{r child = "Glossary.Rmd"}
 ```
-
-
-
-<!-- \pagebreak -->
-
-<!-- ```{r child = "APPENDIX2_DOCX.Rmd"} -->
-<!-- ``` -->
-
-<!-- \pagebreak -->
-
-<!-- ```{r child = "APPENDIX3_DOCX.Rmd"} -->
-<!-- ``` -->
-
-<!-- \pagebreak -->
-
-<!-- ```{r child = "APPENDIX4_DOCX.Rmd"} -->
-<!-- ``` -->
-
-<!-- \pagebreak -->
-
-<!-- ```{r child = '90_DOCX.Rmd'} -->
-<!-- ``` -->

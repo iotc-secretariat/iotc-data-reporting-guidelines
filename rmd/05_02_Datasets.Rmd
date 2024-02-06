@@ -1,0 +1,31 @@
+## Amount of fish caught and retained {#RC}
+
+#### Description
+
+Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species. Estimates must be reported in live weight equivalent (metric tonnes; t). Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches. It is important to note that no retained catches of thresher sharks (Res. 12/09), oceanic whitetip sharks (Res. 13/06), and mobulid rays  (Res. 19/03) are expected to be reported from longline and surface fisheries which are subject to retention bans for these species.
+
+#### CMMs
+
+15/01, 15/02
+
+#### Source
+
+#### Contents
+
+#### Scope
+
+Data must be reported for the IOTC species as well as for the most commonly caught elasmobranch species established for each gear group in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”). 
+
+#### Metadata
+
+Focal point full name, focal point email, organisation name, organisation email (optional), finalisation date, submission date, reporting year, reporting entity, and flag state.
+
+#### Dimensions
+
+[Fishing fleet](https://data.iotc.org/reference/1.0.0/domain/admin/#fleets), [fishery](https://data.iotc.org/reference/1.0.0/domain/fisheries/#fisheries), [IOTC main area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOareasMain), [retain reason](https://data.iotc.org/reference/1.0.0/domain/biological/#retainReasons), and [species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies).
+
+#### Checks
+
+#### Form
+
+1 RC

@@ -1,4 +1,4 @@
-# Terminology
+# Terminology {#TerminologySection}
 
 Several technical terms and definitions are specific to the IOTC and key for reporting fisheries data to the Secretariat.
 
@@ -27,17 +27,17 @@ Finally and while optional, the reporting of statistics for all other bycatch sp
 
 ## Fishing fleet
 
-A fishing fleet is a group of fishing vessels authorized to operate in the [IOTC area of competence](#AreaCompetence) and whose fishing operations and catches of tuna and tuna-like species are under the responsibility of a political entity or sub-entity recognized by the IOTC. The fishing fleet is derived from the combination of the flag country and reporting entity (see section on [Reporting metadata](#metadata)). In most cases, the fishing fleet corresponds to the flag state but it 
+A fishing fleet is a group of fishing vessels authorized to operate in the [IOTC area of competence](#AreaCompetence) and whose fishing operations and catches of tuna and tuna-like species are under the responsibility of a political entity or sub-entity recognized by the IOTC. The fishing fleet is derived from the combination of the flag state and reporting entity (see section on [Reporting metadata](#metadata)). In most cases, the fishing fleet corresponds to the flag state but the differences stems from: (i) France Overseas Territories and British Indian Overseas Territories, (ii) differences between the CPC and flag state (i.e., European Union and China), as well as (iii) estimates of IUU catches performed by the Secretariat  
 
-(e.g.: EUR - European Union, FRAT – French territories), nor CPC
-
-The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified). 
-
-the European Union (EUR) submitting data on behalf of one of its flag states.
-
-IOTC or IPTP (Indo-Pacific Tuna Programme) when historical data was available to these two institutions only; an unknown data provider (NEI).
+<!-- IOTC or IPTP (Indo-Pacific Tuna Programme) when historical data was available to these two institutions only; an unknown data provider (NEI). -->
 
 ## Fishery categories
+
+#iotclonglinefishery
+#iotcsurfacefishery
+#iotc
+Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
+
 
 ## Fisheries
 

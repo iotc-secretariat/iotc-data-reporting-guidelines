@@ -1,4 +1,4 @@
-# Dataset dimensions 
+# Data dimensions {#DimensionSection}
 
 <!-- ### Data type -->
 
