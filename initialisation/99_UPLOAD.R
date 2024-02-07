@@ -98,8 +98,8 @@ initialize_version = function(version) {
   }
 }
 
-upload_docs = function(version) {
-  remote_folder = paste0(full_folder(version))
+upload_docs = function(version, target_subfolder = "guidelines") {
+  remote_folder = paste0(full_folder(version), "/", target_subfolder)
   
   for(doc in list.files("./outputs/html/", pattern = "*.html")) {
     print(paste0("Uploading  document ", doc, " in ", remote_folder, "..."))
