@@ -12,7 +12,7 @@ Res. [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-n
 
 #### Source
 
-[Fishing logbooks](#fishinglogbook), [fish landings](#landings), observations at sea
+[Fishing logbooks](#fishinglogbook), [fish landings](#landings), observations-at-sea
 
 #### Contents
 
@@ -37,9 +37,9 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 
 #### Dimensions
 
-- [Species](https://data.iotc.org/reference/latest/domain/biological/#allSpecies)
-- [Gear groups](https://data.iotc.org/reference/latest/domain/fisheries/#gearGroups)
-- [Fishery categories](https://data.iotc.org/reference/latest/domain/fisheries/#fisheryCategories)
+- [Species](../domain/biological/#allSpecies)
+- [Gear groups](../domain/fisheries/#gearGroups)
+- [Fishery categories](../domain/fisheries/#fisheryCategories)
 
 #### Checks
 
@@ -47,7 +47,7 @@ The list of species reported in the dataset must be consistent with the species 
 
 #### Form
 
-[1 DR](https://data.iotc.org/reference/latest/forms/#Form_1DR)
+[1 DR](../forms/#Form_1DR)
 
 \pagebreak
 

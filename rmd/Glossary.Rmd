@@ -4,7 +4,7 @@
 
 #### Anchored Fish Aggregating Device {#afad}
 
-A fish aggregating device tethered to the bottom of the ocean. It usually consists of a very large buoy and it is anchored to the bottom of the ocean with a chain. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
+A fish aggregating device tethered to the bottom of the ocean. It usually consists of a very large buoy and it is anchored to the bottom of the ocean with a chain (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 #### Archival tag {#archivaltag}
 
@@ -16,7 +16,7 @@ Traditional fishery that involves fishing households (as opposed to commercial c
 
 #### Artisanal fishery (IOTC) {#iotcartisanalfishery}
 
-Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Equivalent to coastal fisheries. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Equivalent to coastal fisheries (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
 #### Associated school {#associatedschool}
 
@@ -40,7 +40,7 @@ A species taken incidentally in a fishery while fishing for the target species t
 
 #### Coastal fishery (IOTC) {#iotccoastalfishery}
 
-Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to IOTC artisanal fishery. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to IOTC artisanal fishery (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
 #### Conservation and Management Measure {#cmm}
 
@@ -48,7 +48,7 @@ Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, a
 
 #### Coordinating working party on fishery statistics {#cwp}
 
-International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents (<https://www.fao.org/cwp-on-fishery-statistics/background/en/>).
+International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents (https://www.fao.org/cwp-on-fishery-statistics/background/en/).
 
 ### D {#D}
 
@@ -58,7 +58,7 @@ All non-retained catch, including individuals released alive or discarded dead (
 
 #### Drifting fish aggregating device {#dfad}
 
-Fish aggregating device not tethered to the bottom of the ocean typically composed of a floating structure (such as a bamboo or metal raft with buoyancy provided by buoys, corks, etc.) and of a submerged structure (made of canvass, ropes, etc.).
+Fish aggregating device not tethered to the bottom of the ocean typically composed of a floating structure (such as a bamboo or metal raft with buoyancy provided by buoys, corks, etc.) and of a submerged structure (made of canvass, ropes, etc.) (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 #### Drifting longline {#driftinglongline}
 
@@ -66,7 +66,7 @@ Longline kept near the surface or at a certain depth by means of regularly space
 
 #### Driftnet {#driftnet}
 
-Type of gillnet that is not fixed to the seabed but allowed to drift with the current (<https://www.fao.org/fishery/en/geartype/220/en>). Synonym to drift gillnet.
+Type of gillnet that is not fixed to the seabed but allowed to drift with the current. Synonym to drift gillnet (https://www.fao.org/fishery/en/geartype/220/en).
 
 ### E {#E}
 
@@ -86,15 +86,15 @@ An area beyond and adjacent to the territorial sea, subject to the specific lega
 
 #### Fish aggregating device {#fad}
 
-A permanent, semi-permanent or temporary object, structure or device of any material, man-made or natural, which is deployed and/or tracked, for the purpose of aggregating target tuna species for consequent capture. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
+A permanent, semi-permanent or temporary object, structure or device of any material, man-made or natural, which is deployed and/or tracked, for the purpose of aggregating target tuna species for consequent capture (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 #### Fisher {#fisher}
 
-An individual who engages in fishing activities for the purpose of deriving a livelihood, generating a revenue or pursuing sport or recreation. A full-time, part-time or occasional fisher receives some or all of their livelihood from fishing or spends some or all of their working time in that occupation. A sport or recreational fisher (or angler) conducts fishing in pursuit of sport or recreation (CWP).
+An individual who engages in fishing activities for the purpose of deriving a livelihood, generating a revenue or pursuing sport or recreation. A full-time, part-time or occasional fisher receives some or all of their livelihood from fishing or spends some or all of their working time in that occupation. A sport or recreational fisher (or angler) conducts fishing in pursuit of sport or recreation ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)).
 
 #### Fishery vessel {#fisheryvessel}
 
-Mobile floating platform of any kind and size, operating in fresh, brackish or marine waters which are used for catching, harvesting, searching, transporting, landing, preserving and/or processing fish, shellfish and other aquatic organisms, residues and plants ([CWP](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
+Mobile floating platform of any kind and size, operating in fresh, brackish or marine waters which are used for catching, harvesting, searching, transporting, landing, preserving and/or processing fish, shellfish and other aquatic organisms, residues and plants ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
 
 #### Fishing capacity {#fishingcapacity}
 
@@ -102,11 +102,11 @@ The ability of a vessel or fleet of vessels to catch fish. Fishing capacity (cap
 
 #### Fishing effort (effective) {#effectivefishingeffort}
 
-Adjusted measure of effort to take account of differences in fishing power and efficiency and ensure proportionality with fishing mortality, and when two or more kinds of gear are used or when the same gear is used for example by different classes of vessel or métier, the respective efforts are adjusted to some common standard before being aggregated across all classes (strata) (CWP).
+Adjusted measure of effort to take account of differences in fishing power and efficiency and ensure proportionality with fishing mortality, and when two or more kinds of gear are used or when the same gear is used for example by different classes of vessel or métier, the respective efforts are adjusted to some common standard before being aggregated across all classes (strata) ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)).
 
 #### Fishing effort (nominal) {#nominalfishingeffort}
 
-General measure of effort used to quantify the unadjusted, total effort units exerted on a stock in a given time period by a fishery, gear or métier (CWP).
+General measure of effort used to quantify the unadjusted, total effort units exerted on a stock in a given time period by a fishery, gear or métier ([CWP Handbook]((https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/))).
 
 #### Fishing logbook {#fishinglogbook}
 
@@ -114,7 +114,7 @@ A permanently bound logbook issued by the flag State of a vessel and required fo
 
 #### Fishing mode {#fishingmode}
 
-A specific practice or method of conducting a fishing operation or searching for fish within a fishery, fishing sector or region. A fishing mode may also be associated with a métier (CWP).
+A specific practice or method of conducting a fishing operation or searching for fish within a fishery, fishing sector or region. A fishing mode may also be associated with a métier ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
 
 #### Fishing power {#fishingpower}
 
@@ -144,7 +144,7 @@ The general name for the equipment used for fishing. This might include lines, n
 
 #### Gillnet {#gillnet}
 
-Type of passive fishing gear consisting of panels of net held vertically in the water column, either in contact with the seabed or suspended from the sea surface, such that fish attempting to swim through the net are entangled. The mesh size of the net determines the size range of fish caught, as smaller fish can swim through the meshes and larger fish are not enmeshed (<https://www.fish.wa.gov.au/>).
+Type of passive fishing gear consisting of panels of net held vertically in the water column, either in contact with the seabed or suspended from the sea surface, such that fish attempting to swim through the net are entangled. The mesh size of the net determines the size range of fish caught, as smaller fish can swim through the meshes and larger fish are not enmeshed (https://www.fish.wa.gov.au/).
 
 #### Gross tonnage {#gt}
 
@@ -176,23 +176,23 @@ Large vessel, typically of 24 m in length and over, engaged in catching operatio
 
 #### Industrial fishing vessel (IOTC) {#iotcindustrialfishingvessel}
 
-Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State. Cf. Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence).
+Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
 
 #### IOTC active vessel list {#avl}
 
-The list of vessels having operated in the IOTC area of competence in a given year, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that operated in waters outside the economic exclusive zone of the flag State. Cf. Res. [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area).
+The list of vessels having operated in the IOTC area of competence in a given year, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that operated in waters outside the economic exclusive zone of the flag State (Res. [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area)).
 
 #### IOTC Agreement {#iotcagreement}
 
-The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission. Cf. [IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf)
+The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission ([IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf))
 
 #### IOTC area of competence {#iotcareaofcompetence}
 
-The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT. Cf. <https://www.fao.org/fishery/en/organization/iotc>.
+The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT. (https://www.fao.org/fishery/en/organization/iotc).
 
 #### IOTC record of authorised vessels {#rav}
 
-The list of vessels authorised to operate in the IOTC Area of Competence in a given time period, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that may operate in waters outside the economic exclusive zone of the flag State. These vessels are referred to as authorised fishing vessels (AFVs). Cf. Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence).
+The list of vessels authorised to operate in the IOTC Area of Competence in a given time period, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that may operate in waters outside the economic exclusive zone of the flag State. These vessels are referred to as authorised fishing vessels (AFVs) (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
 
 #### IOTC species {#iotcspecies}
 
@@ -200,7 +200,7 @@ Any or all of the 16 tuna and tuna-like species listed in Annex B of the [IOTC A
 
 #### Instrumented buoy {#instrumentedbuoy}
 
-A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
+A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 ### L {#L}
 
@@ -226,7 +226,7 @@ Weight derived from the landed or product weight by the application of certain f
 
 #### Longline fishery (IOTC) {#iotclonglinefishery}
 
-Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
 #### Longline {#longline}
 
@@ -268,7 +268,7 @@ Open-ocean waters beyond the edge of the continental shelf.
 
 #### Operational buoy {#operationalbuoy}
 
-Any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log, which transmits position and any other available information such as echo-sounder estimates. Cf. Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan).
+Any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log, which transmits position and any other available information such as echo-sounder estimates (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 ### P {#P}
 
@@ -296,7 +296,7 @@ Medium-sized vessel, typically of 12 m in length but less than 24 m in length, e
 
 #### Semi-industrial fishing vessel (IOTC) {#iotcsemindustrialfishingvessel}
 
-Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state. Cf. [IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07).
+Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state ([IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07)).
 
 #### Set longline {#setlongline}
 
@@ -320,7 +320,7 @@ Fishing with pole-and-line, bait vessel, troll or purse seine to target surface-
 
 #### Surface fishery (IOTC) {#iotcsurfacefishery}
 
-Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet, handline, and trolling vessels. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet, handline, and trolling vessels (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
 ### T {#T}
 
@@ -338,4 +338,4 @@ A measure of the size or capacity of a ship, representing a dimensionless functi
 
 #### Trolling line {#trollingline}
 
-Simple line, provided with natural or artificial bait and trailed near the surface or at a certain depth by a vessel. Several lines are usually towed at the same time, by using outriggers ([Nédélec and Prado 1990)](https://www.fao.org/3/t0367t/t0367t00.htm)).
+Simple line, provided with natural or artificial bait and trailed near the surface or at a certain depth by a vessel. Several lines are usually towed at the same time, by using outriggers ([Nédélec and Prado 1990)](https://www.fao.org/3/t0367t/t0367t00.htm).
