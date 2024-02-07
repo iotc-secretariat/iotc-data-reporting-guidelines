@@ -40,7 +40,7 @@ A species taken incidentally in a fishery while fishing for the target species t
 
 #### Coastal fishery (IOTC) {#iotccoastalfishery}
 
-Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Equivalent to IOTC artisanal fishery. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to IOTC artisanal fishery. Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
 
 #### Conservation and Management Measure {#cmm}
 
@@ -204,6 +204,10 @@ A buoy with a clearly marked with a unique reference number allowing identificat
 
 ### L {#L}
 
+#### Landing {#landing}
+
+Weight of what is landed at a landing site. May be different from the catch which includes the discards ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
 #### Large-scale driftnets
 
 Drift gillnets or other nets or a combination of nets that are more than 2.5 km in length whose purpose is to enmesh, entrap, or entangle fish by drifting on the surface of or in the water column.
@@ -272,19 +276,13 @@ Any instrumented buoy, previously activated, switched on and deployed at sea on 
 
 Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks.
 
-#### Pole-and-line {#poleandline}
-
 #### Pole-and-line fishing {#poleandlinefishing}
 
 A fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/)). 
 
 #### Purse seine {#purseine}
 
-TO DO
-
-#### Purse seining
-
-Harvesting of surface-schooling pelagic fish by surrounding the school with a net. A line that passes through rings on the bottom of the net can be tightened to close the net so that the fish cannot escape.
+Nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)).
 
 ### S {#S}
 
@@ -337,10 +335,6 @@ An organism’s location in the biological classification system; used to identi
 #### Tonnage {#tonnage}
 
 A measure of the size or capacity of a ship, representing a dimensionless function of volume which is defined by internationally agreed formulae ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
-
-#### Trolling {#trolling}
-
-A surface and sub-surface fishing method in which lines with baits or lures are dragged by a vessel at a speed of 2-10 knots ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
 
 #### Trolling line {#trollingline}
 

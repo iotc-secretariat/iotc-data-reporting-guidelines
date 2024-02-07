@@ -4,31 +4,42 @@
 
 #### Description
 
-Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group (hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears) broken down by broad fishery category (coastal or industrial).
+Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group further broken down by broad fishery category, i.e., [coastal](#iotccoastalfishery) or [industrial](#iotcindustrialfishery).
 
 #### CMMs
 
-Res. 18/07
+Res. [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc)
 
 #### Source
 
-Logbooks, landings, observations at sea
+[Fishing logbooks](#fishinglogbook), [fish landings](#landings), observations at sea
 
 #### Contents
 
-Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) to indicate positive catch or a value of 'zero' (0) to indicate no catch (zero landings + zero discards). 
+Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) to indicate positive catch or a value of 'zero' (0) to indicate no catch (zero landings + zero discards).
 
 #### Scope
 
-Data must be reported for the IOTC IOTC species, most commonly caught elasmobranch species, and other bycatch species, i.e., shortbill spearfish, other sharks, and other bony fishes.
+- Species: IOTC species, most commonly caught elasmobranch species, and other bycatch species (shortbill spearfish, other sharks, and other bony fishes).
+- Gear groups: hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears
 
 #### Metadata
 
-Focal point full name, focal point email, organisation name, organisation email (optional), finalisation date, submission date, reporting year, reporting entity, and flag state.
+- Focal point full name
+- Focal point email
+- Organisation name
+- Organisation email (optional)
+- Finalisation date
+- Submission date
+- Reporting year
+- Reporting entity
+- Flag state
 
 #### Dimensions
 
-[Species](https://data.iotc.org/reference/latest/domain/biological/#allSpecies) and [gear group](https://data.iotc.org/reference/latest/domain/fisheries/#gearGroups).
+- [Species](https://data.iotc.org/reference/latest/domain/biological/#allSpecies)
+- [Gear groups](https://data.iotc.org/reference/latest/domain/fisheries/#gearGroups)
+- [Fishery categories](https://data.iotc.org/reference/latest/domain/fisheries/#fisheryCategories)
 
 #### Checks
 
@@ -36,7 +47,7 @@ The list of species reported in the dataset must be consistent with the species 
 
 #### Form
 
-1 DR[template](https://data.iotc.org/reference/latest/forms/Form-1DR.xlsx).
+[1 DR](https://data.iotc.org/reference/latest/forms/#Form_1DR)
 
 \pagebreak
 

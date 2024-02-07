@@ -1,11 +1,11 @@
 # Data dimensions {#DimensionSection}
 
-<!-- ### Data type -->
+## Data type
 
 <!-- Longline fleets operating in the high seas shall provide provisional data for the previous year no later than 30 June. Final data shall be submitted no later than 30 December. All other fleets (including supply vessels) shall submit their final data for the previous year no later -->
 <!-- than 30 June. -->
 
-<!-- ### Data sources -->
+## Data sources
 
 <!-- Indicates where and by whom the information used to monitor fishing activities for the estimation of fisheries statistics is collected (e.g. Amounts as recorded in the vessel fishing logbook, Catch-and-effort data collected by scientific observers, Individual fish lengths /weights monitored at the landing place by staff from research institutions) -->
 
