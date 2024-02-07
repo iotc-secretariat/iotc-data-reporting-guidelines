@@ -17,6 +17,6 @@ TITLE = "DRGs"
 render("rmd/00_DOCX_HTML.Rmd", 
        output_format = "html_document2",
        output_dir    = "outputs/html/", 
-       output_file   = paste0(TITLE, ".html")
+       output_file   = paste0("index.html")
 )
 
