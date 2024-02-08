@@ -1,0 +1,40 @@
+GEAR_GROUP_CODE,GEAR_GROUP,SPECIES_CODE,SPECIES,SPECIES_SCIENTIFIC,SPECIES_GROUP
+LL,Longlines,TIG,Tiger shark,Galeocerdo cuvier,Other sharks
+LL,Longlines,PSK,Crocodile shark,Pseudocarcharias kamoharai,Other sharks
+LL,Longlines,WSH,Great white shark,Carcharodon carcharias,Other sharks
+LL,Longlines,PLS,Pelagic stingray,Pteroplatytrygon violacea,Other rays
+LL,Longlines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+PS,Purse seines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+PS,Purse seines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+PS,Purse seines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
+GI,Gillnets,TIG,Tiger shark,Galeocerdo cuvier,Other sharks
+GI,Gillnets,PSK,Crocodile shark,Pseudocarcharias kamoharai,Other sharks
+GI,Gillnets,PLS,Pelagic stingray,Pteroplatytrygon violacea,Other rays
+GI,Gillnets,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+OT,Other gears,SMA,Shortfin mako,Isurus oxyrinchus,Mako sharks
+OT,Other gears,LMA,Longfin mako,Isurus paucus,Mako sharks
+OT,Other gears,SPK,Great hammerhead,Sphyrna mokarran,Hammerhead sharks
+OT,Other gears,SPL,Scalloped hammerhead,Sphyrna lewini,Hammerhead sharks
+OT,Other gears,SPZ,Smooth hammerhead,Sphyrna zygaena,Hammerhead sharks
+OT,Other gears,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
+OT,Other gears,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
+OT,Other gears,ALV,Thresher,Alopias vulpinus,Thresher sharks
+OT,Other gears,BSH,Blue shark,Prionace glauca,Other sharks
+OT,Other gears,FAL,Silky shark,Carcharhinus falciformis,Other sharks
+OT,Other gears,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
+OT,Other gears,POR,Porbeagle,Lamna nasus,Other sharks
+OT,Other gears,TIG,Tiger shark,Galeocerdo cuvier,Other sharks
+OT,Other gears,PSK,Crocodile shark,Pseudocarcharias kamoharai,Other sharks
+OT,Other gears,WSH,Great white shark,Carcharodon carcharias,Other sharks
+OT,Other gears,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+OT,Other gears,RMA,Alfred manta,Mobula alfredi,Mobulid rays
+OT,Other gears,RMB,Giant manta,Mobula birostris,Mobulid rays
+OT,Other gears,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
+OT,Other gears,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
+OT,Other gears,RMM,Devil fish,Mobula mobular,Mobulid rays
+OT,Other gears,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
+OT,Other gears,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
+OT,Other gears,PLS,Pelagic stingray,Pteroplatytrygon violacea,Other rays
+OT,Other gears,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+OT,Other gears,SSP,Shortbill spearfish,Tetrapturus angustirostris,Other bycatch species
+OT,Other gears,MZZ,Other bony fishes,Osteichtyes,Other bycatch species

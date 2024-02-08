@@ -1,0 +1,62 @@
+GEAR_GROUP_CODE,GEAR_GROUP,SPECIES_CODE,SPECIES,SPECIES_SCIENTIFIC,SPECIES_GROUP
+HL,Hooks and lines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+HL,Hooks and lines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
+PL,Pole-and-lines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+PL,Pole-and-lines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
+LL,Longlines,SMA,Shortfin mako,Isurus oxyrinchus,Mako sharks
+LL,Longlines,LMA,Longfin mako,Isurus paucus,Mako sharks
+LL,Longlines,SPK,Great hammerhead,Sphyrna mokarran,Hammerhead sharks
+LL,Longlines,SPL,Scalloped hammerhead,Sphyrna lewini,Hammerhead sharks
+LL,Longlines,SPZ,Smooth hammerhead,Sphyrna zygaena,Hammerhead sharks
+LL,Longlines,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
+LL,Longlines,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
+LL,Longlines,ALV,Thresher,Alopias vulpinus,Thresher sharks
+LL,Longlines,BSH,Blue shark,Prionace glauca,Other sharks
+LL,Longlines,FAL,Silky shark,Carcharhinus falciformis,Other sharks
+LL,Longlines,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
+LL,Longlines,POR,Porbeagle,Lamna nasus,Other sharks
+LL,Longlines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+LL,Longlines,RMA,Alfred manta,Mobula alfredi,Mobulid rays
+LL,Longlines,RMB,Giant manta,Mobula birostris,Mobulid rays
+LL,Longlines,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
+LL,Longlines,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
+LL,Longlines,RMM,Devil fish,Mobula mobular,Mobulid rays
+LL,Longlines,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
+LL,Longlines,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
+LL,Longlines,SSP,Shortbill spearfish,Tetrapturus angustirostris,Other bycatch species
+LL,Longlines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
+PS,Purse seines,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
+PS,Purse seines,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
+PS,Purse seines,ALV,Thresher,Alopias vulpinus,Thresher sharks
+PS,Purse seines,FAL,Silky shark,Carcharhinus falciformis,Other sharks
+PS,Purse seines,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
+PS,Purse seines,RMA,Alfred manta,Mobula alfredi,Mobulid rays
+PS,Purse seines,RMB,Giant manta,Mobula birostris,Mobulid rays
+PS,Purse seines,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
+PS,Purse seines,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
+PS,Purse seines,RMM,Devil fish,Mobula mobular,Mobulid rays
+PS,Purse seines,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
+PS,Purse seines,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
+GI,Gillnets,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
+GI,Gillnets,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
+GI,Gillnets,ALV,Thresher,Alopias vulpinus,Thresher sharks
+GI,Gillnets,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
+GI,Gillnets,RMA,Alfred manta,Mobula alfredi,Mobulid rays
+GI,Gillnets,RMB,Giant manta,Mobula birostris,Mobulid rays
+GI,Gillnets,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
+GI,Gillnets,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
+GI,Gillnets,RMM,Devil fish,Mobula mobular,Mobulid rays
+GI,Gillnets,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
+GI,Gillnets,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
+HL,Hooks and lines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+PL,Pole-and-lines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
+GI,Gillnets,SSP,Shortbill spearfish,Tetrapturus angustirostris,Other bycatch species
+GI,Gillnets,BSH,Blue shark,Prionace glauca,Other sharks
+GI,Gillnets,LMA,Longfin mako,Isurus paucus,Mako sharks
+GI,Gillnets,SMA,Shortfin mako,Isurus oxyrinchus,Mako sharks
+GI,Gillnets,POR,Porbeagle,Lamna nasus,Other sharks
+GI,Gillnets,SPK,Great hammerhead,Sphyrna mokarran,Hammerhead sharks
+GI,Gillnets,SPL,Scalloped hammerhead,Sphyrna lewini,Hammerhead sharks
+GI,Gillnets,SPZ,Smooth hammerhead,Sphyrna zygaena,Hammerhead sharks
+GI,Gillnets,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
+GI,Gillnets,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
