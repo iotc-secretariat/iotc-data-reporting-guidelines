@@ -1,0 +1,38 @@
+## Interactions with ETP species {#IN}
+
+#### Description
+
+Annual number of interactions of longline and surface fisheries with endangered, threatened, and protected species by fishing fleet, fishery and IOTC main area
+
+#### Resolutions
+
+- Res. [12/04](https://iotc.org/cmm/resolution-1204-conservation-marine-turtles) -- _On the conservation of marine turtles_
+- Res. [13/05](https://iotc.org/cmm/resolution-1305-conservation-whale-sharks-rhincodon-typus) -- _On the conservation of whale sharks (Rhincodon typus)_
+- Res. [23/06](https://iotc.org/cmm/resolution-2306-conservation-cetaceans) -00- _On the conservation of cetaceans_
+- Res. [23/07](https://iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries) -- _On reducing the incidental bycatch of seabirds in longline fisheries_
+
+#### Source
+
+#### Contents
+
+#### Dimensions
+
+#### Code lists
+
+#### Reporting metadata
+
+- Focal point full name
+- Focal point email
+- Organisation name
+- Organisation email (optional)
+- Finalisation date
+- Submission date
+- Reporting year
+- Reporting entity
+- Flag state
+
+#### Data checks
+
+#### Reporting form
+
+\pagebreak
