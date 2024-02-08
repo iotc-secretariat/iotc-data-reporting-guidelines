@@ -1,5 +1,0 @@
-# Online data validation
-
-Online data validators are designed to allow users to self-assess the quality of their data by checking that all mandatory elements have been included and that all reference codes have been used correctly. Each form must be uploaded to the correspondent validator link when completed. The tool will provide an overview of the analysis carried out on the content.
-The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-colored summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC. 
-When a form is fully filled, and all the mandatory data were included according to the IOTC standard an INFO message will be provided including a summary of the processed information and a validation summary message indicating that the form provided can be successfully processed and submitted to the IOTC.

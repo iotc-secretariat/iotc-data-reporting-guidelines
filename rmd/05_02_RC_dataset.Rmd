@@ -1,0 +1,54 @@
+## Amount of fish caught and retained {#RCdataset}
+
+#### Description
+
+Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.
+
+#### Conservation and Management Measures
+
+- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
+- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
+- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
+
+Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
+Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
+Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
+
+#### Sources
+
+[Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
+
+#### Contents
+
+Estimates of retained catch reported in live weight equivalent (metric tonnes; t).
+
+No retained catches of thresher sharks oceanic whitetip sharks, and mobulid rays are expected to be reported from longline and surface fisheries which are subject to retention bans for these species.
+
+#### Dimensions
+
+#### Code lists
+
+- [Fishing fleet](https://data.iotc.org/reference/1.0.0/domain/admin/#fleets)
+- [Fishery](https://data.iotc.org/reference/1.0.0/domain/fisheries/#fisheries)
+- [IOTC main area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOareasMain)
+- [Retain reason](https://data.iotc.org/reference/1.0.0/domain/biological/#retainReasons)
+- [Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)
+
+#### Reporting metadata
+
+- Focal point full name
+- Focal point email
+- Organisation name
+- Organisation email (optional)
+- Finalisation date
+- Submission date
+- Reporting year
+- Reporting entity
+- Flag state
+
+#### Checks
+
+#### Form
+
+[1 RC](../forms/#Form_1RC)

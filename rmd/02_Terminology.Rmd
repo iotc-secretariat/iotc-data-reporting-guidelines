@@ -32,18 +32,17 @@ dtfunction(ETP_SPECIES) %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontS
 
 Finally and while optional, the reporting of statistics for all other bycatch species is encouraged to monitor the ecosystem effects of fishing, especially when the catches of these species represent a significant proportion of the total catches of the fishery concerned.
 
-
 ## Fishing fleet
 
-A fishing fleet is a group of fishing vessels that may operate in the [IOTC area of competence](#AreaCompetence) and whose fishing operations and catches of tuna and tuna-like species are under the responsibility of a political entity or sub-entity recognized by the IOTC. The fishing fleet is derived from the combination of the flag state and reporting entity (see section on [Reporting metadata](#metadata)). In most cases, the fishing fleet corresponds to the flag state but some differences stem from: (i) when the CPC is composed of multiple entities (i.e., European Union (EUR) and China (CHN)), (ii) the cases of France Overseas Territories (FRAT) and British Indian Overseas Territories (GBRT), and (iii) the existence of estimates of unreported catches not included elsewhere (e.g., NEI.PS) that need to be accounted for in the IOTC process.  
+A fishing fleet is a group of fishing vessels that may operate in the [IOTC area of competence](#AreaCompetence) and whose fishing operations and catches of tuna and tuna-like species are under the responsibility of a political entity or sub-entity recognized by the IOTC. The fishing fleet is derived from the combination of the flag state and reporting entity (see section on [Reporting metadata](#MetadataSection)). In most cases, the fishing fleet corresponds to the flag state but some differences stem from: (i) when the CPC is composed of multiple entities (i.e., European Union (EUR) and China (CHN)), (ii) the cases of France Overseas Territories (FRAT) and British Indian Overseas Territories (GBRT), and (iii) the existence of estimates of unreported catches not included elsewhere (e.g., NEI.PS) that need to be accounted for in the IOTC process.  
 
 ## Fishery categories
 
 #iotclonglinefishery
 #iotcsurfacefishery
-#iotc
-Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
+#iotcoastalfishery
 
+Cf. Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
 
 ## Fisheries
 

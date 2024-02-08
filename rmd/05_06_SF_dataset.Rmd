@@ -1,0 +1,32 @@
+## Geo-referenced size frequencies {#SFdataset}
+
+#### Description
+
+#### Resolutions
+
+#### Source
+
+#### Contents
+
+#### Dimensions
+
+#### Code lists
+
+#### Reporting metadata
+
+- Focal point full name
+- Focal point email
+- Organisation name
+- Organisation email (optional)
+- Finalisation date
+- Submission date
+- Reporting year
+- Reporting entity
+- Flag state
+
+#### Data checks
+
+#### Reporting form
+
+\pagebreak
+

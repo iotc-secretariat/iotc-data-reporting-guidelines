@@ -1,4 +1,17 @@
-# Submission procedure
+# Submission procedure {#SubmissionSection}
+
+## e-MARIS platform
+
+## Reporting cycle
+
+When the validation process is completed, Statistical data must be submitted by e-Maris electronic reporting system according to the IOTC data reporting cycle specified in paragraph 7 (Timeliness of data submission to the IOTC Secretariat) of IOTC Resolution 15/02 as follows:
+
+-	Mandatory statistics (RC, DI, DR, CE, SF) for the year before: Jun. 30th.  
+-	Daily position active buoys data (3-BU):  at least 60 days, but no longer than 90 days from the end of the month.
+<!-- -	ROS Observers data:  within 150 days of completion of each trip. -->
+-	Update of mandatory statistical data for longline fleets:  Dec 30th. In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. 
+
+Revisions to existing datasets (for all fisheries) can be provided at any time within the limits indicated by Res. 15/02 (para. 7c) as follows: Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the Secretariat and reviewed by the Scientific Committee. The Scientific Committee will advise the Secretariat if revisions are then accepted for scientific use. 
 
 ## Semantics
 
@@ -17,18 +30,11 @@ a)	CPCs should submit by the deadline one form for each data set, and each of th
 b)	Any subsequent resubmission of forms 1-RC interim, 1-DI interim, 1-DR, 2-FC interim, 3-CE ¬interim (multiple), 4-SF interim (multiple) is considered as a full replacement of the annual information for that given dataset as originally provided in a)
 c)	The use of the single versions of form 3-CE interim, 3-BU, and 4-SF interim is endorsed only for the provision of updates of already submitted annual data in a) or b) for a single fishery (3-CE), species (4-SF), or vessel (3-BU).
 
-## Reporting cycle
+# Online data validation
 
-When the validation process is completed, Statistical data must be submitted by e-Maris electronic reporting system according to the IOTC data reporting cycle specified in paragraph 7 (Timeliness of data submission to the IOTC Secretariat) of IOTC Resolution 15/02 as follows:
-
--	Mandatory statistics (RC, DI, DR, CE, SF) for the year before: Jun. 30th.  
--	Daily position active buoys data (3-BU):  at least 60 days, but no longer than 90 days from the end of the month.
-<!-- -	ROS Observers data:  within 150 days of completion of each trip. -->
--	Update of mandatory statistical data for longline fleets:  Dec 30th. In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. 
-
-Revisions to existing datasets (for all fisheries) can be provided at any time within the limits indicated by Res. 15/02 (para. 7c) as follows: Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the Secretariat and reviewed by the Scientific Committee. The Scientific Committee will advise the Secretariat if revisions are then accepted for scientific use. 
-
-## e-MARIS platform
+Online data validators are designed to allow users to self-assess the quality of their data by checking that all mandatory elements have been included and that all reference codes have been used correctly. Each form must be uploaded to the correspondent validator link when completed. The tool will provide an overview of the analysis carried out on the content.
+The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-colored summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC. 
+When a form is fully filled, and all the mandatory data were included according to the IOTC standard an INFO message will be provided including a summary of the processed information and a validation summary message indicating that the form provided can be successfully processed and submitted to the IOTC.
 
 ## Data revisions
 

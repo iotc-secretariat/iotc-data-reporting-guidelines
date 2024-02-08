@@ -53,33 +53,13 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "04_Dimensions.Rmd"}
 ```
 
-```{r child = "05_01_Datasets.Rmd"}
-```
-
-```{r child = "05_02_Datasets.Rmd"}
-```
-
-```{r child = "05_03_Datasets.Rmd"}
-```
-
-```{r child = "05_04_Datasets.Rmd"}
+```{r child = "05_00_Datasets.Rmd"}
 ```
 
 ```{r child = "06_Submission.Rmd"}
 ```
 
 ```{r child = "09_References.Rmd", eval = FALSE}
-```
-
-\pagebreak
-
-```{r child = "ANNEX_1_PRIMARY_SPECIES.Rmd", eval = FALSE}
-```
-
-```{r child = "ANNEX_2_OTHER_SPECIES.Rmd", eval = FALSE}
-```
-
-```{r child = "ANNEX_3_ETP_SPECIES.Rmd", eval = FALSE}
 ```
 
 \pagebreak

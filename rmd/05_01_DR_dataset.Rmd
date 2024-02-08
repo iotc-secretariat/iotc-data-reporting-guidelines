@@ -1,23 +1,21 @@
-# Datasets {#DatasetSection}
-
-## Species presence in the catch {#DR}
+## Species presence in the catch {#DRdataset}
 
 #### Description
 
 Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group broken down by broad fishery category.
 
-#### Resolutions
+#### Conservation and Management Measures
 
 - Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
 - Res. [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc) -- _On measures applicable in case of non-fulfilment of reporting obligations in the IOTC_
 
-#### Source
+#### Sources
 
 [Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
 
 #### Contents
 
-Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) to indicate positive catch or a value of 'zero' (0) to indicate no catch (zero landings + zero discards).
+Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) for some positive catch or a value of 'zero' (0) in case of absence of catch (i.e., no landing and no discard).
 
 #### Dimensions
 
@@ -50,6 +48,3 @@ The list of species reported in the dataset must be consistent with the species 
 #### Reporting form
 
 Form [1DR](../forms/#Form_1DR)
-
-\pagebreak
-

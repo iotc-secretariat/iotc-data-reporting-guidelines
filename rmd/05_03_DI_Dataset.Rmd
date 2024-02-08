@@ -1,4 +1,4 @@
-## Amount of discards {#DI}
+## Amount of discards {#DIdataset}
 
 #### Description
 
