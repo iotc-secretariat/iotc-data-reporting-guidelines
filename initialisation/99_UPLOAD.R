@@ -1,6 +1,6 @@
 library(RCurl)
 
-SERVER_ROOT = "/var/www/static/reference"
+SERVER_ROOT = "/reference"
 
 DATA_IOTC_SERVER_IP = Sys.getenv("DATA_IOTC_SERVER_IP")
 DATA_IOTC_USERNAME  = Sys.getenv("DATA_IOTC_USERNAME")

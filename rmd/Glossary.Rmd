@@ -324,13 +324,13 @@ Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels 
 
 ### T {#T}
 
-#### Tagging
+<!-- #### Tagging -->
 
-Marking or attaching a tag to an animal so that it can be identified when recaptured; used to study fish growth, movement, migration, stock structure and size.
+<!-- Marking or attaching a tag to an animal so that it can be identified when recaptured; used to study fish growth, movement, migration, stock structure and size. -->
 
-#### Taxonomic group
+<!-- #### Taxonomic group -->
 
-An organism’s location in the biological classification system; used to identify and group those with similar physical, chemical and/or structural composition.
+<!-- An organism’s location in the biological classification system; used to identify and group those with similar physical, chemical and/or structural composition. -->
 
 #### Tonnage {#tonnage}
 

@@ -4,26 +4,34 @@
 
 #### Description
 
-Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group further broken down by broad fishery category, i.e., [coastal](#iotccoastalfishery) or [industrial](#iotcindustrialfishery).
+Matrix of presence of species in the retained catches or discards of each fishing fleet by gear group broken down by broad fishery category.
 
-#### CMMs
+#### Resolutions
 
-Res. [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc)
+- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) - _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
+- Res. [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc) - _On measures applicable in case of non-fulfilment of reporting obligations in the IOTC_
 
 #### Source
 
-[Fishing logbooks](#fishinglogbook), [fish landings](#landings), observations-at-sea
+[Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
 
 #### Contents
 
 Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) to indicate positive catch or a value of 'zero' (0) to indicate no catch (zero landings + zero discards).
 
-#### Scope
+#### Dimensions
 
-- Species: IOTC species, most commonly caught elasmobranch species, and other bycatch species (shortbill spearfish, other sharks, and other bony fishes).
+- Species: IOTC species, mobulid rays, common sharks, and other bycatch species   
 - Gear groups: hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears
+- Broad fishery categories: [coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
 
-#### Metadata
+#### Code lists
+
+- [Species](../domain/biological/#allSpecies)
+- [Gear groups](../domain/fisheries/#gearGroups)
+- [Fishery categories](../domain/fisheries/#fisheryCategories)
+
+#### Reporting metadata
 
 - Focal point full name
 - Focal point email
@@ -35,19 +43,13 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 - Reporting entity
 - Flag state
 
-#### Dimensions
-
-- [Species](../domain/biological/#allSpecies)
-- [Gear groups](../domain/fisheries/#gearGroups)
-- [Fishery categories](../domain/fisheries/#fisheryCategories)
-
-#### Checks
+#### Data checks
 
 The list of species reported in the dataset must be consistent with the species reported in the retained catch or discard datasets.
 
-#### Form
+#### Reporting form
 
-[1 DR](../forms/#Form_1DR)
+Form [1DR](../forms/#Form_1DR)
 
 \pagebreak
 
