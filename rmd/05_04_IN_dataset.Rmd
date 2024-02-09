@@ -10,14 +10,10 @@ Annual number of interactions of longline and surface fisheries with endangered,
 - Res. [13/05](https://iotc.org/cmm/resolution-1305-conservation-whale-sharks-rhincodon-typus) -- _On the conservation of whale sharks (Rhincodon typus)_
 - Res. [23/06](https://iotc.org/cmm/resolution-2306-conservation-cetaceans) -00- _On the conservation of cetaceans_
 - Res. [23/07](https://iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries) -- _On reducing the incidental bycatch of seabirds in longline fisheries_
+- Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid rays caught in association with fisheries in the IOTC are fo competence_
 
 #### Source
-
-#### Contents
-
-#### Dimensions
-
-#### Code lists
+[Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
 
 #### Reporting metadata
 
@@ -31,8 +27,35 @@ Annual number of interactions of longline and surface fisheries with endangered,
 - Reporting entity
 - Flag state
 
-#### Data checks
+#### Dimensions and Code lists 
+
+<!-- Main Stratum (?) , to be in line with the forms -->
+
+- Broad fishery categories: All fisheries
+[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
+[Fishery](../domain/fisheries/#fisheries)
+<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
+- Area
+[IOTC main area](../domain/admin/#IOareasMain)
+
+<!-- Original data (?) , to be in line with the forms -->
+-Type of data
+[Type of data](../domain/data/#Types_of_data_(DTATY))
+
+<!-- Source coverage (?) , to be in line with the forms -->
+-Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
+[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+
+<!-- ETP interactions -->
+- Interactions with Marine turtles, seabirds and mobulid rays
+- Interactions with Cetaceans and Whale sharks, indicating the existence of national Legislation and reference.
+
+#### Checks
+
+All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
 
 #### Reporting form
+
+Form [1IN](../forms/#Form_1IN)
 
 \pagebreak
