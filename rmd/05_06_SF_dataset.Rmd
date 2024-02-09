@@ -2,15 +2,13 @@
 
 #### Description
 
-#### Resolutions
+Geo-referenced Individual lengths of IOTC species and the most commonly caught elasmobranch species by fishery, grid area and month strata. The size sampling shall be run under strict and well described random sampling schemes  which are necessary to provide unbiased figures of the sizes taken. Sampling coverage shall be set to at least one fish measured by ton caught, by species and type of fishery, with samples being representative of all the periods and areas fished. 
+Sampling details shall be reported in the form 4-SF where the number of sampled fish request the actual number of samples measured in that size bin for the given stratum while the number of fish will hold the number of fish estimated in the size bin from the actual number of samples. When length-frequency to catch-at-size data are not being raised and no substitution schemes are being used, the columns "No. samples" and "No. fish" must contain the same values.
 
-#### Source
+#### Conservation and Management Measures
 
-#### Contents
-
-#### Dimensions
-
-#### Code lists
+- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
 
 #### Reporting metadata
 
@@ -24,9 +22,61 @@
 - Reporting entity
 - Flag state
 
+#### Contents
+
+Length/weight data by species, fishery, and 5° grid area and month strata
+
+#### Dimensions and Code lists
+
+<!-- Main Stratum (?) , to be in line with the forms -->
+- Month
+- Broad fishery categories: All fisheries
+[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
+[Fishery](../domain/fisheries/#fisheries)
+- Grid: regular grids with the adopted coding scheme derived from the FAO / CWP aerial grid system. Size data should be reported by 5°grid area.
+[Grid](../domain/admin/#IOTCgridsCESF)
+-IOTC species and common sharks sampled
+[Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)  
+-Sex
+[Sex](..domain/biological/#sex)
+-Type of fate as indicating that the fish has been retained or discarded.
+[Type of fate](..domain/biological/#Types_of_fate(SPCFTT))
+-Fate: possible fates, combining the reasons for retain and those for discard.
+[Fates](..domain/biological/#Fates_(SPCFTE*))
+-Estimation
+[Estimation](../domain/data/#estimations)
+
+<!-- Original data (?) , to be in line with the forms -->
+-Type of data
+[Type of data](../domain/data/#Types_of_data_(DTATY))
+-Source
+[Source](../domain/data/#Sources_(DTASRC*))
+-Procesing: type of processing applied to raw information
+[Procesing](../domain/data/#Processings_(DTAPRO*))
+[Raising](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
+
+<!-- Coverage  -->
+-Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
+[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+
+<!--Measurement -->
+Types of measurement: Identify a given measurement type as length or weight measurements.
+[Types of measurements](../domain/biological/#Types_of_measurement_(MORTME))
+Measure: Possible measurement types, combining those specific for individual lengths and weights.
+[Measure](../domain/biological/#Measurement_types_(MORMTY*))
+Tools
+[Tools](../domain/biological/#allMeasurementTools)
+
+<!-- Number of Samples and fish by size class -->
+Lower and higher size class values
+No.samples
+No. fish
+
 #### Data checks
+ll the metadata, main stratum, original data and Source coverage dimension fields are mandatory
 
 #### Reporting form
 
-\pagebreak
+Form [4SF](../forms/#Form_4SF)
 
+\pagebreak
