@@ -15,12 +15,6 @@ Total annual estimates of the amount of fish caught and retained by fishing flee
 - Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
 - Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
 
-<!-- #### Sources -->
-
-<!-- <!-- sources is part of the data or dimensions, so we'll remove from here -->
-
-<!-- [Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea -->
-
 #### Contents
 
 Annual estimates of retained catch reported in live weight equivalent (metric tonnes; t) for IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.

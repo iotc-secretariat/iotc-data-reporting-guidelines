@@ -2,16 +2,16 @@
 
 Several mandatory (M) and optional (O) descriptive metadata elements have been identified to provide key information related to the submission and general characteristics of each IOTC dataset.
 
-| Element        | Requirement | Description | Format | Example | Code list  | 
-| :------------ | :----: | :----------------------- | :-------- | :------------ | :------------ |
-| **Submission information** ||||||
-| [Focal point full name]{#fcname} | M | Name of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John Doe  | - |
-| [Focal point email]{#fcemail} | M | Email address of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John.Doe@fao.org | - | 
-| [Organisation name]{#orgname} | M | Name of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | Atlantis National Institute of Fisheries | - |
-| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | nif@gov.atl | 
-| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 | - |
-| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 | - |
-| **General information** |||||
-| [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 | - |
-| [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | Plain text | EUR | [Entity](https://data.iotc.org/reference/1.0.0/domain/admin/#entities) | 
-| [Flag state]{#repflagstate} | M | Code of the country registration of the fishery vessels | Plain text | FRA | [Countries](https://data.iotc.org/reference/1.0.0/domain/admin/#countries) |
+| Element        | Requirement | Description | Format | Example | Code list  | Code list field |
+| :------------ | :----: | :----------------------- | :-------- | :-------------- | :-----------: | :-------: |
+| **Submission information** |||||||
+| [Focal point full name]{#fcname} | M | Name of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John Doe  | - ||
+| [Focal point email]{#fcemail} | M | Email address of the focal point in charge of the reporting of the data to the IOTC Secretariat | Valid email address | John.Doe@fao.org | - || 
+| [Organisation name]{#orgname} | M | Name of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | National Institute of Fisheries | - ||
+| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the reporting of the data to the IOTC Secretariat | Valid email address | nif@gov.sc ||
+| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 | - ||
+| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 | - ||
+| **General information** ||||||
+| [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 | - ||
+| [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | Plain text | EUR | [Entity](https://data.iotc.org/reference/1.0.0/domain/admin/#entities) | CODE |
+| [Flag state]{#repflagstate} | M | Code of the country registration of the fishery vessels | [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) | FRA | [Countries](https://data.iotc.org/reference/1.0.0/domain/admin/#countries) | CODE |
