@@ -31,13 +31,15 @@ Annual estimates of retained catch reported in live weight equivalent (metric to
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Dimensions & code lists 
+#### Main strata dimensions 
 
 ##### Main Stratum
 
+- Quarter: Optional temporal resolution [0: Not available; 1: Jan-Mar; 2: Apr-Jun; 3: Jul-Sep; 4: Oct-Dec
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOTCareasMain)
 - [Reasons for retaining](../domain/biological/#retainReasons)
+- [Species](../domain/legacy/#species)
 
 ##### Original data
 
@@ -49,14 +51,9 @@ Annual estimates of retained catch reported in live weight equivalent (metric to
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-##### Catch
-
-- [Species](../domain/legacy/#species)  
-
 #### Data checks
 
-<!-- All the metadata, main stratum, original data and source coverage dimension fields are mandatory -->
-
+The list of fisheries and species reported in the dataset must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset)
 
 #### Form
 

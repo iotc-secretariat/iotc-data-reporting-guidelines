@@ -1,17 +1,43 @@
 # Metadata {#MetadataSection}
 
-Several mandatory (M) and optional (O) descriptive metadata elements have been identified to provide key information related to the submission and general characteristics of each IOTC dataset.
+## Reporting submission
 
-| Element        | Requirement | Description | Format | Example | Code list  | Code list field |
-| :------------ | :----: | :----------------------- | :-------- | :-------------- | :-----------: | :-------: |
-| **Submission information** |||||||
-| [Focal point full name]{#fcname} | M | Name of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John Doe  | - ||
-| [Focal point email]{#fcemail} | M | Email address of the focal point in charge of the reporting of the data to the IOTC Secretariat | Valid email address | John.Doe@fao.org | - || 
-| [Organisation name]{#orgname} | M | Name of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | National Institute of Fisheries | - ||
-| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the reporting of the data to the IOTC Secretariat | Valid email address | nif@gov.sc ||
-| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 | - ||
-| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 | - ||
-| **General information** ||||||
-| [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 | - ||
-| [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | Plain text | EUR | [Entity](https://data.iotc.org/reference/1.0.0/domain/admin/#entities) | CODE |
-| [Flag state]{#repflagstate} | M | Code of the country registration of the fishery vessels | [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) | FRA | [Countries](https://data.iotc.org/reference/1.0.0/domain/admin/#countries) | CODE |
+Some mandatory (M) and optional (O) descriptive metadata elements have been identified to provide key information related to the submission and management of the data.
+
+| Element        | Requirement | Description | Format | Example |
+| :--------| :----: | :----------------------- | :-------- | :------------ |
+| [Focal point full name]{#fcname} | M | Name of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John Doe  |
+| [Focal point email]{#fcemail} | M | Email address of the focal point in charge of the reporting of the data to the IOTC Secretariat | Valid email address | John.Doe@fao.org |
+| [Organisation name]{#orgname} | M | Name of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | National Institute of Fisheries |
+| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the reporting of the data to the IOTC Secretariat | Valid email address | nif@gov.sc |
+| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 |
+| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 |
+| [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 |
+
+## Data characteristics
+
+Some general information is required to describe the main characteristics of the data reported to the Secretariat, including the reporting entity and flag state that define the [fishing fleet](#fishingfleet) and are common to all datasets, and some additional descriptors providing details on the origin and processing procedure applied to the data included in each stratum, i.e., unique combination of elements defining the datasets.
+
+| Element        | Description | Code list  | Code list field |
+| :------------ | :----------------------- | :-------: | :--------: |
+| [Reporting entity]{#repentity} | Code of the entity reporting the dataset to the IOTC Secretariat | [Entity](../domain/admin/#entities) | CODE |
+| [Flag state]{#repflagstate} | Code of the country registration of the fishery vessels | [Countries](../domain/admin/#countries) | CODE |
+| [Amount of fish caught and retained](#RCdataset) |||||
+| Original data type       | Preliminary or final status of the data | [Type of data](../domain/data/#types)           | CODE |
+| Original data source     | Source of information of the catch data | [Sources](../domain/data/#sourcesRC)            | CODE |
+| Original data processing | Processing applied to the catch data    | [Processings](../domain/data/#processingsRC)    | CODE |
+| Source coverage type     | Variable used to derive the coverage of the catch data | [Coverage types](../domain/data/#coverageTypes) | CODE|
+| [Amount of discards](#DIdataset) |||||
+
+| [Interactions with ETP species](#IN) |||||
+| [Geo-referenced catches and efforts](#CEdataset) |||||
+| [Geo-referenced size frequencies](#SFdataset) |||||
+| [AFAD-related activities](#AAdataset) |||||
+| [DFOB-related activities](#DAdataset) |||||
+| [Daily buoy positions](#BUdataset) |||||
+| [Fishing craft statistics](#FCdataset) |||||
+
+
+
+
+

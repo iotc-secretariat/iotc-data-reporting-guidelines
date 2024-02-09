@@ -1,7 +1,0 @@
-# References
-
-CWP Handbook of Fishery Statistics
-IOTC Data reference catalogue
-IOTC Fisheries Identification Wizard
-IOTC Species Identification cards 
-International Standard Statistical Classification of Fishing Gear

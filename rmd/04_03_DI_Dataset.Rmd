@@ -4,8 +4,7 @@
 
 Total annual estimates of the amount of fish caught and discarded by fishing fleet, fishery, IOTC main area, species, and condition. Estimates can be reported in numbers or live weight equivalent. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards. Data must be reported for the IOTC species, mobulid rays (Res. 19/03), whale sharks (Res. 13/05), cetaceans (Res. 23/06), and the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”).
 
-#### Resolutions 
-<!--DEFINE Resolutions or CMMs -->
+#### Conservation and Management Measures
 
 #### Conservation and Management Measures
 
@@ -16,11 +15,6 @@ Total annual estimates of the amount of fish caught and discarded by fishing fle
 -Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
 -Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
 -Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
-
-
-#### Source
-
-<!-- Define  if we'll keep sources as part of the data or dimensions -->
 
 #### Contents
 
@@ -38,9 +32,9 @@ Estimates of the amount of fish caught and discarded by fishing fleet in numbers
 - Reporting entity
 - Flag state
 
-#### Dimensions and Code lists 
+#### Main strata dimensions 
 
-<!-- Main Stratum (?) , to be in line with the forms -->
+##### Main Stratum
 
 - Broad fishery categories: All fisheries
 [coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
@@ -72,13 +66,9 @@ Estimates of the amount of fish caught and discarded by fishing fleet in numbers
 [Raisings](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
 [Catch Units](https://data.iotc.org/reference/1.0.0/domain/fisheries/#catchUnits)
 
-<!-- all the links and paths need to be revised -->
-
-
 #### Checks
 
 All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
-
 
 #### Form
 

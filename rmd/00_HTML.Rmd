@@ -50,16 +50,10 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "03_Metadata.Rmd"}
 ```
 
-```{r child = "04_Dimensions.Rmd"}
+```{r child = "04_00_Datasets.Rmd"}
 ```
 
-```{r child = "05_00_Datasets.Rmd"}
-```
-
-```{r child = "06_Submission.Rmd"}
-```
-
-```{r child = "09_References.Rmd", eval = FALSE}
+```{r child = "05_Submission.Rmd"}
 ```
 
 \pagebreak
