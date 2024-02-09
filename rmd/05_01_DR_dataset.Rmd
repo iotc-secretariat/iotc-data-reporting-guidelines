@@ -31,19 +31,19 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
 #### Data checks
 
-The list of species reported in the dataset must be consistent with the species reported in the retained catch or discard datasets.
+The list of species reported in the dataset must be consistent with the species reported in the retained catch and discard datasets.
 
 #### Reporting form
 
