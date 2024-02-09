@@ -2,7 +2,7 @@
 
 #### Description
 
-Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.
+Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species.
 <!--quarterly "if possible", not necessarily means voluntary (?) to discuss -->
 
 #### Conservation and Management Measures
@@ -11,71 +11,58 @@ Total annual estimates of the amount of fish caught and retained by fishing flee
 - Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
 - Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
 - Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
--Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
--Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
--Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
+- Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
+- Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
+- Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
 
-#### Sources
+<!-- #### Sources -->
 
-<!-- sources is part of the data or dimensions, so we'll remove from here -->
+<!-- <!-- sources is part of the data or dimensions, so we'll remove from here -->
 
-[Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
+<!-- [Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea -->
 
 #### Contents
 
-Estimates of retained catch reported in live weight equivalent (metric tonnes; t).
-
-No retained catches of thresher sharks oceanic whitetip sharks, and mobulid rays are expected to be reported from longline and surface fisheries which are subject to retention bans for these species.
-<!-- what happens if this ban is not fully implemented by all the CPCs?. According Res 13/06 the ban for retained OCS is a provisional measure, to be reviewed in 2016 ( which never happens), and applies for high seas (?). To discuss. I guess that we need to focus in what must be reported, no need to clarify what is not expected. At the end is important for us collect this information too, because indicates the level of implementation of the CMMs -->
-
+Annual estimates of retained catch reported in live weight equivalent (metric tonnes; t) for IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
-#### Dimensions and Code lists 
+#### Dimensions & code lists 
 
-<!-- Main Stratum (?) , to be in line with the forms -->
+##### Main Stratum
 
-- Broad fishery categories: All fisheries
-[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
-[Fishery](../domain/fisheries/#fisheries)
-<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
-- Area
-[IOTC main area](../domain/admin/#IOareasMain)
--Retained reason
-[Retain reason](../domain/biological/#retainReasons)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [IOTC main areas](../domain/admin/#IOTCareasMain)
+- [Reasons for retaining](../domain/biological/#retainReasons)
 
-<!-- Original data (?) , to be in line with the forms -->
--Type of data
-[Type of data](../domain/data/#Types_of_data_(DTATY))
--Source
-[Source](../domain/data/#Sources_(DTASRC*))
--Procesing: type of processing applied to raw information
-[Procesing](../domain/data/#Processings_(DTAPRO*))
+##### Original data
 
-<!-- Source coverage (?) , to be in line with the forms -->
+- [Types of data](../domain/data/#types)
+- [Retained catches data sources](../domain/data/#sourcesRC)
+- [Retained catches data processings](../domain/data/#processingsRC)
 
--Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
-[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+##### Source coverage
 
-<!-- Catch  -->
--Catches of IOTC species, common sharks, and other bycatch species - [Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)  
+- [Coverage types](../domain/data/#coverageTypes)
 
-<!-- all the links and paths need to be revised -->
+##### Catch
 
+- [Species](../domain/legacy/#species)  
 
-#### Checks
+#### Data checks
 
-All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
+<!-- All the metadata, main stratum, original data and source coverage dimension fields are mandatory -->
+
 
 #### Form
 
