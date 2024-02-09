@@ -20,14 +20,66 @@ Total annual estimates of the amount of fish caught and discarded by fishing fle
 
 #### Source
 
+<!-- Define  if we'll keep sources as part of the data or dimensions -->
+
 #### Contents
 
-#### Scope
+Estimates of the amount of fish caught and discarded by fishing fleet in numbers or live weight equivalent 
 
-#### Metadata
+#### Reporting metadata
 
-#### Dimensions
+- Focal point full name
+- Focal point email
+- Organisation name
+- Organisation email (optional)
+- Finalisation date
+- Submission date
+- Reporting year
+- Reporting entity
+- Flag state
+
+#### Dimensions and Code lists 
+
+<!-- Main Stratum (?) , to be in line with the forms -->
+
+- Broad fishery categories: All fisheries
+[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
+[Fishery](../domain/fisheries/#fisheries)
+<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
+- Area
+[IOTC main area](../domain/admin/#IOareasMain)
+-Retained reason
+[Discard reason](../domain/biological/#discardReasons)
+
+<!-- Original data (?) , to be in line with the forms -->
+-Type of data
+[Type of data](../domain/data/#Types_of_data_(DTATY))
+-Source
+[Source](../domain/data/#Sources_(DTASRC*))
+-Procesing: type of processing applied to raw information
+[Procesing](../domain/data/#Processings_(DTAPRO*))
+
+<!-- Source coverage (?) , to be in line with the forms -->
+
+-Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
+[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+
+<!-- Catch  -->
+-Discards of IOTC species, common sharks, and other bycatch species by condition, raising and unit
+
+[Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)  
+[Condition](https://data.iotc.org/reference/1.0.0/domain/biological/#individualConditions)
+[Raisings](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
+[Catch Units](https://data.iotc.org/reference/1.0.0/domain/fisheries/#catchUnits)
+
+<!-- all the links and paths need to be revised -->
+
 
 #### Checks
 
+All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
+
+
 #### Form
+
+Form [1DI](../forms/#Form_1DI)
