@@ -2,19 +2,22 @@
 
 #### Description
 
-Estimates of catches by fishing fleet, fishery, species and of fishing efforts by fishing fleet, fishery for spatio-temporal strata that vary according to the main IOTC fishery categories (Table 1). Catch data must be reported for the IOTC species as well as for the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category (Table 1). Effort units should be consistent with the recording requirements established in Res. 15/01.
+Estimates of catches by fishing fleet, fishery, species and fishing efforts by fishing fleet, fishery for spatio-temporal strata that vary according to the main IOTC fishery categories (Table 1). Catch data must be reported for the IOTC species as well as for the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category (Table 1). Effort units should be consistent with the recording requirements established in Res. 15/01.
 
-The data must be extrapolated to the total national monthly catches for each fishery in the case of longline and surface fisheries. The data must be accompanied by documents describing the extrapolation procedures (including raising factors corresponding to the logbook coverage) and submitted routinely.
+For longline and surface fisheries, data must be extrapolated to national monthly catch totals. Documentation describing the extrapolation procedures (including increasing factors for logbook coverage) is also required and must be routinely submitted.
 
-#### Resolutions
+#### Conservation and Management Measures
 
-#### Source
+- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
+- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
+- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
+-Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
+-Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
+-Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
 
 #### Contents
-
-#### Dimensions
-
-#### Code lists
+Species-specific catch and fishing effort by fishery, grid area and month strata, raised to the annual catch. For Coastal fisheries is required geographic area and year strata, or finer spatio-temporal resolution.
 
 #### Reporting metadata
 
@@ -28,8 +31,48 @@ The data must be extrapolated to the total national monthly catches for each fis
 - Reporting entity
 - Flag state
 
+#### Dimensions and Code lists 
+
+<!-- Main Stratum (?) , to be in line with the forms -->
+
+- Broad fishery categories: All fisheries
+[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
+[Fishery](../domain/fisheries/#fisheries)
+<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
+- Grid: regular grids with the adopted coding scheme derived from the FAO / CWP aerial grid system. Surface and longline fisheries should report by 1° grid area an 5 1° grid area, respectively.
+[Grid](../domain/admin/#IOTCgridsCESF)
+-Estimation
+[Estimation](../domain/data/#estimations)
+
+<!-- Original data (?) , to be in line with the forms -->
+-Type of data
+[Type of data](../domain/data/#Types_of_data_(DTATY))
+-Source
+[Source](../domain/data/#Sources_(DTASRC*))
+-Procesing: type of processing applied to raw information
+[Procesing](../domain/data/#Processings_(DTAPRO*))
+[Raising](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
+
+<!-- Source coverage (?) , to be in line with the forms -->
+-Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
+[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+
+<!--Effort -->
+Units used to report the level of effort and values
+[Effort units](../domain/fisheries/#effortUnits)
+
+<!-- Catch by species -->
+-Catches of IOTC species and common sharks. 
+[Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)  
+
+
 #### Data checks
+
+All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
 
 #### Reporting form
 
+Form [3CE](../forms/#Form_3CE)
+
+\pagebreak
 

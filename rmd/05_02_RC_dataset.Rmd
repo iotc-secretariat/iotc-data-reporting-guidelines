@@ -5,7 +5,6 @@
 Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.
 <!--quarterly "if possible", not necessarily means voluntary (?) to discuss -->
 
-
 #### Conservation and Management Measures
 
 - Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
@@ -81,3 +80,5 @@ All the metadata, main stratum, original data and Source coverage dimension fiel
 #### Form
 
 [1 RC](../forms/#Form_1RC)
+
+\pagebreak
