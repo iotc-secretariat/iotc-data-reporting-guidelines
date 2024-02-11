@@ -13,12 +13,6 @@ Matrix of presence of species in the retained catches and discards of each fishi
 
 Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of 'one' (1) in case of positive catch or a value of 'zero' (0) in case of absence of catch (i.e., no landing and no discard). Species include IOTC species, mobulid rays, common sharks, and other bycatch species. All gear groups (hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears) are included and further broken down by broad fishery category, i.e., [coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery).
 
-#### Main strata dimensions
-
-- [Species](../domain/biological/#allSpecies)
-- [Gear groups](../domain/fisheries/#gearGroups)
-- [Fishery categories](../domain/fisheries/#fisheryCategories)
-
 #### Reporting metadata
 
 - [Focal point full name](#fcname)
@@ -31,12 +25,18 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data checks
+#### Data dimensions
 
-The list of species reported in the dataset must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset)
+- [Species](../domain/biological/#allSpecies)
+- [Gear groups](../domain/fisheries/#gearGroups)
+- [Fishery categories](../domain/fisheries/#fisheryCategories)
 
-#### Reporting form
+#### Reporting form template
 
 Form [1DR](../forms/#Form_1DR)
 
-\pagebreak
+<!-- #### Data checks -->
+
+<!-- The list of species reported in the dataset must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset) -->
+
+<hr style="border:1.5px solid black">

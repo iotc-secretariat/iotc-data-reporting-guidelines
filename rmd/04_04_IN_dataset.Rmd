@@ -1,10 +1,10 @@
-## Interactions with ETP species {#IN}
+## Interactions with ETP species {#INdataset}
 
 #### Description
 
-Annual number of interactions of longline and surface fisheries with endangered, threatened, and protected species by fishing fleet, fishery and IOTC main area
+Annual number of interactions of longline and surface fisheries with endangered, threatened, and protected species by fishing fleet, fishery and IOTC main area.
 
-#### Resolutions
+#### Conservation and Management Measures
 
 - Res. [12/04](https://iotc.org/cmm/resolution-1204-conservation-marine-turtles) -- _On the conservation of marine turtles_
 - Res. [13/05](https://iotc.org/cmm/resolution-1305-conservation-whale-sharks-rhincodon-typus) -- _On the conservation of whale sharks (Rhincodon typus)_
@@ -12,50 +12,31 @@ Annual number of interactions of longline and surface fisheries with endangered,
 - Res. [23/07](https://iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries) -- _On reducing the incidental bycatch of seabirds in longline fisheries_
 - Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid rays caught in association with fisheries in the IOTC are fo competence_
 
-#### Source
-[Fishing logbooks](#fishinglogbook), [fish landings](#landings), and observations-at-sea
+#### Contents
+
+Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans and whale sharks, with information on the existence of national legislation and its reference in the case of cetaceans and whale sharks.
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+#### Data dimensions 
 
-#### Dimensions and Code lists 
+##### Main stratum
 
-<!-- Main Stratum (?) , to be in line with the forms -->
+- [Fisheries](../domain/fisheries/#fisheries)
+- [IOTC main areas](../domain/admin/#IOareasMain)
 
-- Broad fishery categories: All fisheries
-[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
-[Fishery](../domain/fisheries/#fisheries)
-<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
-- Area
-[IOTC main area](../domain/admin/#IOareasMain)
+##### Original data
 
-<!-- Original data (?) , to be in line with the forms -->
--Type of data
-[Type of data](../domain/data/#Types_of_data_(DTATY))
+- [Types of data](../domain/data/#types)
 
-<!-- Source coverage (?) , to be in line with the forms -->
--Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
-[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+##### Source coverage
 
-<!-- ETP interactions -->
-- Interactions with Marine turtles, seabirds and mobulid rays
-- Interactions with Cetaceans and Whale sharks, indicating the existence of national Legislation and reference.
+- [Coverage types](../domain/data/#coverageTypes)
 
-#### Checks
-
-All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
-
-#### Reporting form
+#### Reporting form template
 
 Form [1IN](../forms/#Form_1IN)
 
-\pagebreak
+<!-- #### Data checks -->
+
+<hr style="border:1.5px solid black">

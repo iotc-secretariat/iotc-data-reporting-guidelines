@@ -2,9 +2,7 @@
 
 #### Description
 
-Total annual estimates of the amount of fish caught and discarded by fishing fleet, fishery, IOTC main area, species, and condition. Estimates can be reported in numbers or live weight equivalent. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards. Data must be reported for the IOTC species, mobulid rays (Res. 19/03), whale sharks (Res. 13/05), cetaceans (Res. 23/06), and the most commonly caught elasmobranch species established for each gear group (i.e., longlines, purse seines, gillnets, and pole-and-lines) in Annex II of Res. 15/01. This Annex also lists the taxa for which the reporting can be done on a voluntary basis (“Optional species to be reported”).
-
-#### Conservation and Management Measures
+Total annual estimates of the amount of fish caught and discarded by fishing fleet, fishery, IOTC main area, species, and condition.
 
 #### Conservation and Management Measures
 
@@ -12,66 +10,52 @@ Total annual estimates of the amount of fish caught and discarded by fishing fle
 - Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
 - Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
 - Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
--Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
--Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
--Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
+- Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
+- Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
+- Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
 
 #### Contents
 
-Estimates of the amount of fish caught and discarded by fishing fleet in numbers or live weight equivalent 
+Discard estimates in numbers or live weight equivalent for the IOTC species, mobulid rays, whale sharks, cetaceans, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards.
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
-#### Main strata dimensions 
+#### Data dimensions 
 
-##### Main Stratum
+##### Main stratum
 
-- Broad fishery categories: All fisheries
-[coastal](#iotccoastalfishery) and [industrial](#iotcindustrialfishery)
-[Fishery](../domain/fisheries/#fisheries)
-<!-- Target species (?) if the new fishery codes are defined included the target species, we will keep this column in the form ?-->
-- Area
-[IOTC main area](../domain/admin/#IOareasMain)
--Retained reason
-[Discard reason](../domain/biological/#discardReasons)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [IOTC main areas](../domain/admin/#IOareasMain)
+- [Reasons for discarding](../domain/biological/#discardReasons)
+- [Species](../domain/biological/#allSpecies)  
+- [Condition](../domain/biological/#individualConditions)
+- [Catch Units](../domain/fisheries/#catchUnits)
 
-<!-- Original data (?) , to be in line with the forms -->
--Type of data
-[Type of data](../domain/data/#Types_of_data_(DTATY))
--Source
-[Source](../domain/data/#Sources_(DTASRC*))
--Procesing: type of processing applied to raw information
-[Procesing](../domain/data/#Processings_(DTAPRO*))
+##### Original data
 
-<!-- Source coverage (?) , to be in line with the forms -->
+- [Types of data](../domain/data/#types)
+- [Discards data sources](../domain/data/#sourcesDI)
+- [Discards data processings](../domain/data/#processingsDI)
 
--Coverage types : Type and proportion of the amount of fish (in number or weight) or fishing effort that is monitored (sampled)
-[Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
+##### Source coverage
 
-<!-- Catch  -->
--Discards of IOTC species, common sharks, and other bycatch species by condition, raising and unit
+- [Coverage types](../domain/data/#coverageTypes)
+- [Raisings](../domain/data/#raisings)
 
-[Species](https://data.iotc.org/reference/1.0.0/domain/biological/#allSpecies)  
-[Condition](https://data.iotc.org/reference/1.0.0/domain/biological/#individualConditions)
-[Raisings](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
-[Catch Units](https://data.iotc.org/reference/1.0.0/domain/fisheries/#catchUnits)
-
-#### Checks
-
-All the metadata, main stratum, original data and Source coverage dimension fields are mandatory
-
-#### Form
+#### Reporting form template
 
 Form [1DI](../forms/#Form_1DI)
 
-\pagebreak
+<!-- #### Data checks -->
+
+<hr style="border:1.5px solid black">

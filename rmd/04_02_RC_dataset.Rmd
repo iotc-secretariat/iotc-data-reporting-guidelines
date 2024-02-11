@@ -3,7 +3,6 @@
 #### Description
 
 Total annual estimates of the amount of fish caught and retained by fishing fleet, fishery, IOTC main area, retain reason, and species.
-<!--quarterly "if possible", not necessarily means voluntary (?) to discuss -->
 
 #### Conservation and Management Measures
 
@@ -17,7 +16,7 @@ Total annual estimates of the amount of fish caught and retained by fishing flee
 
 #### Contents
 
-Annual estimates of retained catch reported in live weight equivalent (metric tonnes; t) for IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the retained catches.
+Retained catch estimates in live weight equivalent (metric tonnes; t) for the IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess seasonality of the retained catches.
 
 #### Reporting metadata
 
@@ -31,9 +30,9 @@ Annual estimates of retained catch reported in live weight equivalent (metric to
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Main strata dimensions 
+#### Data dimensions 
 
-##### Main Stratum
+##### Main stratum
 
 - Quarter: Optional temporal resolution [0: Not available; 1: Jan-Mar; 2: Apr-Jun; 3: Jul-Sep; 4: Oct-Dec
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -51,12 +50,12 @@ Annual estimates of retained catch reported in live weight equivalent (metric to
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-#### Data checks
+#### Reporting form template
 
-The list of fisheries and species reported in the dataset must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset)
+Form [1RC](../forms/#Form_1RC)
 
-#### Form
+<!-- #### Data checks -->
 
-[1 RC](../forms/#Form_1RC)
+<!-- The list of fisheries and species reported in the dataset must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset). -->
 
-\pagebreak
+<hr style="border:1.5px solid black">
