@@ -35,8 +35,4 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 
 Form [1DR](../forms/#Form_1DR)
 
-<!-- #### Data checks -->
-
-<!-- The list of species reported in the dataset must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset) -->
-
 <hr style="border:1.5px solid black">

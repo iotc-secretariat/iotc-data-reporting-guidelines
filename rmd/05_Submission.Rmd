@@ -47,6 +47,10 @@ c)	The use of the single versions of form 3-CE interim, 3-BU, and 4-SF interim i
 
 Include all checks to be made/added to each dataset (value ranges, species lists cross-checks, etc.)
 
+- The lists of species reported in the dataset ["Species presence in the catch"](#DRdataset) must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset).
+
+- The list of fisheries and species reported in the dataset ["Amount of fish caught and retained"](#RCdataset) must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset).
+
 ## Data revisions
 
 "In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the IOTC Secretariat and reviewed by the IOTC Scientific Committee. The IOTC Scientific Committee will advise the IOTC Secretariat if revisions are then accepted for scientific use." Res. 15/02

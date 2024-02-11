@@ -16,7 +16,7 @@ Total annual estimates of the amount of fish caught and discarded by fishing fle
 
 #### Contents
 
-Discard estimates in numbers or live weight equivalent for the IOTC species, mobulid rays, whale sharks, cetaceans, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards.
+Estimates of discards in numbers or live weight equivalent for the IOTC species, mobulid rays, whale sharks, cetaceans, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards.
 
 #### Reporting metadata
 

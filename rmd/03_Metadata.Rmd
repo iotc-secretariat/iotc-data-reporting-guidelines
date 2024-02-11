@@ -38,7 +38,7 @@ Some general information is required to describe the main characteristics of the
 | Source coverage type     | O | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) | CODE |
 | [Geo-referenced catches and efforts](#CEdataset) |||||
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      | CODE |
-| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesCE)            | CODE |
+| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesCE)                      | CODE |
 | Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsCE)  | CODE |
 
 

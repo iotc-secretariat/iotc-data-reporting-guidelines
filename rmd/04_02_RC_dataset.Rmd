@@ -16,7 +16,7 @@ Total annual estimates of the amount of fish caught and retained by fishing flee
 
 #### Contents
 
-Retained catch estimates in live weight equivalent (metric tonnes; t) for the IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess seasonality of the retained catches.
+Estimates of retained catches in live weight equivalent (metric tonnes; t) for the IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess seasonality of the retained catches.
 
 #### Reporting metadata
 
@@ -53,9 +53,5 @@ Retained catch estimates in live weight equivalent (metric tonnes; t) for the IO
 #### Reporting form template
 
 Form [1RC](../forms/#Form_1RC)
-
-<!-- #### Data checks -->
-
-<!-- The list of fisheries and species reported in the dataset must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset). -->
 
 <hr style="border:1.5px solid black">
