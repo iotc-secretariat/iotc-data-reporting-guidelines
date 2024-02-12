@@ -2,7 +2,7 @@
 
 #### Description
 
-Annual number of interactions of [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) with endangered, threatened, and protected species by fishing fleet, fishery and IOTC main area.
+Annual estimates of the numbers of interactions of [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) with endangered, threatened, and protected species by fishing fleet, fishery, IOTC main area, and species group.
 
 #### Conservation and Management Measures
 
@@ -14,7 +14,7 @@ Annual number of interactions of [longline fisheries](#iotclonglinefishery) and 
 
 #### Contents
 
-Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans and whale sharks, with information on national legislation in place in the case of cetaceans and whale sharks.
+Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans and whale sharks, with information on national legislation in place in the case of cetaceans and whale sharks. For each stratum, the data coverage -- i.e., the percentage (%) of occurrences of interactions sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
 #### Reporting metadata
 
@@ -24,6 +24,7 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans an
 
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOareasMain)
+- Species group: marine turtles, seabirds, mobulid rays, cetaceans, and whale sharks
 
 ##### Original data
 

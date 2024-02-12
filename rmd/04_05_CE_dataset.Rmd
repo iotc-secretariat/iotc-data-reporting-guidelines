@@ -19,7 +19,9 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 - Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). In the case of purse seine fisheries, other units can be added to refine the information on effort such as searching time, surface area explored, and number of successful/null sets.
 
-- Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category.
+- Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery).
+
+For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category.
 
 
 | Category | Temporal resolution | Spatial resolution | Catch unit | Extrapolation | 

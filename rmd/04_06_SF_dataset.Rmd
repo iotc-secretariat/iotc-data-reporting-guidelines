@@ -2,7 +2,7 @@
 
 #### Description
 
-Measurements of individual size data by species, fishery, and space and time strata.
+Monthly estimates of size-frequencies of the catch by fishing fleet, fishery, space , species, and sex.
 
 #### Conservation and Management Measures
 
@@ -26,8 +26,8 @@ Measurements of individual size data by species, fishery, and space and time str
 
 #### Contents
 
-of IOTC species and the most commonly caught elasmobranch species 
-
+Measurements of individual length/weight of fish for the IOTC species, common sharks, and other bycatch species
+ 
 Individual sizes by fishery, 5° grid area and month strata.
 
 Sampling coverage shall be set to at least one fish measured by ton caught, by species and type of fishery, with samples being representative of all the periods and areas fished. 
@@ -36,35 +36,45 @@ Lower and higher size class values
 No.samples
 No. fish
 
+For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. 
+
+The use of callipers or measuring boards is recommended while tape measures 
+lower-jaw fork length for billfish and upper-jaw fork length (UJ) for all other 
+standard length for other bycatch species?
+rays: mantle length
+
+Size intervals of 1 cm or 1 kg are recommended for fish measured in fork length or live weight, respectively.
+
+Documents covering sampling and raising procedures shall also be provided, by species and type of fishery.
+
 #### Dimensions
 
 ##### Main stratum
 
 - Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
 - [Grid](../domain/admin/#IOTCgridsCESF)
-- [Species](../domain/biological/#allSpecies)  
+- [Species](../domain/biological/#allSpecies)
 - [Sex](..domain/biological/#sex)
-- [Type of fate](..domain/biological/#Types_of_fate(SPCFTT))
-- [Fates](..domain/biological/#Fates_(SPCFTE*))
-- [Estimation](../domain/data/#estimations)
+- [Types of fate](../domain/biological/#typesOfFate)
+- [Fates](../domain/biological/#fates)
 
 ##### Original data
-[Type of data](../domain/data/#Types_of_data_(DTATY))
-[Source](../domain/data/#Sources_(DTASRC*))
-[Processing](../domain/data/#Processings_(DTAPRO*))
-[Raising](https://data.iotc.org/reference/1.0.0/domain/data/#raisings)
+
+- [Type of data](../domain/data/#types) 
+- [Source](../domain/data/#sourcesSF)
+- [Processing](../domain/data/#processingsSF)
 
 ##### Source coverage
-- [Coverage types](https://data.iotc.org/reference/1.0.0/domain/data/#coverageTypes)
 
-<!--Measurement -->
-Types of measurement: Identify a given measurement type as length or weight measurements.
-[Types of measurements](../domain/biological/#Types_of_measurement_(MORTME))
-Measure: Possible measurement types, combining those specific for individual lengths and weights.
-[Measure](../domain/biological/#Measurement_types_(MORMTY*))
-Tools
-[Tools](../domain/biological/#allMeasurementTools)
+- [Estimations](../domain/data/#estimations)
+- [Coverage types](../domain/data/#coverageTypes)
+- [Raisings](../domain/data/#raisings)
 
+##### Measurement
+
+- [Types of measurement](../domain/biological/#typesOfMeasurement)
+- [Measurements](../domain/biological/#allMeasurementTypes)
+- [Tools](../domain/biological/#allMeasurementTools)
 
 #### Reporting form template
 
