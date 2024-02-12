@@ -16,15 +16,17 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 #### Contents
 
-- Estimates of fishing efforts expressed in units consistent with the recording requirements established in [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of sets/operations for longline and surface fisheries ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
+- Estimates of fishing efforts expressed in units consistent with the recording requirements established in [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
 
-- Estimates of geo-referenced catches for the IOTC species, common sharks, and other bycatch species. The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category (see below). For longline and surface fisheries, data must be extrapolated to national monthly catch totals. Documentation describing the extrapolation procedures (including increasing factors for logbook coverage) is also required and must be routinely submitted.
+- Estimates of geo-referenced catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category: 
 
 | Category | Temporal resolution | Spatial resolution | Catch unit | Extrapolation | 
-| :-------- | :--------- | :---------- | :------------- | :--------------- |
-Surface fisheries  | Month | [1° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids1x1) | Live weight equivalent | M |
-Longline fisheries | Month or finer for the SC | [5° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) for finer for the SC | Numbers or live weight equivalent | M |
-Coastal fisheries | Yearly or finer | [Irregular areas](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Numbers or live weight equivalent | M |
+| :-------- | :--------- | :---------- | :------------- | :-------: |
+[Surface fisheries](#iotcsurfacefishery)  | Month | [1° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids1x1) | Live weight equivalent | M |
+[Longline fisheries](#iotclonglinefishery) | Month or finer for the SC | [5° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) for finer for the SC | Numbers or live weight equivalent | M |
+[Coastal fisheries](#iotccoastalfishery) | Yearly or finer | [Irregular areas](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Numbers or live weight equivalent | O |
+
+Documentation describing the extrapolation procedures (including raising factors for logbook coverage) is also required and must be routinely submitted. A template for reporting information on sampling procedures is available in the document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
 
 #### Reporting metadata
 

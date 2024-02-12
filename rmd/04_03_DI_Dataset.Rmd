@@ -34,6 +34,7 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 
 ##### Main stratum
 
+- Quarter: Optional temporal resolution [0: Not available; 1: Jan-Mar; 2: Apr-Jun; 3: Jul-Sep; 4: Oct-Dec
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOareasMain)
 - [Reasons for discarding](../domain/biological/#discardReasons)
