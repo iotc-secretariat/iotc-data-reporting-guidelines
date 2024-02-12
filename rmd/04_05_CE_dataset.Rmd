@@ -8,6 +8,7 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 - Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
 - Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
 - Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
 - Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
 - Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
@@ -16,15 +17,16 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 #### Contents
 
-- Estimates of fishing efforts expressed in units consistent with the recording requirements established in [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
+- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). In the case of purse seine fisheries, other units can be added to refine the information on effort such as searching time, surface area explored, and number of successful/null sets.
 
-- Estimates of geo-referenced catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category: 
+- Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery). The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category.
+
 
 | Category | Temporal resolution | Spatial resolution | Catch unit | Extrapolation | 
 | :-------- | :--------- | :---------- | :------------- | :-------: |
 [Surface fisheries](#iotcsurfacefishery)  | Month | [1° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids1x1) | Live weight equivalent | M |
-[Longline fisheries](#iotclonglinefishery) | Month or finer for the SC | [5° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) for finer for the SC | Numbers or live weight equivalent | M |
-[Coastal fisheries](#iotccoastalfishery) | Yearly or finer | [Irregular areas](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Numbers or live weight equivalent | O |
+[Longline fisheries](#iotclonglinefishery) | Month or finer for the SC | [5° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) or finer for the SC | Numbers or live weight equivalent | M |
+[Coastal fisheries](#iotccoastalfishery) | Year or finer | [Irregular areas](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Numbers or live weight equivalent | O |
 
 Documentation describing the extrapolation procedures (including raising factors for logbook coverage) is also required and must be routinely submitted. A template for reporting information on sampling procedures is available in the document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
 
@@ -42,13 +44,33 @@ Documentation describing the extrapolation procedures (including raising factors
 
 #### Data dimensions 
 
-##### Main stratum
+##### Catch main stratum
 
+- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
 - [Fishery](../domain/fisheries/#fisheries)
 - [Grid](../domain/admin/#IOTCgridsCESF)
 - [Estimation](../domain/data/#estimations)
 - [Species](../domain/biological/#allSpecies)  
+- [Catch units](../domain/fisheries/#catchUnits)
+
+##### Effort main stratum
+
+- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
+- [Fishery](../domain/fisheries/#fisheries)
+- [Grid](../domain/admin/#IOTCgridsCESF)
+- [Estimation](../domain/data/#estimations)
 - [Effort units](../domain/fisheries/#effortUnits)
+
+##### Original data
+
+- [Types of data](../domain/data/#types)
+- [Retained catches data sources](../domain/data/#sourcesCE)
+- [Retained catches data processings](../domain/data/#processingsCE)
+
+##### Source coverage
+
+- [Coverage types](../domain/data/#coverageTypes)
+- [Raisings](../domain/data/#raisings)
 
 #### Reporting form template
 
