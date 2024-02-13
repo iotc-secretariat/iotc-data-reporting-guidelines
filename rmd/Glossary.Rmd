@@ -52,6 +52,10 @@ International and interorganizational forum for agreeing common definitions, cla
 
 ### D {#D}
 
+#### Disc width {#dw}
+
+Length of a ray measured as the maximum straight distance between wing tips.
+
 #### Discards {#discards}
 
 All non-retained catch, including individuals released alive or discarded dead ([Alverson et al. 1994](https://www.fao.org/3/t4890e/T4890E00.htm)).
@@ -130,7 +134,7 @@ The State in which a vessel is registered, providing it is only registered in on
 
 #### Fork length {#forklength}
 
-Length of a fish measured as the straight distance between the tip of the snout and the point of the fork or ‘V’ of the tail.
+Length of a fish measured as the straight distance between the tip of the snout and the fork of the tail.
 
 #### Free school {#freeschool}
 
@@ -234,7 +238,7 @@ A fishing gear in which branch lines (called snoods or gangions) carrying baited
 
 #### Lower-jaw fork length {#lj}
 
-Length of a fish measured as the straight distance between the tip of the lower jaw and the point of the fork or ‘V’ of the tail.
+Length of a fish measured as the straight distance between the tip of the lower jaw and the fork of the tail.
 
 ### M {#M}
 
@@ -280,6 +284,12 @@ Inhabiting surface waters rather than the sea floor. Usually applied to free-swi
 
 A fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/)). 
 
+### R {#R}
+
+#### Round weight
+
+Weight of the whole fish before processing or removal of any part ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
 #### Purse seine {#purseine}
 
 Nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)).
@@ -310,6 +320,10 @@ The number of individuals in a catch or catch sample in each group of sizes (siz
 
 Fishery characterised in most cases by fishing vessels with non-mechanized propulsion systems (sails and oars) or low-horsepower outboard or inboard engines, use of passive fishing methods, manual operation of fishing gear (setting, shooting and hauling) and the absence of electronic fish-finding and navigational devices ([Tietze et al. 2000](https://www.fao.org/3/x8294e/X8294E00.htm)). From a socio-economic perspective, small-scale fisheries can be broadly categorised as a dynamic and evolving sector employing labour intensive harvesting, processing and distribution technologies to exploit marine and inland water fishery resources. The activities of this sub-sector, conducted full-time or part-time, or just seasonally, are often targeted on supplying fish and fishery products to local and domestic markets, and for subsistence consumption ([FAO 2004](https://www.fao.org/3/y5245e/y5245e00.htm)).
 
+#### Standard length {#sl}
+
+Length of a fish measured as the straight distance between the tip of the snout to the end of the caudal skeleton ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
 #### Subsistence fishery {subsistencefishery}
 
 Subsistence fishery is a fishery where the fish caught are consumed directly by the families of the fishers rather than being bought by middle-(wo)men and sold at the next larger market ([FAO 1999](https://www.fao.org/3/x2465e/x2465e.pdf)).
@@ -324,14 +338,6 @@ Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels 
 
 ### T {#T}
 
-<!-- #### Tagging -->
-
-<!-- Marking or attaching a tag to an animal so that it can be identified when recaptured; used to study fish growth, movement, migration, stock structure and size. -->
-
-<!-- #### Taxonomic group -->
-
-<!-- An organism’s location in the biological classification system; used to identify and group those with similar physical, chemical and/or structural composition. -->
-
 #### Tonnage {#tonnage}
 
 A measure of the size or capacity of a ship, representing a dimensionless function of volume which is defined by internationally agreed formulae ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
@@ -339,3 +345,9 @@ A measure of the size or capacity of a ship, representing a dimensionless functi
 #### Trolling line {#trollingline}
 
 Simple line, provided with natural or artificial bait and trailed near the surface or at a certain depth by a vessel. Several lines are usually towed at the same time, by using outriggers ([Nédélec and Prado 1990)](https://www.fao.org/3/t0367t/t0367t00.htm).
+
+### U {#U}
+
+#### Upper-jaw fork length {#uj}
+
+Length of a fish measured as the straight distance between the tip of the upper jaw and the fork of the tail.

@@ -9,8 +9,6 @@ PRIMARY_SPECIES[, SPECIES_CODE := factor(SPECIES_CODE)]
 ## Other species ####
 OTHER_SPECIES = fread("../inputs/data/OTHER_SPECIES_GG_RES1501.csv")
 
-# 'MZZ', 'SRX', 
-
 ## ETP species #####
 
 ### Whale sharks ####

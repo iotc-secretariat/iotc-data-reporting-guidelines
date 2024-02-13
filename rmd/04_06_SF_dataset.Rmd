@@ -2,82 +2,65 @@
 
 #### Description
 
-Monthly estimates of size-frequencies of the catch by fishing fleet, fishery, space , species, and sex.
+Monthly estimates of size-frequencies of the catch retained and discarded by fishing fleet, fishery, grid area, species, and sex.
 
 #### Conservation and Management Measures
 
 - Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
 - Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
 - Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
-- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
 - Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
+- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
-- [Organisation name](#orgname)
-- [Organisation email](#orgemail)
-- [Finalisation date](#findate)
-- [Submission date](#subdate)
-- [Reporting year](#repyear)
-- [Reporting entity](#repentity)
-- [Flag state](#repflagstate)
+-   [Focal point full name](#fcname)
+-   [Focal point email](#fcemail)
+-   [Organisation name](#orgname)
+-   [Organisation email](#orgemail)
+-   [Finalisation date](#findate)
+-   [Submission date](#subdate)
+-   [Reporting year](#repyear)
+-   [Reporting entity](#repentity)
+-   [Flag state](#repflagstate)
 
 #### Contents
 
-Measurements of individual length/weight of fish for the IOTC species, common sharks, and other bycatch species
- 
-Individual sizes by fishery, 5° grid area and month strata.
+Measures of individual sizes of fish for the IOTC species, common sharks, and other bycatch species. Straight length measurements made with a calliper or measuring board are recommended over fish weights and vary according to fish groups: (i) [lower-jaw fork length](#lj) for billfish, (ii) [upper-jaw fork length](#uj) for tunas, mackerels, sharks, and all other bycatch fish species with forked or lunate tails, (iii) [standard length](#sl) for bycatch fish species with rounded or truncate tails, and (iv) [disc width](#dw) for rays. The Secretariat further recommends the use of length intervals for the IOTC species and most commonly caught sharks along with maximum length intervals and ranges of valid values which are used to filter and consolidate the size-frequency datasets made available to support the IOTC process (see [Recommended measurements](../domain/biological/#morphometricsRecommended)).
 
-Sampling coverage shall be set to at least one fish measured by ton caught, by species and type of fishery, with samples being representative of all the periods and areas fished. 
+Sampling coverage shall be set to at least one (1) fish measured by tonne caught by fishery and species, with samples being representative of all the periods and areas fished. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. In addition, raised estimates of the size samples must be reported to the Secretariat to account for bias due to unrepresentative sampling. Documents covering sampling and raising procedures must be provided for each fishery and species.
 
-Lower and higher size class values
-No.samples
-No. fish
-
-For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. 
-
-The use of callipers or measuring boards is recommended while tape measures 
-lower-jaw fork length for billfish and upper-jaw fork length (UJ) for all other 
-standard length for other bycatch species?
-rays: mantle length
-
-Size intervals of 1 cm or 1 kg are recommended for fish measured in fork length or live weight, respectively.
-
-Documents covering sampling and raising procedures shall also be provided, by species and type of fishery.
-
-#### Dimensions
+#### Data dimensions
 
 ##### Main stratum
 
-- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
-- [Grid](../domain/admin/#IOTCgridsCESF)
-- [Species](../domain/biological/#allSpecies)
-- [Sex](..domain/biological/#sex)
-- [Types of fate](../domain/biological/#typesOfFate)
-- [Fates](../domain/biological/#fates)
+-   Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
+-   [Grid](../domain/admin/#IOTCgridsCESF)
+-   [Species](../domain/biological/#allSpecies)
+-   [Sex](..domain/biological/#sex)
+-   [Types of fate](../domain/biological/#typesOfFate)
+-   [Fates](../domain/biological/#fates)
 
 ##### Original data
 
-- [Type of data](../domain/data/#types) 
-- [Source](../domain/data/#sourcesSF)
-- [Processing](../domain/data/#processingsSF)
+-   [Type of data](../domain/data/#types)
+-   [Source](../domain/data/#sourcesSF)
+-   [Processing](../domain/data/#processingsSF)
 
 ##### Source coverage
 
-- [Estimations](../domain/data/#estimations)
-- [Coverage types](../domain/data/#coverageTypes)
-- [Raisings](../domain/data/#raisings)
+-   [Estimations](../domain/data/#estimations)
+-   [Coverage types](../domain/data/#coverageTypes)
+-   [Raisings](../domain/data/#raisings)
 
 ##### Measurement
 
-- [Types of measurement](../domain/biological/#typesOfMeasurement)
-- [Measurements](../domain/biological/#allMeasurementTypes)
-- [Tools](../domain/biological/#allMeasurementTools)
+-   [Types of measurement](../domain/biological/#typesOfMeasurement)
+-   [Measurements](../domain/biological/#allMeasurementTypes)
+-   [Tools](../domain/biological/#allMeasurementTools)
 
 #### Reporting form template
 
 Form [4SF](../forms/#Form_4SF)
 
-\pagebreak
+<hr style="border:1.5px solid black">
