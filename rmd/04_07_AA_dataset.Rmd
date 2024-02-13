@@ -34,5 +34,8 @@ Types and activities and estimates of retained catches and discards can be repor
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Reporting form
+#### Reporting form template
 
+Form [3AA](../forms/#Form_3AA)
+
+<hr style="border:1.5px solid black">
