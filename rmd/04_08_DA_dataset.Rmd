@@ -2,9 +2,13 @@
 
 #### Description
 
-
+Interactions with drifting floating objects (DFADs and natural objects) by purse seine and supply vessels
 
 #### Resolutions
+
+- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+
+- Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) -- _Procedures on a fish aggregating devices (FADS) management plan_
 
 #### Source
 
@@ -16,18 +20,25 @@
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
+- [Reporting month]
+- [Vessel name]
+- [Vessel IOTC number]
+- [Type of data]
 
-#### Data checks
+
+<!--#### Data checks -->
 
 #### Reporting form
+
+Forms [3DA](../forms/#Form_3DA)
 
 
