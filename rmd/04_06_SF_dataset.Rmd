@@ -14,15 +14,15 @@ Monthly estimates of size-frequencies of the catch retained and discarded by fis
 
 #### Reporting metadata
 
--   [Focal point full name](#fcname)
--   [Focal point email](#fcemail)
--   [Organisation name](#orgname)
--   [Organisation email](#orgemail)
--   [Finalisation date](#findate)
--   [Submission date](#subdate)
--   [Reporting year](#repyear)
--   [Reporting entity](#repentity)
--   [Flag state](#repflagstate)
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
 #### Contents
 
@@ -34,30 +34,30 @@ Sampling coverage shall be set to at least one (1) fish measured by tonne caught
 
 ##### Main stratum
 
--   Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
--   [Grid](../domain/admin/#IOTCgridsCESF)
--   [Species](../domain/biological/#allSpecies)
--   [Sex](..domain/biological/#sex)
--   [Types of fate](../domain/biological/#typesOfFate)
--   [Fates](../domain/biological/#fates)
+- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
+- [Grid](../domain/admin/#IOTCgridsCESF)
+- [Species](../domain/biological/#allSpecies)
+- [Sex](..domain/biological/#sex)
+- [Types of fate](../domain/biological/#typesOfFate)
+- [Fates](../domain/biological/#fates)
 
 ##### Original data
 
--   [Type of data](../domain/data/#types)
--   [Source](../domain/data/#sourcesSF)
--   [Processing](../domain/data/#processingsSF)
+- [Type of data](../domain/data/#types)
+- [Source](../domain/data/#sourcesSF)
+- [Processing](../domain/data/#processingsSF)
 
 ##### Source coverage
 
--   [Estimations](../domain/data/#estimations)
--   [Coverage types](../domain/data/#coverageTypes)
--   [Raisings](../domain/data/#raisings)
+- [Estimations](../domain/data/#estimations)
+- [Coverage types](../domain/data/#coverageTypes)
+- [Raisings](../domain/data/#raisings)
 
 ##### Measurement
 
--   [Types of measurement](../domain/biological/#typesOfMeasurement)
--   [Measurements](../domain/biological/#allMeasurementTypes)
--   [Tools](../domain/biological/#allMeasurementTools)
+- [Types of measurement](../domain/biological/#typesOfMeasurement)
+- [Measurements](../domain/biological/#allMeasurementTypes)
+- [Tools](../domain/biological/#allMeasurementTools)
 
 #### Reporting form template
 

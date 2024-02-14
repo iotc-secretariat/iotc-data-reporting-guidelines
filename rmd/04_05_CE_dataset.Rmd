@@ -57,7 +57,7 @@ Documentation describing the extrapolation procedures (including raising factors
 
 ##### Effort main stratum
 
-- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
+- Month [1..12]
 - [Fishery](../domain/fisheries/#fisheries)
 - [Grid](../domain/admin/#IOTCgridsCESF)
 - [Estimation](../domain/data/#estimations)

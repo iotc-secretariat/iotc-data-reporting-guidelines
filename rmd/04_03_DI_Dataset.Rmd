@@ -40,7 +40,7 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 - [Reasons for discarding](../domain/biological/#discardReasons)
 - [Species](../domain/biological/#allSpecies)  
 - [Condition](../domain/biological/#individualConditions)
-- [Catch Units](../domain/fisheries/#catchUnits)
+- [Catch units](../domain/fisheries/#catchUnits)
 
 ##### Original data
 

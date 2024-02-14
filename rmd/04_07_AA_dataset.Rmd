@@ -11,16 +11,7 @@ Daily activities conducted around [AFADs](#afad), including catches retained and
 
 #### Contents
 
-Types and activities and estimates of retained catches and discards can be reported in numbers or live weight equivalent.
-
-
-#### Data dimensions
-
-- [Fisheries](../domain/fisheries/#fisheries)
-- [FOB types](../domain/fisheries/#FOBtypes)
-- [FOB activity types](../domain/fisheries/#FOBactivityTypes)
-- [Species](../domain/biological/#allSpecies)
-- [Types of fate](../domain/biological/#typesOfFate)
+Geographic position and description of each fishing activity conducted around each AFAD along with estimates of retained catches and discards in numbers or live weight equivalent for the IOTC species, common sharks, and other bycatch species.
 
 #### Reporting metadata
 
@@ -33,6 +24,33 @@ Types and activities and estimates of retained catches and discards can be repor
 - [Reporting year](#repyear)
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
+
+#### Data dimensions
+
+##### Activity main stratum
+
+- Month [1..12]
+- Day of month: [1..31]
+- Latitude (in decimal degrees)
+- Longitude (in decimal degrees)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [AFOB types](../domain/fisheries/#FOBtypes)
+- [AFOB activity types](../domain/fisheries/#FOBactivityTypes)
+
+##### Catch main stratum
+
+- Month [1..12]
+- Day of month: [1..31]
+- Latitude (in decimal degrees)
+- Longitude (in decimal degrees)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [Species](../domain/biological/#allSpecies)
+- [Types of fate](../domain/biological/#typesOfFate)
+- [Catch units](../domain/fisheries/#catchUnits)
+
+##### Source coverage
+
+- [Raisings](../domain/data/#raisings)
 
 #### Reporting form template
 

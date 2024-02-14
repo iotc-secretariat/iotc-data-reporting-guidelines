@@ -2,30 +2,37 @@
 
 #### Description
 
-#### Resolutions
+Daily positions of operational buoys equipping DFOBs in large-scale purse seine fisheries.
 
-#### Source
+#### Conservation and Management Measures
+
+- Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) -- _Procedures on a fish aggregating devices (FADs) management plan_
 
 #### Contents
 
-#### Dimensions
-
-#### Code lists
+Single daily buoy position (latitude and longitude in decimal degrees) for each of the buoys monitored by each purse seine vessel. Each buoy is identified by its unique identifier which is a concatenation of the acronym of the buoy commercial model (e.g., ISD+, M3+, T8E) followed by 5-9 digits depending on the buoy model.
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
-#### Data checks
+#### Data dimensions
 
-#### Reporting form
+- Vessel IOTC number
+- Vessel name
+- Month [1..12]
+- Day of month: [1..31]
 
+#### Reporting form template
 
+Form [3BU](../forms/#Form_3BU)
+
+<hr style="border:1.5px solid black">
