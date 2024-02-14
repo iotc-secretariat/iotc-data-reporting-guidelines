@@ -9,20 +9,18 @@ Updates and revisions to individual datasets should be submitted using the indiv
 
 ## Reporting cycle
 
-Paragraph 7 of the resolution 15/02, is explicit on the timeliness for reporting mandatory fisheries statistics annually ( retained catch, catch matrix, discarded catch, catch and effort, size frequency, ) :
+Paragraph 7 of the resolution 15/02, is explicit on the timeliness for reporting mandatory fisheries statistics annually (retained catch, catch matrix, discarded catch, catch and effort, size frequency):
 i)	Longline fleets operating in the high seas shall provide provisional data for the previous year no later than 30 June. Final data shall be submitted no later than 30 December;
 ii)	 All other fleets (including supply vessels) shall submit their final data for the previous year no later than 30 June;
 iii)	In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. 
 
 Other specific timeless apply for:
 
-i) Daily buoy position date shall be reported at least 60 days, but no longer than 90 days from the end of the month. Res 19/02
-
-ii) The details of the new AFADs deployed within the EEZ of the CPCs shall be reported to the IOTC within 21 days of deployment of the AFADs. Res 23/01
-
+i) Daily buoy position date shall be reported at least 60 days, but no longer than 90 days from the end of the month. Res 19/02.
+ii) The details of the new AFADs deployed within the EEZ of the CPCs shall be reported to the IOTC within 21 days of deployment of the AFADs. Res 23/01.
 iii) ROS Observers data shall be sent to the Secretariat within 150 days of completion of each trip. Res. 22/04
 
-Revisions to existing datasets (for all fisheries) can be provided at any time within the limits indicated by Res. 15/02 (para. 7c) as follows: Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the Secretariat and reviewed by the Scientific Committee. The Scientific Committee will advise the Secretariat if revisions are then accepted for scientific use.~~ 
+Revisions to existing datasets can be provided at any time within the limits indicated by Res. 15/02 (para. 7c). Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the Secretariat and reviewed by the Scientific Committee. The Scientific Committee will advise the Secretariat if revisions are then accepted for scientific use. 
 
 ## Semantics
 
