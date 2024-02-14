@@ -8,3 +8,5 @@ The overarching objective of the Data Reporting Guidelines (DRGs) is to provide 
 
 These guidelines do not include the reporting requirements related to the Regional Observer Scheme (ROS; [22/04](https://www.iotc.org/cmm/resolution-2204-regional-observer-scheme
 )) as well as for the monitoring of authorised and active fishing vessels (Res. [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area) and Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)), landings and transshipments of fish products in fishing ports (Res. 16/11), and transshipments at sea (Res. [23/05](https://iotc.org/cmm/resolution-2305-establishing-programme-transhipment-large-scale-fishing-vessels)) which are managed by the [compliance section of the Secretariat](https://iotc.org/compliance/reporting-templates).
+
+<!--ROP is managed by compliance, ROS reporting requirements as well data management are not under Compliance-->

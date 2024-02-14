@@ -18,6 +18,8 @@ Total annual estimates of the amount of fish caught and discarded by fishing fle
 
 Estimates of discards in numbers or live weight equivalent for the IOTC species, mobulid rays, whale sharks, cetaceans, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess the seasonality of the discards. For each stratum, the data coverage -- i.e., the percentage (%) of amount of fish sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
+<!-- discuss if quarterly reporting is voluntary-->
+
 #### Reporting metadata
 
 - [Focal point full name](#fcname)
