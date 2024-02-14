@@ -32,10 +32,10 @@ This means that at each annual submission from a CPC, the Secretariat expects to
 •	One Form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas)
 •	One Form 1-DR for the reporting of zero catches by fishery type (all fisheries and species)
 •	One Form 2-FC for the voluntary reporting of fishing craft statistics (all fisheries, data sources and boat types)
-•	One Form 3-CE (multiple) for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
-•	One Form 4-SF (multiple) for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
-•	One or more Form 3-BU (multiple) for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
-•	One or more form 3-DA (multiple) for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
+•	One Form 3-CE for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
+•	One Form 4-SF for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
+•	One or more Form 3-BU for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
+•	One or more form 3-DA for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
 
 The semantics of the data submission process are defined as follows:
 a)	CPCs should submit by the deadline one form for each data set, and each of these forms shall contain information for all fisheries and species for a given reference year, except for Form 3-BU, 3-DA, and 3-AA (if endorsed) which might require multiple submissions due to their different spatio-temporal resolution
