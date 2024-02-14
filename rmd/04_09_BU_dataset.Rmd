@@ -2,7 +2,11 @@
 
 #### Description
 
+Daily positions of active buoys equipping FADs and natural floating objects for each purse seine vessel
+
 #### Resolutions
+
+- Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) -- _Procedures on a fish aggregating devices (FADS) management plan_
 
 #### Source
 
@@ -14,18 +18,20 @@
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
+- [Reporting month]
 
 #### Data checks
 
 #### Reporting form
 
+Form [3BU](../forms/#Form_3BU)
 
