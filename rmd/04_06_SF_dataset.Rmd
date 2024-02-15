@@ -44,8 +44,8 @@ Sampling coverage shall be set to at least one (1) fish measured by tonne caught
 ##### Original data
 
 - [Type of data](../domain/data/#types)
-- [Source](../domain/data/#sourcesSF)
-- [Processing](../domain/data/#processingsSF)
+- [Size-frequency data sources](../domain/data/#sourcesSF)
+- [Size-frequency data processings](../domain/data/#processingsSF)
 
 ##### Source coverage
 
@@ -59,7 +59,7 @@ Sampling coverage shall be set to at least one (1) fish measured by tonne caught
 - [Measurements](../domain/biological/#allMeasurementTypes)
 - [Tools](../domain/biological/#allMeasurementTools)
 
-#### Reporting form template
+#### Reporting form details
 
 Form [4SF](../forms/#Form_4SF)
 

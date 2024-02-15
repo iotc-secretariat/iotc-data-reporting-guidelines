@@ -14,6 +14,8 @@ include_graphics("../inputs/charts/IOTC_AREA_OF_COMPETENCE_ENG.png")
 
 The 16 species and stocks managed by the IOTC – hereinafter referred as the IOTC species – are defined in the article III of the [IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf), where the term stocks means the populations of such species which are located in the IOTC area of competence or migrate into or out of the area. It is important to note that the distribution of the stock of southern bluefin tuna (_Thunnus maccoyii_) extends over the Atlantic, Indian, and Pacific Oceans, and its actual management is under the responsibility of the Commission for the Conservation of Southern Bluefin Tuna ([CCSBT](https://www.ccsbt.org/])). For this species, the data reporting obligations defined for the IOTC species apply to the Indian Ocean component of the stock.
 
+<!-- I find the last sentence redundant. reporting obligations are already defined by species under the IOTC management in the IOTC area of competence. maybe we can include IOTC stocks reference in the glossary?-->
+
 ```{r PrimarySpecies, fig.cap = ""}
 dtfunction(PRIMARY_SPECIES) %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
 ```

@@ -2,30 +2,54 @@
 
 #### Description
 
-#### Resolutions
+Annual number of active fishery vessels by gear, boat type, and size class.
 
-#### Source
+#### Conservation and Management Measures
+
+- [UNFSA](https://www.un.org/depts/los/convention_agreements/texts/fish_stocks_agreement/CONF164_37.htm) -- _Article 4 of the Annex I of the United Nations Fish Stocks Agreement_
 
 #### Contents
 
-#### Dimensions
+Total numbers of boats involved in fishing activities 
 
-#### Code lists
+For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. 
 
 #### Reporting metadata
 
-- Focal point full name
-- Focal point email
-- Organisation name
-- Organisation email (optional)
-- Finalisation date
-- Submission date
-- Reporting year
-- Reporting entity
-- Flag state
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
 
-#### Data checks
+#### Data dimensions
 
-#### Reporting form
+##### Main stratum
 
+- [Fisheries](../domain/fisheries/#fisheries)
+- [IOTC main areas](../domain/admin/#IOTCareasMain)
+- [Boat types](../domain/fisheries/#boatTypes)
+- [Mechanization types](../domain/fisheries/#mechanizationTypes)
+- [Boat class types](..domain/fisheries/#boatClassTypes)
+- [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
+- [Fish processing types](../domain/fisheries/#fishProcessingTypes)
 
+##### Original data
+
+- [Types of data](../domain/data/#types)
+- [Fishing crafts data sources](../domain/data/#sourcesFC)
+- [Fishing crafts data processings ](../domain/data/#processingsFC)
+
+##### Source coverage
+
+- [Coverage types](../domain/data/#coverageTypes)
+
+#### Reporting form details
+
+Form [3DA](../forms/#Form_3DA)
+
+<hr style="border:1.5px solid black">

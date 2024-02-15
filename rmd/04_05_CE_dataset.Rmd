@@ -66,16 +66,16 @@ Documentation describing the extrapolation procedures (including raising factors
 ##### Original data
 
 - [Types of data](../domain/data/#types)
-- [Retained catches data sources](../domain/data/#sourcesCE)
-- [Retained catches data processings](../domain/data/#processingsCE)
+- [Catch-and-Effort data sources](../domain/data/#sourcesCE)
+- [Catch-and-Effort data processings](../domain/data/#processingsCE)
 
 ##### Source coverage
 
 - [Coverage types](../domain/data/#coverageTypes)
 - [Raisings](../domain/data/#raisings)
 
-#### Reporting form template
+#### Reporting form details
 
-Forms [3CE](../forms/#Form_3CE)
+Form [3CE](../forms/#Form_3CE)
 
 <hr style="border:1.5px solid black">

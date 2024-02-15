@@ -5,8 +5,9 @@
 Daily positions of operational buoys equipping DFOBs in large-scale purse seine fisheries.
 
 #### Conservation and Management Measures
+Daily positions of active buoys equipping FADs and natural floating objects for each purse seine vessel
 
-- Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) -- _Procedures on a fish aggregating devices (FADs) management plan_
+- Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) -- _Procedures on a fish aggregating devices (FADS) management plan_
 
 #### Contents
 
@@ -26,12 +27,12 @@ Single daily buoy position (latitude and longitude in decimal degrees) for each 
 
 #### Data dimensions
 
+- Month
+- Day of month
 - Vessel IOTC number
 - Vessel name
-- Month [1..12]
-- Day of month: [1..31]
 
-#### Reporting form template
+#### Reporting form details
 
 Form [3BU](../forms/#Form_3BU)
 

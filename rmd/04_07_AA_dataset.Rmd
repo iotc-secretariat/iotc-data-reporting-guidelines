@@ -29,8 +29,8 @@ Geographic position and description of each fishing activity conducted around ea
 
 ##### Activity main stratum
 
-- Month [1..12]
-- Day of month: [1..31]
+- Month
+- Day of month
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -39,8 +39,8 @@ Geographic position and description of each fishing activity conducted around ea
 
 ##### Catch main stratum
 
-- Month [1..12]
-- Day of month: [1..31]
+- Month
+- Day of month
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -52,7 +52,7 @@ Geographic position and description of each fishing activity conducted around ea
 
 - [Raisings](../domain/data/#raisings)
 
-#### Reporting form template
+#### Reporting form details
 
 Form [3AA](../forms/#Form_3AA)
 

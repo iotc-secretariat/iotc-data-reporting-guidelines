@@ -18,6 +18,17 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans an
 
 #### Reporting metadata
 
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
+
+
 #### Data dimensions 
 
 ##### Main stratum
@@ -34,7 +45,7 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans an
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-#### Reporting form template
+#### Reporting form details
 
 Form [1IN](../forms/#Form_1IN)
 

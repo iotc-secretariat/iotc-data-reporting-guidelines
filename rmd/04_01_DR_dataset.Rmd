@@ -31,7 +31,7 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 - [Gear groups](../domain/fisheries/#gearGroups)
 - [Fishery categories](../domain/fisheries/#fisheryCategories)
 
-#### Reporting form template
+#### Reporting form details
 
 Form [1DR](../forms/#Form_1DR)
 

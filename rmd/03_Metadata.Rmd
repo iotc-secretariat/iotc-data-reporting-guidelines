@@ -16,7 +16,7 @@ Some mandatory (M) and optional (O) descriptive metadata elements have been iden
 
 ## Data characteristics
 
-Some general information is required to describe the main characteristics of the data reported to the Secretariat, including the reporting entity and flag state that define the [fishing fleet](#fishingfleet) and are common to all datasets, and some additional descriptors providing details on the origin and processing procedure applied to the data included in each stratum, i.e., unique combination of elements defining the datasets.
+Some general information is required to describe the main characteristics of the data reported to the Secretariat, including the reporting entity and flag state that define the [fishing fleet](#fishingfleet) and are common to all datasets, and some additional descriptors providing details on the origin and processing procedure applied to the data reported for each stratum, i.e., unique combination of elements defining the datasets.
 
 | Element        | Requirement | Description | Code list  | Code list field |
 | :----------------- | :-----: | :----------------------- | :-------: | :--------: |
@@ -40,15 +40,24 @@ Some general information is required to describe the main characteristics of the
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      | CODE |
 | Original data source     | M | Source of information | [Sources](../domain/data/#sourcesCE)                      | CODE |
 | Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsCE)  | CODE |
-
-
-
+| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) | CODE |
+| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | CODE | 
 | [Geo-referenced size frequencies](#SFdataset) |||||
+| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      | CODE |
+| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesSF)                      | CODE |
+| Original data processing | M | Processing applied to the data | [Processings](../domain/data/#processingsSF)     | CODE |
+| Estimation               | M | Origin of the data (i.e., observed or estimated) | [Estimations](../domain/data/#estimations) | CODE |
+| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) | CODE |
+| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | CODE | 
 | [AFAD-related activities](#AAdataset) |||||
-| [DFOB-related activities](#DAdataset) |||||
-| [Daily buoy positions](#BUdataset) |||||
+| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | CODE | 
+<!-- | [DFOB-related activities](#DAdataset) ||||| -->
+<!-- | [Daily buoy positions](#BUdataset) ||||| -->
 | [Fishing craft statistics](#FCdataset) |||||
-
+| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      | CODE |
+| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesFC)                      | CODE |
+| Original data processing | M | Processing applied to the data | [Processings](../domain/data/#processingsFC)     | CODE |
+| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) | CODE |
 
 
 

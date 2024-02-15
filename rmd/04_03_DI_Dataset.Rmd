@@ -53,10 +53,8 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 - [Coverage types](../domain/data/#coverageTypes)
 - [Raisings](../domain/data/#raisings)
 
-#### Reporting form template
+#### Reporting form details
 
 Form [1DI](../forms/#Form_1DI)
-
-<!-- #### Data checks -->
 
 <hr style="border:1.5px solid black">
