@@ -38,9 +38,6 @@ knitr::opts_chunk$set(echo = FALSE,
                       )
 ```
 
-```{r child = "00_01_Acronyms.Rmd"}
-```
-
 ```{r child = "01_Purpose.Rmd"}
 ```
 
@@ -53,10 +50,14 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "04_00_Datasets.Rmd"}
 ```
 
-```{r child = "05_Submission.Rmd"}
+```{r child = "05_Quality.Rmd"}
 ```
 
-\pagebreak
+```{r child = "06_Submission.Rmd"}
+```
 
-```{r child = "Glossary.Rmd"}
+```{r child = "07_01_Acronyms.Rmd"}
+```
+
+```{r child = "07_02_Glossary.Rmd"}
 ```

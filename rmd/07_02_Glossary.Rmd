@@ -44,11 +44,11 @@ Fishery composed of fishing vessels of less than 24 m length overall that exclus
 
 #### Conservation and Management Measure {#cmm}
 
-Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, and more generally where not applicable to IOTC such measures that are consistent with international law.
+Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, and more generally where not applicable to IOTC such measures that are consistent with international law ([IOTC CMMs](https://www.iotc.org/cmms)).
 
 #### Coordinating working party on fishery statistics {#cwp}
 
-International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents (https://www.fao.org/cwp-on-fishery-statistics/background/en/).
+International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents ([CWP](https://www.fao.org/cwp-on-fishery-statistics/background/en/)).
 
 ### D {#D}
 
@@ -192,7 +192,9 @@ The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission ([I
 
 #### IOTC area of competence {#iotcareaofcompetence}
 
-The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT. (https://www.fao.org/fishery/en/organization/iotc).
+The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT ([FAO Fisheries Geonetwork Platform](https://www.fao.org/fishery/geonetwork/srv/eng/catalog.search#/metadata/fao-rfb-map-iotc)).
+
+
 
 #### IOTC record of authorised vessels {#rav}
 

@@ -24,46 +24,22 @@ Revisions to existing datasets can be provided at any time within the limits ind
 
 ## Semantics
 
-The new data reporting forms are designed to accommodate for the reporting of complete annual datasets of a given type, stratified by the relevant criteria.
-This means that at each annual submission from a CPC, the Secretariat expects to receive:
-•	One Form 1-RC for the reporting of total annual retained catches (all fisheries, data sources, species, and areas)
-•	One Form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas)
-•	One Form 1-DR for the reporting of zero catches by fishery type (all fisheries and species)
-•	One Form 2-FC for the voluntary reporting of fishing craft statistics (all fisheries, data sources and boat types)
-•	One Form 3-CE for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
-•	One Form 4-SF for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
-•	One or more Form 3-BU for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
-•	One or more form 3-DA for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
+The new data reporting forms are designed to accommodate for the reporting of complete annual datasets of a given type, stratified by the relevant criteria. This means that at each annual submission from a CPC, the Secretariat expects to receive:
+
+-	One Form 1-RC for the reporting of total annual retained catches (all fisheries, data sources, species, and areas)
+-	One Form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas)
+-	One Form 1-DR for the reporting of zero catches by fishery type (all fisheries and species)
+-	One Form 2-FC for the voluntary reporting of fishing craft statistics (all fisheries, data sources and boat types)
+-	One Form 3-CE for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
+-	One Form 4-SF for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
+-	One or more Form 3-BU for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
+-	One or more form 3-DA for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
 
 The semantics of the data submission process are defined as follows:
 a)	CPCs should submit by the deadline one form for each data set, and each of these forms shall contain information for all fisheries and species for a given reference year, except for Form 3-BU, 3-DA, and 3-AA (if endorsed) which might require multiple submissions due to their different spatio-temporal resolution
 b)	Any subsequent resubmission of forms 1-RC interim, 1-DI interim, 1-DR, 2-FC interim, 3-CE ¬interim (multiple), 4-SF interim (multiple) is considered as a full replacement of the annual information for that given dataset as originally provided in a)
 c)	The use of the single versions of form 3-CE interim, 3-BU, and 4-SF interim is endorsed only for the provision of updates of already submitted annual data in a) or b) for a single fishery (3-CE), species (4-SF), or vessel (3-BU).
 
-## Metadata and data checks
-
-### Data integrity and completeness
-
-- Checking that all mandatory elements have been included and that all reference codes have been used correctly. 
-- Online data validators have been designed to allow users to self-assess the quality of their data based on the reporting forms
-- Each form must be uploaded to the correspondent validator link when completed.
-- The tool will provide an overview of the analysis carried out on the content.
-- The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-coloured summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC.
-- When a form is fully filled, and all the mandatory data were included according to the IOTC standard an INFO message will be provided including a summary of the processed information and a validation summary message indicating that the form provided can be successfully processed and submitted to the IOTC.
-
-- Include list of checks for each dataset/form
-
-### Data quality
-
-Include all checks to be made/added to each dataset (value ranges, species lists cross-checks, etc.)
-
-- The lists of species reported in the dataset ["Species presence in the catch"](#DRdataset) must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset).
-
-- The list of fisheries and species reported in the dataset ["Amount of fish caught and retained"](#RCdataset) must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset).
-
 ## Data revisions
 
 "In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the IOTC Secretariat and reviewed by the IOTC Scientific Committee. The IOTC Scientific Committee will advise the IOTC Secretariat if revisions are then accepted for scientific use." Res. 15/02
-
-
-

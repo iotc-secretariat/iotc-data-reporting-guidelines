@@ -1,0 +1,39 @@
+# Quality control procedure {#QualitySection}
+
+### Data integrity and completeness
+
+Some validators have been designed to assess the quality of data based on the reporting forms
+
+- Completeness of the mandatory fields
+- Integrity of all fields with code lists available from the IOTC data reference catalogue. Contact the Secretariat in case of missing value in the code list and explanation required
+- Preliminary status of the data can only be used for longline fisheries
+
+#### Contents
+
+- Check of consistency of the fields [Reporting entity](#repentity) and [flag state](#repflagstate)
+- Negative values not authorised
+- 0 values should be converted to empty cells (NA)
+- Effort units should be different when different units are reported
+- Warning for gear and species aggregates
+- Error for CE and SF in case of gear aggregate?
+  - Species aggregates not possible for the size-frequency dataset
+- Grid areas must be in the [IOTC area of competence](#iotcareaofcompetence)
+  - Grid areas for surface fisheries of maximum spatial resolution of 1&deg;x1&deg;
+  - Grid areas for longline fisheries of maximum spatial resolution of 5&deg;x5&deg;
+    
+    
+    <!-- - Checking that all mandatory elements have been included and that all reference codes have been used correctly -->
+      <!-- - Each form must be uploaded to the correspondent validator link when completed -->
+      <!-- - The tool will provide an overview of the analysis carried out on the content -->
+      <!-- - The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-coloured summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC -->
+      <!-- - When a form is fully filled, and all the mandatory data were included according to the IOTC standard an INFO message will be provided including a summary of the processed information and a validation summary message indicating that the form provided can be successfully processed and submitted to the IOTC. -->
+      
+      - Include list of checks for each dataset/form
+    
+    ### Data quality
+    
+    Include all checks to be made/added to each dataset (value ranges, species lists cross-checks, etc.)
+    
+    - The lists of species reported in the dataset ["Species presence in the catch"](#DRdataset) must be consistent with the species reported in the datasets ["Amount of fish caught and retained"](#RCdataset) and ["Amount of discards"](#DIdataset).
+      
+      - The list of fisheries and species reported in the dataset ["Amount of fish caught and retained"](#RCdataset) must be consistent with the fisheries and species reported in the datasets ["Geo-referenced catches and efforts"](#CEdataset) and ["Geo-referenced size frequencies"](#SFdataset).

@@ -28,7 +28,7 @@ For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort 
 
 #### Data dimensions
 
-##### Main stratum
+##### Main elements
 
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOTCareasMain)

@@ -23,7 +23,6 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. The spatial and temporal resolutions, catch units, and level of extrapolation vary according to the fishery category.
 
-
 | Category | Temporal resolution | Spatial resolution | Catch unit | Extrapolation | 
 | :-------- | :--------- | :---------- | :------------- | :-------: |
 [Surface fisheries](#iotcsurfacefishery)  | Month | [1° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids1x1) | Live weight equivalent | M |
@@ -46,18 +45,18 @@ Documentation describing the extrapolation procedures (including raising factors
 
 #### Data dimensions 
 
-##### Catch main stratum
+##### Catch main elements
 
-- Month [1: Jan; 2: Feb; 3: Mar; 4: Apr; 5: May; 6:Jun; 7: Jul; 8: Aug; 9: Sep; 10: Oct; 11: Nov; 12: Dec]
+- Month
 - [Fishery](../domain/fisheries/#fisheries)
 - [Grid](../domain/admin/#IOTCgridsCESF)
 - [Estimation](../domain/data/#estimations)
 - [Species](../domain/biological/#allSpecies)  
 - [Catch units](../domain/fisheries/#catchUnits)
 
-##### Effort main stratum
+##### Effort main elements
 
-- Month [1..12]
+- Month
 - [Fishery](../domain/fisheries/#fisheries)
 - [Grid](../domain/admin/#IOTCgridsCESF)
 - [Estimation](../domain/data/#estimations)

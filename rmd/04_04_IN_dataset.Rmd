@@ -28,10 +28,9 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans an
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-
 #### Data dimensions 
 
-##### Main stratum
+##### Main elements
 
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOareasMain)
