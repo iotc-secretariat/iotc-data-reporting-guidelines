@@ -326,7 +326,7 @@ Fishery characterised in most cases by fishing vessels with non-mechanized propu
 
 Length of a fish measured as the straight distance between the tip of the snout to the end of the caudal skeleton ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
 
-#### Subsistence fishery {subsistencefishery}
+#### Subsistence fishery {#subsistencefishery}
 
 Subsistence fishery is a fishery where the fish caught are consumed directly by the families of the fishers rather than being bought by middle-(wo)men and sold at the next larger market ([FAO 1999](https://www.fao.org/3/x2465e/x2465e.pdf)).
 
