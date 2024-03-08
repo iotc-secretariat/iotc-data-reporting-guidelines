@@ -1,0 +1,37 @@
+## Fish prices {#PRdataset}
+
+#### Description
+
+
+
+#### Conservation and Management Measures
+
+
+#### Contents
+
+
+#### Reporting metadata
+
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
+
+#### Data dimensions
+
+##### Main elements
+
+##### Original data
+
+##### Source coverage
+
+#### Reporting form details
+
+Form [7PR](../forms/#Form_7PR)
+
+<hr style="border:1.5px solid black">

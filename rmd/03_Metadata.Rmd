@@ -26,6 +26,13 @@ Some general information is required to describe the main characteristics of the
 | [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | [Entity](../domain/admin/#entities) |
 | [Flag state]{#repflagstate} | M | Code of the country registration of the fishery vessels | [Countries](../domain/admin/#countries) |
 
+### [Interactions with Endangered, Threatened and Protected species dataset](#INdataset)
+
+| Element        | Requirement | Description | Code list  |
+| :----------------- | :-----: | :----------------------- | :-------: |
+| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
+| Source coverage type     | O | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
+
 ### [Amount of fish caught and retained dataset](#RCdataset)
 
 | Element        | Requirement | Description | Code list  |
@@ -44,14 +51,6 @@ Some general information is required to describe the main characteristics of the
 | Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsDI)  |
 | Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
 | Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | 
-
-### [Interactions with ETP species dataset](#INdataset)
-
-| Element        | Requirement | Description | Code list  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Source coverage type     | O | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
-
 
 ### [Geo-referenced catches and efforts dataset](#CEdataset)
 
