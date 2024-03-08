@@ -16,7 +16,7 @@ Traditional fishery that involves fishing households (as opposed to commercial c
 
 #### Artisanal fishery (IOTC) {#iotcartisanalfishery}
 
-Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Equivalent to coastal fisheries (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to coastal fisheries (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
 #### Associated school {#associatedschool}
 
@@ -96,6 +96,14 @@ A permanent, semi-permanent or temporary object, structure or device of any mate
 
 An individual who engages in fishing activities for the purpose of deriving a livelihood, generating a revenue or pursuing sport or recreation. A full-time, part-time or occasional fisher receives some or all of their livelihood from fishing or spends some or all of their working time in that occupation. A sport or recreational fisher (or angler) conducts fishing in pursuit of sport or recreation ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)).
 
+#### Fishery {#fishery}
+
+An activity leading to harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Fishery (IOTC) {iotcfishery}
+
+The IOTC fishery emerges from the combination of the fishery purpose, area of operation, size of the fishing vessels, the gear and its gear configuration, and the target species (see section on [Terminology](#fisheries)).
+
 #### Fishery vessel {#fisheryvessel}
 
 Mobile floating platform of any kind and size, operating in fresh, brackish or marine waters which are used for catching, harvesting, searching, transporting, landing, preserving and/or processing fish, shellfish and other aquatic organisms, residues and plants ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
@@ -138,7 +146,7 @@ Length of a fish measured as the straight distance between the tip of the snout 
 
 #### Free school {#freeschool}
 
-The fish school is not associated with any anchored or drifting floating object. Equivalent to free-swimming school or unassociated school.
+The fish school is not associated with any anchored or drifting floating object. Synonym to free-swimming school or unassociated school.
 
 ### G {#G}
 
@@ -193,8 +201,6 @@ The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission ([I
 #### IOTC area of competence {#iotcareaofcompetence}
 
 The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT ([FAO Fisheries Geonetwork Platform](https://www.fao.org/fishery/geonetwork/srv/eng/catalog.search#/metadata/fao-rfb-map-iotc)).
-
-
 
 #### IOTC record of authorised vessels {#rav}
 
@@ -288,6 +294,10 @@ A fishing technique in which surface schooling fish are attracted to the vessel 
 
 ### R {#R}
 
+#### Retained catches {#retainecatches}
+
+Estimated component of the catch which is retained on board during a fishing trip ([CWP](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/catch-and-landings/en/)).
+
 #### Round weight
 
 Weight of the whole fish before processing or removal of any part ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
@@ -330,9 +340,13 @@ Length of a fish measured as the straight distance between the tip of the snout 
 
 Subsistence fishery is a fishery where the fish caught are consumed directly by the families of the fishers rather than being bought by middle-(wo)men and sold at the next larger market ([FAO 1999](https://www.fao.org/3/x2465e/x2465e.pdf)).
 
+#### Support vessel {#supportvessel}
+
+Non-fishing vessel supporting fishing operations and in particular assisting purse seine fishing vessels in the location of tuna schools and in the the deployment, monitoring and retrieving of buoys and drifting fish aggregating devices. Synonym to supply vessel, auxiliary vessel or tender vessel.
+
 #### Surface fishery {#surfacefishery}
 
-Fishing with pole-and-line, bait vessel, troll or purse seine to target surface-swimming species.
+Fishing activity to target surface-swimming species.
 
 #### Surface fishery (IOTC) {#iotcsurfacefishery}
 
