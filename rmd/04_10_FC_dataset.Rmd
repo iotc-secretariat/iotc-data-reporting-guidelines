@@ -2,7 +2,7 @@
 
 #### Description
 
-Annual number of active fishery vessels by gear, boat type, and size class.
+Annual number of active fishing vessels by gear, boat type, preservation and size class.
 
 #### Conservation and Management Measures
 
@@ -10,9 +10,7 @@ Annual number of active fishery vessels by gear, boat type, and size class.
 
 #### Contents
 
-Total numbers of boats involved in fishing activities 
-
-For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. 
+Estimates of the numbers of both [artisanal](#iotcartisanalfishingvessel) and [industrial](#iotcindustrialfishingvessel) fishing vessels involved in fishing activities during the year, stratified by boat type, mechanisation type, fish preservation method, and refrigeration storage system. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
 #### Reporting metadata
 
@@ -36,7 +34,7 @@ For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort 
 - [Mechanization types](../domain/fisheries/#mechanizationTypes)
 - [Boat class types](..domain/fisheries/#boatClassTypes)
 - [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
-- [Fish processing types](../domain/fisheries/#fishProcessingTypes)
+- [Fish storage types](../domain/fisheries/#fishStorageTypes)
 
 ##### Original data
 
@@ -50,6 +48,6 @@ For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort 
 
 #### Reporting form details
 
-Form [3DA](../forms/#Form_3DA)
+Form [2FC](../forms/#Form_2FC)
 
 <hr style="border:1.5px solid black">

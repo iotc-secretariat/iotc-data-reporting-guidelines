@@ -18,6 +18,10 @@ Traditional fishery that involves fishing households (as opposed to commercial c
 
 Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to coastal fisheries (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
 
+#### Artisanal fishing vessel (IOTC) {#iotcartisanalfishingvessel}
+
+Fishing vessel less than 24 m in length overall operating inside the exclusive economic zone of a flag State and catching tuna or tuna-like species in the IOTC area of competence.
+
 #### Associated school {#associatedschool}
 
 The fish school is associated with a topographic structure (e.g., seamount), an anchored or a drifting floating object, including man-made rafts such as fish aggregating devices and live animals in motion (e.g., whale sharks, cetaceans).
@@ -188,7 +192,7 @@ Large vessel, typically of 24 m in length and over, engaged in catching operatio
 
 #### Industrial fishing vessel (IOTC) {#iotcindustrialfishingvessel}
 
-Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
+Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State, including auxiliary, supply and support vessels (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
 
 #### IOTC active vessel list {#avl}
 

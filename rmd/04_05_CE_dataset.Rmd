@@ -6,18 +6,30 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 #### Conservation and Management Measures
 
-- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
-- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) (Annexes I-III) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
+- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 4)  -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 6) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
+- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) (paras 2-3) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
+- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) (para. 8) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
+
+##### Retention bans in [longline](#iotclonglinefishery) and [surface](#iotcsurfacefishery) fisheries
+
 - Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
-- Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_
-- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
-- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
-- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
+- Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_ -- _Oceanic whitetip shark_
 - Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
 
 #### Contents
 
-- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). In the case of purse seine fisheries, other units can be added to refine the information on effort such as searching time, surface area explored, and number of successful/null sets.
+- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). The use of trips as effort unit is **not recommended** as trip length may vary substantially according to vessel length, fishing success, and multiple technical factors (e.g., fuel exhaustion). In the case of purse seine fisheries, other units could be added to refine the information on effort such as searching time and surface area explored. 
+
+| Gear group | Primary effort | Secondary effort | Tertiary effort 
+| :------------ | :------------------------- | :------------------------- | :------------------------- |
+Gillnets (GI)        | Number of fishing days   | Number of nets deployed | Total net surface deployed |
+Hooks and lines (HL) | Number of fishing days   | Number of hooks deployed | - |
+Longlines (LL)       | Number of hooks deployed | Number of sets | - |
+Other gears (OT)     | Number of days at sea    | - | - |
+Pole-and-lines (PL)  | Number of fishing days   | Number of sets | Number of day-poles |
+Purse seines (PS)    | Number of fishing hours  | Number of sets | Number of successful/null sets |
 
 - Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery).
 
