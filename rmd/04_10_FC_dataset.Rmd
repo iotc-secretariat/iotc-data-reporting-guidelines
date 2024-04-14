@@ -2,7 +2,7 @@
 
 #### Description
 
-Annual number of active fishing vessels by gear, boat type, preservation and size class.
+Annual number of active fishing vessels by gear, boat type, preservation, and size class.
 
 #### Conservation and Management Measures
 
@@ -29,7 +29,6 @@ Estimates of the numbers of both [artisanal](#iotcartisanalfishingvessel) and [i
 ##### Main elements
 
 - [Fisheries](../domain/fisheries/#fisheries)
-- [IOTC main areas](../domain/admin/#IOTCareasMain)
 - [Boat types](../domain/fisheries/#boatTypes)
 - [Mechanization types](../domain/fisheries/#mechanizationTypes)
 - [Boat class types](..domain/fisheries/#boatClassTypes)

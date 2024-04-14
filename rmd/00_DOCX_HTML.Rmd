@@ -4,11 +4,6 @@ author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)"
 output:
   officedown::rdocx_document:
     reference_docx: "../templates/rdoc_template.docx"
-# output:
-#   word_document2:
-#     reference_docx: "../templates/doc_template.docx"
-#     number_sections: FALSE
-# 
   html_document2:
     css: "../templates/html_template.css"
     number_sections: FALSE
@@ -29,7 +24,8 @@ knitr::opts_chunk$set(echo = FALSE,
                       tab.cap.pre = "Tab. ", 
                       tab.cap.sep = ". ", 
                       tab.cap.style ="Table Caption", 
-#                      tab.cap.fp_text = officer::fp_text_lite(italic = TRUE, bold = TRUE), 
+                      tab.cap.fp_text = officer::fp_text_lite(italic = FALSE, bold = FALSE), 
+                      fig.cap.fp_text = officer::fp_text_lite(italic = FALSE, bold = FALSE),
                       fig.cap = TRUE, 
                       fig.cap.pre = "Fig. ", 
                       fig.cap.sep = ". ", 
@@ -41,23 +37,37 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "01_Purpose.Rmd"}
 ```
 
+\pagebreak
+
 ```{r child = "02_Terminology.Rmd"}
 ```
+
+\pagebreak
 
 ```{r child = "03_Metadata.Rmd"}
 ```
 
+\pagebreak
+
 ```{r child = "04_00_Datasets.Rmd"}
 ```
+
+\pagebreak
 
 ```{r child = "05_Quality.Rmd"}
 ```
 
-```{r child = "06_Submission.Rmd"}
+<!-- \pagebreak -->
+
+```{r child = "06_Submission.Rmd", eval = FALSE}
 ```
+
+\pagebreak
 
 ```{r child = "07_01_Acronyms.Rmd"}
 ```
+
+\pagebreak
 
 ```{r child = "07_02_Glossary.Rmd"}
 ```

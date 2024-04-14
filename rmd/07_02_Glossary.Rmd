@@ -214,6 +214,10 @@ The list of vessels authorised to operate in the IOTC Area of Competence in a gi
 
 Any or all of the 16 tuna and tuna-like species listed in Annex B of the [IOTC Agreement](#iotcagreement).
 
+#### IOTC stocks {#iotcstocks}
+
+The populations of the IOTC species which are located in the IOTC area of competence or migrate into or out of the area [IOTC Agreement](#iotcagreement).
+
 #### Instrumented buoy {#instrumentedbuoy}
 
 A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).

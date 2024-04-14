@@ -1,28 +1,38 @@
 # Quality control procedure {#QualitySection}
 
-### Data integrity and completeness
+### Metadata and data standards
 
-Some validators have been designed to assess the quality of data based on the reporting forms
+Evaluating the adherence of data submissions to the formats and standards set by the IOTC is essential to uphold the consistency and quality of the data managed by the Secretariat. It is the responsibility of the CPCs and other data providers to ensure the completeness of all metadata and data fields provided to the Secretariat as well as to use the IOTC codelists that build on several international standards and are available from the [IOTC data reference catalogue](https://data.iotc.org/reference/latest/).
 
-- Completeness of the mandatory fields
-- Integrity of all fields with code lists available from the IOTC data reference catalogue. Contact the Secretariat in case of missing value in the code list and explanation required
-- Preliminary status of the data can only be used for longline fisheries
+The IOTC data reference catalogue is composed of five reference data domains:
 
-#### Contents
+- [The administrative and geospatial domains](https://data.iotc.org/reference/latest/#Administrative_and_geospatial_domains) which include codelists for vessel flags, data reporting countries, fishing fleets, CPCs, and several spatial layers used to report information on fishing grounds;
 
-- Check of consistency of the fields [Reporting entity](#repentity) and [flag state](#repflagstate)
-- Negative values not authorised
-- 0 values should be converted to empty cells (NA)
-- Effort units should be different when different units are reported
-- Warning for gear and species aggregates
-- Error for CE and SF in case of gear aggregate?
-  - Species aggregates not possible for the size-frequency dataset
-- Grid areas must be in the [IOTC area of competence](#iotcareaofcompetence)
-  - Grid areas for surface fisheries of maximum spatial resolution of 1&deg;x1&deg;
-  - Grid areas for longline fisheries of maximum spatial resolution of 5&deg;x5&deg;
-    
-    
-    <!-- - Checking that all mandatory elements have been included and that all reference codes have been used correctly -->
+- [The fisheries and fishing technologies domain](https://data.iotc.org/reference/latest/domain/fisheries) which include several codelists used to describe the IOTC fisheries, vessels, gears and configurations, as well as fishing devices (e.g., floating objects) and materials;
+
+- [The biological and morphometric domain](https://data.iotc.org/reference/latest/domain/biological) which includes the IOTC species codelist mostly built on the [ASFIS](https://data.apps.fao.org/catalog/dataset/cwp-asfis) list of species for fishery statistics purposes as well as some code lists used to report information on sampling methods and morphometric measurements;
+
+- [The data and metadata domain](https://data.iotc.org/reference/latest/domain/data) which regroups the codelists used to characterise the elements of the datasets, the data sources, types of processings that can be applied, and coverage types;
+
+- [The legacy and external references domain](https://data.iotc.org/reference/latest/domain/legacy) which includes some historical codelists of the IOTC and some international reference codes from FAO, CWP, FIRMS, IUCN, and UN.
+
+<!-- Contact the Secretariat in case of missing value in the code list and explanation required -->
+
+### Data submission validators
+
+Some validators have been designed to assess the data quality based on the reporting forms.
+
+<!-- - Check of consistency of the fields [Reporting entity](#repentity) and [flag state](#repflagstate) -->
+<!-- - Grid areas must be in the [IOTC area of competence](#iotcareaofcompetence) -->
+<!-- - Negative values not authorised -->
+<!-- - 0 values should be converted to empty cells (NA) -->
+<!-- - Effort units should be different when different units are reported -->
+<!-- - Warning for gear and species aggregates -->
+<!-- - Error for CE and SF in case of gear aggregate? -->
+<!-- - Species aggregates not possible for the size-frequency dataset -->
+<!-- - Grid areas for surface fisheries of maximum spatial resolution of 1&deg;x1&deg; -->
+<!-- - Grid areas for longline fisheries of maximum spatial resolution of 5&deg;x5&deg; -->
+
       <!-- - Each form must be uploaded to the correspondent validator link when completed -->
       <!-- - The tool will provide an overview of the analysis carried out on the content -->
       <!-- - The output of the validation process includes a main box message with flaps of validation messages, ranging from summary information messages to increasing levels of identified issues messages provided in additional flaps. A validation-coloured summary box (left bottom), related with the level of issues message is also provided indicating if the form could be successfully processed or need further revision before to be submitted to the IOTC -->

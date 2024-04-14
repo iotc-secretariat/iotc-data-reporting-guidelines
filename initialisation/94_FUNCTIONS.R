@@ -1,19 +1,32 @@
 # Function for displaying datasets as data.tables in HTML output
-dtfunction = function(dataset){
+dtfunction = function(dataset, output_table = OUTPUT_TABLES){
+
+  if(output_table == "DT"){
   datatable = datatable(dataset, 
           rownames = FALSE, 
           filter = "bottom", 
-#          extensions = "Buttons", 
           options = 
             list(dom = "Bfrtip", 
                  autoWidth = TRUE #, 
-#                 buttons = list(
-#                   list(
-#                     extend = "csv", 
-#                     filename = paste0(dataset)
-#                   )
-#                 )
             )
-) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left')
+) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left') %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
   return(datatable)
+}
+  else {
+  datatable = 
+      dataset[1:16] %>% 
+      flextable() %>% 
+      flextable::font(part = "all", fontname = "calibri") %>% 
+      flextable::fontsize(part = "all", size = 10) %>% 
+      italic(j = "SPECIES_SCIENTIFIC", italic = TRUE) %>% 
+      bold(part = "header") %>% 
+      bg(part = "header", bg = "grey") %>% 
+      fontsize(part = "all", size = 9) %>% 
+      align(align = "center", part = "header") %>% 
+      align(j = 1, align = "center", part = "body") %>% 
+      border_inner() %>% 
+      border_outer(border = fp_border(width = 2)) %>% 
+      autofit()
+}
+    return(datatable)
 }

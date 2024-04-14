@@ -10,7 +10,10 @@ pacman::p_load(
   "knitr", 
   "bookdown", 
   "officer", 
-  "DT"
+  "officedown", 
+  "knitr", 
+  "DT", 
+  "dplyr"
   )
 
 print("External R libraries loaded!")

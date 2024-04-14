@@ -20,7 +20,7 @@ Some general information is required to describe the main characteristics of the
 
 ### [All datasets](#DatasetSection)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 |
 | [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | [Entity](../domain/admin/#entities) |
@@ -28,14 +28,14 @@ Some general information is required to describe the main characteristics of the
 
 ### [Interactions with Endangered, Threatened and Protected species dataset](#INdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Source coverage type     | O | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
 
 ### [Amount of fish caught and retained dataset](#RCdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Original data source     | M | Source of information| [Sources](../domain/data/#sourcesRC)                       |
@@ -44,7 +44,7 @@ Some general information is required to describe the main characteristics of the
 
 ### [Amount of discards dataset](#DIdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Original data source     | M | Source of information | [Sources](../domain/data/#sourcesDI)            |
@@ -54,7 +54,7 @@ Some general information is required to describe the main characteristics of the
 
 ### [Geo-referenced catches and efforts dataset](#CEdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Original data source     | M | Source of information | [Sources](../domain/data/#sourcesCE)                      |
@@ -64,7 +64,7 @@ Some general information is required to describe the main characteristics of the
 
 ### [Geo-referenced size frequencies dataset](#SFdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Original data source     | M | Source of information | [Sources](../domain/data/#sourcesSF)                      |
@@ -75,13 +75,13 @@ Some general information is required to describe the main characteristics of the
 
 ### [AFAD-related activities dataset](#AAdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     |
 
 ### [Fishing craft statistics dataset](#FCdataset)
 
-| Element        | Requirement | Description | Code list  |
+| Element        | Requirement | Description | Codelist  |
 | :----------------- | :-----: | :----------------------- | :-------: |
 | Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
 | Original data source     | M | Source of information | [Sources](../domain/data/#sourcesFC)                      |
