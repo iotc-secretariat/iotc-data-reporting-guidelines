@@ -1,0 +1,52 @@
+## Statistiques des bateaux de pêche {#FC}
+
+#### Description
+
+Nombre annuel de navires de pêche actifs par engin, type de bateau, classe de taille et méthode de conservation du poisson.
+
+#### Mesures de Conservation et de Gestion
+
+- [UNFSA](https://www.un.org/depts/los/convention_agreements/texts/fish_stocks_agreement/CONF164_37.htm) -- _Article 4 de l'Annexe I de l'Accord des Nations Unies sur les stocks de poissons_
+
+#### Contenu
+
+Estimations du nombre de navires de pêche [artisanaux](#iotcartisanalfishingvessel) et [industriels](#iotcindustrialfishingvessel) impliqués dans des activités de pêche au cours de l'année, stratifiées par type de bateau, type de mécanisation, méthode de conservation du poisson et système de stockage réfrigéré. Pour chaque strate, la couverture des données - c-à-d., le pourcentage (%) des captures/efforts échantillonnés - dérivée du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Éléments principaux
+
+- [Pêcheries](../domain/fisheries/#fisheries)
+- [Types de bateaux](../domain/fisheries/#boatTypes)
+- [Types de mécanisation](../domain/fisheries/#mechanizationTypes)
+- [Types de classes de navires](..domain/fisheries/#boatClassTypes)
+- [Méthodes de préservation du poisson](../domain/fisheries/#fishPreservationMethods)
+- [Types de stockage du poisson](../domain/fisheries/#fishStorageTypes)
+
+##### Données originales
+
+- [Types de données](../domain/data/#types)
+- [Sources de données](../domain/data/#sourcesFC)
+- [Traitements des données](../domain/data/#processingsFC)
+
+##### Couverture
+
+- [Types de couverture](../domain/data/#coverageTypes)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [2FC](../forms/#Form_2FC)
+
+<hr style="border:1.5px solid black">

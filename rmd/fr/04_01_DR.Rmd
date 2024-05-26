@@ -1,0 +1,38 @@
+## Présence d'espèces dans les prises {#DR}
+
+#### Description
+
+Matrice de présence d'espèces dans les prises conservées à bord et les rejets de chaque flotte de pêche par groupe d'engins et par grande catégorie de pêcherie.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) (Annex II) -- _Concernant l’enregistrement des captures et de l’effort par les navires de pêche dans la zone de compétence de la CTOI_
+- Rés. [18/07](https://iotc.org/fr/mcg/r%C3%A9solution-1807-sur-les-mesures-applicables-en-cas-de-non-respect-des-obligations-de) (para. 4) -- _Sur les mesures applicables en cas de non-respect des obligations de déclarations à la CTOI_
+
+#### Contenu
+
+Tableau matriciel avec les espèces en lignes et les groupes d'engins en colonnes. Pour chaque combinaison espèce/engin, la cellule doit être remplie avec une valeur de un (1) dans le cas d'une capture positive ou une valeur de zéro (0) dans le cas d'une absence de capture (c-à-d., pas de débarquement ni de rejet). Les espèces comprennent les espèces de la CTOI, les raies mobulidées, les requins communs et d'autres espèces faisant l'objet de prises accessoires. Tous les groupes d'engins (hameçons et lignes, cannes et lignes, palangres, sennes coulissantes, filets maillants et autres engins) sont inclus et ventilés par principale catégorie de pêche, c-à-d. [côtière](#iotccoastalfishery) et [industrielle](#iotcindustrialfishery).
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+- [Espèces](../domain/biological/#allSpecies)
+- [Groupes d'engins](../domain/fisheries/#gearGroups)
+- [Catégories de pêcheries](../domain/fisheries/#fisheryCategories)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [1DR](../forms/#Form_1DR)
+
+<hr style="border:1.5px solid black">

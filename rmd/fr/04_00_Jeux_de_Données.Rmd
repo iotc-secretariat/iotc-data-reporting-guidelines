@@ -1,0 +1,54 @@
+# Jeux de données {#SectionJDD}
+
+```{r child = "04_01_DR.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_02_IN.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_03_RC.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_04_DI.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_05_CE.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_06_SF.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_07_AA.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_08_DA.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_09_BU.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_10_FC.Rmd"}
+```
+
+<!-- \pagebreak -->
+
+```{r child = "04_11_PR.Rmd", eval = FALSE}
+```

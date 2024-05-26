@@ -47,8 +47,8 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 ##### Original data
 
 - [Types of data](../domain/data/#types)
-- [Retained catches data sources](../domain/data/#sourcesRC)
-- [Retained catches data processings](../domain/data/#processingsRC)
+- [Data sources](../domain/data/#sourcesRC)
+- [Data processings](../domain/data/#processingsRC)
 
 ##### Source coverage
 

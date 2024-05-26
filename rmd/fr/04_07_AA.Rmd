@@ -1,0 +1,58 @@
+## Activités liées aux DCPs ancrés {#AA}
+
+#### Description
+
+Activités journalières conduites autour des [DCPA](#afad), incluant les captures conservées à bord et rejetées.
+
+#### Mesures de Gestion et de Conservation
+
+- Rés. [23/01](https://iotc.org/fr/mcg/r%C3%A9solution-2301-sur-la-gestion-des-dispositifs-de-concentration-de-poissons-ancr%C3%A9s-dcpa) (para. 11 et Annexe II) -- _Sur la gestion des Dispositifs de Concentration de Poissons Ancrés (DCPA)_
+
+#### Contenu
+
+Position géographique et description de chaque activité de pêche menée autour de chaque DCPA, ainsi que les estimations des captures conservées à bord et des rejets en nombre ou en équivalent poids vif pour les espèces de la CTOI, les requins communs et les autres espèces faisant l'objet de captures accessoires.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Strate principale de l'activité
+
+- Mois
+- Jour du mois
+- Latitude (en degrés décimaux)
+- Longitude (en degrés décimaux)
+- [Pêcheries](../domain/fisheries/#fisheries)
+- [Types de DCPA](../domain/fisheries/#FOBtypes)
+- [Types d'activités](../domain/fisheries/#FOBactivityTypes)
+
+##### Strate principale des captures
+
+- Mois
+- Jour du mois
+- Latitude (en degrés décimaux)
+- Longitude (en degrés décimaux)
+- [Pêcheries](../domain/fisheries/#fisheries)
+- [Espèces](../domain/biological/#allSpecies)
+- [Types de devenir](../domain/biological/#typesOfFate)
+- [Unités de capture](../domain/fisheries/#catchUnits)
+
+##### Couverture
+
+- [Extrapolations](../domain/data/#raisings)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [3AA](../forms/#Form_3AA)
+
+<hr style="border:1.5px solid black">

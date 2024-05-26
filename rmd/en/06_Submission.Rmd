@@ -1,0 +1,44 @@
+# Submission procedure {#SubmissionSection}
+
+## e-MARIS platform
+
+The [e-MARIS platform](https://emaris.iotc.org/) serves as the primary access point for reporting fisheries statistical data to the IOTC Secretariat. The document [e-MARIS Quick Start series for CPCs](https://iotc.org/sites/default/files/documents/compliance/emaris/Reporting_using_e-MARIS_for_CPCs.pdf) offers guidelines and technical details on connecting to the platform, monitoring IOTC requirements, and submitting the required information. For fishery statistics, all datasets must be submitted according to Requirement 5.0. Additionally, information in the relevant tables and/or sections related to specific datasets must be provided, depending on the type of fisheries.
+
+## Reporting cycle
+
+Para. 7 of [Res. 15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)  explicitly establishes the requirements for timely annual reporting of the core IOTC datasets, i.e., species presence in the catch, annual amounts of catches retained or discarded at sea, and monthly geo-referenced catches, efforts, and size frequencies:
+
+_a.  Longline fleets operating in the high seas shall provide provisional data for the previous year no later than 30 June. Final data shall be submitted no later than 30 December;_
+
+_b. All other fleets (including supply vessels) shall submit their final data for the previous year no later than 30 June;_
+
+_c. In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided._
+
+In addition, a specific timeline of submission applies to:
+
+i. The daily buoy position data that must be reported on a monthly basis, at least 60 days, but no longer than 90 days from the end of the month of buoy activities (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan); para. 24)).
+
+ii. The details of the new AFADs deployed within the EEZ of the CPCs that must be reported within 21 days of deployment of the AFADs (Res. [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads); para. 8).
+
+<!-- iii. ROS Observers data shall be sent to the Secretariat within 150 days of completion of each trip. Res. 22/04 -->
+
+## Semantics
+
+The new data reporting forms are designed to accommodate for the reporting of complete annual datasets of a given type, stratified by the relevant criteria. This means that at each annual submission from a CPC, the Secretariat expects to receive:
+
+-   One Form 1-RC for the reporting of total annual retained catches (all fisheries, data sources, species, and areas)
+-   One Form 1-DI for the reporting of total annual discards (all fisheries, data sources, species, and areas)
+-   One Form 1-DR for the reporting of zero catches by fishery type (all fisheries and species)
+-   One Form 2-FC for the voluntary reporting of fishing craft statistics (all fisheries, data sources and boat types)
+-   One Form 3-CE for the reporting of annual geo-referenced catch-and-effort data (all fisheries, months, data sources, species, and grids)
+-   One Form 4-SF for the reporting of individual body lengths or weights data (all fisheries, months, data sources, species, measurement types, and grids)
+-   One or more Form 3-BU for the reporting of instrumented buoys’ position, i.e., one for each month (all vessels)
+-   One or more form 3-DA for the reporting of interactions between vessels and dFOBs, i.e., one for each month (all vessels)
+
+The semantics of the data submission process are defined as follows: a) CPCs should submit by the deadline one form for each data set, and each of these forms shall contain information for all fisheries and species for a given reference year, except for Form 3-BU, 3-DA, and 3-AA (if endorsed) which might require multiple submissions due to their different spatio-temporal resolution b) Any subsequent resubmission of forms 1-RC interim, 1-DI interim, 1-DR, 2-FC interim, 3-CE ¬interim (multiple), 4-SF interim (multiple) is considered as a full replacement of the annual information for that given dataset as originally provided in a) c) The use of the single versions of form 3-CE interim, 3-BU, and 4-SF interim is endorsed only for the provision of updates of already submitted annual data in a) or b) for a single fishery (3-CE), species (4-SF), or vessel (3-BU).
+
+## Data revisions
+
+Updates and revisions of individual datasets must be submitted following the specific requirements of each dataset.
+
+Para. 7 of Res. 15/02 states that "In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided. Beyond a delay of two years, all revisions of historical data should be formally reported and duly justified. These reports should be made on forms provided by the IOTC Secretariat and reviewed by the IOTC Scientific Committee. The IOTC Scientific Committee will advise the IOTC Secretariat if revisions are then accepted for scientific use."

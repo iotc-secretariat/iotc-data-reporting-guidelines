@@ -1,0 +1,50 @@
+## Interactions avec les espèces en voie de disparition, menacées et protégées {#IN}
+
+#### Description
+
+Estimations annuelles du nombre d'interactions des [pêcheries palangrières](#iotclonglinefishery) et des [pêcheries de surface](#iotcsurfacefishery) avec les espèces en voie de disparition, menacées et protégées, par flotte de pêche, pêcherie, zone principale de la CTOI et groupe d'espèces.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [12/04](https://iotc.org/fr/mcg/r%C3%A9solution-1204-sur-la-conservation-des-tortues-marines) (para. 3) -- _Sur la conservation des tortues marines_
+- Rés. [13/05](https://iotc.org/fr/mcg/r%C3%A9solution-1305-sur-la-conservation-des-requins-baleines-rhincodon-typus) (para. 7) -- _Sur la conservation des requins-baleines (Rhincodon typus)_
+- Rés. [23/06](https://iotc.org/fr/mcg/r%C3%A9solution-2306-sur-la-conservation-des-c%C3%A9tac%C3%A9s) (para. 9) -- _Sur la conservation des cétacés_
+- Rés. [23/07](https://iotc.org/fr/mcg/r%C3%A9solution-2307-sur-la-r%C3%A9duction-des-captures-accidentelles-d%E2%80%99oiseaux-de-mer-dans-les-p%C3%AAcheries) (para. 1) -- _Sur la réduction des captures accidentelles d’oiseaux de mer dans les pêcheries palangrières_
+
+#### Contenu
+
+Nombre d'interactions avec les tortues marines, les oiseaux de mer, les raies mobulidées, les cétacés et les requins-baleines, avec des informations sur la législation nationale en vigueur dans le cas des cétacés et des requins-baleines. Pour chaque strate, la couverture des données - c'est-à-dire le pourcentage (%) d'occurrences d'interactions échantillonnées - provenant du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Éléments principaux
+
+- [Pêcheries](../domain/fisheries/#fisheries)
+- [Zones principales de la CTOI](../domain/admin/#IOareasMain)
+- Groupe d'espèces : tortues marines, oiseaux de mer, raies mobulidées, cétacés et requins-baleines
+
+##### Type d’origine des données
+
+- [Types de données](../domain/data/#types)
+
+##### Couverture
+
+- [Types de couverture](../domain/data/#coverageTypes)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [1IN](../forms/#Form_1IN)
+
+<hr style="border:1.5px solid black">

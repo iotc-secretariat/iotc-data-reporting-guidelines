@@ -1,0 +1,47 @@
+## Fish prices {#PRdataset}
+
+#### Description
+
+Monthly time series of price of fish products for tuna and tuna-like species.
+
+#### Conservation and Management Measures
+
+- [IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf) (paras. 1 and 2d) -- _Article V. Objectives, functions and responsibilities of the Commission_
+
+#### Contents
+
+Average prices of fish per type of fish product (i.e., preservation, processing), weight units, type of currency, month, and market.
+
+#### Reporting metadata
+
+- [Focal point full name](#fcname)
+- [Focal point email](#fcemail)
+- [Organisation name](#orgname)
+- [Organisation email](#orgemail)
+- [Finalisation date](#findate)
+- [Submission date](#subdate)
+- [Reporting year](#repyear)
+- [Reporting entity](#repentity)
+- [Flag state](#repflagstate)
+
+#### Data dimensions
+
+##### Main elements
+
+- Month
+- Ocean
+- Pricing location
+- Currency
+- Destination
+- Market
+- [IOTC Species](../domain/biological/#IOTCspecies)
+- [Fish processing types](../domain/fisheries/#fishProcessingTypes)
+- [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
+- Weight class (lo)
+- Weight class (hi)
+
+#### Reporting form details
+
+Form [7PR](../forms/#Form_7PR)
+
+<hr style="border:1.5px solid black">

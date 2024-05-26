@@ -45,8 +45,8 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 ##### Original data
 
 - [Types of data](../domain/data/#types)
-- [Discards data sources](../domain/data/#sourcesDI)
-- [Discards data processings](../domain/data/#processingsDI)
+- [Data sources](../domain/data/#sourcesDI)
+- [Data processings](../domain/data/#processingsDI)
 
 ##### Source coverage
 

@@ -1,24 +1,24 @@
-# Quality control procedure {#QualitySection}
+# Procédure de contrôle qualité {#SectionQualité}
 
-### Metadata and data standards
+### Métadonnées et standards des données
 
-Evaluating the adherence of data submissions to the formats and standards set by the IOTC is essential to uphold the consistency and quality of the data managed by the Secretariat. It is the responsibility of the CPCs and other data providers to ensure the completeness of all metadata and data fields provided to the Secretariat as well as to use the IOTC codelists that build on several international standards and are available from the [IOTC data reference catalogue](https://data.iotc.org/reference/latest/).
+L'évaluation de l'adhésion des soumissions de données aux formats et aux normes établis par la CTOI est essentielle pour maintenir la cohérence et la qualité des données gérées par le Secrétariat. Il incombe aux CPC et aux autres fournisseurs de données de s'assurer que toutes les métadonnées et tous les champs de données fournis au Secrétariat sont complets et d'utiliser les listes de codes de la CTOI qui reposent sur plusieurs normes internationales et qui sont disponibles dans le [Catalogue de référence des données de la CTOI](https://data.iotc.org/reference/latest/).
 
-The IOTC data reference catalogue is composed of five reference data domains:
+Le catalogue de référence des données de la CTOI est composé de cinq domaines de données de référence :
 
-- [The administrative and geospatial domains](https://data.iotc.org/reference/latest/#Administrative_and_geospatial_domains) which include codelists for vessel flags, data reporting countries, fishing fleets, CPCs, and several spatial layers used to report information on fishing grounds;
+- le [domaine administratif et géospatial](https://data.iotc.org/reference/latest/#Administrative_and_geospatial_domains) qui comprend les référentiels pour les pavillons des navires, les pays déclarant les données, les flottes de pêche, les CPC, et plusieurs couches spatiales utilisées pour soummettre des informations sur les zones de pêche ;
 
-- [The fisheries and fishing technologies domain](https://data.iotc.org/reference/latest/domain/fisheries) which include several codelists used to describe the IOTC fisheries, vessels, gears and configurations, as well as fishing devices (e.g., floating objects) and materials;
+- [le domaine des pêcheries et des technologies de pêches](https://data.iotc.org/reference/latest/domain/fisheries) qui comprend plusieurs référentiels utilisées pour décrire les pêcheries de la CTOI, les navires, les engins de pêche et leurs configurations, ainsi que les dispositifs de pêche (par exemple, les objets flottants) et le matériel ;
 
-- [The biological and morphometric domain](https://data.iotc.org/reference/latest/domain/biological) which includes the IOTC species codelist mostly built on the [ASFIS](https://data.apps.fao.org/catalog/dataset/cwp-asfis) list of species for fishery statistics purposes as well as some code lists used to report information on sampling methods and morphometric measurements;
+- [le domaine biologique et morphométrique](https://data.iotc.org/reference/latest/domain/biological) qui comprend le référentiels des espèces de la CTOI, principalement construit à partir basé sur la liste d'espèces [ASFIS](https://data.apps.fao.org/catalog/dataset/cwp-asfis) à des fins de statistiques de la pêche, ainsi que certain référentiels utilisés pour communiquer des informations sur les méthodes d'échantillonnage et les mesures morphométriques ;
 
-- [The data and metadata domain](https://data.iotc.org/reference/latest/domain/data) which regroups the codelists used to characterise the elements of the datasets, the data sources, types of processings that can be applied, and coverage types;
+- [le domaine des données et des métadonnées](https://data.iotc.org/reference/latest/domain/data) qui regroupe les référentiels utilisés pour caractériser les éléments des jeux de données, les sources de données, les types de traitements pouvant être appliqués et les types de couverture statistique ;
 
-- [The legacy and external references domain](https://data.iotc.org/reference/latest/domain/legacy) which includes some historical codelists of the IOTC and some international reference codes from FAO, CWP, FIRMS, IUCN, and UN.
+- [le domaine historique et des références externes](https://data.iotc.org/reference/latest/domain/legacy) qui comprend des référentiels historiques de la CTOI et certains référentiels internationaux de la FAO, du CWP, de FIRMS, de l'IUCN et des Nations Unies.
 
 <!-- Contact the Secretariat in case of missing value in the code list and explanation required -->
 
-### Data submission validators
+### Validation des soumissions de données
 
 Some validators have been designed to assess the data quality based on the reporting forms.
 

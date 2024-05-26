@@ -1,0 +1,66 @@
+## Fréquences de taille géo-référencées {#SF}
+
+#### Description
+
+Estimations mensuelles des fréquences de taille des captures conservées à bord et rejetées par flotte de pêche, pêcherie, strate spatiale, espèce et sexe.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) (Annex II) -- _Concernant l’enregistrement des captures et de l’effort par les navires de pêche dans la zone de compétence de la CTOI_
+- Rés. [15/02](https://iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties) (para. 2) -- _Déclarations statistiques exigibles des parties contractantes et parties coopérantes non contractantes (CPC) de la CTOI_
+- Rés. [17/05](https://iotc.org/fr/mcg/r%C3%A9solution-1705-%E2%80%A8sur-la-conservation-des-requins-captur%C3%A9s-en-association-avec-des-p%C3%AAcheries) (para. 6) -- _Sur la conservation des requins capturés en association avec des pêcheries gérées par la CTOI_
+- Rés. [18/02](https://iotc.org/fr/mcg/r%C3%A9solution-1802-sur-des-mesures-de-gestion-pour-la-conservation-des-requins-peau-bleue-captur%C3%A9s) (para. 3) -- _Sur des mesures de gestion pour la conservation des requins peau bleue capturés en association avec les pêcheries de la CTOI_
+- Rés. [18/05](https://iotc.org/fr/mcg/r%C3%A9solution-1805-sur-des-mesures-de-gestion-pour-la-conservation-des-poissons-porte-%C3%A9p%C3%A9es-marlin) (para. 8) -- _Sur des mesures de gestion pour la conservation des poissons porte-épées : marlin rayé, marlin noir, marlin bleu et voilier indopacifique_
+
+#### Contenu
+
+Measures of individual sizes of fish for the IOTC species, common sharks, and other bycatch species. Straight length measurements made with a calliper or measuring board are recommended over fish weights and vary according to fish groups: (i) [lower-jaw fork length](#lj) for billfish, (ii) [upper-jaw fork length](#uj) for tunas, mackerels, sharks, and all other bycatch fish species with forked or lunate tails, (iii) [standard length](#sl) for bycatch fish species with rounded or truncate tails, and (iv) [disc width](#dw) for rays. The Secretariat further recommends the use of length intervals for the IOTC species and most commonly caught sharks along with maximum length intervals and ranges of valid values which are used to filter and consolidate the size-frequency datasets made available to support the IOTC process (see [Recommended measurements](../domain/biological/#morphometricsRecommended)).
+
+Sampling coverage shall be set to at least one (1) fish measured by tonne caught by fishery and species, with samples being representative of all the periods and areas fished. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. In addition, raised estimates of the size samples must be reported to the Secretariat to account for bias due to unrepresentative sampling. Documents covering sampling and raising procedures must be provided for each fishery and species.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Strate principale
+
+- Mois
+- [Grilles](../domain/admin/#IOTCgridsCESF)
+- [Espèces](../domain/biological/#allSpecies)
+- [Sexes](..domain/biological/#sex)
+- [Types de devenir](../domain/biological/#typesOfFate)
+- [Devenirs](../domain/biological/#fates)
+
+##### Données originales
+
+- [Types de données](../domain/data/#types)
+- [Sources des données](../domain/data/#sourcesSF)
+- [Traitements des données](../domain/data/#processingsSF)
+
+##### Couverture
+
+- [Estimations](../domain/data/#estimations)
+- [Types d'indicateur de couverture](../domain/data/#coverageTypes)
+- [Extrapolations](../domain/data/#raisings)
+
+##### Mensuration
+
+- [Types de mensuration](../domain/biological/#typesOfMeasurement)
+- [Mensurations](../domain/biological/#allMeasurementTypes)
+- [Outils](../domain/biological/#allMeasurementTools)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [4SF](../forms/#Form_4SF)
+
+<hr style="border:1.5px solid black">

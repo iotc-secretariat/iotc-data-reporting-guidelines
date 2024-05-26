@@ -35,17 +35,17 @@ Sampling coverage shall be set to at least one (1) fish measured by tonne caught
 ##### Main stratum
 
 - Month
-- [Grid](../domain/admin/#IOTCgridsCESF)
+- [Grids](../domain/admin/#IOTCgridsCESF)
 - [Species](../domain/biological/#allSpecies)
-- [Sex](..domain/biological/#sex)
+- [Sexes](..domain/biological/#sex)
 - [Types of fate](../domain/biological/#typesOfFate)
 - [Fates](../domain/biological/#fates)
 
 ##### Original data
 
-- [Type of data](../domain/data/#types)
-- [Size-frequency data sources](../domain/data/#sourcesSF)
-- [Size-frequency data processings](../domain/data/#processingsSF)
+- [Types of data](../domain/data/#types)
+- [Data sources](../domain/data/#sourcesSF)
+- [Data processings](../domain/data/#processingsSF)
 
 ##### Source coverage
 

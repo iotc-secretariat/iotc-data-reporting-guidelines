@@ -1,0 +1,57 @@
+## Activités liées aux objects flottants dérivants {#DA}
+
+#### Description
+
+Opérations conduites par les senneurs et leurs navires auxiliaires  sur les DCPD et les balises.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [15/02](https://iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties) (para. 2) -- _Déclarations statistiques exigibles des parties contractantes et parties coopérantes non contractantes (CPC) de la CTOI_
+- Rés. [19/02](https://iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons) (para. 11 et Annexe III) -- _Procédures pour un plan de gestion des Dispositifs de Concentration de Poissons (DCP)_
+
+#### Contenu
+
+Lorsqu'elles sont présentes, des informations sur l'identifiant de la bouée, la connaissance de la position de la bouée et le type d'activité menée sur la bouée. Pour chaque bouée, des informations sur les matériaux (c'est-à-dire la présence de plastique ou de métal), les dimensions (c-à-d., la longueur, la largeur et la hauteur) et la présence de mailles avec la taille de maille pour les composantes de surface (c-à-d., le radeau) et de subsurface (c-à-d., la queue). Enfin, des estimations par espèce des captures conservées à bord et rejetées en nombre ou en équivalent poids vif pour les espèces de la CTOI, les requins communs et les autres espèces faisant l'objet de prises accessoires.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Strate principale de la balise et du DCPD
+
+- Numéro CTOI du navire
+- Nom du navire
+- Mois
+- Jour du mois
+- Heure GMT 
+- Latitude (en degrés décimaux)
+- Longitude (en degrés décimaux)
+
+##### Strate principale des captures
+
+- Numéro CTOI du navire
+- Nom du navire
+- Mois
+- Jour du mois
+- Heure GMT 
+- Latitude (en degrés décimaux)
+- Longitude (en degrés décimaux)
+- [Espèces](../domain/biological/#allSpecies)
+- [Types de devenir](../domain/biological/#typesOfFate)
+- [Unités de captures](../domain/fisheries/#catchUnits)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [3DA](../forms/#Form_3DA)
+
+<hr style="border:1.5px solid black">

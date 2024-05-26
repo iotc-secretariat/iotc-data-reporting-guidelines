@@ -1,0 +1,38 @@
+## Positions journalières des balises {#BU}
+
+#### Description
+
+Positions journalières des balises opérationnelles attachées aux objets flottants utilisés dans les pêcheries à la senne tropicale.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [19/02](https://iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons) (para. 24) -- _Procédures pour un plan de gestion des Dispositifs de Concentration de Poissons (DCP)_
+
+#### Contenu
+
+Position journalière unique de la bouée (latitude et longitude en degrés décimaux) pour chacune des bouées suivies par chaque senneur. Chaque bouée est identifiée par son identifiant unique qui est une concaténation de l'acronyme du modèle commercial de la bouée (p. ex., ISD+, M3+, T8E) suivi de 5 à 9 chiffres en fonction du modèle de la bouée.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+- Mois
+- Jour du mois
+- Numéro CTOI du navire
+- Nom du navire
+
+#### Détails du formulaire de déclaration
+
+Formulaire [3BU](../forms/#Form_3BU)
+
+<hr style="border:1.5px solid black">

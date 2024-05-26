@@ -60,25 +60,25 @@ Documentation describing the extrapolation procedures (including raising factors
 ##### Catch main elements
 
 - Month
-- [Fishery](../domain/fisheries/#fisheries)
-- [Grid](../domain/admin/#IOTCgridsCESF)
-- [Estimation](../domain/data/#estimations)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [Grids](../domain/admin/#IOTCgridsCESF)
+- [Estimations](../domain/data/#estimations)
 - [Species](../domain/biological/#allSpecies)  
 - [Catch units](../domain/fisheries/#catchUnits)
 
 ##### Effort main elements
 
 - Month
-- [Fishery](../domain/fisheries/#fisheries)
-- [Grid](../domain/admin/#IOTCgridsCESF)
-- [Estimation](../domain/data/#estimations)
+- [Fisheries](../domain/fisheries/#fisheries)
+- [Grids](../domain/admin/#IOTCgridsCESF)
+- [Estimations](../domain/data/#estimations)
 - [Effort units](../domain/fisheries/#effortUnits)
 
 ##### Original data
 
 - [Types of data](../domain/data/#types)
-- [Catch-and-Effort data sources](../domain/data/#sourcesCE)
-- [Catch-and-Effort data processings](../domain/data/#processingsCE)
+- [Data sources](../domain/data/#sourcesCE)
+- [Data processings](../domain/data/#processingsCE)
 
 ##### Source coverage
 

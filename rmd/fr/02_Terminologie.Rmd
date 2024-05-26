@@ -1,0 +1,45 @@
+# Terminologie {#SectionTerminologie}
+
+Bien que de nombreuses définitions, classifications et normes à l'intérieur de la CTOI soient conformes à celles du Groupe de travail de coordination des statistiques des pêches ([CWP](#cwp)), la Commission utilise également plusieurs termes techniques et définitions propres à ses opérations, qui sont essentiels pour communiquer avec précision les données statistiques de pêche au Secrétariat.
+
+## Zone de compétence de la CTOI
+
+La [zone de compétence de la CTOI](#iotcareaofcompetence) est définie à l'article II de l'[Accord CTOI](#iotcagreement) et correspond à "l'océan Indien et les mers adjacentes, au nord de la zone de convergence antarctique, dans la mesure où il est nécessaire de couvrir ces mers aux fins de la conservation et de la gestion des stocks qui migrent vers ou hors de l'océan Indien". Pour des raisons statistiques, la zone de compétence de la CTOI est divisée en deux [zones principales](https://data.iotc.org/reference/latest/domain/admin/#IOareasMain) : l'océan Indien occidental et l'océan Indien oriental (Fig. \@ref(fig:AreaOfCompetence)).
+
+```{r AreaOfCompetence, fig.cap = "Zones principales de la zone de compétence de la CTOI ", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../inputs/charts/IOTC_AREA_OF_COMPETENCE_FRA.png")
+```
+
+## Espèces sous mandat de gestion de la CTOI
+
+Les 16 espèces et stocks gérés par la CTOI – ci-après dénommés espèces de la CTOI et stocks de la CTOI – sont définis dans l’article III de [l’Accord CTOI](#iotcagreement). Il est important de noter que la répartition du stock de thon rouge du sud (_Thunnus maccoyii_) s’étend sur les océans Atlantique, Indien et Pacifique, et que sa gestion actuelle est sous la responsabilité de la Commission pour la conservation du thon rouge du sud ([CCSBT](https://www.ccsbt.org/])).
+
+```{r PrimarySpecies, fig.cap = ""}
+dtfunction(ESPECES_PRIMAIRES) %>% formatStyle(columns = c("ESPECE_SCIENTIFIQUE"), fontStyle = "italic")
+```
+
+Par ailleurs, la CTOI a identifié une liste d'espèces, principalement composée d'espèces d'[élasmobranches](#élasmobranches) fréquemment capturées, pour lesquelles les obligations de déclaration des données s'appliquent de la même manière que pour les [espèces CTOI](#espèces CTOI). L'annexe 2 de la Résolution [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) fournit cette liste d'espèces et de groupes d'espèces par groupe d'engins et a été également complémentée pour toutes les raies manta par la résolution [19/03](https://iotc.org/fr/mcg/r%C3%A9solution-1903-sur-la-conservation-des-raies-mobulidae-captur%C3%A9es-en-association-avec-les).
+
+```{r OtherSpecies, fig.cap = ""}
+dtfunction(ESPECES_AUTRES) %>% formatStyle(columns = c("ESPECE_SCIENTIFIQUE"), fontStyle = "italic")
+```
+
+La Résolution [15/01](https://www.iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) comprend en outre des espèces en danger, menacées et protégées (ETP) qui peuvent interagir avec les pêcheries de la CTOI et pour lesquelles la collecte et la communication des données ont été définies par des MCG spécifiques : tortues marines (Rés. [12/04](https://www.iotc.org/fr/mcg/r%C3%A9solution-1204-sur-la-conservation-des-tortues-marines)), requins-baleines (_Rhincodon typus_) (Rés. [13/05](https://www.iotc.org/fr/mcg/r%C3%A9solution-1305-sur-la-conservation-des-requins-baleines-rhincodon-typus)), cétacés (Rés. [23/06]()), et oiseaux marins (Rés. [23/07](https:/www.iotc.org/fr/mcg/r%C3%A9solution-2306-sur-la-conservation-des-c%C3%A9tac%C3%A9s)).
+
+```{r ETPSpecies, fig.cap = "", eval = FALSE}
+dtfunction(ETP_SPECIES) %>% formatStyle(columns = c("ESPECE_SCIENTIFIQUE"), fontStyle = "italic")
+```
+
+Enfin, bien que la déclaration de statistiques pour toutes les autres espèces de prises accessoires soit facultative, les CPCs sont encouragés à surveiller les effets de la pêche sur l'écosystème, en particulier quand les prises de ces espèces représentent une proportion significative des prises totales de la pêcherie concernée.
+
+## Flotte de pêche {#FlotteDePêche}
+
+Une flotte de pêche est un groupe de navires de pêche qui peuvent opérer dans la [zone de compétence de la CTOI](#iotcareaofcompetence) et dont les opérations de pêche et les captures de thonidés et d'espèces apparentées sont sous la responsabilité d'une entité ou d'une sous-entité gouvernementale reconnue par la CTOI. La flotte de pêche est déterminée par la combinaison de l'État du pavillon et de l'entité déclarante (voir la section [Métadonnées de déclaration](#SectionMétadonnées)). Dans la plupart des cas, la flotte de pêche correspond à l'État du pavillon, mais certaines différences découlent de : (i) lorsque la CPC est composée de plusieurs entités (c'est-à-dire l'Union européenne (EUR) et la Chine (CHN)), (ii) les cas des Territoires français d'outre-mer (FRAT) et des Territoires Britanniques d'outre-mer indien (GBRT), et (iii) l'existence d'estimations de captures non déclarées non incluses ailleurs (par exemple, NEI.PS) qui doivent être prises en compte dans le processus de la CTOI.  
+
+## Catégories de pêcheries {#CatégoriesDePêcheries}
+
+Les trois principales catégories de pêchereies de la CTOI sont définies en fonction de l'engin principal utilisé par le navire et de leur enregistrement dans le registre des navires autorisés de la CTOI ([RAV](#rav)) : (i) [pêche à la palangre](#iotclonglinefishery), (ii) [pêche de surface](#iotcsurfacefishery), et (iii) [pêche côtière](#iotccoastalfishery), également appelée [pêche artisanale](#iotcartisanalfishery) (voir note de bas de page 1 de la Résolution [15/02](https://www.iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties)). Les obligations de déclaration de données de la CTOI définies par les [MCG](#mcg) varient en fonction des catégories de pêche.
+
+## Pêcheries {#Pêcheries}
+
+Les pêcheries de la CTOI proviennent de la combinaison de plusieurs facteurs : (i) le [but de la pêche](../domaine/pêche/#fisheryPurposes), (ii) la [zone d'opération](../domaine/pêche/#fisheryAreasOfOperation), (iii) la [gamme de taille des navires](../latest/domaine/pêche/#fisheryLOAClasses), (iv) le [groupe d'engins](../domaine/pêche/#gearGroups), (v) l'[engin](../domaine/pêcheries/#gears), (vi) la [configuration de l'engin](../domaine/pêcheries/#gearConfigurations), (vii) le [mode de pêche](../domaine/pêcheries/#fishingModes) dans le cas des sennes coulissantes, des hameçons et des lignes, et des cannes et lignes, et (viii) l'[espèce cible](../domaine/pêcheries/#targetSpecies). L'[assistant d'identification des pêcheries de la CTOI](https://data.iotc.org/fisheries/wizard/fr/) a été conçu pour guider l'adoption de la nouvelle classification des pêcheries en fournissant un outil interactif qui génère le code et la définition de la pêcherie sur la base des facteurs susmentionnés.

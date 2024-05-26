@@ -1,62 +1,62 @@
-GEAR_GROUP_CODE,GEAR_GROUP,CODE,NAME_EN,SPECIES_SCIENTIFIC,SPECIES_GROUP
-HL,Hooks and lines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
-HL,Hooks and lines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
-PL,Pole-and-lines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
-PL,Pole-and-lines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
-LL,Longlines,SMA,Shortfin mako,Isurus oxyrinchus,Mako sharks
-LL,Longlines,LMA,Longfin mako,Isurus paucus,Mako sharks
-LL,Longlines,SPK,Great hammerhead,Sphyrna mokarran,Hammerhead sharks
-LL,Longlines,SPL,Scalloped hammerhead,Sphyrna lewini,Hammerhead sharks
-LL,Longlines,SPZ,Smooth hammerhead,Sphyrna zygaena,Hammerhead sharks
-LL,Longlines,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
-LL,Longlines,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
-LL,Longlines,ALV,Thresher,Alopias vulpinus,Thresher sharks
-LL,Longlines,BSH,Blue shark,Prionace glauca,Other sharks
-LL,Longlines,FAL,Silky shark,Carcharhinus falciformis,Other sharks
-LL,Longlines,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
-LL,Longlines,POR,Porbeagle,Lamna nasus,Other sharks
-LL,Longlines,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
-LL,Longlines,RMA,Alfred manta,Mobula alfredi,Mobulid rays
-LL,Longlines,RMB,Giant manta,Mobula birostris,Mobulid rays
-LL,Longlines,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
-LL,Longlines,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
-LL,Longlines,RMM,Devil fish,Mobula mobular,Mobulid rays
-LL,Longlines,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
-LL,Longlines,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
-LL,Longlines,SSP,Shortbill spearfish,Tetrapturus angustirostris,Other bycatch species
-LL,Longlines,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
-PS,Purse seines,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
-PS,Purse seines,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
-PS,Purse seines,ALV,Thresher,Alopias vulpinus,Thresher sharks
-PS,Purse seines,FAL,Silky shark,Carcharhinus falciformis,Other sharks
-PS,Purse seines,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
-PS,Purse seines,RMA,Alfred manta,Mobula alfredi,Mobulid rays
-PS,Purse seines,RMB,Giant manta,Mobula birostris,Mobulid rays
-PS,Purse seines,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
-PS,Purse seines,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
-PS,Purse seines,RMM,Devil fish,Mobula mobular,Mobulid rays
-PS,Purse seines,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
-PS,Purse seines,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
-GI,Gillnets,PTH,Pelagic thresher,Alopias pelagicus,Thresher sharks
-GI,Gillnets,BTH,Bigeye thresher,Alopias superciliosus,Thresher sharks
-GI,Gillnets,ALV,Thresher,Alopias vulpinus,Thresher sharks
-GI,Gillnets,OCS,Oceanic whitetip shark,Carcharhinus longimanus,Other sharks
-GI,Gillnets,RMA,Alfred manta,Mobula alfredi,Mobulid rays
-GI,Gillnets,RMB,Giant manta,Mobula birostris,Mobulid rays
-GI,Gillnets,RME,Longhorned mobula,Mobula eregoodoo,Mobulid rays
-GI,Gillnets,RMK,Shortfin devil ray,Mobula kuhlii,Mobulid rays
-GI,Gillnets,RMM,Devil fish,Mobula mobular,Mobulid rays
-GI,Gillnets,RMT,Chilean devil ray,Mobula tarapacana,Mobulid rays
-GI,Gillnets,RMO,Smoothtail mobula,Mobula thurstoni,Mobulid rays
-HL,Hooks and lines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
-PL,Pole-and-lines,SRX,Rays and stingrays and mantas nei,Rajiformes,Other rays
-GI,Gillnets,SSP,Shortbill spearfish,Tetrapturus angustirostris,Other bycatch species
-GI,Gillnets,BSH,Blue shark,Prionace glauca,Other sharks
-GI,Gillnets,LMA,Longfin mako,Isurus paucus,Mako sharks
-GI,Gillnets,SMA,Shortfin mako,Isurus oxyrinchus,Mako sharks
-GI,Gillnets,POR,Porbeagle,Lamna nasus,Other sharks
-GI,Gillnets,SPK,Great hammerhead,Sphyrna mokarran,Hammerhead sharks
-GI,Gillnets,SPL,Scalloped hammerhead,Sphyrna lewini,Hammerhead sharks
-GI,Gillnets,SPZ,Smooth hammerhead,Sphyrna zygaena,Hammerhead sharks
-GI,Gillnets,SKH,Other sharks,Selachimorpha (Pleurotremata),Other sharks
-GI,Gillnets,MZZ,Other bony fishes,Osteichtyes,Other bycatch species
+GEAR_GROUP_CODE,GEAR_GROUP,GEAR_GROUP_FR,SPECIES_CODE,NAME_EN,NAME_FR,SPECIES_SCIENTIFIC,SPECIES_GROUP
+GI,Gillnets,Filets maillants,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks
+GI,Gillnets,Filets maillants,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks
+GI,Gillnets,Filets maillants,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks
+GI,Gillnets,Filets maillants,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks
+GI,Gillnets,Filets maillants,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species
+GI,Gillnets,Filets maillants,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks
+GI,Gillnets,Filets maillants,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks
+GI,Gillnets,Filets maillants,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks
+GI,Gillnets,Filets maillants,RMA,Alfred manta,,Mobula alfredi,Mobulid rays
+GI,Gillnets,Filets maillants,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays
+GI,Gillnets,Filets maillants,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays
+GI,Gillnets,Filets maillants,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays
+GI,Gillnets,Filets maillants,RMM,Devil fish,,Mobula mobular,Mobulid rays
+GI,Gillnets,Filets maillants,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays
+GI,Gillnets,Filets maillants,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays
+GI,Gillnets,Filets maillants,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks
+GI,Gillnets,Filets maillants,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks
+GI,Gillnets,Filets maillants,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks
+GI,Gillnets,Filets maillants,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks
+GI,Gillnets,Filets maillants,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks
+GI,Gillnets,Filets maillants,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species
+HL,Hooks and lines,Lignes et hameçons,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species
+HL,Hooks and lines,Lignes et hameçons,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks
+HL,Hooks and lines,Lignes et hameçons,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays
+LL,Longlines,Palangres,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks
+LL,Longlines,Palangres,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks
+LL,Longlines,Palangres,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks
+LL,Longlines,Palangres,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks
+LL,Longlines,Palangres,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks
+LL,Longlines,Palangres,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species
+LL,Longlines,Palangres,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks
+LL,Longlines,Palangres,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks
+LL,Longlines,Palangres,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks
+LL,Longlines,Palangres,RMA,Alfred manta,,Mobula alfredi,Mobulid rays
+LL,Longlines,Palangres,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays
+LL,Longlines,Palangres,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays
+LL,Longlines,Palangres,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays
+LL,Longlines,Palangres,RMM,Devil fish,,Mobula mobular,Mobulid rays
+LL,Longlines,Palangres,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays
+LL,Longlines,Palangres,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays
+LL,Longlines,Palangres,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks
+LL,Longlines,Palangres,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks
+LL,Longlines,Palangres,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks
+LL,Longlines,Palangres,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks
+LL,Longlines,Palangres,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks
+LL,Longlines,Palangres,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species
+PL,Pole-and-lines,Cannes,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species
+PL,Pole-and-lines,Cannes,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks
+PL,Pole-and-lines,Cannes,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays
+PS,Purse seines,Sennes,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks
+PS,Purse seines,Sennes,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks
+PS,Purse seines,Sennes,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks
+PS,Purse seines,Sennes,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks
+PS,Purse seines,Sennes,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks
+PS,Purse seines,Sennes,RMA,Alfred manta,,Mobula alfredi,Mobulid rays
+PS,Purse seines,Sennes,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays
+PS,Purse seines,Sennes,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays
+PS,Purse seines,Sennes,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays
+PS,Purse seines,Sennes,RMM,Devil fish,,Mobula mobular,Mobulid rays
+PS,Purse seines,Sennes,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays
+PS,Purse seines,Sennes,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays

@@ -1,6 +1,6 @@
 ---
-title: "Guidelines for the reporting of fisheries statistics to the IOTC"
-author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
+title: "Directives pour la déclaration des données statistiques de pêche à la CTOI"
+author: "Author: [Secrétariat de la CTOI](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
     reference_docx: "../templates/rdoc_template.docx"
@@ -34,40 +34,40 @@ knitr::opts_chunk$set(echo = FALSE,
                       )
 ```
 
-```{r child = "en/01_Purposes.Rmd"}
+```{r child = "fr/01_Objectifs.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/02_Terminology.Rmd"}
+```{r child = "fr/02_Terminologie.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/03_Metadata.Rmd"}
+```{r child = "fr/03_Métadonnées.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/04_00_Datasets.Rmd"}
+```{r child = "fr/04_00_Jeux_de_Données.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/05_Quality.Rmd"}
+```{r child = "05_Qualité.Rmd"}
+```
+
+<!-- \pagebreak -->
+
+```{r child = "06_Soumission.Rmd", eval = FALSE}
 ```
 
 \pagebreak
 
-```{r child = "en/06_Submission.Rmd"}
+```{r child = "fr/07_01_Acronymes.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/07_01_Acronyms.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "en/07_02_Glossary.Rmd"}
+```{r child = "fr/07_02_Glossaire.Rmd"}
 ```

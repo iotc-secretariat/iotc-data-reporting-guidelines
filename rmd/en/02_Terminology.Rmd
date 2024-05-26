@@ -15,19 +15,19 @@ knitr::include_graphics("../inputs/charts/IOTC_AREA_OF_COMPETENCE_ENG.png")
 The 16 species and stocks managed by the IOTC – hereinafter referred as the IOTC species and IOTC stocks – are defined in the article III of the [IOTC Agreement](#iotcagreement). It is important to note that the distribution of the stock of southern bluefin tuna (_Thunnus maccoyii_) extends over the Atlantic, Indian, and Pacific Oceans, and its actual management is under the responsibility of the Commission for the Conservation of Southern Bluefin Tuna ([CCSBT](https://www.ccsbt.org/])).
 
 ```{r PrimarySpecies, fig.cap = ""}
-dtfunction(PRIMARY_SPECIES)
+dtfunction(PRIMARY_SPECIES) %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
 ```
 
 In addition, the IOTC identified a list of species, mostly composed of commonly caught [elasmobranch](#elasmobranchs) species, for which data reporting obligations apply as for the [IOTC species](#iotcspecies). The Annex 2 of Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) provides this list of species and species groups by gear group and was further complemented for all manta rays through Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence).
 
 ```{r OtherSpecies, fig.cap = ""}
-dtfunction(OTHER_SPECIES)
+dtfunction(OTHER_SPECIES) %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
 ```
 
 Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) further includes groups of Endangered, Threatened, and Protected (ETP) species that may interact with IOTC fisheries and for which data collection and reporting has been defined through specific CMMs: [marine turtles](https://data.iotc.org/reference/latest/domain/biological/#marineTurtles) (Res. [12/04](https://iotc.org/cmm/resolution-1204-conservation-marine-turtles)), whale sharks (_Rhincodon typus_) (Res. [13/05](https://iotc.org/cmm/resolution-1305-conservation-whale-sharks-rhincodon-typus)), [cetaceans](https://data.iotc.org/reference/latest/domain/biological/#cetaceans) (Res. [23/06](https://iotc.org/cmm/resolution-2306-conservation-cetaceans)), and [seabirds](https://data.iotc.org/reference/latest/domain/biological/#seabirds) (Res. [23/07](https://iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries)).
 
 ```{r ETPSpecies, fig.cap = "", eval = FALSE}
-dtfunction(ETP_SPECIES)
+dtfunction(ETP_SPECIES) %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
 ```
 
 Finally, and while optional, the reporting of statistics for all other bycatch species is encouraged to monitor the ecosystem effects of fishing, especially when the catches of these species represent a significant proportion of the total catches of the fishery concerned.

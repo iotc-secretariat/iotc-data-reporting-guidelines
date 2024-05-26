@@ -9,7 +9,7 @@ dtfunction = function(dataset, output_table = OUTPUT_TABLES){
             list(dom = "Bfrtip", 
                  autoWidth = TRUE #, 
             )
-) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left') %>% formatStyle(columns = c("SPECIES_SCIENTIFIC"), fontStyle = "italic")
+) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left')
   return(datatable)
 }
   else {

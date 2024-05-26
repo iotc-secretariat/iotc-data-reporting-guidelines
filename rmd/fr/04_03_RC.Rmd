@@ -1,0 +1,61 @@
+## Quantité de poissons capturés et conservés à bord {#RC}
+
+#### Description
+
+Estimations annuelles totales de la quantité de poissons capturés et conservés à bord par flotte de pêche, pêcherie, zone principale de pêche de la CTOI, raison de la conservation à bord et espèce.
+
+#### Mesures de Conservation et de Gestion
+
+- Rés. [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) (Annex II) -- _Concernant l’enregistrement des captures et de l’effort par les navires de pêche dans la zone de compétence de la CTOI_
+- Rés. [15/02](https://iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties) (para. 2) -- _Déclarations statistiques exigibles des parties contractantes et parties coopérantes non contractantes (CPC) de la CTOI_
+- Rés. [17/05](https://iotc.org/fr/mcg/r%C3%A9solution-1705-%E2%80%A8sur-la-conservation-des-requins-captur%C3%A9s-en-association-avec-des-p%C3%AAcheries) (para. 6) -- _Sur la conservation des requins capturés en association avec des pêcheries gérées par la CTOI_
+- Rés. [18/02](https://iotc.org/fr/mcg/r%C3%A9solution-1802-sur-des-mesures-de-gestion-pour-la-conservation-des-requins-peau-bleue-captur%C3%A9s) (para. 3) -- _Sur des mesures de gestion pour la conservation des requins peau bleue capturés en association avec les pêcheries de la CTOI_
+- Rés. [18/05](https://iotc.org/fr/mcg/r%C3%A9solution-1805-sur-des-mesures-de-gestion-pour-la-conservation-des-poissons-porte-%C3%A9p%C3%A9es-marlin) (para. 8) -- _Sur des mesures de gestion pour la conservation des poissons porte-épées : marlin rayé, marlin noir, marlin bleu et voilier Indo-Pacifique_
+
+##### Interdictions de rétention dans les pêcheries [de palangre](#iotclonglinefishery) et [de surface](#iotcsurfacefishery)
+
+- Rés. [12/09](https://iotc.org/fr/mcg/r%C3%A9solution-1209-sur-la-conservation-des-requins-renards-famille-des-alopiid%C3%A6-captur%C3%A9s-par-les) -- _Sur la conservation des requins-renards (famille des Alopiidæ) capturés par les pêcheries dans la zone de compétence de la CTOI_
+- Rés. [13/06](https://iotc.org/fr/mcg/r%C3%A9solution-1306-sur-un-cadre-scientifique-et-de-gestion-pour-la-conservation-des-requins) -- _Sur un cadre scientifique et de gestion pour la conservation des requins capturés en association avec des pêcheries gérées par la CTOI_
+- Rés. [19/03](https://iotc.org/fr/mcg/r%C3%A9solution-1903-sur-la-conservation-des-raies-mobulidae-captur%C3%A9es-en-association-avec-les) -- _Sur la conservation des raies Mobulidae capturées en association avec les pêcheries dans la zone de compétence de la CTOI_
+
+#### Contenu
+
+Estimations des captures conservées à bord en équivalent poids vif (tonnes métriques ; t) pour les espèces de la CTOI, les requins communs et les autres espèces faisant l'objet de prises accessoires. La déclaration des estimations trimestrielles est volontaire et recommandée pour évaluer la saisonnalité des captures conservées. Pour chaque strate, la couverture des données - c'est-à-dire le pourcentage (%) de la quantité de poissons échantillonnés - provenant du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations.
+
+#### Métadonnées de déclaration
+
+- [Nom complet du point de contact](#fcname)
+- [Adresse électronique du point de contact](#fcemail)
+- [Nom de l'organisation](#orgname)
+- [Adresse électronique de l'organisation](#orgemail)
+- [Date de finalisation](#findate)
+- [Date de soumission](#subdate)
+- [Année de déclaration](#repyear)
+- [Entité déclarante](#repentity)
+- [État du pavillon](#repflagstate)
+
+#### Dimensions des données
+
+##### Éléments principaux
+
+- Trimestre
+- [Pêcheries](../domain/fisheries/#fisheries)
+- [Zones principales de la CTOI](../domain/admin/#IOTCareasMain)
+- [Raisons de la conservation à bord](../domain/biological/#retainReasons)
+- [L'espèces](../domain/legacy/#species)
+
+##### Type d’origine des données
+
+- [Types de données](../domain/data/#types)
+- [Sources de données](../domain/data/#sourcesRC)
+- [Traitements des données](../domain/data/#processingsRC)
+
+##### Couverture
+
+- [Types d'indicateur de couverture](../domain/data/#coverageTypes)
+
+#### Détails du formulaire de déclaration
+
+Formulaire [1RC](../forms/#Form_1RC)
+
+<hr style="border:1.5px solid black">
