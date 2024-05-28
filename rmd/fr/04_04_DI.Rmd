@@ -1,8 +1,8 @@
-## Quantité de poissons rejetés en mer {#DI}
+## Quantités de poissons rejetés en mer {#DI}
 
 #### Description
 
-Estimations annuelles totales de la quantité de poissons capturés et rejetés par flotte de pêche, pêcherie, zone principale de pêche de la CTOI, espèce et condition du poisson lors de la remise à l'eau.
+Estimations annuelles totales des quantités de poissons capturés et rejetés en mer par flotte de pêche, pêcherie, zone principale de pêche de la CTOI, espèce et condition du poisson lors de la remise à l'eau.
 
 #### Mesures de Conservation et de Gestion
 

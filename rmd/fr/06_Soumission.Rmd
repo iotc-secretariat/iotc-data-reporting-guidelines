@@ -1,0 +1,47 @@
+# Procédure de soumission des données {#SectionSoumission}
+
+## Plateforme e-MARIS {#emaris}
+
+La plateforme [e-MARIS](https://emaris.iotc.org/) constitue le principal point d'accès pour la déclaration des données statistiques sur les pêcheries au Secrétariat de la CTOI. Le document [e-MARIS Quick Start series for CPCs](https://iotc.org/sites/default/files/documents/compliance/emaris/Reporting_using_e-MARIS_for_CPCs.pdf) offre des lignes directrices et des détails techniques sur la connexion à la plateforme, le suivi des exigences de la CTOI et la soumission des informations requises. Pour les statistiques de pêche, tous les jeux de données doivent être soumis conformément à l'exigence 5.0. En outre, les informations figurant dans les tableaux et/ou sections pertinents relatifs à des jeux de données spécifiques doivent être fournies, en fonction de la catégorie de pêcherie.
+
+## Cycle de soumission {#cyclesoumission}
+
+La Résolution [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 7) établit explicitement les exigences pour la déclaration annuelle en temps voulu des jeux de données de base de la CTOI, c'est-à-dire la présence d'espèces dans les captures, les quantités annuelles de captures retenues ou rejetées en mer, et les données mensuelles géo-référencées de captures, efforts, et fréquences de taille :
+
+_a. Les flottes palangrières opérant en haute mer devront fournir des données provisoires pour l’année précédente au plus tard le 30 juin. Les données définitives devront être soumises au plus tard le 30 décembre;_
+
+_b. Les autres flottes (y compris les navires auxiliaires) devront fournir leurs données définitives pour l’année précédente au plus tard le 30 juin;_
+
+_c. Dans le cas où les statistiques définitives ne pourront pas être déclarées en temps et heure, il conviendra de fournir au moins des données préliminaires._
+
+Les résolutions [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) (para. 22) et [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads) (para. 11) suivent les mêmes exigences de délai pour les activités liées aux objets flottants dérivants et aux DCPs ancrés, tandis qu'un délai de soumission spécifique s'applique aux activités liées :
+
+i. Aux données relatives à la position quotidienne des bouées qui doivent être communiquées sur une base mensuelle, au moins 60 jours, mais pas plus de 90 jours après la fin du mois d'activité des bouées (Rés. [19/02](https://iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons); para. 24).
+
+ii. Aux détails des nouveaux DCPA déployés dans la ZEE des CPC qui doivent être signalés dans les 21 jours suivant leur mise à l'eau (Rés. [23/01](https://iotc.org/fr/mcg/r%C3%A9solution-2301-sur-la-gestion-des-dispositifs-de-concentration-de-poissons-ancr%C3%A9s-dcpa); para. 8).
+
+## Sémantiques {#semantiques}
+
+Les [formulaires de soumission des données](https://data.iotc.org/reference/latest/forms/) sont conçus pour faciliter la soumission de jeux de données complets au Secrétariat. À l'exception des [formulaires 3BU](../forms/#Form_3BU), qui contiennent des données sur les [positions quotidiennes des bouées](#BUdataset) et doivent être soumis sur une base mensuelle, le Secrétariat attend de recevoir les éléments suivants à chaque soumission annuelle pour chaque flotte de pêche :
+
+- Un [formulaire 1DR](../forms/#Form_1DR) unique pour soumettre les données de [présence d'espèces dans les prises](#DRdataset) pour tous les groupes d'engins ;
+- Un [formulaire  1IN](../forms/#Form_1IN) unique pour soumettre les données d'[interactions avec les espèces ETP](#INdataset) pour toutes les pêcheries ;
+- Un [formulaire 1RC](../forms/#Form_1RC) unique pour soumettre les données de [quantités de poissons capturés et conservés à bord](#RCdataset) pour toutes les pêcheries ;
+- Un [formulaire 1DI](../forms/#Form_1DI) unique pour soumettre les données de [quantités de poissons rejetés en mer](#DIdataset) pour toutes les pêcheries ;
+- Un [formulaire 3CE](../forms/#Form_3CE) unique pour soumettre les données de [captures et efforts de pêche géo-référencés](#CEdataset) pour toutes les pêcheries ;
+- Un [formulaire 4SF](../forms/#Form_4SF) unique pour soumettre les données de [fréquences de taille géo-référencées](#SFdataset) pour toutes les pêcheries et toutes les espèces ;
+- Un [formulaire 3AA](../forms/#Form_3AA) unique pour soumettre des données sur les [activités liées aux DCP ancrés](#AAdataset) pour toutes les pêcheries ;
+- Un [formulaire 3DA](../forms/#Form_3DA) unique pour soumettre des données sur les [activités liées aux objets flottants dérivants](#DAdataset) pour tous les navires ;
+- Un [formulaire 2FC](../forms/#Form_2FC) unique pour soumettre de manière volontaire les [statistiques des bateaux de pêche](#FCdataset) pour toutes les pêcheries.
+
+## Révisions des données {#révisions}
+
+S'il n'est pas possible de soumettre les statistiques définitives dans les délais impartis (section [Cycle de soumission](#cyclesoumission)), il convient de fournir au moins des statistiques préliminaires. Les données peuvent être révisées à tout moment en soumettant à nouveau les formulaires CTOI mis à jour via [e-Maris](#emaris). Pour faciliter le suivi des modifications, certaines versions des formulaires ont été conçues pour permettre la soumission des seuls éléments mis à jour des jeux de données :
+
+- Formulaire [3CE-update](../forms/Form_3CE_update.html) pour une pêcherie spécifique ;
+- Formulaire [4SF-update](../forms/Form_4SF_update.html) pour une pêcherie et une espèces spécifique ;
+- Formulaire [3AA-update](../forms/Form_3AA_update.html) pour une pêcherie spécifique ;
+- Formulaire [3DA-update](../forms/Form_3DA_update.html) pour un navire spécifique.
+
+Si des révisions des données historiques sont effectuées au-delà d'un délai de deux ans, elles doivent faire l'objet d'un rapport formel présenté au Groupe de Travail sur la Collecte et les Données Statistiques ([GPDCS]()) et être dûment justifiées. Ces rapports doivent être soumis à l'aide de formulaires fournis par le Secrétariat de la CTOI et seront examinés par le Comité Scientifique de la CTOI. Le Comité conseillera alors le Secrétariat de la CTOI sur la question de savoir si les révisions peuvent être acceptées pour un usage scientifique.
+

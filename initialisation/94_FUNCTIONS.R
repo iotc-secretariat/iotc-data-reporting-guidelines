@@ -1,4 +1,5 @@
 # Function for displaying datasets as data.tables in HTML output
+# Add language as input option
 dtfunction = function(dataset, output_table = OUTPUT_TABLES){
 
   if(output_table == "DT"){
@@ -18,7 +19,7 @@ dtfunction = function(dataset, output_table = OUTPUT_TABLES){
       flextable() %>% 
       flextable::font(part = "all", fontname = "calibri") %>% 
       flextable::fontsize(part = "all", size = 10) %>% 
-      italic(j = "SPECIES_SCIENTIFIC", italic = TRUE) %>% 
+      italic(j = "ESPECE_SCIENTIFIQUE", italic = TRUE) %>% 
       bold(part = "header") %>% 
       bg(part = "header", bg = "grey") %>% 
       fontsize(part = "all", size = 9) %>% 

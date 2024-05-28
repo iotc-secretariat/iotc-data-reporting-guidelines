@@ -1,5 +1,5 @@
 ---
-title: "Directives pour la déclaration des données statistiques de pêche à la CTOI"
+title: "Directives de déclaration des données statistiques de pêche à la CTOI"
 author: "Author: [Secrétariat de la CTOI](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
@@ -54,12 +54,12 @@ knitr::opts_chunk$set(echo = FALSE,
 
 \pagebreak
 
-```{r child = "05_Qualité.Rmd"}
+```{r child = "fr/05_Qualité.Rmd"}
 ```
 
 <!-- \pagebreak -->
 
-```{r child = "06_Soumission.Rmd", eval = FALSE}
+```{r child = "fr/06_Soumission.Rmd"}
 ```
 
 \pagebreak

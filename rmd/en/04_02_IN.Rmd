@@ -8,13 +8,12 @@ Annual estimates of the numbers of interactions of [longline fisheries](#iotclon
 
 - Res. [12/04](https://iotc.org/cmm/resolution-1204-conservation-marine-turtles) (para. 3) -- _On the conservation of marine turtles_
 - Res. [13/05](https://iotc.org/cmm/resolution-1305-conservation-whale-sharks-rhincodon-typus) (para. 7) -- _On the conservation of whale sharks (Rhincodon typus)_
-<!-- - Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid rays caught in association with fisheries in the IOTC are fo competence_ -->
 - Res. [23/06](https://iotc.org/cmm/resolution-2306-conservation-cetaceans) (para. 9) -- _On the conservation of cetaceans_
 - Res. [23/07](https://iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries) (para. 1) -- _On reducing the incidental bycatch of seabirds in longline fisheries_
 
 #### Contents
 
-Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans and whale sharks, with information on national legislation in place in the case of cetaceans and whale sharks. For each stratum, the data coverage -- i.e., the percentage (%) of occurrences of interactions sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
+Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans, and whale sharks, with information on national legislation in place in the case of cetaceans and whale sharks. For each stratum, the data coverage -- i.e., the percentage (%) of occurrences of interactions sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
 #### Reporting metadata
 

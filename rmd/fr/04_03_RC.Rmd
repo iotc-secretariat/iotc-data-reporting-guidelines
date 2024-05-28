@@ -1,8 +1,8 @@
-## Quantité de poissons capturés et conservés à bord {#RC}
+## Quantités de poissons capturés et conservés à bord {#RC}
 
 #### Description
 
-Estimations annuelles totales de la quantité de poissons capturés et conservés à bord par flotte de pêche, pêcherie, zone principale de pêche de la CTOI, raison de la conservation à bord et espèce.
+Estimations annuelles totales des quantités de poissons capturés et conservés à bord par flotte de pêche, pêcherie, zone principale de pêche de la CTOI, raison de la conservation à bord et espèce.
 
 #### Mesures de Conservation et de Gestion
 
