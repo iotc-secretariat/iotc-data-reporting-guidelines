@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "fr/01_Objectifs.Rmd"}
 ```
 
-\pagebreak
+<!-- \pagebreak -->
 
 ```{r child = "fr/02_Terminologie.Rmd"}
 ```

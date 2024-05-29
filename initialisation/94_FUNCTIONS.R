@@ -15,7 +15,6 @@ dtfunction = function(dataset, output_table = OUTPUT_TABLE_FORMAT){
                  autoWidth = TRUE #, 
             )
 ) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left') %>% formatStyle(columns = INDIC_SPECIES_COLUMNN, fontStyle = "italic")
-  
   return(datatable)
 }
   else {

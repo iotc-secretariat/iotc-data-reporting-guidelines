@@ -1,6 +1,6 @@
 # Terminologie {#SectionTerminologie}
 
-Bien que de nombreuses définitions, classifications et normes à l'intérieur de la CTOI soient conformes à celles du Groupe de travail de coordination des statistiques des pêches ([CWP](#cwp)), la Commission utilise également plusieurs termes techniques et définitions propres à ses opérations, qui sont essentiels pour communiquer avec précision les données statistiques de pêche au Secrétariat.
+Bien que de nombreuses définitions, classifications et normes utilisées au sein de la CTOI soient conformes à celles du Groupe de travail de coordination des statistiques des pêches ([CWP](#cwp)), la Commission utilise également plusieurs termes techniques et définitions propres à ses opérations, qui sont essentiels pour communiquer avec précision les données statistiques de pêche au Secrétariat.
 
 ## Zone de compétence de la CTOI
 

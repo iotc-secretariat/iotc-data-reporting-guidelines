@@ -24,7 +24,7 @@ render("rmd/00_DOCX_HTML_FR.Rmd",
 source("./initialisation/99_UPLOAD.R")
 
 ## DOCX ####
-OUTPUT_TABLES = "FT"
+OUTPUT_TABLE_FORMAT = "FT"
 
 ### FRENCH ####
 render("rmd/00_DOCX_HTML.Rmd", 
@@ -37,5 +37,3 @@ render("rmd/00_DOCX_HTML_FR.Rmd",
        output_dir    = "outputs/docx", 
        output_file   = paste0("IOTC_Directions_Déclarations_Données_", Sys.Date(), ".docx")
 )
-
-
