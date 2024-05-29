@@ -1,8 +1,12 @@
 # Function for displaying datasets as data.tables in HTML output
 # Add language as input option
-dtfunction = function(dataset, output_table = OUTPUT_TABLES){
+dtfunction = function(dataset, output_table = OUTPUT_TABLE_FORMAT){
 
+  INDIC_SPECIES_COLUMNN = grep("SCIENTIF", names(dataset))
+    
+    
   if(output_table == "DT"){
+  
   datatable = datatable(dataset, 
           rownames = FALSE, 
           filter = "bottom", 
@@ -10,7 +14,8 @@ dtfunction = function(dataset, output_table = OUTPUT_TABLES){
             list(dom = "Bfrtip", 
                  autoWidth = TRUE #, 
             )
-) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left')
+) %>% formatStyle(columns = 1:ncol(dataset), `text-align` = 'left') %>% formatStyle(columns = INDIC_SPECIES_COLUMNN, fontStyle = "italic")
+  
   return(datatable)
 }
   else {
@@ -19,7 +24,7 @@ dtfunction = function(dataset, output_table = OUTPUT_TABLES){
       flextable() %>% 
       flextable::font(part = "all", fontname = "calibri") %>% 
       flextable::fontsize(part = "all", size = 10) %>% 
-      italic(j = "ESPECE_SCIENTIFIQUE", italic = TRUE) %>% 
+      italic(j = INDIC_SPECIES_COLUMNN, italic = TRUE) %>% 
       bold(part = "header") %>% 
       bg(part = "header", bg = "grey") %>% 
       fontsize(part = "all", size = 9) %>% 

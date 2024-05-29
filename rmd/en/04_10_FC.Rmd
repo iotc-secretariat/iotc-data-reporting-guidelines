@@ -10,7 +10,7 @@ Annual number of active fishing vessels by gear, boat type, size class, and fish
 
 #### Contents
 
-Estimates of the numbers of both [artisanal](#iotcartisanalfishingvessel) and [industrial](#iotcindustrialfishingvessel) fishing vessels involved in fishing activities during the year, stratified by boat type, mechanisation type, fish preservation method, and refrigeration storage system. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
+Estimates of the numbers of fishery vessels active during the year, stratified by boat type, mechanisation type, fish preservation method, and refrigeration storage system. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
 #### Reporting metadata
 

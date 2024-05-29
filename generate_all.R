@@ -12,7 +12,7 @@ render("rmd/00_DOCX_HTML.Rmd",
 )
 
 ## DRG - HTML ####
-OUTPUT_TABLES = "DT"
+OUTPUT_TABLE_FORMAT = "DT"
 
 ### English version ####
 render("rmd/00_DOCX_HTML.Rmd", 
@@ -21,13 +21,10 @@ render("rmd/00_DOCX_HTML.Rmd",
        output_file   = paste0("index.html")
 )
 
-# Upload on the server
-source("./initialisation/99_UPLOAD.R")
-
 #### Version française ####
 
 ## DDD - DOCX ####
-OUTPUT_TABLES = "FT"
+OUTPUT_TABLE_FORMAT = "FT"
 
 render("rmd/00_DOCX_HTML_FR.Rmd", 
        output_dir    = "outputs/docx", 
@@ -43,4 +40,6 @@ render("rmd/00_DOCX_HTML_FR.Rmd",
        output_file   = paste0("index_fr.html")
 )
 
+# Upload files on the server
+source("./initialisation/99_UPLOAD.R")
 

@@ -6,10 +6,6 @@
 
 A fish aggregating device tethered to the bottom of the ocean. It usually consists of a very large buoy and it is anchored to the bottom of the ocean with a chain (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
-#### Archival tag {#archivaltag}
-
-Implanted fish tag that detects and records (‘archives’) environmental variables (e.g., water temperature) and location over time. Synonym to data storage tag.
-
 #### Artisanal fishery {#artisanalfishery}
 
 Traditional fishery that involves fishing households (as opposed to commercial companies), using relatively small amounts of capital and energy, relatively small fishing vessels (if any), making short fishing trips close to shore, mainly for local consumption. In practice, definition varies between countries, e.g., from gleaning or a one-man canoe in poor developing countries, to more than 20 m trawlers, seiners, or longliners in developed ones. Artisanal fisheries can be subsistence or commercial fisheries, providing for local consumption or export. They are sometimes referred to as small-scale fisheries ([FAO 2005](https://www.fao.org/documents/card/en/c/ae76ef51-be20-5e71-aec5-b469e5e0a673)).
@@ -182,17 +178,17 @@ All parts of the sea that are not included in the exclusive economic zone, in th
 
 Fishery that (i) catches fish from large and medium-sized vessels fitted out with mechanised methods of operating the fishing gear and installations for preservation of fish on board, (ii) process the catch either in land base or on board – in which cases the vessels are provided with appropriate processing installations, and (iii) distribute the fish products around the country and abroad using mechanised means of transportation adapted for fish and fish products. All these activities are generally organised for the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and fish product transportation ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
 
-#### Industrial fishery (IOTC) {#iotcindustrialfishery}
+<!-- #### Industrial fishery (IOTC) {#iotcindustrialfishery} -->
 
-Fishery composed of industrial fishing vessels following the IOTC definition.
+<!-- Fishery composed of industrial fishing vessels following the IOTC definition. -->
 
 #### Industrial fishing vessel {#industrialfishingvessel}
 
 Large vessel, typically of 24 m in length and over, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear and installations for preservation of fish on board ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
 
-#### Industrial fishing vessel (IOTC) {#iotcindustrialfishingvessel}
+<!-- #### Industrial fishing vessel (IOTC) {#iotcindustrialfishingvessel} -->
 
-Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State, including auxiliary, supply and support vessels (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
+<!-- Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State, including auxiliary, supply and support vessels (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)). -->
 
 #### IOTC active vessel list {#avl}
 

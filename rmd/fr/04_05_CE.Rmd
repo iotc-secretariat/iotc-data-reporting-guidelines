@@ -2,7 +2,7 @@
 
 #### Description
 
-Estimations des captures et des efforts de pêche par espèce, flotte de pêche, pêcherie et strate spatio-temporelle.
+Estimations des captures et des efforts de pêche par espèce, flotte de pêche, pêcherie et strate spatio-temporelle, incluant l'effort exercé par les navires auxiliaires assistant les senneurs. 
 
 #### Mesures de Conservation et de Gestion
 
@@ -20,16 +20,28 @@ Estimations des captures et des efforts de pêche par espèce, flotte de pêche,
 
 #### Contenu
 
-- Estimations des efforts exprimés en unités conformes aux exigences établies dans la Résolution [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) et complétées par les nombres d'opérations de pêche pour les [pêcheries palangrières](#iotclonglinefishery) et les [pêcheries de surface](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). L'utilisation des marées comme unité d'effort n'est **pas recommandée** car la longueur des marées peut varier considérablement en fonction de la longueur du navire, du succès de la pêche et de multiples facteurs techniques (p. ex. manque du carburant). Dans le cas des pêcheries à senne coulissante, d'autres unités pourraient être ajoutées pour affiner les informations sur l'effort, telles que le temps d’exploration ou la surface explorée.
+- Estimations des efforts exprimés en unités conformes aux exigences établies dans la Résolution [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) et complétées par les nombres d'opérations de pêche pour les [pêcheries palangrières](#iotclonglinefishery) et les [pêcheries de surface](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
 
-| Groupe d'engins | Effort primaire | Effort secondaire | Effort tertiaire |
-| :------------ | :------------------------- | :------------------------- | :------------------------- |
-Filets maillants (GI) | Nombre de jours de pêche | Nombre de filets déployés | Surface totale des filets déployés |
-Hameçons et lignes (HL) | Nombre de jours de pêche | Nombre d'hameçons deployés | - |
-Palangres (LL) | Nombre d'hameçons deployé | 	Nombre de coups de filet | - |
-Autres engins (OT) | Nombre de jours en mer | - | - |
-Cannes (PL) | Nombre de jours de pêche | Nombre de coups de filet | Nombre de jours-cannes |
-Sennes coulissantes (PS) | Nombre d'heures de pêche | 	Nombre de coups de filet| Nombres de coups de filets réussis/nuls |
+| Groupe d'engins | Effort primaire | Effort secondaire |
+| :------------ | :------------------------- | :------------------------- |
+Filets maillants (GI)   | Nombre de jours de pêche | Nombre d'opérations de pêche |
+Hameçons et lignes (HL) | Nombre de jours de pêche | Nombre d'hameçons deployés |
+Palangres (LL) | Nombre d'hameçons deployés | Nombre d'opérations de pêche |
+Autres engins (OT) | Nombre de jours en mer | - |
+Cannes (PL) | Nombre de jours de pêche | Nombre d'opérations de pêche |
+Sennes coulissantes (PS) | Nombre d'heures de pêche | Nombre d'opérations de pêche |
+
+L'utilisation des marées comme unité d'effort n'est **pas recommandée** car la longueur des marées peut varier considérablement en fonction de la longueur du navire, du succès de la pêche et de multiples facteurs techniques (p. ex. disponbilité de carburant).
+
+Des unités supplémentaires peuvent être envisagées pour affiner et normaliser l'estimation de l'effort de pêche nominal :
+
+i. Dans les pêcheries au filet maillant, la surface des filets déployés peut mieux refléter l'intensité de l'effort en tenant compte des différences de longueur et de hauteur des filets ;
+
+ii. Dans les pêcheries à lignes et hameçons, le nombre d'hameçons peut être utilisé comme requis pour les pêcheries à la palangre ;
+
+iii. Dans les pêcheries à la canne, le nombre de cannes journalières utilisées peut aider à tenir compte des différences dans le nombre de pêcheurs présents à bord des navires ;
+
+iv. Dans les pêcheries à senne coulissante, le nombre d'opérations de pêche réussies et nulles, le temps de recherche et la surface explorée peuvent compléter les informations fournies par le temps de pêche et le nombre total de calées.
 
 - Estimations des captures pour les espèces de la CTOI, les requins communs et autres espèces de prises accessoires. L'extrapolation aux totaux mensuels des captures nationales est obligatoire (M) pour les [pêcheries palangrières](#iotclonglinefishery) et les [pêcheries de surface](#iotcsurfacefishery) et facultative (O) pour les [pêcheries côtières](#iotccoastalfishery).
 
@@ -37,11 +49,11 @@ Pour chaque strate, la couverture des données - c'est-à-dire le pourcentage (%
 
 | Catégorie | Résolution temporelle | Résolution spatiale | Unité de capture | Extrapolation | 
 | :-------- | :--------- | :---------- | :------------- | :-------: |
-[Pêcheries de surface](#iotcsurfacefishery)  | Mois | [1° zone quadrillée](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids1x1) | Equivalent poids vif | M |
-[Pêcheries palangrières](#iotclonglinefishery) | Mois ou plus précis pour le CS | [5° zone quadrillée](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) ou plus précis pour le CS | Nombre ou équivalent poids vif | M |
-[Pêcheries côtières](#iotccoastalfishery) | Année ou plus précis | [Zones irrégulières](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Nombre ou équivalent poids vif | O |
+[Pêcheries de surface](#iotcsurfacefishery)  | Mois | [1° zone quadrillée](../domain/admin/#IOgrids1x1) | Equivalent poids vif | M |
+[Pêcheries palangrières](#iotclonglinefishery) | Mois ou plus précis pour le CS | [5° zone quadrillée](../domain/admin/#IOgrids5x5) ou plus précis pour le CS | Nombre ou équivalent poids vif | M |
+[Pêcheries côtières](#iotccoastalfishery) | Année ou plus précis | [Zones irrégulières](../domain/admin/#IOTCareasAR) | Nombre ou équivalent poids vif | O |
 
-La documentation décrivant les procédures d'extrapolation (y compris les taux d'extrapolation pour la couverture des livres de bord) est également requise et doit être soumise régulièrement. Un modèle de déclaration des informations sur les procédures d'échantillonnage est disponible dans le document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
+La documentation décrivant les procédures d'extrapolation (y compris les taux d'extrapolation pour la couverture des livres de bord) est également requise et doit être soumise régulièrement (Rés. [15/02](https://iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties); para. 4). Un modèle de déclaration des informations sur les procédures d'échantillonnage est disponible dans le document  [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
 
 #### Métadonnées de déclaration
 

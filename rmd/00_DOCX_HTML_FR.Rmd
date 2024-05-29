@@ -1,9 +1,9 @@
 ---
 title: "Directives de déclaration des données statistiques de pêche à la CTOI"
-author: "Author: [Secrétariat de la CTOI](mailto:IOTC-Secretariat@fao.org)" 
+author: "Auteur: [Secrétariat de la CTOI](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
-    reference_docx: "../templates/rdoc_template.docx"
+    reference_docx: "../templates/rdoc_template_fr.docx"
   html_document2:
     css: "../templates/html_template.css"
     number_sections: FALSE
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "fr/02_Terminologie.Rmd"}
 ```
 
-\pagebreak
+<!-- \pagebreak -->
 
 ```{r child = "fr/03_Métadonnées.Rmd"}
 ```

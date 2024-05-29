@@ -2,7 +2,7 @@
 
 #### Description
 
-Estimates of species-specific catches and efforts by fishing fleet, fishery, and space and time strata.
+Estimates of species-specific catches and efforts by fishing fleet, fishery, and space and time strata, including the effort exerted by the support vessels assisting the purse seiners. 
 
 #### Conservation and Management Measures
 
@@ -20,16 +20,28 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 
 #### Contents
 
-- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). The use of trips as effort unit is **not recommended** as trip length may vary substantially according to vessel length, fishing success, and multiple technical factors (e.g., fuel exhaustion). In the case of purse seine fisheries, other units could be added to refine the information on effort such as searching time and surface area explored. 
+- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
 
-| Gear group | Primary effort | Secondary effort | Tertiary effort 
-| :------------ | :------------------------- | :------------------------- | :------------------------- |
-Gillnets (GI)        | Number of fishing days   | Number of nets deployed | Total net surface deployed |
-Hooks and lines (HL) | Number of fishing days   | Number of hooks deployed | - |
-Longlines (LL)       | Number of hooks deployed | Number of sets | - |
-Other gears (OT)     | Number of days at sea    | - | - |
-Pole-and-lines (PL)  | Number of fishing days   | Number of sets | Number of day-poles |
-Purse seines (PS)    | Number of fishing hours  | Number of sets | Number of successful/null sets |
+| Gear group | Primary effort | Secondary effort | 
+| :------------ | :------------------------- | :------------------------- |
+Gillnets (GI)        | Number of fishing days   | Number of fishing operations |
+Hooks and lines (HL) | Number of fishing days   | Number of fishing operations |
+Longlines (LL)       | Number of hooks deployed | Number of fishing operations |
+Other gears (OT)     | Number of days at sea    | Number of fishing operations |
+Pole-and-lines (PL)  | Number of fishing days   | Number of fishing operations |
+Purse seines (PS)    | Number of fishing hours  | Number of fishing operations |
+
+From a general perspective, using trips as a unit of effort is not recommended because trip duration can vary widely due to factors such as vessel size, fishing success, and technical considerations (e.g., fuel availability).
+
+Additional units may be considered to refine and standardise the estimation of nominal fishing effort:
+
+i. In gillnet fisheries, the surface area of the nets deployed may better reflect effort intensity by accounting for differences in net length and height;
+
+ii. In hooks and line fisheries, the number of hooks may be used as required for longline fisheries;
+
+iii. In pole-and-line fisheries, the number of day-poles used may help account for differences in the number of fishers onboard the vessels;
+
+iv. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets. 
 
 - Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery).
 
@@ -41,7 +53,7 @@ For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort 
 [Longline fisheries](#iotclonglinefishery) | Month or finer for the SC | [5° grid area](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) or finer for the SC | Numbers or live weight equivalent | M |
 [Coastal fisheries](#iotccoastalfishery) | Year or finer | [Irregular areas](https://data.iotc.org/reference/latest/domain/admin/#IOTCareasAR) | Numbers or live weight equivalent | O |
 
-Documentation describing the extrapolation procedures (including raising factors for logbook coverage) is also required and must be routinely submitted. A template for reporting information on sampling procedures is available in the document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
+Documentation describing the extrapolation procedures (including raising factors for logbook coverage) is also required and must be routinely submitted (Res. [15/02](https://iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and); para. 4). A template for reporting information on sampling procedures is available in the document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
 
 #### Reporting metadata
 
