@@ -6,84 +6,83 @@ Some mandatory (M) and optional (O) descriptive metadata elements have been iden
 
 | Element        | Requirement | Description | Format | Example |
 | :--------| :----: | :----------------------- | :-------- | :------------ |
-| [Focal point full name]{#fcname} | M | Name of the focal point in charge of the reporting of the data to the IOTC Secretariat | Plain text | John Doe  |
-| [Focal point email]{#fcemail} | M | Email address of the focal point in charge of the reporting of the data to the IOTC Secretariat | Valid email address | John.Doe@fao.org |
-| [Organisation name]{#orgname} | M | Name of the organisation in charge of the reporting of the data to the IOTC Secretariat | Plain text | National Institute of Fisheries |
-| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the reporting of the data to the IOTC Secretariat | Valid email address | nif@gov.sc |
+| [Liaison officer full name]{#fcname} | M | Name of the liaison officer in charge of the compilation of the data  | Plain text | John Doe  |
+| [Liaison officer email]{#fcemail} | M | Email address of the liaison officer in charge of the compilation of the data | Valid email address | John.Doe@fao.org |
+| [Organisation name ]{#orgname} | M | Name of the organisation in charge of the compilation of the data | Plain text | National Institute of Fisheries |
+| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the compilation of the data | Valid email address | nif@gov.sc |
 | [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 |
 | [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 |
-
 
 ## Data characteristics
 
 Some general information is required to describe the main characteristics of the data reported to the Secretariat, including the reporting entity and flag state that define the [fishing fleet](#fishingfleet) and are common to all datasets, and some additional descriptors providing details on the origin and processing procedure applied to the data reported for each stratum, i.e., unique combination of elements defining the datasets.
 
-### [All datasets](#DatasetSection)
+#### [All datasets](#DatasetSection)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
 | [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | Integer | 1997 |
-| [Reporting entity]{#repentity} | M | Code of the entity reporting the dataset to the IOTC Secretariat | [Entity](../domain/admin/#entities) |
-| [Flag state]{#repflagstate} | M | Code of the country registration of the fishery vessels | [Countries](../domain/admin/#countries) |
+| [Reporting entity]{#repentity} | M | Entity reporting the dataset to the IOTC Secretariat | **Code** from [Entities](../domain/admin/#entities) |
+| [Flag state]{#repflagstate} | M | Country registration of the fishery vessels | **Code** from [Countries](../domain/admin/#countries) |
 
-### [Interactions with Endangered, Threatened and Protected species dataset](#INdataset)
+#### [Interactions with Endangered, Threatened and Protected species dataset](#INdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Source coverage type     | O | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)      |
+| Source coverage type     | O | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
 
-### [Amount of fish caught and retained dataset](#RCdataset)
+#### [Amount of fish caught and retained dataset](#RCdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Original data source     | M | Source of information| [Sources](../domain/data/#sourcesRC)                       |
-| Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsRC)  |
-| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)  |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesRC)                       |
+| Original data processing | M | Processing applied to the data  | **Code** from [Processings](../domain/data/#processingsRC)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
 
-### [Amount of discards dataset](#DIdataset)
+#### [Amount of discards dataset](#DIdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesDI)            |
-| Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsDI)  |
-| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
-| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | 
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)      |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesDI)   |
+| Original data processing | M | Processing applied to the data    | **Code** from [Processings](../domain/data/#processingsDI)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising  | M | Level of raising (i.e., extrapolation) | **Code** From [Raisings](../domain/data/#raisings)     | 
 
-### [Geo-referenced catches and efforts dataset](#CEdataset)
+#### [Geo-referenced catches and efforts dataset](#CEdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesCE)                      |
-| Original data processing | M | Processing applied to the data    | [Processings](../domain/data/#processingsCE)  |
-| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
-| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | 
+| Element        | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)      |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesCE)                      |
+| Original data processing | M | Processing applied to the data    | **Code** From [Processings](../domain/data/#processingsCE)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     | 
 
-### [Geo-referenced size frequencies dataset](#SFdataset)
+#### [Geo-referenced size frequencies dataset](#SFdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesSF)                      |
-| Original data processing | M | Processing applied to the data | [Processings](../domain/data/#processingsSF)     |
-| Estimation               | M | Origin of the data (i.e., observed or estimated) | [Estimations](../domain/data/#estimations) |
-| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
-| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     | 
+| Element        | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)      |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesSF)                      |
+| Original data processing | M | Processing applied to the data | **Code** from [Processings](../domain/data/#processingsSF)     |
+| Estimation  | M | Origin of the data (i.e., observed or estimated) | **Code** from [Estimations](../domain/data/#estimations) |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising  | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     | 
 
-### [AFAD-related activities dataset](#AAdataset)
+#### [AFAD-related activities dataset](#AAdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Data raising             | M | Level of raising (i.e., extrapolation) | [Raisings](../domain/data/#raisings)     |
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Data raising             | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     |
 
-### [Fishing craft statistics dataset](#FCdataset)
+#### [Fishing craft statistics dataset](#FCdataset)
 
-| Element        | Requirement | Description | Codelist  |
-| :----------------- | :-----: | :----------------------- | :-------: |
-| Original data type       | M | Preliminary/final status of the data | [Type of data](../domain/data/#types)      |
-| Original data source     | M | Source of information | [Sources](../domain/data/#sourcesFC)                      |
-| Original data processing | M | Processing applied to the data | [Processings](../domain/data/#processingsFC)     |
-| Source coverage type     | M | Variable used for data coverage | [Coverage types](../domain/data/#coverageTypes) |
+| Element  | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data type       | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types)      |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesFC) |
+| Original data processing | M | Processing applied to the data | **Code** from [Processings](../domain/data/#processingsFC)     |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |

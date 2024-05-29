@@ -8,6 +8,7 @@ output:
     css: "../templates/html_template.css"
     number_sections: FALSE
     toc: yes
+    toc_depth: 2
     toc_float:
       collapsed: FALSE
       smooth_scroll: FALSE

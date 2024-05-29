@@ -20,18 +20,18 @@ Estimations des captures et des efforts de pêche par espèce, flotte de pêche,
 
 #### Contenu
 
-- Estimations des efforts exprimés en unités conformes aux exigences établies dans la Résolution [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) et complétées par les nombres d'opérations de pêche pour les [pêcheries palangrières](#iotclonglinefishery) et les [pêcheries de surface](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)).
+- Estimations des efforts exprimés en unités conformes aux exigences établies dans la Résolution [15/01](https://iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche) pour les [pêcheries palangrières](#iotclonglinefishery) et les [pêcheries de surface](#iotcsurfacefishery), complétées par les nombres d'opérations de pêche suivant une recommandation du SC ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). Pour les pêcheries côtières, il est recommandé de soumettre les donnés d'efforts dans les mêmes unités que celles prescriptes pour les pêcheries de surface caractérisées par les mêmes engins de pêche. 
 
 | Groupe d'engins | Effort primaire | Effort secondaire |
-| :------------ | :------------------------- | :------------------------- |
+| :---------------- | :---------------------- | :--------------------- |
 Filets maillants (GI)   | Nombre de jours de pêche | Nombre d'opérations de pêche |
 Hameçons et lignes (HL) | Nombre de jours de pêche | Nombre d'hameçons deployés |
 Palangres (LL) | Nombre d'hameçons deployés | Nombre d'opérations de pêche |
-Autres engins (OT) | Nombre de jours en mer | - |
+Autres engins (OT) | Nombre de jours en mer | Nombre d'opérations de pêche |
 Cannes (PL) | Nombre de jours de pêche | Nombre d'opérations de pêche |
 Sennes coulissantes (PS) | Nombre d'heures de pêche | Nombre d'opérations de pêche |
 
-L'utilisation des marées comme unité d'effort n'est **pas recommandée** car la longueur des marées peut varier considérablement en fonction de la longueur du navire, du succès de la pêche et de multiples facteurs techniques (p. ex. disponbilité de carburant).
+L'utilisation des marées comme unité d'effort n'est **pas recommandée** car la durée des marées peut varier considérablement en fonction de la longueur du navire, du succès de la pêche et de multiples facteurs techniques (p. ex. disponbilité de carburant).
 
 Des unités supplémentaires peuvent être envisagées pour affiner et normaliser l'estimation de l'effort de pêche nominal :
 
@@ -48,7 +48,7 @@ iv. Dans les pêcheries à senne coulissante, le nombre d'opérations de pêche 
 Pour chaque strate, la couverture des données - c'est-à-dire le pourcentage (%) des captures/efforts échantillonnés - provenant du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations. Les résolutions spatiales et temporelles, les unités de capture et le niveau d'extrapolation varient en fonction de la catégorie de pêche.
 
 | Catégorie | Résolution temporelle | Résolution spatiale | Unité de capture | Extrapolation | 
-| :-------- | :--------- | :---------- | :------------- | :-------: |
+| :------------ | :---------- | :---------- | :------------- | :-------: |
 [Pêcheries de surface](#iotcsurfacefishery)  | Mois | [1° zone quadrillée](../domain/admin/#IOgrids1x1) | Equivalent poids vif | M |
 [Pêcheries palangrières](#iotclonglinefishery) | Mois ou plus précis pour le CS | [5° zone quadrillée](../domain/admin/#IOgrids5x5) ou plus précis pour le CS | Nombre ou équivalent poids vif | M |
 [Pêcheries côtières](#iotccoastalfishery) | Année ou plus précis | [Zones irrégulières](../domain/admin/#IOTCareasAR) | Nombre ou équivalent poids vif | O |

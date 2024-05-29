@@ -1,6 +1,6 @@
 # Quality control procedure {#QualitySection}
 
-### Metadata and data standards
+## Metadata and data standards
 
 Evaluating the adherence of data submissions to the formats and standards set by the IOTC is essential to uphold the consistency and quality of the data managed by the Secretariat. It is the responsibility of the CPCs and other data providers to ensure the completeness of all metadata and data fields provided to the Secretariat as well as to use the IOTC codelists that build on several international standards and are available from the [IOTC data reference catalogue](https://data.iotc.org/reference/latest/).
 
@@ -18,12 +18,9 @@ The IOTC data reference catalogue is composed of five reference data domains:
 
 The information in the IOTC data reference catalogue is continuously updated, meaning that new values are added to the codelists, and old values are removed. If you have any questions or requests regarding the reference tables, you should contact the data section of the Secretariat by emailing [IOTC-Statistics@fao.org](IOTC-Statistics@fao.org).
 
-### Data submission validation
+## Data submission validation
 
 Some dataset-specific validators have been designed to assess the quality of the data contained in the reporting forms.
-
-
-
 
 -	https://data.iotc.org/validators/ui/1RC/
 -	https://data.iotc.org/validators/ui/1DI/
@@ -32,7 +29,6 @@ Some dataset-specific validators have been designed to assess the quality of the
 -	https://data.iotc.org/validators/ui/3BU/
 -	https://data.iotc.org/validators/ui/4SF/
 -	https://data.iotc.org/validators/ui/update/4SF/
-
 
 - Each form must be uploaded to the correspondent validator link when completed
 - The tool will provide an overview of the analysis carried out on the content

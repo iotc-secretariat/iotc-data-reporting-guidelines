@@ -3,37 +3,17 @@ setwd("initialisation")
 source("00_CORE.R")
 setwd("..")
 
-## DRG - DOCX
-OUTPUT_TABLES = "FT"
-
-render("rmd/00_DOCX_HTML.Rmd", 
-       output_dir    = "outputs/docx", 
-       output_file   = paste0("IOTC_Data_Reporting_Guidelines_", Sys.Date(), ".docx")
-)
-
-## DRG - HTML ####
+## HTML ####
 OUTPUT_TABLE_FORMAT = "DT"
 
-### English version ####
+### ENGLISH ####
 render("rmd/00_DOCX_HTML.Rmd", 
        output_format = "html_document2",
        output_dir    = "outputs/html/", 
        output_file   = paste0("index.html")
 )
 
-#### Version française ####
-
-## DDD - DOCX ####
-OUTPUT_TABLE_FORMAT = "FT"
-
-render("rmd/00_DOCX_HTML_FR.Rmd", 
-       output_dir    = "outputs/docx", 
-       output_file   = paste0("IOTC_Directions_Déclarations_Données_", Sys.Date(), ".docx")
-)
-
-## DDD - HTML ####
-OUTPUT_TABLES = "DT"
-
+### FRENCH ####
 render("rmd/00_DOCX_HTML_FR.Rmd", 
        output_format = "html_document2",
        output_dir    = "outputs/html/", 
@@ -42,4 +22,20 @@ render("rmd/00_DOCX_HTML_FR.Rmd",
 
 # Upload files on the server
 source("./initialisation/99_UPLOAD.R")
+
+## DOCX ####
+OUTPUT_TABLES = "FT"
+
+### FRENCH ####
+render("rmd/00_DOCX_HTML.Rmd", 
+       output_dir    = "outputs/docx", 
+       output_file   = paste0("IOTC_Data_Reporting_Guidelines_", Sys.Date(), ".docx")
+)
+
+### ENGLISH ####
+render("rmd/00_DOCX_HTML_FR.Rmd", 
+       output_dir    = "outputs/docx", 
+       output_file   = paste0("IOTC_Directions_Déclarations_Données_", Sys.Date(), ".docx")
+)
+
 
