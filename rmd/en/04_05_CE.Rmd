@@ -27,7 +27,7 @@ Estimates of species-specific catches and efforts by fishing fleet, fishery, and
 Gillnets (GI)        | Number of fishing days   | Number of fishing operations |
 Hooks and lines (HL) | Number of fishing days   | Number of fishing operations |
 Longlines (LL)       | Number of hooks deployed | Number of fishing operations |
-Other gears (OT)     | Number of days at sea    | Number of fishing operations |
+Other gears (OT)     | Number of days at sea    | Number of active gears/fishing operations |
 Pole-and-lines (PL)  | Number of fishing days   | Number of fishing operations |
 Purse seines (PS)    | Number of fishing hours  | Number of fishing operations |
 

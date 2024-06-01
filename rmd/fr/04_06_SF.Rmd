@@ -2,7 +2,7 @@
 
 #### Description
 
-Estimations mensuelles des fréquences de taille des captures conservées à bord et rejetées par flotte de pêche, pêcherie, strate spatiale, espèce et sexe.
+Estimations mensuelles des fréquences de taille des captures conservées à bord et rejetées par flotte de pêche, pêcherie, carré statistisque de 5&deg; de longitude et latitude, espèce et sexe.
 
 #### Mesures de Conservation et de Gestion
 

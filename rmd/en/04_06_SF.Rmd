@@ -2,27 +2,27 @@
 
 #### Description
 
-Monthly estimates of size-frequencies of the catch retained and discarded by fishing fleet, fishery, grid area, species, and sex.
+Monthly estimates of size-frequencies of the catch retained and discarded by fishing fleet, fishery, grid area of 5&deg; longitude and latitude, species, and sex.
 
 #### Conservation and Management Measures
 
-- Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) (Annex II) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
-- Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 5) -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
-- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 6) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
-- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) (para. 3) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
-- Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) (para. 8) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
+-   Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) (Annex II) -- *On the recording of catch and effort data by fishing vessels in the IOTC area of competence*
+-   Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 5) -- *On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)*
+-   Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 6) -- *On the conservation of sharks caught in association with fisheries managed by IOTC*
+-   Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) (para. 3) -- *On management measures for the conservation of blue shark caught in association with IOTC fisheries*
+-   Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) (para. 8) -- *On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish*
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
-- [Organisation name](#orgname)
-- [Organisation email](#orgemail)
-- [Finalisation date](#findate)
-- [Submission date](#subdate)
-- [Reporting year](#repyear)
-- [Reporting entity](#repentity)
-- [Flag state](#repflagstate)
+-   [Focal point full name](#fcname)
+-   [Focal point email](#fcemail)
+-   [Organisation name](#orgname)
+-   [Organisation email](#orgemail)
+-   [Finalisation date](#findate)
+-   [Submission date](#subdate)
+-   [Reporting year](#repyear)
+-   [Reporting entity](#repentity)
+-   [Flag state](#repflagstate)
 
 #### Contents
 
@@ -34,30 +34,30 @@ Sampling coverage shall be set to at least one (1) fish measured by tonne caught
 
 ##### Main stratum
 
-- Month
-- [Grids](../domain/admin/#IOTCgridsCESF)
-- [Species](../domain/biological/#allSpecies)
-- [Sexes](..domain/biological/#sex)
-- [Types of fate](../domain/biological/#typesOfFate)
-- [Fates](../domain/biological/#fates)
+-   Month
+-   [Grids](../domain/admin/#IOTCgridsCESF)
+-   [Species](../domain/biological/#allSpecies)
+-   [Sexes](..domain/biological/#sex)
+-   [Types of fate](../domain/biological/#typesOfFate)
+-   [Fates](../domain/biological/#fates)
 
 ##### Original data
 
-- [Types of data](../domain/data/#types)
-- [Data sources](../domain/data/#sourcesSF)
-- [Data processings](../domain/data/#processingsSF)
+-   [Types of data](../domain/data/#types)
+-   [Data sources](../domain/data/#sourcesSF)
+-   [Data processings](../domain/data/#processingsSF)
 
 ##### Source coverage
 
-- [Estimations](../domain/data/#estimations)
-- [Coverage types](../domain/data/#coverageTypes)
-- [Raisings](../domain/data/#raisings)
+-   [Estimations](../domain/data/#estimations)
+-   [Coverage types](../domain/data/#coverageTypes)
+-   [Raisings](../domain/data/#raisings)
 
 ##### Measurement
 
-- [Types of measurement](../domain/biological/#typesOfMeasurement)
-- [Measurements](../domain/biological/#allMeasurementTypes)
-- [Tools](../domain/biological/#allMeasurementTools)
+-   [Types of measurement](../domain/biological/#typesOfMeasurement)
+-   [Measurements](../domain/biological/#allMeasurementTypes)
+-   [Tools](../domain/biological/#allMeasurementTools)
 
 #### Reporting form details
 
