@@ -2,7 +2,7 @@
 
 #### Description
 
-Monthly time series of price of fish products for tuna and tuna-like species.
+Monthly price of fish products for tuna and tuna-like species.
 
 #### Conservation and Management Measures
 
@@ -10,7 +10,9 @@ Monthly time series of price of fish products for tuna and tuna-like species.
 
 #### Contents
 
-Average prices of fish per type of fish product (i.e., preservation, processing), weight units, type of currency, month, and market.
+Monthly average prices of fish per type of fish product -- i.e., processing type,  by weight category, and market.
+
+currency, 
 
 #### Reporting metadata
 
@@ -29,8 +31,8 @@ Average prices of fish per type of fish product (i.e., preservation, processing)
 ##### Main elements
 
 - Month
-- Ocean
-- Pricing location
+<!-- - Ocean -->
+<!-- - Pricing location -->
 - Currency
 - Destination
 - Market

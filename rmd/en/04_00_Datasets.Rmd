@@ -48,5 +48,5 @@
 ```{r child = "04_10_FC.Rmd"}
 ```
 
-```{r child = "04_11_PR.Rmd", eval = FALSE}
+```{r child = "04_11_PR.Rmd"}
 ```

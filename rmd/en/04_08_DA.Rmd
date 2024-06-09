@@ -2,7 +2,7 @@
 
 #### Description
 
-Operational activities conducted by purse seine and support vessels on DFOBs and buoys.
+Operational activities conducted by purse seine and support vessels on drifting floating objects (DFOBs) and buoys.
 
 #### Conservation and Management Measures
 
