@@ -100,9 +100,9 @@ An individual who engages in fishing activities for the purpose of deriving a li
 
 An activity leading to harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
 
-#### Fishery (IOTC) {iotcfishery}
+#### Fishery (IOTC) {#iotcfishery}
 
-The IOTC fishery emerges from the combination of the fishery purpose, area of operation, size of the fishing vessels, the gear and its gear configuration, and the target species (see section on [Terminology](#fisheries)).
+IOTC definition of fishery units used to define fishing practices, which emerge from the combination of fishery purposes, area of operation, fishing vessels’ size, gear and gear configuration, and target species (see section on [Terminology](#fisheries)).
 
 #### Fishery vessel {#fisheryvessel}
 
