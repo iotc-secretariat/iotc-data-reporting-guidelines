@@ -14,8 +14,8 @@ Single daily buoy position (latitude and longitude in decimal degrees) for each 
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
+- [Liaison officer full name](#fcname)
+- [Liaison officer email](#fcemail)
 - [Organisation name](#orgname)
 - [Organisation email](#orgemail)
 - [Finalisation date](#findate)

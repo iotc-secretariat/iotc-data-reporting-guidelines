@@ -20,8 +20,8 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
+- [Liaison officer full name](#fcname)
+- [Liaison officer email](#fcemail)
 - [Organisation name](#orgname)
 - [Organisation email](#orgemail)
 - [Finalisation date](#findate)

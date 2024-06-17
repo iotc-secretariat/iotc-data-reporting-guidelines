@@ -2,7 +2,7 @@
 
 #### Description
 
-Monthly price of fish products for tuna and tuna-like species.
+Monthly prices of fish products for tuna and tuna-like species under IOTC mandate.
 
 #### Conservation and Management Measures
 
@@ -16,8 +16,8 @@ currency,
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
+- [Liaison officer full name](#fcname)
+- [Liaison officer email](#fcemail)
 - [Organisation name](#orgname)
 - [Organisation email](#orgemail)
 - [Finalisation date](#findate)

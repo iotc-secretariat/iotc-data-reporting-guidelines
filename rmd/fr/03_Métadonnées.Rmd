@@ -1,11 +1,11 @@
-# Métadonnées {#SectionMétadonnées}
+# Métadonnées de soumission {#SectionMétadonnées}
 
-## Informations générales sur la soumission
+## Informations générales
 
-Certains éléments de métadonnées descriptifs obligatoires (M) et facultatifs (O) ont été identifiés pour fournir des informations essentielles relatives à la déclaration et à la gestion des données.
+Des informations générales sont requises pour décrire les caractéristiques principales des données communiquées au Secrétariat, qui sont communes à tous les jeux de données.
 
 | Élément | Exigence | Description | Format | Exemple |
-| :------------ | :----: | :----------------------- | :-------- | :------------ |
+| :------------ | :----: | :----------------------- | :---------- | :------------ |
 | [Nom complet de l'officier de liaison]{#fcname} | M | Nom de la personne ayant compilé les données | Texte simple | John Doe  |
 | [Adresse électronique de l'officier de liaison]{#fcmail} | M | Adresse électronique de la personne ayant compilé les données | Adresse électronique valide | John.Doe@fao.org |
 | [Intitulé de l'organisme]{#orgname} | M | Nom de l'autorité compétente en charge de la compilation des jeux de données | Texte simple | Institut National des Pêches |
@@ -15,74 +15,11 @@ Certains éléments de métadonnées descriptifs obligatoires (M) et facultatifs
 
 ## Caractéristiques des données
 
-Certaines informations générales sont nécessaires pour décrire les principales caractéristiques des données transmises au Secrétariat, y compris l'entité déclarante et l'État du pavillon qui définissent la [flotte de pêche](#FlotteDePêche) et sont communs à tous les  jeux de données, et quelques descripteurs supplémentaires fournissant des détails sur l'origine et la procédure de traitement appliquée aux données transmises pour chaque strate, c'est-à-dire la combinaison unique d'éléments définissant les jeux de données.
-
-#### [Tous les jeux de données](#DatasetSection)
+Certaines informations générales sont nécessaires pour décrire les principales caractéristiques des données transmises au Secrétariat et sont communs à tous les  jeux de données.
 
 | Élément | Exigence | Description | Valeur  |
 | :----------------- | :-----: | :----------------------- | :------------: |
-| [Année de déclaration]{#repyear} | M | Année calendaire grégorienne des activités de pêche déclarées dans le jeu de données | Integer | 1997 |
+| [Année de déclaration]{#repyear} | M | Année calendaire grégorienne des activités de pêche déclarées dans le jeu de données | Nombre entier, p. ex., 1997 |
 | [Entité déclarante]{#repentity} | M | Entité déclarant le jeu de données au Secrétariat de la CTOI | **Code** de [Entities](../domain/admin/#entities) |
 | [État du pavillon]{#repflagstate} | M | Pays où les navires de pêche sont immatriculés | **Code** de [Pays](../domain/admin/#countries) |
-
-#### [Interactions avec les espèces en voie de disparition, menacées et protégées](#INdataset)
-
-| Élément | Exigence | Description | Valeur |
-| :-------------- | :-----: | :----------------------- | :------------: |
 | Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
-| Type de couverture  | O | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
-
-##### [Quantité de poissons capturés et conservés à bord](#RCdataset)
-
-| Élément | Exigence | Description | Valeur |
-| :-------------- | :-----: | :----------------------- | :-------------: |
-| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
-| Source originale des données  | M | Origine des informations sur les données| **Code** de [Sources](../domain/data/#sourcesRC) |
-| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsRC)  |
-| Type de couverture | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
-
-##### [Quantité de poissons rejetés en mer](#DIdataset)
-
-| Élément | Exigence | Description | Valeur |
-| :-------------- | :-----: | :----------------------- | :-----------: |
-| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
-| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesDI) |
-| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsDI) |
-| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** [Coverage types](../domain/data/#coverageTypes) |
-| Extrapolation de données  | M | Niveau d'extrapolation | **Code** [Raisings](../domain/data/#raisings) | 
-
-##### [Captures et efforts de pêche géo-référencés](#CEdataset)
-
-| Élément | Exigence | Description | Valeur |
-| :-------------- | :-----: | :----------------------- | :------------: |
-| Type de données | M | Statut préliminaire/final des données | **Code** de [Type of data](../domain/data/#types) |
-| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesCE) |
-| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsCE) |
-| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
-| Extrapolation de données | M | Niveau d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) | 
-
-##### [Fréquences de tailles géo-référencées](#SFdataset)
-
-| Élément | Exigence| Description | Valeur  |
-| :-------------- | :-----: | :----------------------- | :------------: |
-| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
-| Source originale des données | M |  Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesSF) |
-| Traitement original des données| M | Traitement appliqué aux données | **COde** [Processings](../domain/data/#processingsSF) |
-| Estimation | M | Disponibilité de données (c-à.d., disponible or substitution) | **Code** de [Estimations](../domain/data/#estimations) |
-| Type de couverture | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
-| Extrapolation des données | M | Niveau d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) | 
-
-##### [Activités liées aux DCPs ancrés](#AAdataset)
-
-| Élément | Exigence | Description | Valeur |
-| :-------------- | :-----: | :----------------------- | :------------: |
-| Extrapolation de données | M | Taux d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) |
-
-##### [Statistiques des bateaux de pêche](#FCdataset)
-
-| Élément | Exigence| Description | Valeur  |
-| :------------- | :-----: | :----------------------- | :----------------: |
-| Type de données | M | Statut préliminaire/final des données | **Code** de [Type of data](../domain/data/#types)      |
-| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesFC) |
-| Traitement original des données| M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsFC)     |
-| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |

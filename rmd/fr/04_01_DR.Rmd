@@ -1,8 +1,8 @@
-## Présence d'espèces dans les prises {#DR}
+## Présence d'espèces dans les captures {#DR}
 
 #### Description
 
-Matrice de présence d'espèces dans les prises conservées à bord et les rejets de chaque flotte de pêche par groupe d'engins et par grande catégorie de pêcherie.
+Matrice de présence d'espèces dans les captures conservées à bord et les rejets de chaque flotte de pêche par groupe d'engins et par grande catégorie de pêcherie.
 
 #### Mesures de Conservation et de Gestion
 
@@ -11,7 +11,7 @@ Matrice de présence d'espèces dans les prises conservées à bord et les rejet
 
 #### Contenu
 
-Tableau matriciel avec les espèces en lignes et les groupes d'engins en colonnes. Pour chaque combinaison espèce/engin, la cellule doit être remplie avec une valeur de un (1) dans le cas d'une capture positive ou une valeur de zéro (0) dans le cas d'une absence de capture (c-à-d., pas de débarquement ni de rejet). Les espèces comprennent les espèces de la CTOI, les raies mobulidées, les requins communs et d'autres espèces faisant l'objet de prises accessoires. Tous les groupes d'engins (hameçons et lignes, cannes et lignes, palangres, sennes coulissantes, filets maillants et autres engins) sont inclus et ventilés par principale catégorie de pêche, c-à-d. [côtière](#iotccoastalfishery) et [palangrière](#iotclonglinefishery) ou de [surface](#iotcsurfacefishery).
+Tableau matriciel avec les espèces en lignes et les groupes d'engins en colonnes. Pour chaque combinaison espèce/engin, la cellule doit être remplie avec une valeur de un (1) dans le cas d'une capture positive ou une valeur de zéro (0) dans le cas d'une absence de capture (c-à-d., pas de débarquement ni de rejet). Les espèces comprennent les espèces de la CTOI, les raies mobulidées, les requins communs et d'autres espèces faisant l'objet de captures accessoires. Tous les groupes d'engins (hameçons et lignes, cannes et lignes, palangres, sennes coulissantes, filets maillants et autres engins) sont inclus et ventilés par principale catégorie de pêche, c-à-d. [côtière](#iotccoastalfishery) et [palangrière](#iotclonglinefishery) ou de [surface](#iotcsurfacefishery).
 
 #### Métadonnées de déclaration
 

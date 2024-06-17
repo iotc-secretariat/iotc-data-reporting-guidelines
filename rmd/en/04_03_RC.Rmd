@@ -24,8 +24,8 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 
 #### Reporting metadata
 
-- [Focal point full name](#fcname)
-- [Focal point email](#fcemail)
+- [Liaison officer full name](#fcname)
+- [Liaison officer email](#fcemail)
 - [Organisation name](#orgname)
 - [Organisation email](#orgemail)
 - [Finalisation date](#findate)

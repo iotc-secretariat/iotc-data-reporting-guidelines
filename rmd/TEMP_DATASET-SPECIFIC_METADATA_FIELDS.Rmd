@@ -1,0 +1,122 @@
+# ENGLISH
+
+#### [Interactions with Endangered, Threatened and Protected species dataset](#INdataset)
+
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Source coverage type     | O | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+
+#### [Amount of fish caught and retained dataset](#RCdataset)
+
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesRC)                       |
+| Original data processing | M | Processing applied to the data  | **Code** from [Processings](../domain/data/#processingsRC)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+
+#### [Amount of discards dataset](#DIdataset)
+
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesDI)   |
+| Original data processing | M | Processing applied to the data    | **Code** from [Processings](../domain/data/#processingsDI)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising  | M | Level of raising (i.e., extrapolation) | **Code** From [Raisings](../domain/data/#raisings)     | 
+
+#### [Geo-referenced catches and efforts dataset](#CEdataset)
+
+| Element        | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesCE)                      |
+| Original data processing | M | Processing applied to the data    | **Code** From [Processings](../domain/data/#processingsCE)  |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     | 
+
+#### [Geo-referenced size frequencies dataset](#SFdataset)
+
+| Element        | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesSF)                      |
+| Original data processing | M | Processing applied to the data | **Code** from [Processings](../domain/data/#processingsSF)     |
+| Estimation  | M | Origin of the data (i.e., observed or estimated) | **Code** from [Estimations](../domain/data/#estimations) |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+| Data raising  | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     | 
+
+#### [AFAD-related activities dataset](#AAdataset)
+
+| Element | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Data raising             | M | Level of raising (i.e., extrapolation) | **Code** from [Raisings](../domain/data/#raisings)     |
+
+#### [Fishing craft statistics dataset](#FCdataset)
+
+| Element  | Requirement | Description | Input value  |
+| :------------- | :-----: | :----------------------- | :------------: |
+| Original data source     | M | Source of information | **Code** from [Sources](../domain/data/#sourcesFC) |
+| Original data processing | M | Processing applied to the data | **Code** from [Processings](../domain/data/#processingsFC)     |
+| Source coverage type     | M | Variable used for data coverage | **Code** from [Coverage types](../domain/data/#coverageTypes) |
+
+# FRENCH
+
+#### [Interactions avec les espèces en voie de disparition, menacées et protégées](#INdataset)
+
+| Élément | Exigence | Description | Valeur |
+| :-------------- | :-----: | :----------------------- | :------------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
+| Type de couverture  | O | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
+
+##### [Quantité de poissons capturés et conservés à bord](#RCdataset)
+
+| Élément | Exigence | Description | Valeur |
+| :-------------- | :-----: | :----------------------- | :-------------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
+| Source originale des données  | M | Origine des informations sur les données| **Code** de [Sources](../domain/data/#sourcesRC) |
+| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsRC)  |
+| Type de couverture | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
+
+##### [Quantité de poissons rejetés en mer](#DIdataset)
+
+| Élément | Exigence | Description | Valeur |
+| :-------------- | :-----: | :----------------------- | :-----------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
+| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesDI) |
+| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsDI) |
+| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** [Coverage types](../domain/data/#coverageTypes) |
+| Extrapolation de données  | M | Niveau d'extrapolation | **Code** [Raisings](../domain/data/#raisings) | 
+
+##### [Captures et efforts de pêche géo-référencés](#CEdataset)
+
+| Élément | Exigence | Description | Valeur |
+| :-------------- | :-----: | :----------------------- | :------------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Type of data](../domain/data/#types) |
+| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesCE) |
+| Traitement originale des données | M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsCE) |
+| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
+| Extrapolation de données | M | Niveau d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) | 
+
+##### [Fréquences de tailles géo-référencées](#SFdataset)
+
+| Élément | Exigence| Description | Valeur  |
+| :-------------- | :-----: | :----------------------- | :------------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Types of data](../domain/data/#types) |
+| Source originale des données | M |  Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesSF) |
+| Traitement original des données| M | Traitement appliqué aux données | **COde** [Processings](../domain/data/#processingsSF) |
+| Estimation | M | Disponibilité de données (c-à.d., disponible or substitution) | **Code** de [Estimations](../domain/data/#estimations) |
+| Type de couverture | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
+| Extrapolation des données | M | Niveau d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) | 
+
+##### [Activités liées aux DCPs ancrés](#AAdataset)
+
+| Élément | Exigence | Description | Valeur |
+| :-------------- | :-----: | :----------------------- | :------------: |
+| Extrapolation de données | M | Taux d'extrapolation | **Code** de [Raisings](../domain/data/#raisings) |
+
+##### [Statistiques des bateaux de pêche](#FCdataset)
+
+| Élément | Exigence| Description | Valeur  |
+| :------------- | :-----: | :----------------------- | :----------------: |
+| Type de données | M | Statut préliminaire/final des données | **Code** de [Type of data](../domain/data/#types)      |
+| Source originale des données | M | Origine des informations sur les données | **Code** de [Sources](../domain/data/#sourcesFC) |
+| Traitement original des données| M | Traitement appliqué aux données | **Code** de [Processings](../domain/data/#processingsFC)     |
+| Type de couverture  | M | Indicateur utilisé pour la couverture des données | **Code** de [Coverage types](../domain/data/#coverageTypes) |
+

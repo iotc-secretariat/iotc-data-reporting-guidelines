@@ -1,0 +1,5 @@
+- Additon of socio-economics domain in the list of domains
+- Removal of references to interim forms
+- Appendices to add
+
+1- Maps of coastal areas with corresponding 5x5 grid areas for SF
