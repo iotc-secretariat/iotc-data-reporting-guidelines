@@ -2,9 +2,7 @@
 
 ### A {#A}
 
-#### Anchored Fish Aggregating Device {#afad}
 
-A fish aggregating device tethered to the bottom of the ocean. It usually consists of a very large buoy and it is anchored to the bottom of the ocean with a chain (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
 
 #### Artisanal fishery {#artisanalfishery}
 
@@ -51,6 +49,10 @@ Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, a
 International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents ([CWP](https://www.fao.org/cwp-on-fishery-statistics/background/en/)).
 
 ### D {#D}
+
+#### Dispositif de concentration de poissons ancré {#dcpa}
+
+Dispositif de concentration de poissons attaché au fond de l'océan, généralement composé d’une bouée, et ancré au fond de l’océan (Rés. [23/01](https://iotc.org/fr/mcg/r%C3%A9solution-2301-sur-la-gestion-des-dispositifs-de-concentration-de-poissons-ancr%C3%A9s-dcpa)).
 
 #### Disc width {#dw}
 

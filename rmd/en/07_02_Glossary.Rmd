@@ -4,7 +4,8 @@
 
 #### Anchored Fish Aggregating Device {#afad}
 
-A fish aggregating device tethered to the bottom of the ocean. It usually consists of a very large buoy and it is anchored to the bottom of the ocean with a chain (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
+A fish aggregating device tethered to the bottom of the ocean,
+usually consisting of a buoy, and anchored to the bottom of the ocean (Res. [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads)).
 
 #### Artisanal fishery {#artisanalfishery}
 
