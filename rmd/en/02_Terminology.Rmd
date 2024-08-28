@@ -30,6 +30,8 @@ Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort
 dtfunction(ETP_SPECIES)
 ```
 
+The most commonly caught elasmobranch and ETP species were designated as [species of special interest](../domain/biological/#SSIspecies) by the Scientific Committee at its 21^st^ session in 2018 to enhance the voluntary collection of information on post-release mortality of discards ([IOTC 2021](https://iotc.org/documents/SC/21/Report_E)).
+
 Finally, and while optional, the reporting of statistics for all other bycatch species is encouraged to monitor the ecosystem effects of fishing, especially when the catches of these species represent a significant proportion of the total catches of the fishery concerned.
 
 ## Fishing fleet {#fishingfleet}
