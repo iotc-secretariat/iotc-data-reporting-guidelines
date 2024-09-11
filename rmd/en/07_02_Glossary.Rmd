@@ -365,6 +365,6 @@ Simple line, provided with natural or artificial bait and trailed near the surfa
 
 ### U {#U}
 
-#### Upper-jaw fork length {#uj}
+#### Upper-jaw fork length {#fl}
 
 Length of a fish measured as the straight distance between the tip of the upper jaw and the fork of the tail.
