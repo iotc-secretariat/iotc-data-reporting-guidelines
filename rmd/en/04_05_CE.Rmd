@@ -2,7 +2,7 @@
 
 #### Description
 
-Estimates of species-specific catches and efforts by fishing fleet, fishery, and space and time strata, including the effort exerted by the support vessels assisting the purse seiners. 
+Estimates of species-specific retained catches and efforts by fishing fleet, fishery, and space and time strata, including the effort exerted by the support vessels assisting the purse seiners. 
 
 #### Conservation and Management Measures
 
