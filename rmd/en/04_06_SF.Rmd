@@ -2,7 +2,7 @@
 
 #### Description
 
-Monthly estimates of size-frequencies of the catch retained and discarded by fishing fleet, fishery, grid area of 5&deg; longitude and latitude, species, and sex for IOTC species, common sharks, and other bycatch species.
+Monthly estimates of size frequencies of the catch retained and discarded by fishing fleet, fishery, grid area of 5&deg; longitude and latitude, species, and sex for IOTC species, common sharks, and other bycatch species.
 
 #### Conservation and Management Measures
 
