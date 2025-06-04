@@ -15,8 +15,8 @@ Tableau matriciel avec les espèces en lignes et les groupes d'engins en colonne
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -27,7 +27,7 @@ Tableau matriciel avec les espèces en lignes et les groupes d'engins en colonne
 
 #### Dimensions des données
 
-- [Espèces](../domain/biological/#allSpecies)
+- [Espèces](../domain/biology/#allSpecies)
 - [Groupes d'engins](../domain/fisheries/#gearGroups)
 - [Catégories de pêcheries](../domain/fisheries/#fisheryCategories)
 

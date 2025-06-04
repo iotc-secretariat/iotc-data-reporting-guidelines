@@ -41,8 +41,8 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 - Quarter
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOTCareasMain)
-- [Reasons for retaining](../domain/biological/#retainReasons)
-- [Species](../domain/legacy/#species)
+- [Reasons for retaining](../domain/biology/#retainReasons)
+- [Species](../domain/biology/#All_Species)
 
 ##### Original data
 

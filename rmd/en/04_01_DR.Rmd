@@ -27,7 +27,7 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 
 #### Data dimensions
 
-- [Species](../domain/biological/#allSpecies)
+- [Species](../domain/biology/#allSpecies)
 - [Gear groups](../domain/fisheries/#gearGroups)
 - [Fishery categories](../domain/fisheries/#fisheryCategories)
 

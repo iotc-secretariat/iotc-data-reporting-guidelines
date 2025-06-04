@@ -14,8 +14,8 @@ Position géographique et description de chaque activité de pêche menée autou
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -43,8 +43,8 @@ Position géographique et description de chaque activité de pêche menée autou
 - Latitude (en degrés décimaux)
 - Longitude (en degrés décimaux)
 - [Pêcheries](../domain/fisheries/#fisheries)
-- [Espèces](../domain/biological/#allSpecies)
-- [Types de devenir](../domain/biological/#typesOfFate)
+- [Espèces](../domain/biology/#allSpecies)
+- [Types de devenir](../domain/biology/#typesOfFate)
 - [Unités de capture](../domain/fisheries/#catchUnits)
 
 ##### Couverture

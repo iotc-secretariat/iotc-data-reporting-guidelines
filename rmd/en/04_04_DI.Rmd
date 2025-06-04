@@ -37,9 +37,9 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 - Quarter
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOareasMain)
-- [Reasons for discarding](../domain/biological/#discardReasons)
-- [Species](../domain/biological/#allSpecies)  
-- [Condition](../domain/biological/#individualConditions)
+- [Reasons for discarding](../domain/biology/#discardReasons)
+- [Species](../domain/biology/#allSpecies)  
+- [Condition](../domain/biology/#individualConditions)
 - [Catch units](../domain/fisheries/#catchUnits)
 
 ##### Original data

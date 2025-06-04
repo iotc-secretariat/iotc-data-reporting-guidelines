@@ -26,13 +26,13 @@ Monthly estimates of size frequencies of the catch retained and discarded by fis
 
 #### Contents
 
-Size frequencies correspond to the numbers of individuals in a catch or catch sample within each size interval ([UN ESCWA](https://www.unescwa.org/sd-glossary/length-frequency-distribution-lfd)). Straight length measurements made using a calliper or measuring board are recommended over fish weights and vary according to fish groups: (i) [lower-jaw fork length](#lj) for billfish, (ii) [upper-jaw fork length](#fl) for tunas, mackerels, sharks, and all other bycatch fish species with forked or lunate tails, (iii) [standard length](#sl) for bycatch fish species with rounded or truncate tails, and (iv) [disc width](#dw) for rays. The Secretariat further recommends the use of length intervals for the IOTC species and most commonly caught sharks, along with maximum length intervals and ranges of valid values, which are used to filter and consolidate the size-frequency datasets made available to support the IOTC process (see [Recommended measurements](../domain/biological/#morphometricsRecommended)).
+Size frequencies correspond to the numbers of individuals in a catch or catch sample within each size interval ([UN ESCWA](https://www.unescwa.org/sd-glossary/length-frequency-distribution-lfd)). Straight length measurements made using a calliper or measuring board are recommended over fish weights and vary according to fish groups: (i) [lower-jaw fork length](#lj) for billfish, (ii) [upper-jaw fork length](#fl) for tunas, mackerels, sharks, and all other bycatch fish species with forked or lunate tails, (iii) [standard length](#sl) for bycatch fish species with rounded or truncate tails, and (iv) [disc width](#dw) for rays. The Secretariat further recommends the use of length intervals for the IOTC species and most commonly caught sharks, along with maximum length intervals and ranges of valid values, which are used to filter and consolidate the size-frequency datasets made available to support the IOTC process (see [Recommended measurements](../domain/biology/#morphometricsRecommended)).
 
 Size-frequency data must be collected for the 16 [IOTC species](#iotcspecies) and the most commonly caught elasmobranch species listed in IOTC [Res. 15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) for taxa identified at species level. 
 
-Size data can be collected either at sea or on land and must be linked to the spatial origin of the catch. Data should be reported following a spatial resolution of [5° grid areas](https://data.iotc.org/reference/1.0.0/domain/admin/#IOgrids5x5) or finer when required by the Scientific Committee. For longline fisheries, size-frequency data may be reported as part of the Regional Observer Scheme, where such fleets have at least 5% observer coverage of all fishing operations [Res. 15/02; para. 5](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
+Size data can be collected either at sea or on land and must be linked to the spatial origin of the catch. Data should be reported following a spatial resolution of [5° grid areas](https://data.iotc.org/reference/latest/domain/admin/#IOgrids5x5) or finer when required by the Scientific Committee. For longline fisheries, size-frequency data may be reported as part of the Regional Observer Scheme, where such fleets have at least 5% observer coverage of all fishing operations [Res. 15/02; para. 5](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and).
 
-Sampling coverage should be set at a minimum of one (1) fish measured by tonne caught, by fishery and species, with samples being representative of all the periods and areas fished. For each stratum, data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. Additionally, raised estimates of the size samples must be reported to the Secretariat to account for any bias resulting from unrepresentative sampling and the spatio-temporal variability of fishing operations. Documents detailingthe sampling and raising procedures must be provided for each fishery and species.
+Sampling coverage should be set at a minimum of one (1) fish measured by tonne caught, by fishery and species, with samples being representative of all the periods and areas fished. For each stratum, data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. Additionally, raised estimates of the size samples must be reported to the Secretariat to account for any bias resulting from unrepresentative sampling and the spatio-temporal variability of fishing operations. Documents detailing the sampling and raising procedures must be provided for each fishery and species.
 
 #### Data dimensions
 
@@ -40,10 +40,10 @@ Sampling coverage should be set at a minimum of one (1) fish measured by tonne c
 
 -   Month
 -   [Grids](../domain/admin/#IOTCgridsCESF)
--   [Species](../domain/biological/#allSpecies)
--   [Sexes](..domain/biological/#sex)
--   [Types of fate](../domain/biological/#typesOfFate)
--   [Fates](../domain/biological/#fates)
+-   [Species](../domain/biology/#allSpecies)
+-   [Sexes](../domain/biology/#sex)
+-   [Types of fate](../domain/biology/#typesOfFate)
+-   [Fates](../domain/biology/#fates)
 
 ##### Original data
 
@@ -59,9 +59,9 @@ Sampling coverage should be set at a minimum of one (1) fish measured by tonne c
 
 ##### Measurement
 
--   [Types of measurement](../domain/biological/#typesOfMeasurement)
--   [Measurements](../domain/biological/#allMeasurementTypes)
--   [Tools](../domain/biological/#allMeasurementTools)
+-   [Types of measurement](../domain/biology/#typesOfMeasurement)
+-   [Measurements](../domain/biology/#allMeasurementTypes)
+-   [Tools](../domain/biology/#allMeasurementTools)
 
 #### Reporting form details
 

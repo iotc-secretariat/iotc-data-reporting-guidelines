@@ -10,12 +10,12 @@ Nombre annuel de navires de pêche actifs par engin, type de bateau, classe de t
 
 #### Contenu
 
-Estimations du nombre de navires de pêche [artisanaux](#iotcartisanalfishingvessel) et [industriels](#iotcindustrialfishingvessel) impliqués dans des activités de pêche au cours de l'année, stratifiées par type de bateau, type de mécanisation, méthode de conservation du poisson et système de stockage réfrigéré. Pour chaque strate, la couverture des données - c-à-d., le pourcentage (%) des captures/efforts échantillonnés - dérivée du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations.
+Estimations du nombre de navires de pêche [côtiers/artisanaux](#iotcartisanalfishingvessel) et [industriels](#iotcindustrialfishingvessel) impliqués dans des activités de pêche au cours de l'année, stratifiées par type de navire, type de design et de construction, type de mécanisation, méthode de conservation du poisson et système de stockage réfrigéré. Pour chaque strate, la couverture des données - c-à-d., le pourcentage (%) des captures/efforts échantillonnés - dérivée du type de couverture doit être déclarée afin d'évaluer la représentativité et la qualité des estimations.
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -28,10 +28,10 @@ Estimations du nombre de navires de pêche [artisanaux](#iotcartisanalfishingves
 
 ##### Éléments principaux
 
-- [Pêcheries](../domain/fisheries/#fisheries)
-- [Types de bateaux](../domain/fisheries/#boatTypes)
+- [Types de navire](../domain/fisheries/#Vessel_Types)
+- [Types de construction et de design](../domain/fisheries/#boatTypes)
 - [Types de mécanisation](../domain/fisheries/#mechanizationTypes)
-- [Types de classes de navires](..domain/fisheries/#boatClassTypes)
+- [Types de classes de taille de navire](..domain/fisheries/#boatClassTypes)
 - [Méthodes de préservation du poisson](../domain/fisheries/#fishPreservationMethods)
 - [Types de stockage du poisson](../domain/fisheries/#fishStorageTypes)
 

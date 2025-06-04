@@ -7,7 +7,8 @@ Opérations conduites par les senneurs et leurs navires auxiliaires  sur les DCP
 #### Mesures de Conservation et de Gestion
 
 - Rés. [15/02](https://iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties) (para. 2) -- _Déclarations statistiques exigibles des parties contractantes et parties coopérantes non contractantes (CPC) de la CTOI_
-- Rés. [19/02](https://iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons) (para. 11 et Annexe III) -- _Procédures pour un plan de gestion des Dispositifs de Concentration de Poissons (DCP)_
+- Rés. [19/02](https://iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons) (para. 11 et Annexe III) -- _Procédures pour un plan de gestion des Dispositifs de Concentration de Poissons (DCP)_ (exécutoire pour Oman)
+- Rés. [24/02](https://iotc.org/fr/mcg/r%C3%A9solution-2402-concernant-la-gestion-des-dispositifs-de-concentration-de-poissons-dcp-d%C3%A9rivants) (para. 45 et Annexe I) -- _Concernant la gestion des Dispositifs de Concentration de Poissons (DCP) dérivants dans la zone de compétence de la CTOI_
 
 #### Contenu
 
@@ -15,8 +16,8 @@ Lorsqu'elles sont présentes, des informations sur l'identifiant de la bouée, l
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -46,8 +47,8 @@ Lorsqu'elles sont présentes, des informations sur l'identifiant de la bouée, l
 - Heure GMT 
 - Latitude (en degrés décimaux)
 - Longitude (en degrés décimaux)
-- [Espèces](../domain/biological/#allSpecies)
-- [Types de devenir](../domain/biological/#typesOfFate)
+- [Espèces](../domain/biology/#allSpecies)
+- [Types de devenir](../domain/biology/#typesOfFate)
 - [Unités de captures](../domain/fisheries/#catchUnits)
 
 #### Détails du formulaire de déclaration

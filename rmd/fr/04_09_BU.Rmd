@@ -16,8 +16,8 @@ Position journalière unique de la bouée (latitude et longitude en degrés déc
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)

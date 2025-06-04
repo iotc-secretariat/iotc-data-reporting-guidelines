@@ -36,7 +36,7 @@ currency,
 - Currency
 - Destination
 - Market
-- [IOTC Species](../domain/biological/#IOTCspecies)
+- [IOTC Species](../domain/biology/#IOTC_Species)
 - [Fish processing types](../domain/fisheries/#fishProcessingTypes)
 - [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
 - Weight class (lo)

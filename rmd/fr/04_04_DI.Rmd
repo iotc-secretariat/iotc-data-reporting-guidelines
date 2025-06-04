@@ -20,8 +20,8 @@ Estimations des rejets en nombre ou en équivalent poids vif pour les espèces d
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -37,9 +37,9 @@ Estimations des rejets en nombre ou en équivalent poids vif pour les espèces d
 - Trimestre
 - [Pêcheries](../domain/fisheries/#fisheries)
 - [Zones principales de la CTOI](../domain/admin/#IOareasMain)
-- [Raisons du rejet](../domain/biological/#discardReasons)
-- [Espèces](../domain/biological/#allSpecies)  
-- [Conditions](../domain/biological/#individualConditions)
+- [Raisons du rejet](../domain/biology/#discardReasons)
+- [Espèces](../domain/biology/#allSpecies)  
+- [Conditions](../domain/biology/#individualConditions)
 - [Unités de capture](../domain/fisheries/#catchUnits)
 
 ##### Type d’origine des données

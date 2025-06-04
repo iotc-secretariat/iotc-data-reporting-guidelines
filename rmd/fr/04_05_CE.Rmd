@@ -57,8 +57,8 @@ La documentation décrivant les procédures d'extrapolation (y compris les taux 
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -75,7 +75,7 @@ La documentation décrivant les procédures d'extrapolation (y compris les taux 
 - [Pêcheries](../domain/fisheries/#fisheries)
 - [Grilles](../domain/admin/#IOTCgridsCESF)
 - [Estimations](../domain/data/#estimations)
-- [Espèces](../domain/biological/#allSpecies)  
+- [Espèces](../domain/biology/#allSpecies)  
 - [Unités de capture](../domain/fisheries/#catchUnits)
 
 ##### Principaux éléments des efforts

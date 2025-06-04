@@ -20,8 +20,8 @@ La couverture de l'échantillonnage est fixée à au moins un (1) poisson mesur�
 
 #### Métadonnées de déclaration
 
-- [Nom complet du point de contact](#fcname)
-- [Adresse électronique du point de contact](#fcemail)
+- [Nom complet de l'officier de liaison](#fcname)
+- [Adresse électronique de l'officier de liaison](#fcemail)
 - [Nom de l'organisation](#orgname)
 - [Adresse électronique de l'organisation](#orgemail)
 - [Date de finalisation](#findate)
@@ -36,10 +36,10 @@ La couverture de l'échantillonnage est fixée à au moins un (1) poisson mesur�
 
 - Mois
 - [Grilles](../domain/admin/#IOTCgridsCESF)
-- [Espèces](../domain/biological/#allSpecies)
-- [Sexes](..domain/biological/#sex)
-- [Types de devenir](../domain/biological/#typesOfFate)
-- [Devenirs](../domain/biological/#fates)
+- [Espèces](../domain/biology/#allSpecies)
+- [Sexes](..domain/biology/#sex)
+- [Types de devenir](../domain/biology/#typesOfFate)
+- [Devenirs](../domain/biology/#fates)
 
 ##### Données originales
 
@@ -55,9 +55,9 @@ La couverture de l'échantillonnage est fixée à au moins un (1) poisson mesur�
 
 ##### Mensuration
 
-- [Types de mensuration](../domain/biological/#typesOfMeasurement)
-- [Mensurations](../domain/biological/#allMeasurementTypes)
-- [Outils](../domain/biological/#allMeasurementTools)
+- [Types de mensuration](../domain/biology/#typesOfMeasurement)
+- [Mensurations](../domain/biology/#allMeasurementTypes)
+- [Outils](../domain/biology/#allMeasurementTools)
 
 #### Détails du formulaire de déclaration
 
