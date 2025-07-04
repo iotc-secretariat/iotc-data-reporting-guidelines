@@ -15,7 +15,7 @@ Annual estimates of the numbers of interactions of [longline fisheries](#iotclon
 
 Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans, and whale sharks, with information on national legislation in place in the case of cetaceans and whale sharks. For each stratum, the data coverage -- i.e., the percentage (%) of occurrences of interactions sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -27,23 +27,23 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans, a
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions 
+#### Data Dimensions 
 
-##### Main elements
+##### Main Elements
 
 - [Fisheries](../domain/fisheries/#fisheries)
 - [IOTC main areas](../domain/admin/#IOareasMain)
 - Species group: marine turtles, seabirds, mobulid rays, cetaceans, and whale sharks
 
-##### Original data
+##### Original Data
 
 - [Types of data](../domain/data/#types)
 
-##### Source coverage
+##### Source Coverage
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [1IN](../forms/#Form_1IN)
 

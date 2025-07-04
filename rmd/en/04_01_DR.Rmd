@@ -13,7 +13,7 @@ Matrix of presence of species in the retained catches and discards of each fishi
 
 Matrix table with species in rows and gear groups in columns. For each species/gear combination, the cell must be filled with either a value of one (1) in case of positive catch or a value of zero (0) in case of absence of catch (i.e., no landing and no discard). Species include IOTC species, mobulid rays, common sharks, and other bycatch species. All gear groups (hooks and lines, pole-and-lines, longlines, purse seines, gillnets, and other gears) are included and further broken down by broad fishery category, i.e., [coastal](#iotccoastalfishery) and [longline](#iotclonglinefishery) or [purse seine](#iotcpurseseinefishery).
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -25,13 +25,13 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
 - [Species](../domain/biology/#allSpecies)
 - [Gear groups](../domain/fisheries/#gearGroups)
 - [Fishery categories](../domain/fisheries/#fisheryCategories)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [1DR](../forms/#Form_1DR)
 

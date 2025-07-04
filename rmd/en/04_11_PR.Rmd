@@ -14,7 +14,7 @@ Monthly average prices of fish per type of fish product -- i.e., processing type
 
 currency, 
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -26,13 +26,11 @@ currency,
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
-##### Main elements
+##### Main Elements
 
 - Month
-<!-- - Ocean -->
-<!-- - Pricing location -->
 - Currency
 - Destination
 - Market
@@ -42,7 +40,7 @@ currency,
 - Weight class (lo)
 - Weight class (hi)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [7PR](../forms/#Form_7PR)
 

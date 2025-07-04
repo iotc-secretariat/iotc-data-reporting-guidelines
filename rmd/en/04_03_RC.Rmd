@@ -22,7 +22,7 @@ Total annual estimates of the amount of fish caught and retained by fishing flee
 
 Estimates of retained catches in live weight equivalent (metric tonnes; t) for the IOTC species, common sharks, and other bycatch species. Reporting of quarterly estimates is voluntary and recommended to assess seasonality of the retained catches. For each stratum, the data coverage -- i.e., the percentage (%) of amount of fish sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -34,9 +34,9 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions 
+#### Data Dimensions 
 
-##### Main elements
+##### Main Elements
 
 - Quarter
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -44,17 +44,17 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 - [Reasons for retaining](../domain/biology/#retainReasons)
 - [Species](../domain/biology/#All_Species)
 
-##### Original data
+##### Original Data
 
 - [Types of data](../domain/data/#types)
 - [Data sources](../domain/data/#sourcesRC)
 - [Data processings](../domain/data/#processingsRC)
 
-##### Source coverage
+##### Source Coverage
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [1RC](../forms/#Form_1RC)
 

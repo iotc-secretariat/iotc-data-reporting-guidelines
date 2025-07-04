@@ -14,7 +14,7 @@ Operational activities conducted by purse seine and support vessels on drifting 
 
 When present, information on buoy identifier, knowledge of the buoy position, and type of activity conducted on the buoy. For each DFOB, information on materials (i.e., presence of plastic or metal), dimensions (i.e., length, width, and height), and presence of mesh with value of mesh size for both the surface (i.e., raft) and subsurface (i.e., tail) components. Finally, species-specific estimates of catches retained and discarded in numbers or live weight equivalent for the IOTC species, common sharks, and other bycatch species.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -26,9 +26,9 @@ When present, information on buoy identifier, knowledge of the buoy position, an
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
-##### Buoy and DFOB main stratum
+##### Buoy and DFOB Main Stratum
 
 - Vessel IOTC number
 - Vessel name
@@ -38,7 +38,7 @@ When present, information on buoy identifier, knowledge of the buoy position, an
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
 
-##### Catch main stratum
+##### Catch Main Stratum
 
 - Vessel IOTC number
 - Vessel name
@@ -51,7 +51,7 @@ When present, information on buoy identifier, knowledge of the buoy position, an
 - [Types of fate](../domain/biology/#typesOfFate)
 - [Catch units](../domain/fisheries/#catchUnits)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [3DA](../forms/#Form_3DA)
 

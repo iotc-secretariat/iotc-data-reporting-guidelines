@@ -12,7 +12,7 @@ Monthly estimates of size frequencies of the catch retained and discarded by fis
 -   Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) (para. 3) -- *On management measures for the conservation of blue shark caught in association with IOTC fisheries*
 -   Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) (para. 8) -- *On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish*
 
-#### Reporting metadata
+#### Reporting Metadata
 
 -   [Liaison officer full name](#fcname)
 -   [Liaison officer email](#fcemail)
@@ -34,9 +34,9 @@ Size data can be collected either at sea or on land and must be linked to the sp
 
 Sampling coverage should be set at a minimum of one (1) fish measured by tonne caught, by fishery and species, with samples being representative of all the periods and areas fished. For each stratum, data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates. Additionally, raised estimates of the size samples must be reported to the Secretariat to account for any bias resulting from unrepresentative sampling and the spatio-temporal variability of fishing operations. Documents detailing the sampling and raising procedures must be provided for each fishery and species.
 
-#### Data dimensions
+#### Data Dimensions
 
-##### Main stratum
+##### Main Stratum
 
 -   Month
 -   [Grids](../domain/admin/#IOTCgridsCESF)
@@ -45,13 +45,13 @@ Sampling coverage should be set at a minimum of one (1) fish measured by tonne c
 -   [Types of fate](../domain/biology/#typesOfFate)
 -   [Fates](../domain/biology/#fates)
 
-##### Original data
+##### Original Data
 
 -   [Types of data](../domain/data/#types)
 -   [Data sources](../domain/data/#sourcesSF)
 -   [Data processings](../domain/data/#processingsSF)
 
-##### Source coverage
+##### Source Coverage
 
 -   [Estimations](../domain/data/#estimations)
 -   [Coverage types](../domain/data/#coverageTypes)
@@ -63,7 +63,7 @@ Sampling coverage should be set at a minimum of one (1) fish measured by tonne c
 -   [Measurements](../domain/biology/#allMeasurementTypes)
 -   [Tools](../domain/biology/#allMeasurementTools)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [4SF](../forms/#Form_4SF)
 

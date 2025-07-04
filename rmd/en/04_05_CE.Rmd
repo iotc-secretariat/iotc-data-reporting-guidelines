@@ -55,7 +55,7 @@ For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort 
 
 Documentation describing the extrapolation procedures (including raising factors for logbook coverage) is also required and must be routinely submitted (Res. [15/02](https://iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and); para. 4). A template for reporting information on sampling procedures is available in the document [IOTC-2021-WPDCS17-27](https://www.iotc.org/WPDCS/17/27).
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -67,9 +67,9 @@ Documentation describing the extrapolation procedures (including raising factors
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions 
+#### Data Dimensions 
 
-##### Catch main elements
+##### Catch Main Elements
 
 - Month
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -78,7 +78,7 @@ Documentation describing the extrapolation procedures (including raising factors
 - [Species](../domain/biology/#allSpecies)  
 - [Catch units](../domain/fisheries/#catchUnits)
 
-##### Effort main elements
+##### Effort Main Elements
 
 - Month
 - [Fisheries](../domain/fisheries/#fisheries)
@@ -86,18 +86,18 @@ Documentation describing the extrapolation procedures (including raising factors
 - [Estimations](../domain/data/#estimations)
 - [Effort units](../domain/fisheries/#effortUnits)
 
-##### Original data
+##### Original Data
 
 - [Types of data](../domain/data/#types)
 - [Data sources](../domain/data/#sourcesCE)
 - [Data processings](../domain/data/#processingsCE)
 
-##### Source coverage
+##### Source Coverage
 
 - [Coverage types](../domain/data/#coverageTypes)
 - [Raisings](../domain/data/#raisings)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [3CE](../forms/#Form_3CE)
 

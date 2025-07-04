@@ -12,7 +12,7 @@ Daily activities conducted around [AFADs](#afad), including catches retained and
 
 Geographic position and description of each fishing activity conducted around each AFAD along with estimates of retained catches and discards in numbers or live weight equivalent for the IOTC species, common sharks, and other bycatch species.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -24,9 +24,9 @@ Geographic position and description of each fishing activity conducted around ea
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
-##### Activity main stratum
+##### Activity Main Stratum
 
 - Month
 - Day of month
@@ -36,7 +36,7 @@ Geographic position and description of each fishing activity conducted around ea
 - [AFOB types](../domain/fisheries/#FOBtypes)
 - [AFOB activity types](../domain/fisheries/#FOBactivityTypes)
 
-##### Catch main stratum
+##### Catch Main Stratum
 
 - Month
 - Day of month
@@ -47,11 +47,11 @@ Geographic position and description of each fishing activity conducted around ea
 - [Types of fate](../domain/biology/#typesOfFate)
 - [Catch units](../domain/fisheries/#catchUnits)
 
-##### Source coverage
+##### Source Coverage
 
 - [Raisings](../domain/data/#raisings)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [3AA](../forms/#Form_3AA)
 

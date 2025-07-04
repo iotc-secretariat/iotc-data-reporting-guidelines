@@ -1,8 +1,8 @@
-## Fishing craft statistics {#FCdataset}
+## Fishing Craft Statistics {#FCdataset}
 
 #### Description
 
-Annual number of active fishing vessels by gear, boat type, size class, and fish preservation method.
+Annual number of active fishing vessels by vessel type, gear, and main technical features.
 
 #### Conservation and Management Measures
 
@@ -10,9 +10,9 @@ Annual number of active fishing vessels by gear, boat type, size class, and fish
 
 #### Contents
 
-Estimates of the numbers of fishery vessels active during the year, stratified by type of vessel, design and construction, mechanisation, fish preservation method, and refrigeration storage system. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
+Estimates of the numbers of fishery vessels active during the year, stratified by type of vessel, architecture, mechanisation, fish preservation method, and refrigeration storage system. For each stratum, the data coverage -- i.e., the percentage (%) of catch/effort sampled -- derived from the coverage type must be reported to assess the representativeness and quality of the estimates.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -24,28 +24,28 @@ Estimates of the numbers of fishery vessels active during the year, stratified b
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
-##### Main elements
+##### Main Elements
 
-- [Vessel types](../domain/fisheries/#Vessel_Types)
-- [Vessel design and construction types](../domain/fisheries/#boatTypes)
-- [Mechanization types](../domain/fisheries/#mechanizationTypes)
-- [Vessel size class types](..domain/fisheries/#Vessel_Size_Class_Types)
+- [Vessel types](../domain/fisheries/#vesselTypes)
+- [Vessel architectures](../domain/fisheries/#vesselArchitectures)
+- [Mechanisation types](../domain/fisheries/#mechanisationTypes)
+- [Vessel size class types](..domain/fisheries/#vesselSizeTypes)
 - [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
 - [Fish storage types](../domain/fisheries/#fishStorageTypes)
 
-##### Original data
+##### Original Data
 
 - [Types of data](../domain/data/#types)
 - [Data sources](../domain/data/#sourcesFC)
 - [Data processings ](../domain/data/#processingsFC)
 
-##### Source coverage
+##### Source Coverage
 
 - [Coverage types](../domain/data/#coverageTypes)
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [2FC](../forms/#Form_2FC)
 

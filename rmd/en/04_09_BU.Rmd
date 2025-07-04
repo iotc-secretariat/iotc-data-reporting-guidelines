@@ -14,7 +14,7 @@ Daily positions of operational buoys equipping DFOBs in large-scale purse seine 
 
 Single daily buoy position (latitude and longitude in decimal degrees) for each of the buoys monitored by each purse seine vessel. Each buoy is identified by its unique identifier which is a concatenation of the acronym of the buoy commercial model (e.g., ISD+, M3+, T8E) followed by 5-9 digits depending on the buoy model.
 
-#### Reporting metadata
+#### Reporting Metadata
 
 - [Liaison officer full name](#fcname)
 - [Liaison officer email](#fcemail)
@@ -26,14 +26,14 @@ Single daily buoy position (latitude and longitude in decimal degrees) for each 
 - [Reporting entity](#repentity)
 - [Flag state](#repflagstate)
 
-#### Data dimensions
+#### Data Dimensions
 
 - Month
 - Day of month
 - Vessel IOTC number
 - Vessel name
 
-#### Reporting form details
+#### Reporting Form Details
 
 Form [3BU](../forms/#Form_3BU)
 

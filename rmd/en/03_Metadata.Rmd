@@ -1,6 +1,6 @@
 # Reporting metadata {#MetadataSection}
 
-## General information
+## General Information
 
 Some mandatory (M) and optional (O) descriptive metadata elements have been identified to provide key information related to the submission and management of the data.
 
@@ -13,7 +13,7 @@ Some mandatory (M) and optional (O) descriptive metadata elements have been iden
 | [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1996-03-27 |
 | [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | 1997-03-21 |
 
-## Data characteristics
+## Data Characteristics
 
 General information is required to describe the primary characteristics of the data reported to the Secretariat, which are consistent across all datasets.
 
