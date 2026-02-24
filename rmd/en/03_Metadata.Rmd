@@ -19,7 +19,7 @@ General information is required to describe the primary characteristics of the d
 
 | Element | Requirement | Description | Format | Input value |
 | :--------| :----: | :----------------------- | :-------- | :------------ |
-| [Reporting year]{#repyear} | M | Gregorian calendar year of the fishing activities reported through the dataset | 4-digit integer | e.g., `1997` |
-| [Reporting entity]{#repentity} | M | Entity reporting the dataset to the IOTC Secretariat | **Code** from [Entities](../domain/admin/#entities) | e.g., `EUR` | 
-| [Flag state]{#repflagstate} | M | Country registration of the fishery vessels | **Code** from [Countries](../domain/admin/#countries) | e.g., `TZA`| 
+| Reporting year | M | Gregorian calendar year of the fishing activities reported through the dataset | 4-digit integer | e.g., `1997` |
+| Reporting entity | M | Entity reporting the dataset to the IOTC Secretariat | **Code** from [Entities](../domain/admin/#entities) | e.g., `EUR` | 
+| Flag state | M | Country registration of the fishery vessels | **Code** from [Countries](../domain/admin/#countries) | e.g., `TZA`| 
 | Original data type | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types) | e.g., `FIN` |

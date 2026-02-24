@@ -8,30 +8,35 @@ Estimates of species-specific retained catches and efforts by fishing fleet, fis
 
 - Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) (Annexes I-III) -- _On the recording of catch and effort data by fishing vessels in the IOTC area of competence_
 - Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 4)  -- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
-- Res. [17/05](https://www.iotc.org/cmm/resolution-1705-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 6) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
-- Res. [18/02](https://iotc.org/cmm/resolution-1802-management-measures-conservation-blue-shark-caught-association-iotc-fisheries) (paras 2-3) -- _On management measures for the conservation of blue shark caught in association with IOTC fisheries_
 - Res. [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue) (para. 8) -- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
+- Res. [25/08](https://iotc.org/cmm/resolution-2508-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 32) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
+- Res. [25/09](https://iotc.org/cmm/resolution-2509-conservation-shortfin-and-longfin-mako-sharks-caught-association-iotc-fisheries) (para. 5) -- _On the conservation of shortfin and longfin mako sharks caught in association with IOTC fisheries_
 
 ##### Retention bans in [longline](#iotclonglinefishery) and [surface](#iotcsurfacefishery) fisheries
 
-- Res. [12/09](https://iotc.org/cmm/resolution-1209-conservation-thresher-sharks-family-alopiidae-caught-association-fisheries-iotc) -- _On the conservation of thresher sharks (family Alopiidae) caught in association with fisheries in the IOTC agreement area_
-- Res. [13/06](https://iotc.org/cmm/resolution-1306-scientific-and-management-framework-conservation-sharks-species-caught) -- _On a scientific and management framework on the conservation of sharks in association with IOTC managed fisheries_ -- _Oceanic whitetip shark_
-- Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
+- Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence) (para. 3) -- _On the conservation of mobulid species caught in association with fisheries in the IOTC area of competence_
+- Res. [25/08](https://iotc.org/cmm/resolution-2508-conservation-sharks-caught-association-fisheries-managed-iotc) (para. 3) -- _On the conservation of sharks caught in association with fisheries managed by IOTC_
 
 #### Contents
 
-- Estimates of efforts expressed in units consistent with the recording requirements established in Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) and complemented by numbers of fishing operations for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) ([IOTC-2022-SC25-R](https://iotc.org/documents/SC/25/RE)). For coastal fisheries, it is recommended that effort data be submitted in the same units as those prescribed for longline fisheries and surface fisheries characterised by the same fishing gear. 
+- Estimates of fishing effort shall be expressed in units consistent with the recording requirements established by relevant IOTC Conservation and Management Measures](#cmm) and shall be complemented by the number of [fishing operations/sets](#fishingOperation) for [longline fisheries](#iotcLonglineFishery) and [surface fisheries](#iotcSurfaceFishery).
+
+For most gears (e.g., purse seine, longline, gillnet, handline), a fishing operation corresponds to one complete deployment and retrieval of the gear. In [pole-and-line fisheries](#poleAndLineFishing), multiple poles may be operated simultaneously while fishing on the same school. In such cases, the overall fishing activity may constitute a fishing event that includes several individual fishing operations/sets. However, for reporting purposes, effort should be standardised in a manner that ensures comparability across fisheries and consistency with observer coverage requirements.
+
+For coastal fisheries, it is recommended that effort data be submitted using the same effort units as those prescribed for longline and surface fisheries characterised by the same fishing gear.
+
+**Standard effort units by gear group**
 
 | Gear group | Primary effort | Secondary effort | 
 | :------------ | :-------------------- | :------------------- |
-Gillnets (GI)        | Number of fishing days   | Number of fishing operations |
-Hooks and lines (HL) | Number of fishing days   | Number of fishing operations |
-Longlines (LL)       | Number of hooks deployed | Number of fishing operations |
-Other gears (OT)     | Number of days at sea    | Number of active gears/fishing operations |
-Pole-and-lines (PL)  | Number of fishing days   | Number of fishing operations |
-Purse seines (PS)    | Number of fishing hours  | Number of fishing operations |
+Gillnets (GI)        | Number of fishing days   | Number of fishing operations/sets |
+Hooks and lines (HL) | Number of fishing days   | Number of fishing operations/sets |
+Longlines (LL)       | Number of hooks deployed | Number of fishing operations/sets |
+Other gears (OT)     | Number of days at sea    | Number of active gears or fishing operations/sets |
+Pole-and-lines (PL)  | Number of fishing days   | Number of fishing operations/sets |
+Purse seines (PS)    | Number of fishing hours  | Number of fishing operations/sets |
 
-From a general perspective, using trips as a unit of effort is not recommended because trip duration can vary widely due to factors such as vessel size, fishing success, and technical considerations (e.g., fuel availability).
+**Additional effort indicators**
 
 Additional units may be considered to refine and standardise the estimation of nominal fishing effort:
 
@@ -39,9 +44,15 @@ i. In gillnet fisheries, the surface area of the nets deployed may better reflec
 
 ii. In hooks and line fisheries, the number of hooks may be used as required for longline fisheries;
 
-iii. In pole-and-line fisheries, the number of day-poles used may help account for differences in the number of fishers onboard the vessels;
+<!-- iii. In pole-and-line fisheries, the number of day-poles used may help account for differences in the number of fishers onboard the vessels; -->
 
-iv. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets. 
+iii. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets. 
+
+**Units not recommended**
+
+From a general perspective, the use of trips as a unit of effort is not recommended, as trip duration may vary widely due to vessel size, fishing success, environmental conditions, or operational constraints (e.g., fuel availability).
+
+Similarly, fishing events may not accurately reflect the level of effort exerted in pole-and-line fisheries where the number of poles operated simultaneously varies between events. For this reason, the fishing operation/set remains the preferred standardised unit for effort reporting wherever feasible.
 
 - Estimates of catches for the IOTC species, common sharks, and other bycatch species. Extrapolated to national monthly catch totals is mandatory (M) for [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) and optional (O) for [coastal fisheries](#iotccoastalfishery).
 

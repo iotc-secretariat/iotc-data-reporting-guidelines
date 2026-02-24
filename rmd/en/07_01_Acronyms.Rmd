@@ -1,4 +1,4 @@
-# List of acronyms
+# List of Acronyms
 
 ```{r Acronyms}
 ACRONYMS = fread("../../inputs/data/DATA_SECTION_ACRONYMS.csv", header = FALSE)

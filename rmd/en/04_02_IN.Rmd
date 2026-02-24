@@ -2,7 +2,7 @@
 
 #### Description
 
-Annual estimates of the numbers of interactions of [longline fisheries](#iotclonglinefishery) and [surface fisheries](#iotcsurfacefishery) with endangered, threatened, and protected species by fishing fleet, fishery, IOTC main area, and species group.
+Annual estimates of the numbers of interactions of [longline fisheries](#iotcLonglineFishery) and [surface fisheries](#iotcSurfaceFishery) with endangered, threatened, and protected species by fishing fleet, fishery, IOTC main area, and species group.
 
 #### Conservation and Management Measures
 

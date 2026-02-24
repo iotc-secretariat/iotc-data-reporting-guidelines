@@ -1,10 +1,10 @@
-# Data submission procedure {#SubmissionSection}
+# Data Submission Procedure {#SubmissionSection}
 
-## e-MARIS platform {#emaris}
+## e-MARIS Platform {#emaris}
 
 The [e-MARIS](https://emaris.iotc.org/) platform serves as the primary access point for reporting fisheries statistical data to the IOTC Secretariat. The document [e-MARIS Quick Start series for CPCs](https://iotc.org/sites/default/files/documents/compliance/emaris/Reporting_using_e-MARIS_for_CPCs.pdf) offers guidelines and technical details on connecting to the platform, monitoring IOTC requirements, and submitting the required information. For fishery statistics, all datasets must be submitted according to Requirement 5.0. Additionally, information in the relevant tables and/or sections related to specific datasets must be provided, depending on the fishery category.
 
-## Data submission cycle {#submissioncycle}
+## Data Submission Cycle {#submissioncycle}
 
 Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and) (para. 7) explicitly establishes the requirements for timely annual reporting of the core IOTC datasets, i.e., species presence in the catch, annual amounts of catches retained or discarded at sea, and monthly geo-referenced catches, efforts, and size frequencies:
 
@@ -14,9 +14,9 @@ _b. All other fleets (including supply vessels) shall submit their final data fo
 
 _c. In case where the final statistics cannot be submitted by that date, at least preliminary statistics should be provided._
 
-Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) (para. 22) and Res. [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads) (para. 11) follow the same deadline requirements for DFOB and AFAD-related activities, respectively, while a specific timeline of submission applies to:
+Resolutions [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan) (para. 22), [24/02](https://www.iotc.org/cmm/resolution-2402-management-drifting-fish-aggregating-devices-fads-iotc-area-competence) (para. 45), and [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads) (para. 11) follow the same deadline requirements for DFOB and AFAD-related activities, respectively, while a specific timeline of submission applies to:
 
-i. The daily buoy position data that must be reported on a monthly basis, at least 60 days, but no longer than 90 days from the end of the month of buoy activities (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan); para. 24).
+i. The daily buoy position data that must be reported on a monthly basis, no longer than 60 days (Resolution 24/02; para. 23) and 90 days (Resolution [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan); para. 24) from the end of the month of buoy activities
 
 ii. The details of the new AFADs deployed within the EEZ of the CPCs that must be reported within 21 days of deployment of the AFADs (Res. [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads); para. 8).
 
@@ -34,7 +34,7 @@ The [data reporting forms](https://data.iotc.org/reference/latest/forms/) are de
 - One single [form 3DA](../forms/#Form_3DA) to report data on [dFOB-related activities](#DAdataset) for all vessels
 - One single [form 2FC](../forms/#Form_2FC) to voluntarily report data on [fishing craft statistics](#FCdataset) for all fisheries.
 
-## Data revisions {#revisions}
+## Data Revisions {#revisions}
 
 If it is not possible to submit the final statistics by the specified deadline (see section [Data submission cycle](#submissioncycle))), then at least preliminary statistics should be provided. Data revisions can be performed at any time by re-submitting updated IOTC forms through [e-Maris](#emaris). To facilitate tracking changes, certain versions of the forms have been designed to allow submission of only the updated components of the dataset:
 

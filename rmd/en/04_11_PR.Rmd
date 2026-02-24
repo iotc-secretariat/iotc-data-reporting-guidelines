@@ -6,7 +6,7 @@ Monthly prices of fish products for tuna and tuna-like species under IOTC mandat
 
 #### Conservation and Management Measures
 
-- [IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf) (paras. 1 and 2d) -- _Article V. Objectives, functions and responsibilities of the Commission_
+- [IOTC Agreement](#iotcAgreement) (paras. 1 and 2d) -- _Article V. Objectives, functions and responsibilities of the Commission_
 
 #### Contents
 

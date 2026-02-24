@@ -1,5 +1,5 @@
 # Number display
-options(scipen = 10000)
+options(scipen = 9999)
 
 # Source the scripts
 source("91_LIBS_EXTERNAL.R")
