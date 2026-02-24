@@ -301,7 +301,7 @@ Inhabiting surface waters rather than the sea floor. Usually applied to free-swi
 
 Fishery undertaken by vessels using a technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/)). 
 
-### Purse Seine Fishery {#purseSeineFishery}
+<!-- #### Purse Seine Fishery {#purseSeineFishery} -->
 
 ### R {#R}
 

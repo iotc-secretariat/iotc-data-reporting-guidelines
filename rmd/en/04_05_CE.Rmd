@@ -21,7 +21,7 @@ Estimates of species-specific retained catches and efforts by fishing fleet, fis
 
 - Estimates of fishing effort shall be expressed in units consistent with the recording requirements established by relevant IOTC Conservation and Management Measures](#cmm) and shall be complemented by the number of [fishing operations/sets](#fishingOperation) for [longline fisheries](#iotcLonglineFishery) and [surface fisheries](#iotcSurfaceFishery).
 
-For most gears (e.g., purse seine, longline, gillnet, handline), a fishing operation corresponds to one complete deployment and retrieval of the gear. In [pole-and-line fisheries](#poleAndLineFishing), multiple poles may be operated simultaneously while fishing on the same school. In such cases, the overall fishing activity may constitute a fishing event that includes several individual fishing operations/sets. However, for reporting purposes, effort should be standardised in a manner that ensures comparability across fisheries and consistency with observer coverage requirements.
+For most gears (e.g., purse seine, longline, gillnet, handline), a fishing operation corresponds to one complete deployment and retrieval of the gear. In [pole-and-line fisheries](#poleAndLineFishery), multiple poles may be operated simultaneously while fishing on the same school. In such cases, the overall fishing activity may constitute a fishing event that includes several individual fishing operations/sets. However, for reporting purposes, effort should be standardised in a manner that ensures comparability across fisheries and consistency with observer coverage requirements.
 
 For coastal fisheries, it is recommended that effort data be submitted using the same effort units as those prescribed for longline and surface fisheries characterised by the same fishing gear.
 
@@ -43,8 +43,6 @@ Additional units may be considered to refine and standardise the estimation of n
 i. In gillnet fisheries, the surface area of the nets deployed may better reflect effort intensity by accounting for differences in net length and height;
 
 ii. In hooks and line fisheries, the number of hooks may be used as required for longline fisheries;
-
-<!-- iii. In pole-and-line fisheries, the number of day-poles used may help account for differences in the number of fishers onboard the vessels; -->
 
 iii. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets. 
 
