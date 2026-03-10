@@ -2,7 +2,7 @@
 
 #### Description
 
-Portions of ROS reporting forms that are common across all gear types (PS, LL, PL, GN). This section contains metadata, as well as observer and vessel data. Observer data identifies the observer, the length of their time at sea, and a brief summary of activities. Vessel data includes vessel identification and attributes as well as trip identification information. 
+Portions of ROS reporting forms that are common across all gear types (PS, LL, PL, GN). The general data fields are organized into interconnected subsections that collectively summarize and identify an observed fishing trip. This section contains metadata, as well as observer and vessel data. Observer data identifies the observer, the length of their time at sea, and a brief summary of activities. Vessel data includes vessel identification and attributes as well as trip identification information. 
 
 
 #### Contents
@@ -10,8 +10,10 @@ Portions of ROS reporting forms that are common across all gear types (PS, LL, P
 Matrix table with different data fields in each column. Headings are color coded to show status: mandatory fields are blue, and green are optional for reporting. Should data fields require entries from code lists, each code lists is linked to the header of the data field, or can be found on the website under the form descriptions (link). These sections require the inclusion of a unique identifier, the obsered trip ID, which allows for data to be traced back to a specific trip. 
 
 ### Metadata
+Contact details and general information about the CPC conducting fishing activities are described.
 
 ##### Submission information
+** do we want to list individual fields??**
 
 - [Liaison officer full name]
 - [Liaison officer email]
@@ -27,21 +29,17 @@ Matrix table with different data fields in each column. Headings are color coded
 - [Flag state]
 
 #### O-INFO
-This section includes information about the observer and an overview of the fishing trip they observed. 
+This section includes information about the observer and an overview of the fishing trip they observed. This is followed by a section for observer information. The unique identifier for this section is the observed trip ID. Subsequent fields include information about the duration of the trip and a summary of activities conducted, including fishing events conducted and observed, number of days fishing, searshing, or lost, and where relevant, the reasons for lost days.  
 
 ##### Unique Identifiers: Observed Trip ID
 This is a unique alphanumeric value assigned to a specific trip (Ex. 2024-01-23/IOTC001/IOTC012345/LL)
 
-##### Key fields? Defining Stratum? Structure?
+##### Main Elements (Key fields?)
+- IOTC ID - observer identification code
+- Embarkation/Disembarkation: Latitude, Longitude, Date and Time
+- Number of fishing events observed
+- Number of days fishing
 
-- Observer Identification
-- Observer trip details
-      - Embarkation location and date
-      - disembarkation location and date
-- Observed Trip summary 
-      - Number of fishing events
-      - Number of days
-      - Reasons for lost days
 
 #### V-INFO
 This section of the form includes specific vessel information. The two subsections (V-TRIP and V-Attributes) collect data on the overall fishing trip of the vessel and its attributes. 
