@@ -1,0 +1,49 @@
+# Data Components {#Data}
+
+```{r child = "04_01_Observer.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_02_Vessel.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_03_Trip.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_04_Vessel_Attributes.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_05_Gear.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_06_Sets.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_07_Catches.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_08_Specimens.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_09_Tags.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_10_Activities.Rmd"}
+```

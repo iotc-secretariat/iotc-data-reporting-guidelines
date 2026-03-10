@@ -44,7 +44,9 @@ i. In gillnet fisheries, the surface area of the nets deployed may better reflec
 
 ii. In hooks and line fisheries, the number of hooks may be used as required for longline fisheries;
 
-iii. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets. 
+iii. In longline fisheries that use trap line loops as terminal gear devices (_lazos_ in Spanish), the ratio between the number of hooks and loop lines may provide a simple and efficient metric for reporting effort. In such cases, species-specific catch data should be reported for both hook-based and loop-based effort units;
+
+iv. In purse seine fisheries, the numbers of successful and null fishing operations, searching time, and surface area explored may complement the information provided by fishing time and the total number of fishing sets.
 
 **Units not recommended**
 

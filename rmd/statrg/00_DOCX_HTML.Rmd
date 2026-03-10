@@ -1,11 +1,11 @@
 ---
-title: "Guidelines for the reporting of fisheries statistics to the IOTC"
+title: "Guidelines for Reporting Fisheries Statistics to the IOTC"
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
-    reference_docx: "../templates/rdoc_template.docx"
+    reference_docx: "../../templates/rdoc_template.docx"
   html_document2:
-    css: "../templates/html_template.css"
+    css: "../../templates/html_template.css"
     number_sections: FALSE
     toc: yes
     toc_depth: 2

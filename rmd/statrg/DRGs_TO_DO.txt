@@ -1,0 +1,16 @@
+# Appendices to add:
+
+1- Spatial aspects
+
+- Explanation on CWP grid system
+- Access to spatial data
+- Maps of coastal areas with corresponding 5x5 grid areas for SF
+- Scripts for plotting maps
+
+2- Morphometric conversions
+
++ Access to conversion factors and raw morphometric data (R packages)
++ Access to SF data and processing functions
++ Example of conversions - visualisation of sources
+
+3- Effort conversions
