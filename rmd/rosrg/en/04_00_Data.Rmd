@@ -1,6 +1,6 @@
 # Data Components {#Data}
 
-```{r child = "04_01_Observer.Rmd"}
+```{r child = "04_01_CommonComponents.Rmd"}
 ```
 
 \pagebreak
