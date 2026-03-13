@@ -1,0 +1,11 @@
+# Treatment of Missing, Zero, and Unknown Data
+
+Missing data field should be left blank. Data fields should only be filled out as a zero, only if data value is a true zero.  Unknown values are defined by codes in individual code-lists for specific data fields. 
+
+# Data Submission Standards
+
+CPCs are required to submit data to the Secretariat with Trip Reports and IOTC Reporting forms. Both trip report and reporting forms templates are available on the IOTC website. Each CPC shall provide, to the IOTC Secretariat, each report and observer data for the previous year no later than 30 June, following IOTC observer reporting templates and standards. 
+
+# Reporting Forms and Data Categories
+
+Individual ROS reporting forms have been created for each gear type. Data sheets that are coloured blue have mandatory fields for reporting, though not every field is always mandatory.  Each section also contains a field for a unique identifiers. These mandatory fields are crucial for data organization and analysis.  
