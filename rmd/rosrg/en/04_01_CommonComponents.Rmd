@@ -12,7 +12,7 @@ The data fields in this section are organized into interconnected subsections th
 
 This is followed by a section for observer information. The unique identifier for this section is the observed trip ID. Key elements of the subsequent fields include information about the duration of the trip and a summary of activities conducted, including fishing events conducted and observed, number of days fishing, searching, or lost, and where relevant, the reasons for lost days.   
 
-```{r CommonComponents, fig.cap = "Common Components of ROS reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Mandatory (blue) and optional (green) subsections are mapped.", fig.asp = 0.75, width = 8}
+```{r CommonComponents, fig.cap = "Common Components of ROS reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
 knitr::include_graphics("../../inputs/charts/IOTC_ROS_CommonComponents.png")
 ```
 ## Vessel Information
