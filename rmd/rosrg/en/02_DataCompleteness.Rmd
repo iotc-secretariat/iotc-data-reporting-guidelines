@@ -1,0 +1,32 @@
+# Data Completeness Requirements
+
+## Form Descriptions
+
+ROS forms are presented by fishing method and provide an understanding of the structure and sequence of the data that must be collected and reported. The Secretariat has developed and published “Form Description” pages as a resource to better understand the contents of the reporting form and improve consistency and accuracy in reporting. These Form Descriptions are accessible through the IOTC website with the reporting forms for each gear type. CPCs shall use the form descriptions as the primary reference when completing reporting forms and reviewing data entries prior to submission. 
+
+A data content section describes the structure of the reporting form. The rest of the document is a detailed outline of the form itself.  For each field in the reporting form, the requirement level (mandatory or optional) is listed, as well as a description of the data field, the format of the data, and an example of a valid input value. 
+
+
+## Data Completeness
+
+Within the reporting forms, data fields are visually differentiated by color to indicate the requirements level of each field. Fields highlighted in blue are mandatory for reporting, while green fields are optional and should be completed as information if available. While not required, completion of optional fields are encouraged when feasible.   
+
+A unique identifier (UI) data field is used to identify specific components of the reported data. UIs allow for the association and connection of data across various resolutions. Withing the reporting forms, UIs exist for each observed trip, as well as for individual sets, catches, and specimens within a trip. With reporting of each of these UIs within the reporting form creates links between components of the data.
+
+
+## Data Types and Formatting
+
+Reporting forms include multiple data types, reflecting the different types of data collected under the ROS. This may include, but is not limited to, string (text), integer, numeric, alphanumeric, and floating-point values. CPCs shall ensure that data entries conform to the specified data type for each field on the reporting form. Incorrect data types may prevent successful validation, database integration, and/or subsequent analysis.  
+
+ADD TABLE 
+
+Particular attention shall be given to the formatting requirements for dates and times, geographic coordinates, and measurement units (e.g. weight and length), as specifies in the reporting forms and associated documentation and resources.  
+
+
+## Data Sources
+
+The IOTC Record of Authorized Vessels (RAV) is a reference for vessel data. The RAV can be used to collate information about a specific vessel’s characteristics, inter alia, IOTC ID, IRCS, length, and flag.  
+
+Code list are linked to specific fields in the ROS reporting forms in the column heading in the reporting form. CPCs shall ensure that values reported for coded fields exactly match the corresponding codes provided in these lists. Descriptions of each of the code within each code list are part of the code list link.  
+
+
