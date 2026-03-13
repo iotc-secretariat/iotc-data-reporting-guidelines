@@ -1,0 +1,12 @@
+# Purse Seine 
+
+Following the data for the common components submitted in the first sections of the reporting forms, are section specific to purse seine fishing operations. The first section, the general section collects data describing purse seine fishing gear. The UI for this section is the Observed Trip ID.  
+
+The next section of the form collects data for an specific set. The UIs in this section are the observed trip ID and the set ID, which is repeated all sections of the form hereafter, meaning all other data can be assigned to a specific set withing the obsered trip. Beyond the identification a set, data identifies the starting time and location of a set as well as environmental context (sighting cues and school types) and brailing methods. Within this section, there is a separate sheet focused on the presence of cetaceans during setting operations.  
+
+Catch details are recorded with the previous UIs linking the trip ID and Set ID, as well as providing a catch ID. The first section of catch data summarizes the catch associated with a specific set, by species. Subsequent sections give provide catch data on a finer resolution. With the addition of specimen ID as a UI, data includes  size and weight measurements, sex and maturity, and sample collection details. Data on species of special interest (SSIs) are further reported in an additional section, while still maintaining the UIs down to the specimen ID resolution.  
+
+The next section of the PS reporting form contains tag data. UIs give resolution at the specimen ID level. Data in the section provides details about the tag itself, the associated individual, as well as contact details for the individual who found the tag.  
+
+The last section of the form contains data on the daily activities which occurred during the trip. These data are identified through the unique Observed Trip ID.  
+
