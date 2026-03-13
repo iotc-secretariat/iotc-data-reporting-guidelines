@@ -2,7 +2,7 @@
 
 These guidelines establish the minimum data standards and recommended practices for the collection, management, and reporting of at-sea observation data collected by onboard observers and Electronic Monitoring Systems (EMS). Their purpose is to ensure consistency, completeness, and quality of data submitted to the Secretariat of the Indian Ocean Tuna Commission (IOTC), in accordance with reporting obligations established under relevant IOTC resolutions. 
 
-# Scope
+## Scope
 
 The Regional Observer Scheme (ROS) of the Indian Ocean Tuna Commission (IOTC) is established to collect observations at sea to support the monitoring of tuna and tuna-like species, as well as non-target, associated, and dependent species, within the IOTC Area of Competence, as defined in the IOTC Agreement. 
 
