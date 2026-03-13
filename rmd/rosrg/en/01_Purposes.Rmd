@@ -1,2 +1,15 @@
 # General Purposes {#PurposeSection}
 
+These guidelines establish the minimum data standards and recommended practices for the collection, management, and reporting of at-sea observation data collected by onboard observers and Electronic Monitoring Systems (EMS). Their purpose is to ensure consistency, completeness, and quality of data submitted to the Secretariat of the Indian Ocean Tuna Commission (IOTC), in accordance with reporting obligations established under relevant IOTC resolutions. 
+
+# Scope
+
+The Regional Observer Scheme (ROS) of the Indian Ocean Tuna Commission (IOTC) is established to collect observations at sea to support the monitoring of tuna and tuna-like species, as well as non-target, associated, and dependent species, within the IOTC Area of Competence, as defined in the IOTC Agreement. 
+
+These guidelines apply to all CPCs operating vessels within the IOTC Area of Competence that are 24 meters length overall and above and under 24 meters if they operate outside the exclusive economic zone (EEZ).  
+
+Flag States and CPCs are responsible for ensuring that vessels flying their flag conduct fishing operations in accordance with IOTC Conservation and Management Measures (CMMs). As part of these obligations, CPCs must ensure that the required level of observer coverage, as specified in relevant IOTC resolutions, is achieved and that observer-derived and electronic monitoring data are collected and reported to the IOTC Secretariat in accordance with the data  standards, endorsed by the scientific committee . These guidelines support the implementation of relevant ROS IOTC resolutions and the related reporting obligations. In the event of any inconsistency between these guidelines and adopted IOTC resolutions, the provisions of the resolutions shall prevail. 
+
+Observer programs are established and managed by CPCs, which are responsible for the recruitment, training, certification, deployment, and oversight of observers, and for ensuring the independence, integrity, and quality of the data collected (see IOTC ROS Standards, ROS Data Standards) CPCs are responsible for ensuring that all submitted observer data using the IOTC reporting forms and trip reports templates.  
+
+CPCs  implementing electronic monitoring systems,  are responsible for the installation, operation, maintenance, and management of EMS programs and must ensure that their electronic monitoring frameworks comply with the standards and requirements established under the IOTC Regional Electronic Monitoring Program (REMP), including technical specifications, data collection protocols, data review procedures, and reporting requirements. CPCs are responsible for ensuring that EMS-derived data are reviewed, validated, and reported to the IOTC Secretariat in accordance with applicable IOTC reporting standards (See ROS EMS program standards and EMS system and data standards) . 
