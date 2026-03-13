@@ -15,35 +15,11 @@
 
 \pagebreak
 
-```{r child = "04_04_Vessel_Attributes.Rmd"}
+```{r child = "04_04_PL.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "04_05_Gear.Rmd"}
+```{r child = "04_05_GN.Rmd"}
 ```
 
-\pagebreak
-
-```{r child = "04_06_Sets.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "04_07_Catches.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "04_08_Specimens.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "04_09_Tags.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "04_10_Activities.Rmd"}
-```
