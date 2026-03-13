@@ -18,7 +18,27 @@ A unique identifier (UI) data field is used to identify specific components of t
 
 Reporting forms include multiple data types, reflecting the different types of data collected under the ROS. This may include, but is not limited to, string (text), integer, numeric, alphanumeric, and floating-point values. CPCs shall ensure that data entries conform to the specified data type for each field on the reporting form. Incorrect data types may prevent successful validation, database integration, and/or subsequent analysis.  
 
-ADD TABLE 
+### Data Types
+
+| Element  | Requirement | Description | Format | Input value |
+| :--------| :----: | :----------------------- | :-------- | :------------ |
+| [Liaison officer full name]{#fcname} | M | Name of the liaison officer in charge of the compilation of the data | String | e.g., `John Doe` |
+| [Liaison officer email]{#fcemail} | M | Email address of the liaison officer in charge of the compilation of the data | Valid email address | e.g., `John.Doe@fao.org` |
+| [Organisation name]{#orgname} | M | Name of the organisation in charge of the compilation of the data | String | e.g., `Institute of Fisheries` |
+| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the compilation of the data | Valid email address | e.g., `nif@gov.sc` |
+| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | e.g., `1996-03-27` |
+| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | e.g., `1997-03-21` |
+
+## Data Characteristics
+
+General information is required to describe the primary characteristics of the data reported to the Secretariat, which are consistent across all datasets.
+
+| Element | Requirement | Description | Format | Input value |
+| :--------| :----: | :----------------------- | :-------- | :------------ |
+| Reporting year | M | Gregorian calendar year of the fishing activities reported through the dataset | 4-digit integer | e.g., `1997` |
+| Reporting entity | M | Entity reporting the dataset to the IOTC Secretariat | **Code** from [Entities](../domain/admin/#entities) | e.g., `EUR` | 
+| Flag state | M | Country registration of the fishery vessels | **Code** from [Countries](../domain/admin/#countries) | e.g., `TZA`| 
+| Original data type | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types) | e.g., `FIN` |
 
 Particular attention shall be given to the formatting requirements for dates and times, geographic coordinates, and measurement units (e.g. weight and length), as specifies in the reporting forms and associated documentation and resources.  
 
