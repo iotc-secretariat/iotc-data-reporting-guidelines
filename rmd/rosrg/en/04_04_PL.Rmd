@@ -1,0 +1,9 @@
+# Pole and Line
+
+Like the other gear types, after the common components, the pole-and-line reporting form first includes data fields on the special equipment and machinery on-board. For the pole-and-line form, this includes data on the live bait tank capacity, number of poles and anglers, and information about the types of poles and hooks used.  
+
+The set data is first focused on the time and location of each set. The following sections characterize the setting operations, specifically, setting cues, the number of lines fishing, and the types of bait used. After the setting operation, data is collected summarizing the catch from the entire trip. Though this section comes after the data collected on individual set, it is important to note that this section does not include a set level resolution, but rather only has the observed trip ID UI. However, the next section has a finer resolution. With both an event ID and catch ID, catches are summarized for each species by set. The next section includes data for individual specimens. This includes specific length and weight measurements, sex, maturity, sample details, and tag details. For SSIs data is collected about gear interactions, whether the individual was brought on board, and the condition of the individual at capture and release.  Each of these sections of data are for tuna data.  
+
+The following sections of the form mirror a similar format to the previous sections, but for bait fish. Data is first reported for bait fishing sets, identified by trip and by individual bait fishing events. Catches of bait fish have general data, not linked to an event or trip ID. These data fields contain weight, including processing type, value, and estimation methods. Finally, there is a section for SSIs if any were caught during bait fishing events.  
+
+The last section of the form reports data on the daily activities that occurred throughout the trip.  
