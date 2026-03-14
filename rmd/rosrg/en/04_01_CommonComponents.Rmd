@@ -6,17 +6,21 @@ Each of the ROS reporting forms begins with an INFO section, which captures core
 
 ## Metadata
 
-The data fields in this section are organized into interconnected subsections that collectively summarize and identify an observed fishing trip. The start of the form is the metadata section where contact details are submitted. Data covers information about the submission and the person submitting the data, as well as information about the year of the data and the flag or CPC reporting. 
+The first subsection is the metadata section, where contact details are submitted. These fields capture information about the data submission and the person submitting the data, as well as the reporting year and the flag State or CPC responsible for reporting.
 
 ## Observer Information
 
-This is followed by a section for observer information. The unique identifier for this section is the observed trip ID. Key elements of the subsequent fields include information about the duration of the trip and a summary of activities conducted, including fishing events conducted and observed, number of days fishing, searching, or lost, and where relevant, the reasons for lost days.   
+The metadata section is followed by the Observer Information section. The unique identifier for this section is the Observed Trip ID, which links the trip record to all related datasets.
+
+Key fields in this section capture information on the duration of the observed trip and provide a summary of activities conducted during the trip. This includes the number of fishing events conducted and observed, the number of days spent fishing, searching, or lost, and, where applicable, the reasons for lost observation days.  
 
 ```{r CommonComponents, fig.cap = "Common Components of ROS reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
 knitr::include_graphics("../../inputs/charts/IOTC_ROS_CommonComponents.png")
 ```
 ## Vessel Information
 
-The third section of the form contains vessel information, with two subsections. Each section with vessel information contains an observed trip UI.   Required information focuses on vessel identification and personnel onboard. Subsections contain data on the vessel trip, which may differ from the observer trip, and vessel attributes. Vessel attribute data includes the electronics present on board, as well as fish storage and preservation methods available, and waste management capacity, all of which determine the capacity of the operations of the vessel. Sections after vessel attributes are specific to respective fishing gears.  
+The third section of the form contains vessel information, which begins with data on vessel identification and personnel on board. There are two subsequent subsections. Each subsection containing vessel information is linked to the Observed Trip ID. The subsections include information on the vessel trip, which may differ from the observer trip, and vessel attributes. Vessel attribute data include information on onboard electronics, fish storage and preservation methods, and waste management capacity, all of which influence the operational capacity of the vessel.
+
+Sections following the vessel attributes subsection contain fields that are specific to the respective fishing gears.
 
 <hr style="border:1.5px solid black">
