@@ -13,3 +13,7 @@ The next section provides catch data at a finer resolution, using both an Event 
 The form then includes a series of sections dedicated to baitfish data, which follow a similar structure to the tuna sections. Data are first reported for bait fishing events.  Catch summaries for baitfish species are recorded in a section that contains general catch information not linked to a specific event or trip identifier. These fields include total weight, processing type, value, and estimation methods. An additional section records Species of Special Interest (SSIs) encountered during bait fishing operations.
 
 The final section of the pole-and-line reporting form records daily activities conducted during the observed trip, identified by the Observed Trip ID.
+
+```{r PLStructure, fig.cap = "Structure of the Pole-and-Line reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_PL.png")
+```
