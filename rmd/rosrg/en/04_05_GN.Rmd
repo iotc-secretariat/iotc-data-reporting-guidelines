@@ -11,3 +11,7 @@ Catch data are recorded in the subsequent sections. The first catch section summ
 More detailed information is recorded in the Specimen and Species of Special Interest (SSI) sections, which introduce a Specimen ID to provide specimen-level resolution. Specimen data include length, weight, sex, maturity status, and depredation observations, as well as condition data for non-target species. Additional fields record sample collection details and tag information.
 
 The SSI section maintains the same Specimen ID-level resolution and records additional information on gear interactions, whether the individual was brought onboard, and handling practices at capture and release.
+
+```{r GNStructure, fig.cap = "Structure of the Gillnet reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_GN.png")
+```
