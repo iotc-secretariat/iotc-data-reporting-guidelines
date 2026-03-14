@@ -12,3 +12,7 @@ The next section contains tag information, recorded at the Specimen ID level. Th
 
 The final section of the form records daily activities occurring during the observed trip, identified by the Observed Trip ID.
 
+```{r PSStructure, fig.cap = "Structure of the Purse Seine reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_PS.png")
+```
+
