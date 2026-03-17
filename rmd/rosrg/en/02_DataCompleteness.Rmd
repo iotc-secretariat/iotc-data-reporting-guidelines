@@ -20,25 +20,15 @@ Reporting forms include multiple data types, reflecting the different types of d
 
 ### Data Types
 
-| Element  | Requirement | Description | Format | Input value |
-| :--------| :----: | :----------------------- | :-------- | :------------ |
-| [Liaison officer full name]{#fcname} | M | Name of the liaison officer in charge of the compilation of the data | String | e.g., `John Doe` |
-| [Liaison officer email]{#fcemail} | M | Email address of the liaison officer in charge of the compilation of the data | Valid email address | e.g., `John.Doe@fao.org` |
-| [Organisation name]{#orgname} | M | Name of the organisation in charge of the compilation of the data | String | e.g., `Institute of Fisheries` |
-| [Organisation email]{#orgemail} | O | Email address of the organisation in charge of the compilation of the data | Valid email address | e.g., `nif@gov.sc` |
-| [Finalisation date]{#findate} | M | Date of finalisation of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | e.g., `1996-03-27` |
-| [Submission date]{#subdate} | M | Date of submission of the dataset | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) | e.g., `1997-03-21` |
-
-## Data Characteristics
-
-General information is required to describe the primary characteristics of the data reported to the Secretariat, which are consistent across all datasets.
-
-| Element | Requirement | Description | Format | Input value |
-| :--------| :----: | :----------------------- | :-------- | :------------ |
-| Reporting year | M | Gregorian calendar year of the fishing activities reported through the dataset | 4-digit integer | e.g., `1997` |
-| Reporting entity | M | Entity reporting the dataset to the IOTC Secretariat | **Code** from [Entities](../domain/admin/#entities) | e.g., `EUR` | 
-| Flag state | M | Country registration of the fishery vessels | **Code** from [Countries](../domain/admin/#countries) | e.g., `TZA`| 
-| Original data type | M | Preliminary/final status of the data | **Code** from [Types of data](../domain/data/#types) | e.g., `FIN` |
+| Data Type | Field Name | Input value |
+| :--------| :----: | :----------------------- | 
+| String | Full name | e.g., `John Doe` |
+| Integer | Reporting year | e.g., 1996 |
+| Alphanumeric | observed_trip_id | e.g., 2024-01-23/IOTC001/IOTC012345/PS |
+| ISO 6709 [+/-DDD.DDDD] | longitude | e.g., 55.5312 |
+| ISO 8601 [YYYY-MM-DDTHH:MMZ] | date_time_utc | e.g., 2025-09-15T12:00Z |
+| Float | loa_m | e.g., 84.1 |
+| Free entry | sample_destination | e.g., University of Tasmania | 
 
 Particular attention shall be given to the formatting requirements for dates and times, geographic coordinates, and measurement units (e.g. weight and length), as specifies in the reporting forms and associated documentation and resources.  
 
