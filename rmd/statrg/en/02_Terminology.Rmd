@@ -7,7 +7,7 @@ While many definitions, classifications, and standards within the IOTC are consi
 The [IOTC Area of Competence](#iotcAreaofCompetence) is defined in the article II of the [IOTC Agreement](#iotcAgreement) and corresponds to "the Indian Ocean and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean". For statistical purposes, the IOTC area of competence is split between two [main areas](https://data.iotc.org/reference/latest/domain/admin/#IOareasMain): the Western Indian Ocean and Eastern Indian Ocean (Fig. \@ref(fig:AreaOfCompetence)).
 
 ```{r AreaOfCompetence, fig.cap = "Main areas of the IOTC Area of Competence", fig.asp = 0.75, width = 8}
-knitr::include_graphics("../inputs/charts/IOTC_AREA_OF_COMPETENCE_ENG.png")
+knitr::include_graphics("../../inputs/charts/IOTC_AREA_OF_COMPETENCE_ENG.png")
 ```
 
 ## Species of Interest

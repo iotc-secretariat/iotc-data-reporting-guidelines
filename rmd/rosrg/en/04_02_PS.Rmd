@@ -1,0 +1,18 @@
+# Purse Seine 
+
+Following the sections containing the common components, the reporting form includes sections specific to purse seine fishing operations.
+
+The first section collects general information describing the purse seine gear used during the observed trip. Records in this section are linked through the Observed Trip ID.
+
+The next section records information for individual fishing sets. Records are identified by the Observed Trip ID and Set ID, which together uniquely identify each set within an observed trip. The Set ID is maintained throughout all subsequent sections of the form, allowing all associated data to be linked to a specific fishing set. In addition to set identification, this section records the start time and location of the set, as well as relevant environmental and operational context, including sighting cues, school type, and brailing methods. A separate sheet within this section captures information on the presence of cetaceans during setting operations.
+
+Catch information is recorded using the Observed Trip ID, Set ID, and a Catch ID. The initial catch section summarizes the total catch associated with a specific set by species. Subsequent sections provide catch data at a finer level of detail. With the addition of the Specimen ID, data fields include size and weight measurements, sex and maturity information, and sample collection details. Data for Species of Special Interest (SSIs) are recorded in an additional section, while maintaining the same identifiers down to the Specimen ID level.
+
+The next section contains tag information, recorded at the Specimen ID level. These fields capture details about the tag, the associated individual specimen, and the contact details of the individual who reported or recovered the tag.
+
+The final section of the form records daily activities occurring during the observed trip, identified by the Observed Trip ID.
+
+```{r PSStructure, fig.cap = "Structure of the Purse Seine reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+("../../inputs/charts/ROS_PS.png")
+```
+

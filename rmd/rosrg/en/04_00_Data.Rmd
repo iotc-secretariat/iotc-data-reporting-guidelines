@@ -1,0 +1,25 @@
+# Data Components {#Data}
+
+```{r child = "04_01_CommonComponents.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_02_PS.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_03_LL.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_04_PL.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_05_GN.Rmd"}
+```
+

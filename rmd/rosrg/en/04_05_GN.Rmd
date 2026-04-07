@@ -1,0 +1,17 @@
+# Gillnet 
+
+Following the common information sections, the gillnet reporting form includes sections describing gear configuration, fishing operations, and catch data specific to gillnet fisheries.
+
+The first group of sections records gear configuration data, with records linked through the Observed Trip ID. Three subsections describe different components of the fishing gear. The first records the presence or absence of a net drum hauler. The second describes the configuration of the gillnets, including panel characteristics, stretched mesh size, net colour, and float and dropline information. The third subsection records sinker configuration data. The gillnet configuration and sinker configuration sections are linked through the Gillnet Sequential Number, which identifies individual nets within the gear configuration.
+
+The next two sections describe fishing operations, with records identified by the Observed Trip ID and Set ID. The first section records setting operations, including the start and end time and location of each set, as well as information on setting strategies and mitigation measures used. The following section records hauling operations, including the start and end of hauling, along with data describing the condition of the net during retrieval.
+
+Catch data are recorded in the subsequent sections. The first catch section summarizes catches for the fishing trip, with each record identified by the Observed Trip ID, Set ID, and Catch ID. In this section, the fate, number of individuals, and total weight are reported for each species.
+
+More detailed information is recorded in the Specimen and Species of Special Interest (SSI) sections, which introduce a Specimen ID to provide specimen-level resolution. Specimen data include length, weight, sex, maturity status, and depredation observations, as well as condition data for non-target species. Additional fields record sample collection details and tag information.
+
+The SSI section maintains the same Specimen ID-level resolution and records additional information on gear interactions, whether the individual was brought onboard, and handling practices at capture and release.
+
+```{r GNStructure, fig.cap = "Structure of the Gillnet reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_GN.png")
+```

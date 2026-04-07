@@ -1,0 +1,26 @@
+# Common Components
+
+## Description
+
+Each of the ROS reporting forms begins with an INFO section, which captures core information that is applicable to all fisheries regardless of gear type or data collection method. The general data fields provide the essential contextual framework for linking records across datasets, supporting quality control and validation processes.
+
+## Metadata
+
+The first subsection is the metadata section, where contact details are submitted. These fields capture information about the data submission and the person submitting the data, as well as the reporting year and the flag State or CPC responsible for reporting.
+
+## Observer Information
+
+The metadata section is followed by the Observer Information section. The unique identifier for this section is the Observed Trip ID, which links the trip record to all related datasets.
+
+Key fields in this section capture information on the duration of the observed trip and provide a summary of activities conducted during the trip. This includes the number of fishing events conducted and observed, the number of days spent fishing, searching, or lost, and, where applicable, the reasons for lost observation days.  
+
+```{r CommonComponents, fig.cap = "Common Components of ROS reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_CommonComponents.png")
+```
+## Vessel Information
+
+The third section of the form contains vessel information, which begins with data on vessel identification and personnel on board. There are two subsequent subsections. Each subsection containing vessel information is linked to the Observed Trip ID. The subsections include information on the vessel trip, which may differ from the observer trip, and vessel attributes. Vessel attribute data include information on onboard electronics, fish storage and preservation methods, and waste management capacity, all of which influence the operational capacity of the vessel.
+
+Sections following the vessel attributes subsection contain fields that are specific to the respective fishing gears.
+
+<hr style="border:1.5px solid black">

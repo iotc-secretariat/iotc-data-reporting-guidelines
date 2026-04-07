@@ -1,0 +1,58 @@
+---
+title: "Guidelines for Reporting Regional Observer Scheme Data to the IOTC"
+author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
+output:
+  officedown::rdocx_document:
+    reference_docx: "../../templates/rdoc_template.docx"
+  html_document2:
+    css: "../../templates/html_template.css"
+    number_sections: FALSE
+    toc: yes
+    toc_depth: 2
+    toc_float:
+      collapsed: FALSE
+      smooth_scroll: FALSE
+---
+  
+```{r general_options, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      tab.cap.pre = "Tab. ", 
+                      tab.cap.sep = ". ", 
+                      tab.cap.style ="Table Caption", 
+                      tab.cap.fp_text = officer::fp_text_lite(italic = FALSE, bold = FALSE), 
+                      fig.cap.fp_text = officer::fp_text_lite(italic = FALSE, bold = FALSE),
+                      fig.cap = TRUE, 
+                      fig.cap.pre = "Fig. ", 
+                      fig.cap.sep = ". ", 
+                      fig.cap.style = "Caption label", 
+                      dpi = 150
+                      )
+```
+
+```{r child = "en/01_Purposes.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "en/02_Terminology.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "en/03_Metadata.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "en/04_00_Data.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "en/05_01_Acronyms.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "en/05_02_Glossary.Rmd"}
+```

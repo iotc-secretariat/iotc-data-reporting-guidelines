@@ -1,0 +1,15 @@
+# Longline 
+
+Following the common information sections, the longline reporting form includes sections specific to longline fishing operations.
+
+The general section records information on the characteristics of the specialized equipment and gear carried onboard, with a focus on branchlines and mitigation devices. Branchline data describe the configuration of the fishing gear, while mitigation device data, particularly tori line information, are recorded in the final subsection of the general section. Records in this section are linked through the Observed Trip ID.
+
+The next section records set-level data. The initial subsection, identified by the Observed Trip ID and Set ID, includes fields describing the start and end time and location of each set. Additional fields characterize the setting operation and the gear configuration used for that specific set.
+
+This section is followed by five subsections describing key components of the setting operation: lights, mitigation measures, hooks, bait, and hauling. Each subsection is linked to the Observed Trip ID and Set ID, and captures information on the presence, configuration, and use of these components during the set. Together, these subsections complete the data fields describing the setting operations.
+
+Catch records include a Catch ID, in addition to the Set ID, which provides finer resolution for reporting catches by species. Fields in this section summarize the fate and weight of each species recorded.
+
+More detailed catch information is recorded in the individual specimen and Species of Special Interest (SSI) sections. These sections introduce a Specimen ID, which provides the highest level of resolution for biological sampling. Specimen-level data include length, weight, sex, maturity status, and sample collection details, as well as depredation information. For individuals classified as SSIs, additional data fields record bait type, leader information, and depredation observations.
+
+The final section of the longline reporting form records tag information, linked at the Specimen ID level. In addition to maintaining the identifiers that connect specimens to specific sets and trips, this section records tag type, tag identification numbers, and contact details for the individual who recovered or reported the tag.  
