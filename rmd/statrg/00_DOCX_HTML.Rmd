@@ -6,12 +6,13 @@ output:
     reference_docx: "../../templates/rdoc_template.docx"
   html_document2:
     css: "../../templates/fao_template.css"
-    number_sections: FALSE
+    self_contained: true
+    number_sections: false
     toc: yes
     toc_depth: 2
     toc_float:
-      collapsed: FALSE
-      smooth_scroll: FALSE
+      collapsed: false
+      smooth_scroll: false
 #       
 # reference_num: TRUE
 # fig_caption: TRUE

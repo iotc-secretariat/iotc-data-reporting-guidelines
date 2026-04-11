@@ -1,3 +1,44 @@
+/* IOTC additions for display */
+.tocify::before {
+  content: "";
+  display: block;
+  height: 70px;
+  margin: 15px;
+  background-image: url("IOTC_with_text.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.tocify {
+  font-size: 0.9em;
+}
+
+.tocify .tocify-subheader {
+  font-size: 0.85em;
+}
+
+.tocify-item {
+  line-height: 1.2;
+}
+
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+  max-width: 1600px !important;
+}
+
+body {
+  font-size: 17px;
+}
+
+.main-container {
+  max-width: 95% !important;
+}
+
 /*!
 * FAO Design System
 * Version: 3.6.8
