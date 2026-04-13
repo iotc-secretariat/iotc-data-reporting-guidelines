@@ -5,7 +5,7 @@ output:
   officedown::rdocx_document:
     reference_docx: "../../templates/rdoc_template.docx"
   html_document2:
-    css: "../../templates/fao_template.css"
+    css: "../../templates/fao_template_simplified.css"
     self_contained: true
     number_sections: false
     toc: yes
