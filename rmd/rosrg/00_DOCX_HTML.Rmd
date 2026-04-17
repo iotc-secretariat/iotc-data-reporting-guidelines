@@ -34,12 +34,12 @@ knitr::opts_chunk$set(echo = FALSE,
 
 \pagebreak
 
-```{r child = "en/02_Terminology.Rmd"}
+```{r child = "en/02_DataCompleteness.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "en/03_Metadata.Rmd"}
+```{r child = "en/03_DataStandards.Rmd"}
 ```
 
 \pagebreak
