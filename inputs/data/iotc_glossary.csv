@@ -193,63 +193,120 @@ Fish aggregating device (FAD), Artificial or natural floating objects placed on 
 
 Fisher, An individual who engages in fishing activities for the purpose of deriving a livelihood, generating a revenue or pursuing sport or recreation. A full-time, part-time or occasional fisher receives some or all of their livelihood from fishing or spends some or all of their working time in that occupation. A sport or recreational fisher (or angler) conducts fishing in pursuit of sport or recreation ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)),
 
-Fishery
-Fishery (IOTC)
-Fishing capacity
-Fishing effort
-Fishing effort (effective)
-Fishing effort (nominal)
-Fishing event
-Fishing gear
-Fishing logbook
-Fishing mode
-Fishing related activities
-Fishing set
-Fishing trip
-Fishing vessel
-Flag state
-Fork length
-Free school
+Fishery (FAO), An activity leading to harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture ([FAO fishery glossary](https://www.fao.org/faoterm/en/))., FAO, 
+
+Fishery (IOTC), an organized effort by humans to catch fish or other aquatic species, an activity known as fishing. Depending on the scale, degree of sophisitcation of gears, and on the method of fishing used, fisheries can be subdivided into artisanal, semi-industrial, and industrial fisheries., ROS Observer Manual, 
+
+**Fishing capacity**, The ability of a vessel or fleet of vessels to catch fish. Fishing capacity (capacity output) can be expressed more specifically as the maximum amount of fish over a period of time (year, season) that can be produced by a fishing fleet if fully utilised, given the biomass and age structure of the fish stock and the present state of the technology ([Pascoe and Greboval 2003](https://www.fao.org/3/Y4849E/y4849e00.htm))., Github glossary, 
+**Fishing capacity** (number 2?), (1) The potential fishing effort that could be exerted in a fishery, over a period of time (year, season) if all fishers are participating and all vessels and gear are fully used. (2) The maximum amount of fish that could be taken in a fishery or by a single fishing unit (e.g. a fisher, community, vessel or fleet) over a period of time (season, year), given the biomass and age structure of the fish stock and the present state of the technology, in the absence of any regulated catch limitations and if the means available are fully used., FAO terminology portal, 
+
+**Fishing effort**, The overall amount of fishing (usually per unit of time) expressed in units such as: boat days on the fishing ground, number of traps, or trawl hauls, or (gillnet length x soaking time), etc., FAO terminology portal, 
+**Fishing effort**, Amount of fishing taking place, usually described in terms of gear type and the frequency or period of operations (e.g. ‘hook sets’, ‘trawl hours’, ‘searching hours’)., IOTC glossary scientific terms, 
+
+**Fishing effort (effective)**, Adjusted measure of effort to take account of differences in fishing power and efficiency and ensure proportionality with fishing mortality, and when two or more kinds of gear are used or when the same gear is used for example by different classes of vessel or métier, the respective efforts are adjusted to some common standard before being aggregated across all classes (strata) ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/))., IOTC glossary, 
+**Fishing effort (nominal)**, General measure of effort used to quantify the unadjusted, total effort units exerted on a stock in a given time period by a fishery, gear or métier ([CWP Handbook]((https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)))., IOTC glossary, 
+
+**Fishing event**
+
+Fishing gear, The general name for the equipment used for fishing. This might include lines, nets, warps, floats, deck equipment and any other specific fishing items., FAO terminology terminal, 
+
+Fishing logbook, A paper based or electronic record of any data related to fishing or fishing related activities, required by the flag State and filled out by the captain/master/crew of the vessel., IOTC-2025-CoC22-11_Add4-IOTC Glossary, 
+
+Fishing mode, A specific practice or method of conducting a fishing operation or searching for fish within a fishery, fishing sector or region. A fishing mode may also be associated with a métier ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/))., github glossary, 
+
+Fishing related activities, means any operation in support of, or in preparation for, fishing, including the landing, packaging, processing, transhipping or transporting of fish that have not been previously landed at a port, as well as the provisioning of personnel, fuel, gear and other supplies at sea., IOTC-2025-CoC22-11_Add4-IOTC Glossary
+
+**Fishing set**
+
+**Fishing trip**, A defined period during which a vessel engages in fishing activities, requiring consistent delineation across RFMOs (see WCPFC for an example)., EM workshop, workshop standards, 
+**Fishing trip** , The period between either (a) a vessel’s departure from port after unloading part or all of the catch to transit to a fishing area, or (b) a vessel recommences fishing operations or transits to a fishing area after transshipping part or all of the catch at sea, and the time that the vessel either (c) returns to port to unload part or all of its catch, of (d) ceases fishing operations to tranship part or all of its catch at sea., EM workshop, only WCPFC term
+
+**Fishing vessel**, transporting, landing, preserving and/or processing fish, shellfish and other aquatic organisms, residues and plants ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/))., Guidlines for the reporting of fishery statistics to the IOTC,
+**Fishing vessel**, Fishery vessel only engaged in catching operations. The term "non-fishing vessel" applies to vessels performing other functions related to fisheries; this includes vessels providing supplies, motherships, fish carriers, and vessels involved in fisheries resources protection, aquaculture operations, and vessels rendering assistance or conducting fisheries related research or training ([Thermes et al. 2003](https://www.fao.org/fishery/en/publications/278529)).
+**Fishing vessel**, Any vessel of any size used for, equipped for use for, or intended for use for the purposes of fishing or fishing-related activities, including support vessels, fish-processing vessels, vessels engaged in transshipment and carrier vessels equipped for the transportation of fishery products, except container vessels.,  FAO terminology portal, 
+
+Flag state, The State which has granted to a vessel the right to fly its flag and has issued a registration to that effect, provided the vessel is only registered in one State., IOTC-2025-CoC22-11_Add4-IOTC Glossary, 
+
+**Fork length**, In a fish with a forked tail: the distance from the mouth tip to the tail fork., FAO terminology portal, 
+**Fork length**, Length of a fish measured as the distance between the tip of the snout and the point of the fork or ‘V’ of the tail. Commonly used to record the length of commercial fish because it is little affected by damage to the tail fin (c.f. Total length). Fork length is measured flat, from point to point, not by stretching a tape along the body surface, which would result in a longer measurement for full-bodied fish like tuna, IOTC glossary scientific terms, 
+
+Free school, The fish school is not associated with any anchored or drifting floating object. Synonym to free-swimming school or unassociated school., IOTC glossary, 
 
 G
-Gear
-Geolocation device
-Ghost fishing
-Ghost fishing gear
-Gillnet
-Global Maritime Distress and Safety System (GMDSS)
-Global Positioning System (GPS)
-Global Positioning System plotter
-GNSS
-Gross tonnage
+Gear, The general name for the equipment used for fishing. This might include lines, nets, warps, floats, deck equipment and any other specific fishing items ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))., IOTC glossary, 
+
+Geolocation device, A device that is used to capture information on vessel position that can also be used to determine vessel speed and heading., EM workshop, WCPFC term, 
+
+Ghost fishing, The accidental capture of aquatic organisms by fishing gear (usually gill nets, or traps, pots, etc.) that has been lost or discarded into the sea and which continues to entangle or trap aquatic animals., FAO
+
+Ghost fishing gear, The term “abandoned fishing gear” means fishing gear over which that operator/owner has control and that could be retrieved by owner/operator, but is deliberately left at sea due to force majeure or other unforeseen reasons. The term “lost fishing gear” means fishing gear over which the owner/operator has accidentally lost control and that cannot be located and/or retrieved by owner/operator. The term “discarded fishing gear” means fishing gear that is released at sea without any attempt for further control or recovery by the owner/operator., code lists,
+
+Gillnet, A net, which is hung vertically in the water so that fish attempting to pass through become caught by the gill covers, entangled or enmeshed in the netting. According to their design, ballasting and buoyancy, these nets may be used to fish on the surface, in midwater or on the bottom., FAO fisheries glossary, 
+
+Global Maritime Distress and Safety System (GMDSS),  is the technical, operational and administrative structure for maritime distress and safety communications worldwide.establishes the radiocommunications equipment that all vessels from counties aligned to the United Nations and IMO are required to carry, how this equipment shall be maintained and how it is used, and provides the context within which governments should establish the appropriate shore-based facilities to support GMDSS communications. an international system which uses improved terrestrial and satellite technology and ship-board radio systems. It ensures rapid alerting of shore-based rescue and communications authorities in the event of an emergency., ROS observer manual, 
+
+Global Positioning System (GPS) (Maybe we just take part of the definition?), A satellite based navigational system allowing the determination of any point on the earth's surface with a high degree of accuracy given a suitable GPS receiver. The network of satellites is owned by the US Department of Defence, and as such, the accuracy of the signal is intentionally degraded for non-US military users. The error introduced into the signal is known as selective availability. Error in the accuracy of GPS derived positions can also be introduced through the nature of local conditions, for example multipath. These errors can be greatly reduced using a technique known as differential GPS, FAO terminology portal, 
+
+Global Positioning System plotter, A GPS chart plotter is an electronic chart. The position of the ship is shown on the map and moves as the ship navigates from one point to another. In addition, a (+) cursor on the map can be moved on the map to display the Latitude and Longitude of a selected point or a plotted position, ROS Scientific observer manual, 
+
+**GNSS**
+
+Gross tonnage, Dimensionless measure of the overall size of a ship ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529), FAO
 
 H
-Handline
-Harpoon
-HF Radio
-High seas
-Hook pods
+
+**Handline**, Fishing method in which a line with a hook, usually baited, is lowered into the water from a drifting, anchored or moving fishing vessel or from a jetty, pier or rock on the shore overlooking the water ([Bjarnason 1992](https://www.fao.org/3/t0511e/T0511E00.htm)), IOTC glossary, 
+**Handline**, Fishing-line without a rod, with one or several baited hooks attached, worked by hand, FAO terminology portal,
+
+Harpoon, Fishing gear consisting of a pointed dart or iron attached to the end of a line several hundred feet in length, the other end of which is attached to a floatation device. Harpoon gear is attached to a pole or stick that is propelled by hand or mechanical means into the body of the aquatic animal, FAO terminology portal, 
+
+HF Radio, a component of GMDSS: The GMDSS includes High Frequency (HF) radiotelephone and radio telex (narrow-band direct printing) equipment, with calls initiated by digital selective calling (DSC). Worldwide broadcasts of maritime safety information are also made on HF narrow-band direct printing channels, ROS observer manual, 
+
+**High seas**, All parts of the sea that are not included in the exclusive economic zone, in the territorial sea or in the internal waters of a State, or in the archipelagic waters of an archipelagic State ([UNCLOS](https://en.wikisource.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea)), IOTC glossary (UNCLOS), 
+**High seas**, That area of the oceans which is not subject to the jurisdiction of any one state.That area of the oceans which is not subject to the jurisdiction of any one state, FAO terminology portal
+
+**Hook pods**
 
 I
-IMO number
-Incidentally affected species
-Incidnetally taken species
-Independent (EM)
-Industrial fishery
-Industrial fishing
-Industrial fishing vessel
-Inmarsat
-Installation coverage
-Instrumented buoy
-IOTC active vessel list
-IOTC Agreeement
-IOTC Area of Competence
-IOTC CMM
-IOTC observer
-IOTC Record of Authroized vessels
-IOTC species
-IOTC stocks
-IRCS
+
+**IMO number**
+
+Incidentally affected species, Bycatch species that accidentally interact with fishing equipment in the fishery, that are not taken but released to the sea (cetaceans, seals, turtles, birds, etc.). Some of these species may be considered protected, endangered or threatened (PET), ROS observer manual, 
+
+Incidnetally taken species, Bycatch species of no commercial value such as fish species, crustaceans or other non-target organisms without commercial interest, not marketable for reasons of size (immature, juvenile), prohibited from fishing, or from being hauled on-board, ROS observer manual, 
+
+Independent (EM), With respect to audits - no financial or current employment interest with the DRC, EM workshop, only a WCPFC term,
+
+Industrial fishery, Fishery that (i) catches fish from large and medium-sized vessels fitted out with mechanised methods of operating the fishing gear and installations for preservation of fish on board, (ii) process the catch either in land base or on board – in which cases the vessels are provided with appropriate processing installations, and (iii) distribute the fish products around the country and abroad using mechanised means of transportation adapted for fish and fish products. All these activities are generally organised for the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and fish product transportation ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))., FAO, 
+
+Industrial fishing, Using large vessels, generally greater than 15 m in length, for a fishing activity that is mainly carried out in offshore areas., FAO terminology portal, 
+
+Industrial fishing vessel, Large vessel, typically of 24 m in length and over, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear and installations for preservation of fish on board ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))., IOTC glossary, 
+
+Inmarsat, a component of GMDSS: Inmarsat Satellite systems operated by the Inmarsat, overseen by IMSO, International Mobile Satellite Organization are important elements of the GMDSS. The types of Inmarsat ship earth station terminals recognized by the GMDSS are: Inmarsat B, C and F77, ROS observer manual, 
+
+Installation coverage, The percentage of vessels equipped with EM systems, EM workshop, workshop stnadards,
+
+Instrumented buoy, A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)), IOTC resolution, 
+
+IOTC active vessel list, the list of vessels having operated in the IOTC area of competence in a given year, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that operated in waters outside the economic exclusive zone of the flag State (Res. [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area)), IOTC resolution, 
+
+IOTC Agreeement, The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission ([IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf)), 
+
+IOTC Area of Competence, The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT ([FAO Fisheries Geonetwork Platform](https://www.fao.org/fishery/geonetwork/srv/eng/catalog.search#/metadata/fao-rfb-map-iotc)).
+
+IOTC CMM, As specified in Article IX of the Agreement, CMMs consist of Resolutions, which are binding on Members, subject to Article IX para 5 of the IOTC Agreement, and Recommendations, which are non-binding, subject to Article IX para 8 of the Agreement, IOTC-2025-CoC22-11_Add4-IOTC Glossary
+
+IOTC observer, An observer appointed pursuant to the IOTC Regional Observer Scheme under Resolution 11/04 and Resolution 19/06 and any superseding Resolution, IOTC-2025-CoC22-11_Add4-IOTC Glossary
+
+IOTC Record of Authroized vessels, The list of vessels authorised to operate in the IOTC Area of Competence in a given time period, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that may operate in waters outside the economic exclusive zone of the flag State. These vessels are referred to as authorised fishing vessels (AFVs) (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence))
+
+**IOTC species**, Any or all of the 16 tuna and tuna-like species listed in Annex B of the [IOTC Agreement](#iotcagreement)
+**IOTC species** (can merge defintions), The subset of species that are managed by the IOTC, as defined in Article 3 of the Agreement, species code list, 
+
+IOTC stocks, The populations of the IOTC species which are located in the IOTC area of competence or migrate into or out of the area [IOTC Agreement](#iotcagreement)
+
+**IRCS**
 
 
 J
@@ -257,122 +314,220 @@ J
 K
 
 L
-Landing
-Large-scale drfitnets
-Large-scale fishery
-Leader
-Length overall (LoA)
-Lift nets
-Line fishing
-Line hauler
-Line setter
-Live weight equivalent
-Longline
-Longline fisheries
-Longline section
-Lower-jaw fork length
+
+**Landing**, The part of the catch that is retained on board and brought ashore, FAO terminology portal
+**Landing**, The movement of fish and fishery products in any form from a vessel to dockside in a port or free-trade zone, even if subsequently transferred to another vessel, FAO terminology portal
+**Landing**, The initial movement of fish from a vessel to dockside in a port or free-trade zone, even if subsequently transferred to another vessel, FAO terminology portal
+**Landing**, The offload or transfer in port of fish from a vessel to a container, FAO terminology portal
+**Landing**, Weight of what is landed at a landing site. May be different from the catch (which includes the discards), FAO terminology portal
+**Landing**, All transfers of any quantity of fish onboard from a vessel to land, other than transshipment, including transfers of fish to a port facility, transfers of fish from one vessel to another through a port facility or other means of transportation, and transfers of fish from a vessel to a container, truck, train, aircraft, or another means of transportation, IOTC-2025-CoC22-11_Add4-IOTC Glossary
+
+Large-scale drfitnets, Drift gillnets or other nets or a combination of nets that are more than 2.5 km in length whose purpose is to enmesh, entrap, or entangle fish by drifting on the surface of or in the water column, IOTC glossary, 
+
+Large-scale fishery, Fish is caught by vessels with a length overall of 24 m and above, and sold at landing sites, at markets, to processing factories, or exported
+
+Leader, The line for attaching hook to the mainline in longlines. The term is often used in drift longlines for pelagic species such as tunas and swordfish
+
+Length overall (LoA), The distance in a straight line parallel to the design waterline, between the foremost point of the bow and the aftermost point of the stern, FAO terminology portal, 
+
+Lift nets, A lift net is a horizontal netting panel or bag shaped like a parallelepiped, pyramid or cone with the opening facing upwards which are submerged at a certain depth, left for a while, the time necessary for light or bait to attract fish over the opening, then lifted out of the water, 
+
+Line fishing, A general term used for a range of fishing methods that employ fishing lines in one form or another (as opposed to nets and traps). It includes handlines, hand reels, powered reels, pole-and-line, droplines, longlines, trotlines and troll lines, FAO terminology portal, 
+
+Line hauler (branchline), A branch line hauler/coiler winds branch lines into tight, uniform coils and assists in quickly recovering and packing branch lines for the next set, draft of observer manual, 
+
+**Line setter**
+
+Live weight equivalent, Weight derived from the landed or product weight by the application of certain factors and designed to represent the actual weight of the fishery product as it was taken from the water and before being subjected to any processing or other operations ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Live_weight_of_fishery_products#:~:text=Live%20weight%20of%20fishery%20products%20is%20derived%20from%20the%20landed,any%20processing%20or%20other%20operations.)),
+
+Longline, A fishing gear in which short lines carrying hooks are attached to a longer main line at regular intervals. Longlines are laid on the bottom or suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 150 km and have several thousand hooks (e.g. in tuna fisheries), FAO terminology portal, 
+
+Longline fisheries, Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and))
+
+**Longline section**
+
+Lower-jaw fork length, Length of a fish measured as the distance between the tip of the lower jaw and the point of the fork or ‘V’ of the tail. Commonly used to record the length of commercial fish with bills (e.g. swordfish) because it is little affected by damage to the tail fin (c.f. Total length) and bill. Fork length is measured flat, from point to point, not by stretching a tape along the body surface, which would result in a longer measurement for full-bodied fish like tuna, IOTC glossary, 
 
 M
-Mainline
-Mechanized setting
-Medium-scale fisheries
-Monitoring
-Multiple random sampling
+Mainline, Longline fishing gear consists of a mainline kept near the surface or at a particular depth by means of regularly spaced floats or weights. Branchlines with baited hooks are attached to the mainline at regular intervals, IOTC glossary, 
+
+Mechanized setting, The gear is mechanised, e.g., use of electric or hydraulic line haulers, gear configuration code list, 
+
+**Medium-scale fisheries**, Fish is caught in areas beyond national jurisdiction (ABNJ) of the flag state, by vessels with a length overall less than 24 m, and sold at landing sites, at markets, to processing factories, or exported, fishery types code list, 
+**Medium-scale fishery**, The medium scale fishery is generally understood to be a fishery undertaken by powered boats and with small or medium size capital, FAO terminology portal, 
+
+Monitoring, The requirement for the continuous collection of fishery-related data, EM workshop and resolution 23/08
+
+**Multiple random sampling**
 
 N
-National jurisdiction areas
-National jusrisdiction areas and beyond
-Nautical twilight
-NAVTEX
-Neritic
-Net drum hauler
-Net tonnage
-Nominal catches
-Non-mechanized setting
-Non-target species
+National jurisdiction areas, Vessels operate exclusively within areas under national jurisdiction of their flag state (territorial sea, contiguous zone as well as EEZ waters), areas of operation code list, 
+
+National jusrisdiction areas and beyond, Vessels operate in areas under national jurisdiction as well as in areas beyond national jurisdiction of their flag state (i.e., high seas or areas under national jurisdiction of other coastal states), areas of operation code list, 
+
+Nautical twilight, at dawn starts when the sun is 12 degrees below the horizon and ends when the sun is 6 degrees below the horizon. In the evening nautical twilight starts when the sun is 6 degrees below the horizon and ends when the sun is 12 degrees below the horizon, ROS observer manual, 
+
+NAVTEX, a component of GMDSS: an international, automated system for instantly distributing maritime navigational warnings, weather forecasts and warnings, search and rescue notices and similar information to ships, ROS observer manual, 
+
+Neritic, Designating, or of, the ecological zone (neritic zone) of the continental shelf extending from low tide to a depth of around 180 m, ROS scientific observer, 
+
+**Net drum hauler**
+
+Net tonnage, dimensionless measure of the useful capacity of a ship ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))
+
+Nominal catches, Officially declared aquatic organisms captured during fisheries and expressed as live weight equivalent. Nominal catches do not include unreported catches, such as unreported discards, and may differ considerably from the real catch ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Nominal_catch)), 
+
+Non-mechanized setting, The gear is not mechanised, i.e., operated by arm power only, gear configuration code list, 
+
+Non-target species, Species for which the fishing gear is not specifically deployed or set, but may have immediate commercial value and be a desirable component of the catch. Includes bycatch and by-product, FAO terminology portal, 
+
 
 O
-Observer
-Offal
-Onboard interface/screen
-Operational buoy
+Observer, means a person who collects information on board fishing vessels, in the framework of observer programs, and can be used inter alia for monitoring fishing activities, quantifying species composition of target species and bycatch, whether they are retained or discarded and deploying or collecting tags, Resolution 25/06
+
+Offal, The viscera and trimmings of a butchered animal removed in preparing it for market or for consumption
+
+**Onboard interface/screen**, 
+
+Operational buoy, Any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log, which transmits position and any other available information such as echo-sounder estimates (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan))
+
 
 P
-Pelagic
-Pole-and-line fishing
-Pole-and-lines
-Pool of observers
-Purse seine
-Purse seine bunt
-Purse seining
+
+**Pelagic**, Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks, iotc glossary, 
+**Pelagic**, Relating to, living or occurring in the open sea, FAO terminology portal, 
+
+Pole-and-line fishing, A fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/))
+
+Pole-and-lines, A pole-and-line consists of a hooked line attached to a pole. This method is common to sport fisheries (angling) but it is also used in commercial fisheries. Fishing rods/poles are made of wood (including bamboo, also constructed of split cane) and increasingly of fiberglass, iotc fishery categories, 
+
+Pool of observers, means a list of IOTC recognised observers that have been allocated an IOTC registration number and trained according to IOTC standards who may be called upon by other flag States, IOTC Resolution 25/06
+
+**Purse seine**, Nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)), FAO, 
+**Purse seine**, A purse seine is made of a long wall of netting framed with floatline and leadline (usually, of equal or longer length than the former) and having purse rings hanging from the lower edge of the gear, through which runs a purse line made from steel wire or rope which allow the pursing of the net, FAO terminology portal, 
+**Purse seine**, Nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught. The purse seines, which may be very large, are operated by one or two boats. The most usual case is a purse seine operated by a single boat, with or without an auxiliary skiff, FAO terminology portal, 
+
+**Purse seine bunt**
+
+Purse seining, Harvesting of surface-schooling pelagic fish by surrounding the school with a net. A line that passes through rings on the bottom of the net can be tightened to close the net so that the fish cannot escape, IOTC glossary, 
 
 Q
 
 R
-Radar
-Reactivation
-Regional agency
-Reporting entity
-Retained catches
-Review for data quality
-Ring nets
-Round weight
+
+**Radar**, Radar sends out and receives radio waves horizontally from the vessel. When the radio waves reflect off objects the reflection is shown on the radar screen. These can show the real-time position of objects around a vessel in darkness of in fog when they cannot normally be seen visually, ROS observer manual, 
+**Radar**, Short for "radio detection and ranging". A system of detecting and locating targets which are capable of reflecting high frequency radio waves (microwaves), FAO terminology portal, 
+
+Reactivation, the act of re-enabling satellite communications services by the buoy supplier company at the request of the buoy owner or manager, ROS observer program 
+
+Regional agency, A regional or sub- regional organisation that may support CCM national EM Programs and EM Systems, EM standards, WCPFC term, 
+
+Retained catches, Estimated component of the catch which is retained on board during a fishing trip ([CWP](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/catch-and-landings/en/)), 
+
+Review for data quality, The verification process of re- analysing/interpreting a portion of previously analysed EM records to determine completeness, adherence to protocols, and accuracy of the EM Data produced by the EM Analyst, EM workshop, WCPFC term, 
+
+Ring nets, A ring net is a net the form of which is intermediate hybrid between a purse seine and a lamapara net: like on a purse seine, rings at the lower edge of the net, allow using a purse line to close it under the fish (pursing) and like on a lampara net, there is a central bunt (with smaller mesh) in which the capture concentrates as the two wings are hauled together and the leadline being shorter than the floatline give some how a spoon-shape as in lamapara net, gear code lists, 
+
+Round weight, Weight of the whole fish before processing or removal of any part ([FAO fishery glossary](https://www.fao.org/faoterm/en/))
 
 S
-SART
-Semi-industrial fishery
-Semi-industrial fishing vessel
-Semi-industrial fishing vessel (IOTC)
-Sensors (EM)
-Set gillnets
-Set longline
-Shallow setting
-Shark lines
-Sinker
-Size frequency
-Small-scale fishery
-Sonar
-Species of special interest
-Standard length
-Stow nets
-Stratefied sampling
-Streamer line
-Subsistence fishery
-Sub-surface setting
-Sunrise
-Sunset
-Supply vessel
-Support vessel
-Support vessel (fishing support vessel)
-Surface fishery
-Systematic proportional sampling
+SART, a component of GMDSS: These devices may be either a radar-SART (Search and Rescue Transponder), or an AIS-SART (AIS Search and Rescue Transmitter) are used to locate survival craft or distressed vessels by creating a series of dots on a rescuing ship's 3 cm radar display, ROS observer manual, 
+
+Semi-industrial fishery, Fishery that (i) catches fish from medium- (and/or small-) sized vessels fitted out with mechanised methods of operating the fishing gear, (ii) process the catch in land bases, and (iii) distributed the fish and fish products around a limited area, and in exceptional cases only for export. These activities are aimed at the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and transport facilities ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)), 
+
+Semi-industrial fishing vessel, Medium-sized vessel, typically of 12 m in length but less than 24 m in length, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))
+
+Semi-industrial fishing vessel (IOTC), Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state ([IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07)), 
+
+Sensors (EM), EM systems may be equipped with a variety of integrated sensors that can provide additional information on fishing activity, trigger activation or adjustment of configurations of cameras, and identify points of interest to expedite EM video review. This may include “synthetic sensors” that use camera imagery used to capture imagery of fishing activities
+
+Set gillnets, A set gillnet is a long rectangular netting anchored or otherwise fixed to the seabed to catch fish when they come in contact with it. The set gillnet is held open vertically in the water by a headrope usually with floats, and by a footrope weighted with sinkers. Floatation and weight may be built into ropes, which are usually called floatrope and leadrope respectively. The net is kept in position by anchors or other weights, usually at both ends, and marked on the surface with buoys and/or highflyers, IOTC reference fish categories, 
+
+Set longline, Longlines consist of a main line, sometimes of considerable length, to which snoods with baited or unbaited hooks are fixed at regular intervals. The main line is set either horizontally on or near the bottom or less commonly near the surface, FAO terminology portal, 
+
+Shallow setting, The gear is deployed at a shallow depth,  gear configuration code lists, 
+
+**Shark lines**
+
+Sinker, A weight used to sink a fishing line ornet, FAO terminology portal, 
+
+Size frequency, The number of individuals in a catch or catch sample in each group of sizes (size intervals)
+
+Small-scale fishery, Fishery characterised in most cases by fishing vessels with non-mechanized propulsion systems (sails and oars) or low-horsepower outboard or inboard engines, use of passive fishing methods, manual operation of fishing gear (setting, shooting and hauling) and the absence of electronic fish-finding and navigational devices ([Tietze et al. 2000](https://www.fao.org/3/x8294e/X8294E00.htm)). From a socio-economic perspective, small-scale fisheries can be broadly categorised as a dynamic and evolving sector employing labour intensive harvesting, processing and distribution technologies to exploit marine and inland water fishery resources. The activities of this sub-sector, conducted full-time or part-time, or just seasonally, are often targeted on supplying fish and fishery products to local and domestic markets, and for subsistence consumption ([FAO 2004](https://www.fao.org/3/y5245e/y5245e00.htm))
+
+Sonar, An apparatus that uses sound waves to detect objects underwater by measuring or classifying the echoes received from them. An echo sounder is a sonar that transmits vertically. In practice, a sonar is an apparatus other than an echo sounder, i.e., a sonar transmits horizontally, FAO terminology portal, 
+
+Species of special interest, Species of Special Interest include all marine turtles, all marine mammals, all seabirds, shark species with a retention ban: whale sharks (Res 13/05), oceanic white tip sharks (Res 13/06) and thresher sharks (Res 12/09.); and billfish species included in Res 18/05: striped, black and blue marlin and Indo-Pacific sailfish, ROS observer manual, 
+
+Standard length, The length of fish measured in a straight line from the tip of the snout to the end of the caudal skeleton, FAO terminology portal, 
+
+Stow nets, A stow net is a stationary gear made from netting, usually in the form of a cone or pyramid. Stow nets can be fixed for a long time at the same place in rows. These nets are fixed by means of anchors or stakes, placed according to the direction and strength of the current. The mouths are sometimes held open by a frame, which may or may not be supported by a boat, gear code lists, 
+
+**Stratefied sampling**
+
+Streamer line, A line with streamers, towed as a scaring device over the area behind a vessel where sinking baited hooks are within range of diving seabirds, FAO terminology portal, 
+
+Subsistence fishery, Fish is caught in national jurisdiction areas (NJA) of the flag state, by vessels with a length overall of less than 15 m, mostly for consumption by fishers and their households. Part of the catch can be sold directly or on local markets, fishery types code list, 
+
+Sub-surface setting, The gear is deployed beyond the surface of the water, gear configuration code lists, 
+
+Sunrise, is the time in the morning when the first part of the sun appears above the horizon, ROS observer manual, 
+
+Sunset,  is the time in the evening when last part of the sun disappears below the horizon, ROS observer manual, 
+
+Supply vessel, Any vessel used, equipped to be used or intended to be used for purse seine fishing related activities, including any vessel, other than a craft, carried on board a fishing vessel that is not equipped with operational fishing gear and that facilitates, assists or prepares purse seine fishing activities including support vessels, IOTC-2025-CoC22-11_Add4-IOTC Glossary, 
+
+Support vessel, Non-fishing vessel supporting fishing operations and in particular assisting purse seine fishing vessels in the location of tuna schools and in the the deployment, monitoring and retrieving of buoys and drifting fish aggregating devices. Synonym to supply vessel, auxiliary vessel or tender vessel, IOTC glossary, 
+
+Support vessel (fishing support vessel), Fishing support vessels receive the catch of fishing vessels and supply vessels that bring fuel and provisions to fishing vessels, FAO terminology portal, 
+
+**Surface fishery**, All fisheries operated by vessels in the IOTC Record of Authorized Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet fisheries, handline and trolling vessels, IOTC fishery categories, 
+**Surface fishery**, Fishing activity to target surface-swimming species, 
+**Surface fishery (IOTC)**, Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet, handline, and trolling vessels (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and))
+
+**Systematic proportional sampling**
 
 T
-Target species
-Tonnage
-Tori line
-Track plotter
-Trawls
-Trolling line
+Target species, Those species that are primarily sought by the fishermen in a particular fishery. The subject of directed fishing effort in a fishery. There may be primary as well as secondary target species, FAO terminology portal, 
+
+Tonnage, A measure of the size or capacity of a ship, representing a dimensionless function of volume which is defined by internationally agreed formulae ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529))
+
+Tori line, Line with streamers, towed as a scaring device over the area behind a vessel where sinking baited hooks are within range of diving seabirds; attached to a tori pole (boom) at the vessel’s stern, IOTC glossary, 
+
+**Track plotter**
+
+Trawls, A trawl is a cone-shaped net (made from two, four or more panels) which is towed, by one or two boats, on the bottom or in midwater (pelagic). The cone-shaped body ends in a bag or coded. The horizontal opening of the gear while it is towed is maintained by beams, otter boards or by the distance between the two towing vessels (pair trawling). Floats and weights and/or hydrodynamic devices provide for the vertical opening. Two parallel trawls might be rigged between two otter boards (twin trawls). The mesh size in the codend or special designed devices is used to regulate the size and species to be captured, IOTC reporting guidelines glossary, 
+
+Trolling line, A line with one or more baited hooks (or lures) towed behind a boat, FAO terminology portal, 
 
 U
-Unfit for human consumption
-Uninterruptable power supply (UPS) (EM)
-Upper-jaw fork length
-User Interface (EM)
+
+Unfit for human consumption, Unfit for human consumption" are fish that: (1) is meshed or crushed in the purse seine; or (2) is damaged due to depredation; or (3) has died and spoiled in the net where a gear failure has prevented both the normal retrieval of the net and catch, and efforts to release the fish alive.AND  does not include fish that: (1) is considered undesirable in terms of size, marketability, or species (2) composition; or is spoied or contaminated as the result of an act of omission of the crew of the fishing vessel, ROS observer manual, 
+
+Uninterruptable power supply (UPS) (EM), Provides power to the system and enables controlled shutdown in the event of a power loss so as to preserve the security and integrity of data 1, EM workshop, WCPFC term only, 
+
+Upper-jaw fork length, Length of a fish measured as the straight distance between the tip of the upper jaw and the fork of the tail, 
+
+User Interface (EM), A display that communicates EM system status messages and provides views of onboard cameras, EM workshop, WCPFC term only, 
+
 
 V
-Vertical lines
-Vessel monitoring plan 
-Vessel monitoring system
-Vessel Operator
-VHF radios
-VMS 
+Vertical lines, A vertical line consists of a line to which is attached sinker and one or several hooks. In commercial fisheries the lines have usually several hooks. The additional hooks can be fixed on the mainline at short intervals with branch lines of a certain length. The line weighed down by sinkers can be set up to 200 m depth and is hauled with jerky movements, gear code lists, 
+
+Vessel monitoring plan, The vessel’s EM equipment characteristics and how the vessel’s EM equipment is installed and configured to monitor fishing activities and meet the EM Program and EM Data Standards as required by the IOTC Regional Electronic Monitoring, EM workshop, 
+
+Vessel monitoring system, A secure satellite-based monitoring system capable of transmitting the position and identity of vessels to the competent authorities, IOTC-2025-CoC22-11_Add4-IOTC Glossary, 
+
+Vessel Operator, Any person who is in charge of, directs or controls a vessel, charterer and master, EM workshop, WCFPC term only, 
+
+**VHF radios**
+
+VMS, A satellite-based monitoring system which at regular intervals provides data to fisheries authorities on the location, course and speed of vessels, FAO terminology portal, 
 
 W
 
 X
-XBT
+**XBT**
 
 Y
 
