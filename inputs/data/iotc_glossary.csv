@@ -1,7 +1,7 @@
 term,definition,reference,source,status,IOTC,ROS,EM,compliance,science,MSE
 
 
-**AIS**,"def"",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
+**AIS**,"def",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
 Analysis rate,"the percentage of EM records that have been analyzed to produce EM data", EM standards workshop (marua2025),source,status,IOTC,ROS,EM,compliance,science,MSE
 **Anchored fish aggregating device (AFAD)**,"a fish aggregating device tethered to the bottom of the ocean usually consisting of a buoy-and anchored to the bottom of the ocean",Resolution 23/01 https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads ,source,status,IOTC,ROS,EM,compliance,science,MSE
 **AFAD**,"device that is anchored or otherwise attached to the seabed and is used for attracting and concentrating fish for the purpose of capture by a fishing gear", FAO terminology portal,,,,,,,,,
@@ -17,4 +17,3 @@ Astronomical Twilight,"at dawn starts when the sun is 18 degrees below the horiz
 At-surface setting,"the gear is deployed at the surface of the water",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
 Authorized vessel,"any vessel that is: a) 24 meters in length overall or above; or b) in the case of vessels less than 24 meters in length overall, those operating outside areas under the national jurisdiction of the flag State, and is authorised by the flag State to fish for tuna and tuna-like species or to carry out fishing related activities in the IOTC Area of Competence.” ****2 This term will apply to “vessels” as defined in this glossary, including those carrying out fishing or related activities; this is consistent with Res. 15/04 (Record of Authorised Vessels). Res. 15/04 provides “in case of vessels less than 24 meters, those operating in waters outside the Economic Exclusive Zone of the Flag State”. This is problematic because (a) waters outside the EEZ could include territorial waters of the flag State, so “areas beyond national jurisdiction” is preferable because it reflects more accurately the intent of the members; and (b) the correct term is Exclusive Economic Zone. WPICMM01-03 noted that the it is the flag State that must give the authorisation and this is included",reference,source,status,IOTC,ROS,EM,compliance,science,MSE 
 Auto pilot,"the auto pilot is used to steer the vessel on a specified course. The auto pilot electronically reads the compass or direction from a GPS and controls the steering mechanism that controls the rudder",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
-
