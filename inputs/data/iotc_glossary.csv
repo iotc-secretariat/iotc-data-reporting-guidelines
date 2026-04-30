@@ -3,7 +3,7 @@ term,definition,reference,source,status,IOTC,ROS,EM,compliance,science,MSE
 
 **AIS**,"def",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
 Analysis rate,"the percentage of EM records that have been analyzed to produce EM data", EM standards workshop (marua2025),source,status,IOTC,ROS,EM,compliance,science,MSE
-**Anchored fish aggregating device (AFAD)**,"a fish aggregating device tethered to the bottom of the ocean usually consisting of a buoy-and anchored to the bottom of the ocean",Resolution 23/01,source,status,IOTC,ROS,EM,compliance,science,MSE
+**Anchored fish aggregating device (AFAD)**,"a fish aggregating device tethered to the bottom of the ocean usually consisting of a buoy-and anchored to the bottom of the ocean",Resolution 23 01,source,status,IOTC,ROS,EM,compliance,science,MSE
 **AFAD**,"device that is anchored or otherwise attached to the seabed and is used for attracting and concentrating fish for the purpose of capture by a fishing gear", FAO terminology portal,,,,,,,,,
 Ancillary logs,"data records from the EM system that are supplemental to the EM Records such as a record of changes in system configurations and settings and a summary of system health checks performed", EM standards workshop (marua2025) Workshop standards- WCPFC,source,status,IOTC,ROS,EM,compliance,science,MSE
 **Aquascope**,"def",reference,source,status,IOTC,ROS,EM,compliance,science,MSE
