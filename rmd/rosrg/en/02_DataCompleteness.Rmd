@@ -28,15 +28,16 @@ Biological set data (E-SET-CATCHES) are associated with a specific Catch ID and 
 Additional information is requested for  ([Species of Special Interest (SSIs)](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies)) in the E-SET-CATCHES-SPECIMEN-SSI section. 
 
 
+```{r PLStructure, fig.cap = "Structure of the Pole-and-Line reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/IOTC_ROS_PL.png")
+```
+
 
 Specific unique identifiers (Table 1) allow the association and connection of data across hierarchical levels (e.g. an individual specimen to be linked to a unique catch sample, for a specific set, on an observed trip).  
 
 
 Table 1. Identification and descriptions of each of the levels/resolutions of data required in the reporting forms. 
 
-
-
-### Data Types
 
 | Data Level | Identifier | Description |
 | :--------| :----: | :----------------------- | 
