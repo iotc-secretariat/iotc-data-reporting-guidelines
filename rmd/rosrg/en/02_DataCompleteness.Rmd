@@ -29,28 +29,26 @@ Additional information is requested for  ([Species of Special Interest (SSIs)](h
 
 
 
+Specific unique identifiers (Table 1) allow the association and connection of data across hierarchical levels (e.g. an individual specimen to be linked to a unique catch sample, for a specific set, on an observed trip).  
+
+
+Table 1. Identification and descriptions of each of the levels/resolutions of data required in the reporting forms. 
+
 
 
 ### Data Types
 
-| Data Type | Field Name | Input value |
+| Data Level | Identifier | Description |
 | :--------| :----: | :----------------------- | 
-| String | Full name | e.g., `John Doe` |
-| Integer | Reporting year | e.g., 1996 |
-| Alphanumeric | observed_trip_id | e.g., 2024-01-23/IOTC001/IOTC012345/PS |
-| ISO 6709 [+/-DDD.DDDD] | longitude | e.g., 55.5312 |
-| ISO 8601 [YYYY-MM-DDTHH:MMZ] | date_time_utc | e.g., 2025-09-15T12:00Z |
-| Float | loa_m | e.g., 84.1 |
-| Free entry | sample_destination | e.g., University of Tasmania | 
+| Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transhipment or partial/complete cessation of operations.  |
+| Set/Event | Set ID / Event ID | Within a trip, there are individual operations (sets) conducted. On pole-and-line vessels, there are individual events. |
+| Catch | Catch ID | A subset of the catch from a set that is sampled.   |
+| Specimen | Specimen ID | An individual for which data is recorded during fishing operations, either as a discard or sampled as part of the retained catch.  | 
 
-Particular attention shall be given to the formatting requirements for dates and times, geographic coordinates, and measurement units (e.g. weight and length), as specifies in the reporting forms and associated documentation and resources.  
+Are some requirements specific for some gears and species. Some examples are described below, nothing that those can vary in relation with the evolution of the CMMs implemented by the IOTC.   
 
 
-## Data Sources
-
-The IOTC Record of Authorized Vessels (RAV) is a reference for vessel data. The RAV can be used to collate information about a specific vessel’s characteristics, inter alia, IOTC ID, IRCS, length, and flag.  
-
-Code lists are linked to specific fields in the ROS reporting forms in the column heading in the reporting form. CPCs shall ensure that values reported for coded fields exactly match the corresponding codes provided in these lists. Descriptions of each of the code within each code list are part of the code list link.  
+ 
 
 
 
