@@ -1,2 +1,32 @@
-## Catches {#catches}
+## Data Types and Formatting
+
+Data requested include multiples formats, including string (text), integer, numeric, alphanumeric, and floating-point values. CPCs shall ensure that data entries conform to the specified data format for each field on the reporting form. Attention should be given to the format requirements for dates and times, geographic coordinates, and measurement units (e.g. weight and length), as specified in the reporting forms and associated documentation and resources. Reporting in improper formats inhibits data be inputted in the database. 
+
+| Data Level | Identifier | Description |
+| :--------| :----: | :----------------------- | 
+| String | Full name | e.g., John Doe  |
+| Integer | Reporting year | e.g., 1996   |
+| Alphanumeric  | observed_trip_id  | e.g., 2024-01-23/IOTC001/IOTC012345/PS   |
+| Float based on ISO 6709 [+/-DDD.DDDD] | longitude | e.g., 55.5312   |
+| String based on ISO 8601 [YYYY-MM-DDTHH:MMZ]  | date_time_utc  | e.g., 2025-09-15T12:00Z   |
+| Float | loa_m  | e.g., 84.1   |
+| Free entry  | Sample destination | e.g., University of Tasmania  |
+
+## Treatment of Missing, Zero, and Unknown Data 
+
+Data fields should only be filled out as a zero, only if data value is a true zero. If there is an absence of data, for example, for bycatch and discards, the data fields should be left blank. Unknown values are defined by codes in individual code-lists for specific data fields. 
+
+## Other submission requirements  
+
+([IOTC trip reports](https://iotc.org/sites/default/files/documents/ROS/Reporting/IOTC_Observer_Trip_Report_Template.docx)) must also be submitted to the IOTC Secretariat annually as part of the ROS requirements.  Trip reports provide a summary of the trip. Retained catch, discards data and interactions with turtles, seabirds and marine mammals should be provided by month and 1x1 grid.  
+
+When using EMS, CPCs are required to submit ([Vessel Monitoring Plans ](https://iotc.org/sites/default/files/documents/ROS/Reporting/Vessels_monitoring_plans.pdf)) and a fleet-level ROS data collection table. This table outlines data fields required under the ROS, their descriptions, reporting requirements, and the methods used for data collection (EMS, port sampling, and/or other) and reporting. These provisions ensure that all mandatory data fields required by ROS are consistently collected by EMS or in conjunction with other data sources (port sampling, etc.).  
+
+## Data Submission  
+
+The ROS IOTC forms allow the submission of multiple trips, by data source (Human observers or EMS) in one single file. Each CPC shall provide IOTC forms, and Observer trip reports no later than 30 June, following the IOTC reporting calendar.  ROS submissions must be done through e-MARIS ([e-MARIS ](https://emaris.iotc.org/)) platform. Focal points will receive e-Maris notifications for the specific ROS reporting requirements and reporting deadlines. The provisions of the ROS related resolutions define the reporting requirements, which are revised yearly by the WPICMM along with the assessment criteria.  
+
+
+
+
 
