@@ -1,2 +1,16 @@
-## Fishing Operations {#sets}
+## Resources for data reporting 
+
+The Secretariat has developed and published ([Form Descriptions](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets)) pages for each gear to better understand the contents and structure of the reporting form to improve consistency and accuracy in reporting. CPCs shall use the form descriptions as the primary reference when completing reporting forms and reviewing data entries prior to submission. 
+
+A data content section describes the structure of the reporting form. The rest of the document is a detailed outline of the form itself. For each field in the reporting form, the requirement level (mandatory or optional) is listed, as well as a description of the data field, the format in which data should be reported, and an example of a valid input value (Table2). 
+
+The IOTC ([Reference Data Catalogue](https://iotc.org/data/reference)) provides a comprehensive summary of all IOTC reference data code lists maintained by the IOTC Secretariat to support the standardisation, validation, and integration of fisheries statistical data. The code lists are organised by functional domain and displayed in a paginated, searchable table format, with a brief description and an option to export each list as a CSV file for offline use. CPCs shall ensure that values reported for coded fields exactly match the corresponding codes provided in these lists. Descriptions of each of the code within each code list are part of the data catalogue. The codes for the various fields may be updated due to new resolutions requirements, technological adaptations to fishing gear and other factors. If you cannot find a code in the list that matches your details, please contact the IOTC Secretariat to discuss the revision and inclusion of an appropriate code in the list. 
+
+The IOTC ([Record of Authorized Vessels](https://rav.iotc.org/)) (RAV) can be used for complementing vessel information requested as the vessel identification and the main vessel attributes. CPCs are responsible to keep the RAV up to date, so data remains accurate and current.  
+
+The list of accredited observers is published in e-Maris ([e-Maris](https://emaris.iotc.org/)), and CPCs are responsible for submitting requests to the Secretariat to register new observers or deregister those who are no longer active. The Secretariat will provide and IOTC ID for each observer in the list including EMS processors as “dry observers”. 
+
+The ROS glossary defines the terms associated with the ROS and its resources. The glossary harmonises definitions across FAO, IOTC, and the ROS. Where multiple definitions exist, the glossary specifies which definitions are to be referenced. 
+
+Those responsible for reporting ROS data shall liaise with National institutions involved in the ROS programs ensuring the data sources and collection procedures for the compilation before submitting to the Secretariat. 
 
