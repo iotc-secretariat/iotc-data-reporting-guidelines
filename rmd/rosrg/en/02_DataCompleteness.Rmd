@@ -28,8 +28,8 @@ Biological set data (E-SET-CATCHES) are associated with a specific Catch ID and 
 Additional information is requested for  ([Species of Special Interest (SSIs)](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies)) in the E-SET-CATCHES-SPECIMEN-SSI section. 
 
 
-```{r PLStructure, fig.cap = "Structure of the Pole-and-Line reporting forms. Each sheet contains a unique identifier (UI) to identify the trip. Subsetions, each containing individual fields are mapped. Mandatory subsections are shown in blue, while optional are shown in green.", fig.asp = 0.75, width = 8}
-knitr::include_graphics("../../inputs/charts/IOTC_ROS_PL.png")
+```{r PLStructure, fig.cap = "Figure 1. General structure and hierarchy of data in the IOTC ROS reporting forms.", fig.asp = 0.75, width = 8}
+knitr::include_graphics("../../inputs/charts/FormsStructure.png")
 ```
 
 
@@ -38,7 +38,6 @@ Specific unique identifiers (Table 1) allow the association and connection of da
 
 Table 1. Identification and descriptions of each of the levels/resolutions of data required in the reporting forms. 
 
-
 | Data Level | Identifier | Description |
 | :--------| :----: | :----------------------- | 
 | Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transhipment or partial/complete cessation of operations.  |
@@ -46,7 +45,7 @@ Table 1. Identification and descriptions of each of the levels/resolutions of da
 | Catch | Catch ID | A subset of the catch from a set that is sampled.   |
 | Specimen | Specimen ID | An individual for which data is recorded during fishing operations, either as a discard or sampled as part of the retained catch.  | 
 
-Are some requirements specific for some gears and species. Some examples are described below, nothing that those can vary in relation with the evolution of the CMMs implemented by the IOTC.   
+ 
 
 
  
