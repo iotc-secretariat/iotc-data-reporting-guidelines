@@ -1,16 +1,12 @@
-# Data Components {#Data}
+# Requirements by Gear {#Data}
+Some of the reporting requirements differ by gear, as specified by CMMs implemented by the IOTC. Some examples are described below, noting that requirements can vary in relation with the evolution of the CMMs.
 
-```{r child = "04_01_CommonComponents.Rmd"}
+```{r child = "04_03_LL.Rmd"}
 ```
 
 \pagebreak
 
 ```{r child = "04_02_PS.Rmd"}
-```
-
-\pagebreak
-
-```{r child = "04_03_LL.Rmd"}
 ```
 
 \pagebreak
