@@ -1,6 +1,3 @@
-# Requirements by Gear
-Some of the reporting requirements differ by gear, as specified by CMMs implemented by the IOTC. Some examples are described below, noting that requirements can vary in relation with the evolution of the CMMs.  
-
 ## Longline 
 
  Longline vessel south of 25 degrees South latitude, vessels must use at least two of the outlined mitigation devices or use a dehooker device as a standalone measure. E-SET-MITIGATION-MEASURES includes required fields for reporting the mitigation measures implemented. It is also mandatory to report if a bird scaring device was used during hauling operations.  
