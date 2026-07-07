@@ -42,7 +42,7 @@ Table 1. Identification and descriptions of each of the levels/resolutions of da
 | :--------| :----: | :----------------------- | 
 | Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transhipment or partial/complete cessation of operations.  |
 | Set/Event | Set ID / Event ID | Within a trip, there are individual operations (sets) conducted. On pole-and-line vessels, there are individual events. |
-| Catch | Catch ID | A subset of the catch from a set that is sampled.   |
+| Catch | Catch ID |  a species-specific part of the catch, within a set in a trip   |
 | Specimen | Specimen ID | An individual for which data is recorded during fishing operations, either as a discard or sampled as part of the retained catch.  | 
 
  
