@@ -39,11 +39,6 @@ knitr::opts_chunk$set(echo = FALSE,
 
 \pagebreak
 
-```{r child = "en/03_DataStandards.Rmd"}
-```
-
-\pagebreak
-
 ```{r child = "en/04_00_Data.Rmd"}
 ```
 
