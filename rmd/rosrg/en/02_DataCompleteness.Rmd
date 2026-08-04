@@ -1,5 +1,5 @@
 # Data submission with IOTC forms  
-The  ([IOTC ROS forms](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets)). are the mandatory format for reporting ROS data. Within the reporting forms, data fields are visually differentiated by colour to indicate the requirements condition of each field where fields in blue are mandatory for reporting, and green fields are optional. Completion of optional fields is encouraged when feasible. 
+The  ([IOTC ROS forms](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets)) are the mandatory format for reporting ROS data. Within the reporting forms, data fields are visually differentiated by colour to indicate the requirements condition of each field where fields in blue are mandatory for reporting, and green fields are optional. Completion of optional fields is encouraged when feasible. 
 
 ## IOTC ROS Data form structure  
 The ROS forms are XLSX workbooks comprising several sheets that varies according to the reporting main gear. The IOTC form organises data into hierarchical levels (Fig 1) with a general structure for all the gear that includes: 
@@ -40,7 +40,7 @@ Table 1. Identification and descriptions of each of the levels/resolutions of da
 
 | Data Level | Identifier | Description |
 | :--------| :----: | :----------------------- | 
-| Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transhipment or partial/complete cessation of operations.  |
+| Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transshipment or partial/complete cessation of operations.  |
 | Set/Event | Set ID / Event ID | Within a trip, there are individual operations (sets) conducted. On pole-and-line vessels, there are individual events. |
 | Catch | Catch ID |  a species-specific part of the catch, within a set in a trip   |
 | Specimen | Specimen ID | An individual for which data is recorded during fishing operations, either as a discard or sampled as part of the retained catch.  | 
