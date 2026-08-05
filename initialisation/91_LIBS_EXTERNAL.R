@@ -11,7 +11,6 @@ pacman::p_load(
   "bookdown", 
   "officer", 
   "officedown", 
-  "knitr", 
   "DT", 
   "dplyr"
   )

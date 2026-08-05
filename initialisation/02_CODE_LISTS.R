@@ -6,31 +6,31 @@ print("Extracting code lists...")
 ## Primary species ####
 
 ### English ####
-PRIMARY_SPECIES = query(C_MASTER, "SELECT CODE AS SPECIES_CODE, NAME_EN AS SPECIES, NAME_SCIENTIFIC AS SPECIES_SCIENTIFIC FROM refs_biological.V_SPECIES_IOTC WHERE IS_AGGREGATE = 0 ORDER BY 1")
+PRIMARY_SPECIES <- query(C_REFERENCE_DATA, "SELECT code AS SPECIES_CODE, name_en AS SPECIES, name_scientific AS SPECIES_SCIENTIFIC, species_category_code FROM refs_biology.v_species_iotc WHERE is_aggregate = 0 ORDER BY 1") %>% setNames(toupper(names(.)))
 
 PRIMARY_SPECIES[, SPECIES_CODE := factor(SPECIES_CODE)]
 
 ### French ####
-ESPECES_PRIMAIRES = query(C_MASTER, "SELECT CODE AS CODE_ESPECE, NAME_FR AS ESPECE, NAME_SCIENTIFIC AS ESPECE_SCIENTIFIQUE FROM refs_biological.V_SPECIES_IOTC WHERE IS_AGGREGATE = 0 ORDER BY 1")
+ESPECES_PRIMAIRES <- query(C_REFERENCE_DATA, "SELECT code AS CODE_ESPECE, name_fr AS ESPECE, name_scientific AS ESPECE_SCIENTIFIQUE, species_category_code FROM refs_biology.V_SPECIES_IOTC WHERE is_aggregate = 0 ORDER BY 1") %>% setNames(toupper(names(.)))
 
 ESPECES_PRIMAIRES[, CODE_ESPECE := factor(CODE_ESPECE)]
 
 ## Other species ####
 
 ### English ####
-OTHER_SPECIES = fread("../inputs/data/OTHER_SPECIES_GG_RES1501.csv")[, .(GEAR_GROUP, SPECIES_CODE, SPECIES = NAME_EN, SPECIES_SCIENTIFIC, IS_AGGREGATE)]
+OTHER_SPECIES <- fread("../inputs/data/OTHER_SPECIES_GG_RES1501.csv")[, .(GEAR_GROUP, SPECIES_CATEGORY_CODE, SPECIES_CODE, SPECIES = NAME_EN, SPECIES_SCIENTIFIC, IS_AGGREGATE)]
 
 ### French ####
-ESPECES_AUTRES = fread("../inputs/data/OTHER_SPECIES_GG_RES1501.csv", encoding = "UTF-8")[, .(GROUPE_ENGINS = GEAR_GROUP_FR, CODE_ESPECE = SPECIES_CODE, ESPECE = NAME_FR, ESPECE_SCIENTIFIQUE = SPECIES_SCIENTIFIC)]
+ESPECES_AUTRES <- fread("../inputs/data/OTHER_SPECIES_GG_RES1501.csv", encoding = "UTF-8")[, .(GROUPE_ENGINS = GEAR_GROUP_FR, CODE_CATEGORIE_ESPECE = SPECIES_CATEGORY_CODE, CODE_ESPECE = SPECIES_CODE, ESPECE = NAME_FR, ESPECE_SCIENTIFIQUE = SPECIES_SCIENTIFIC)]
 
 ## ETP species #####
 
 ### English ####
-ETP_SPECIES = query(C_MASTER, "SELECT SPECIES_CATEGORY_CODE, [ORDER], CODE AS SPECIES_CODE, NAME_EN AS SPECIES, NAME_SCIENTIFIC AS SPECIES_SCIENTIFIC FROM refs_biological.V_SPECIES WHERE (IS_AGGREGATE = 'false' AND ((CODE LIKE 'RHN') OR (SPECIES_CATEGORY_CODE IN ('TURTLES', 'CETACEANS', 'SEABIRDS'))))")
+ETP_SPECIES <- query(C_REFERENCE_DATA, "SELECT species_category_code, species_order AS order, code AS species_code, name_en AS species, name_scientific AS species_scientific FROM refs_biology.v_species WHERE (is_aggregate = 0 AND ((code LIKE 'RHN') OR (species_category_code IN ('TURTLES', 'CETACEANS', 'SEABIRDS'))))") %>% setNames(toupper(names(.)))
 
-ETP_SPECIES[, SPECIES_CATEGORY_CODE := str_to_title(tolower(SPECIES_CATEGORY_CODE))]
+#ETP_SPECIES[, species_category_code := str_to_title(tolower(SPECIES_CATEGORY_CODE))]
 
 ### French ####
-ESPECES_ETP = query(C_MASTER, "SELECT SPECIES_CATEGORY_CODE AS CODE_CATEGORIE_ESPECES, [ORDER] AS ORDRE, CODE AS CODE_ESPECE, NAME_FR AS ESPECE, NAME_SCIENTIFIC AS ESPECE_SCIENTIFIQUE FROM refs_biological.V_SPECIES WHERE (IS_AGGREGATE = 'false' AND ((CODE LIKE 'RHN') OR (SPECIES_CATEGORY_CODE IN ('TURTLES', 'CETACEANS', 'SEABIRDS'))))")
+ESPECES_ETP <- query(C_REFERENCE_DATA, "SELECT species_category_code, species_order AS ordre, code AS species_code, name_fr AS espece, name_scientific AS species_scientific FROM refs_biology.v_species WHERE (is_aggregate = 0 AND ((code LIKE 'RHN') OR (species_category_code IN ('TURTLES', 'CETACEANS', 'SEABIRDS'))))") %>% setNames(toupper(names(.)))
 
-ESPECES_ETP[, CODE_CATEGORIE_ESPECES := str_to_title(tolower(CODE_CATEGORIE_ESPECES))]
+#ESPECES_ETP[, CODE_CATEGORIE_ESPECES := str_to_title(tolower(CODE_CATEGORIE_ESPECES))]

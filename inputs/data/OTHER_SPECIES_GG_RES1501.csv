@@ -1,62 +1,62 @@
-GEAR_GROUP_CODE,GEAR_GROUP,GEAR_GROUP_FR,SPECIES_CODE,NAME_EN,NAME_FR,SPECIES_SCIENTIFIC,SPECIES_GROUP,IS_AGGREGATE
-GI,Gillnets,Filets maillants,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE
-GI,Gillnets,Filets maillants,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks,FALSE
-GI,Gillnets,Filets maillants,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE
-GI,Gillnets,Filets maillants,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks,FALSE
-GI,Gillnets,Filets maillants,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE
-GI,Gillnets,Filets maillants,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE
-GI,Gillnets,Filets maillants,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks,FALSE
-GI,Gillnets,Filets maillants,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE
-GI,Gillnets,Filets maillants,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE
-GI,Gillnets,Filets maillants,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE
-GI,Gillnets,Filets maillants,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks,FALSE
-GI,Gillnets,Filets maillants,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks,FALSE
-GI,Gillnets,Filets maillants,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks,FALSE
-GI,Gillnets,Filets maillants,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks,FALSE
-GI,Gillnets,Filets maillants,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species,FALSE
-HL,Hooks and lines,Lignes et hameçons,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE
-HL,Hooks and lines,Lignes et hameçons,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE
-HL,Hooks and lines,Lignes et hameçons,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays,TRUE
-LL,Longlines,Palangres,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE
-LL,Longlines,Palangres,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks,FALSE
-LL,Longlines,Palangres,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE
-LL,Longlines,Palangres,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks,FALSE
-LL,Longlines,Palangres,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks,FALSE
-LL,Longlines,Palangres,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE
-LL,Longlines,Palangres,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE
-LL,Longlines,Palangres,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks,FALSE
-LL,Longlines,Palangres,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE
-LL,Longlines,Palangres,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE
-LL,Longlines,Palangres,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE
-LL,Longlines,Palangres,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE
-LL,Longlines,Palangres,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE
-LL,Longlines,Palangres,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE
-LL,Longlines,Palangres,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE
-LL,Longlines,Palangres,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE
-LL,Longlines,Palangres,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE
-LL,Longlines,Palangres,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks,FALSE
-LL,Longlines,Palangres,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks,FALSE
-LL,Longlines,Palangres,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks,FALSE
-LL,Longlines,Palangres,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks,FALSE
-LL,Longlines,Palangres,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species,FALSE
-PL,Pole-and-lines,Cannes,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE
-PL,Pole-and-lines,Cannes,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE
-PL,Pole-and-lines,Cannes,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays,TRUE
-PS,Purse seines,Sennes,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE
-PS,Purse seines,Sennes,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE
-PS,Purse seines,Sennes,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks,FALSE
-PS,Purse seines,Sennes,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE
-PS,Purse seines,Sennes,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE
-PS,Purse seines,Sennes,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE
-PS,Purse seines,Sennes,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE
+GEAR_GROUP_CODE,GEAR_GROUP,GEAR_GROUP_FR,SPECIES_CODE,NAME_EN,NAME_FR,SPECIES_SCIENTIFIC,SPECIES_GROUP,IS_AGGREGATE,SPECIES_CATEGORY_CODE
+GI,Gillnets,Filets maillants,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE,OTHERS
+GI,Gillnets,Filets maillants,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE,RAYS
+GI,Gillnets,Filets maillants,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE,SHARKS
+GI,Gillnets,Filets maillants,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks,FALSE,SHARKS
+GI,Gillnets,Filets maillants,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species,FALSE,OTHERS
+HL,Hooks and lines,Lignes et hameçons,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE,OTHERS
+HL,Hooks and lines,Lignes et hameçons,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE,SHARKS
+HL,Hooks and lines,Lignes et hameçons,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays,TRUE,RAYS
+LL,Longlines,Palangres,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE,SHARKS
+LL,Longlines,Palangres,BSH,Blue shark,Peau bleue,Prionace glauca,Other sharks,FALSE,SHARKS
+LL,Longlines,Palangres,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE,SHARKS
+LL,Longlines,Palangres,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks,FALSE,SHARKS
+LL,Longlines,Palangres,LMA,Longfin mako,Petite taupe,Isurus paucus,Mako sharks,FALSE,SHARKS
+LL,Longlines,Palangres,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE,OTHERS
+LL,Longlines,Palangres,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE,OTHERS
+LL,Longlines,Palangres,POR,Porbeagle,Requin-taupe commun,Lamna nasus,Other sharks,FALSE,OTHERS
+LL,Longlines,Palangres,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE,SHARKS
+LL,Longlines,Palangres,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE,RAYS
+LL,Longlines,Palangres,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE,SHARKS
+LL,Longlines,Palangres,SMA,Shortfin mako,Taupe bleue,Isurus oxyrinchus,Mako sharks,FALSE,SHARKS
+LL,Longlines,Palangres,SPK,Great hammerhead,Grand requin marteau,Sphyrna mokarran,Hammerhead sharks,FALSE,SHARKS
+LL,Longlines,Palangres,SPL,Scalloped hammerhead,Requin-marteau halicorne,Sphyrna lewini,Hammerhead sharks,FALSE,SHARKS
+LL,Longlines,Palangres,SPZ,Smooth hammerhead,Requin-marteau commun,Sphyrna zygaena,Hammerhead sharks,FALSE,SHARKS
+LL,Longlines,Palangres,SSP,Shortbill spearfish,Makaire à rostre court,Tetrapturus angustirostris,Other bycatch species,FALSE,OTHERS
+PL,Pole-and-lines,Cannes,MZZ,Marine fishes nei,Poissons marins nca,Actinopterygii,Other bycatch species,TRUE,OTHERS
+PL,Pole-and-lines,Cannes,SKH,Other sharks,Requins divers nca,Selachimorpha (Pleurotremata),Other sharks,TRUE,SHARKS
+PL,Pole-and-lines,Cannes,SRX,Rays and stingrays and mantas nei,"Raies, pastenagues, mantes nca",Rajiformes,Other rays,TRUE,RAYS
+PS,Purse seines,Sennes,ALV,Thresher,Renard,Alopias vulpinus,Thresher sharks,FALSE,SHARKS
+PS,Purse seines,Sennes,BTH,Bigeye thresher,Renard à gros yeux,Alopias superciliosus,Thresher sharks,FALSE,SHARKS
+PS,Purse seines,Sennes,FAL,Silky shark,Requin soyeux,Carcharhinus falciformis,Other sharks,FALSE,SHARKS
+PS,Purse seines,Sennes,OCS,Oceanic whitetip shark,Requin océanique,Carcharhinus longimanus,Other sharks,FALSE,SHARKS
+PS,Purse seines,Sennes,PTH,Pelagic thresher,Renard pélagique,Alopias pelagicus,Thresher sharks,FALSE,SHARKS
+PS,Purse seines,Sennes,RMA,Alfred manta,,Mobula alfredi,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RMB,Giant manta,Mante géante,Mobula birostris,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RME,Longhorned mobula,,Mobula eregoodoo,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RMK,Shortfin devil ray,Petit diable,Mobula kuhlii,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RMM,Devil fish,,Mobula mobular,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RMO,Smoothtail mobula,Mante vampire,Mobula thurstoni,Mobulid rays,FALSE,RAYS
+PS,Purse seines,Sennes,RMT,Chilean devil ray,,Mobula tarapacana,Mobulid rays,FALSE,RAYS
