@@ -1,54 +1,46 @@
-# Data submission with IOTC forms  
-The  ([IOTC ROS forms](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets)) are the mandatory format for reporting ROS data. Within the reporting forms, data fields are visually differentiated by colour to indicate the requirements condition of each field where fields in blue are mandatory for reporting, and green fields are optional. Completion of optional fields is encouraged when feasible. 
+# Data Submission 
 
-## IOTC ROS Data form structure  
-The ROS forms are XLSX workbooks comprising several sheets that varies according to the reporting main gear. The IOTC form organises data into hierarchical levels (Fig 1) with a general structure for all the gear that includes: 
+The [IOTC ROS forms](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets) are the mandatory format for reporting ROS data to the IOTC Secretariat. Within the reporting forms, data fields are visually differentiated by colour according to their reporting requirement: fields shown in blue are mandatory, while fields shown in green are optional. Completion of optional fields is encouraged whenever the corresponding information is available.
 
-### METADATA
-The first worksheet in the ROS FORM (META) Include information of the data submission.  
+## IOTC ROS data form structure
 
-Then, the IOTC form organises data into hierarchical levels, whit the observed trip as the sampling unit.    
+The ROS forms are XLSX workbooks comprising several worksheets, which vary according to the main fishing gear reported. The forms organise data into a hierarchical structure (**Figure 1**), with the observed trip as the highest level. The general structure, common across gears, is described below.
 
-
-### OBSERVER INFORMATION (O-INFO) 
-Following the identification of an observed trip, data in this section includes the identification of the observer with their respective IOTC ID, as well the duration of their time onboard, and a summary of the activities conducted while on board.  
-
-
-### VESSEL INFORMATION (V-SHEETS) 
-Includes the identification of the vessel (V-INFO), the duration of the vessel’s trip (V-TRIP), which may differ from the observer trip and the main vessel attributes data (V-ATTRIBUTES) including information on onboard electronics, fish storage and preservation methods, and waste management capacity. 
-
-### GEAR INFORMATION (G-SHEETS) 
-This section focusses on the main fishing gear, including general and specific configurations and/or mitigation devices (e.g. tori lines on longline vessels, or mesh size data for the net aboard a purse seine vessel).  
-
-### OPERATIONS INFORMATION (E-SHEETS) 
-Operations are referring in the form as sets. Setting operations (E-SET sections) are first identified with start time and location for each observed set.  Gear data reported in this section identifies gear configuration used for each individual set.  The reporting form sections describing setting operations have multiple subsections. The data in these sections may also include reporting bait used, sighting cues, mitigation devices, and hauling operations depending on the gear.  
-
-Biological set data (E-SET-CATCHES) are associated with a specific Catch ID and summarizes the total weight of catch by species and fate. The following sheets go into more detailed information from the total catch to individual specimens. Within a specific Catch ID, each individual sampled is assigned a specimen ID (E-SET-CATCHES-SPECIMEN) allowing the reporting of length and weight measurements for the individuals, maturity, and sex. Other fields are also including information of the collection of biological samples that may be taken for scientific projects approved by the Scientific Committee.  
-
-Additional information is requested for  ([Species of Special Interest (SSIs)](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies)) in the E-SET-CATCHES-SPECIMEN-SSI section. 
-
-
-```{r PLStructure, fig.cap = "Figure 1. General structure and hierarchy of data in the IOTC ROS reporting forms.", fig.asp = 0.75, width = 8}
-knitr::include_graphics("../../inputs/charts/FormsStructure.png")
+```{r ROSdataHierarchy, fig.cap = "General structure and hierarchy of data in the IOTC ROS reporting forms", fig.align = "center"}
+knitr::include_graphics("../../inputs/charts/ROSFormHierarchy.png")
 ```
 
+### METADATA
 
-Specific unique identifiers (Table 1) allow the association and connection of data across hierarchical levels (e.g. an individual specimen to be linked to a unique catch sample, for a specific set, on an observed trip).  
+The first worksheet of each ROS form (`META`) contains information describing the data submission.
 
+### OBSERVER INFORMATION (O-INFO)
 
-Table 1. Identification and descriptions of each of the levels/resolutions of data required in the reporting forms. 
+This section contains information identifying the observer assigned to the observed trip, including their *IOTC ID*, the period spent onboard the vessel, and a summary of the activities conducted while onboard.
+
+### VESSEL INFORMATION (V-SHEETS)
+
+This section contains information identifying the vessel (`V-INFO`), the duration of the vessel trip (`V-TRIP`), which may differ from the duration of the observed trip, and the main vessel attributes (`V-ATTRIBUTES`). These include information on onboard electronic equipment, fish storage and preservation methods, and waste management capacity.
+
+### GEAR INFORMATION (G-SHEETS)
+
+This section contains information on the main fishing gear used by the vessel, including its general and gear-specific configurations and, where applicable, mitigation devices (e.g., tori lines on longline vessels or mesh size information for nets aboard purse seine vessels).
+
+### OPERATIONS INFORMATION (E-SHEETS)
+
+Fishing operations are generally represented in the forms as sets, or as events where applicable. Setting operations (`E-SET` sections) are identified by information including the start time and location of each observed set. Gear information reported at this level describes the gear configuration used for the individual set. Depending on the gear, the sections describing fishing operations may also include information on bait, sighting cues, mitigation devices, and hauling operations.
+
+Catch information (`E-SET-CATCHES`) is recorded for a specific *Catch ID* and summarises the catch by species and fate, including the corresponding total weight. Subsequent sections provide more detailed information on individual specimens associated with the catch. Each sampled individual within a specific *Catch ID* is assigned a *Specimen ID* (`E-SET-CATCHES-SPECIMEN`), allowing information such as length, weight, maturity and sex to be reported. Additional fields allow the reporting of biological samples collected for scientific projects approved by the Scientific Committee.
+
+Additional information is required for [Species of Special Interest (SSIs)](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies) in the `E-SET-CATCHES-SPECIMEN-SSI` section.
+
+Specific unique identifiers (**Table 1**) are used to associate records across the different levels of the hierarchy. For example, an individual specimen can be linked to a specific catch, fishing operation and observed trip.
+
+**Table 1**. Identifiers and descriptions of the different levels of data represented in the ROS reporting forms.
 
 | Data Level | Identifier | Description |
-| :--------| :----: | :----------------------- | 
-| Observed Trip | Observed Trip ID | An observed trip is defined as the period during which an observer is assigned on board a vessel during a specific fishing trip, operationally defined by the vessel’s activities between a departure from port and the next arrival involving a landing, transshipment or partial/complete cessation of operations.  |
-| Set/Event | Set ID / Event ID | Within a trip, there are individual operations (sets) conducted. On pole-and-line vessels, there are individual events. |
-| Catch | Catch ID |  a species-specific part of the catch, within a set in a trip   |
-| Specimen | Specimen ID | An individual for which data is recorded during fishing operations, either as a discard or sampled as part of the retained catch.  | 
-
- 
-
-
- 
-
-
-
+| :------------ | :--------------: | :------------------------------------ |
+| Observed Trip | Observed Trip ID | The period during which an observer is assigned onboard a vessel during a specific fishing trip. The vessel trip is operationally defined by the vessel's activities between departure from port and the next arrival involving a landing, transshipment, or partial or complete cessation of fishing operations |
+| Set/Event | Set ID / Event ID | An individual fishing operation conducted within a trip. Fishing operations are recorded as sets for most gears and as events for pole-and-line fisheries |
+| Catch | Catch ID | The species- and fate-specific component of the catch recorded within a set or event |
+| Specimen | Specimen ID | An individual organism for which specimen-level data are recorded during a fishing operation, either as a discard or as an individual sampled from the retained catch |

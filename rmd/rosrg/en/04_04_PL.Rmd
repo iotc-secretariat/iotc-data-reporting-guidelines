@@ -1,3 +1,3 @@
-# Pole and Line
+# Pole-and-Line
 
-Given the nature of the pole-and-line fishery, it is possible that fishing activities may not result in bycatch. In the events where there is no bycatch for specific fishing events, this should be noted in the comments on the META section of the reporting form. Should fishing events not be able to be identified, the absence of bycatch can be noted on a trip level. Any bycatch should be reported on the E-SET-CATCHES and E-SET-CATCHES-SPECIMEN sections.  
+Given the nature of the pole-and-line fishery, it is possible that fishing activities may not result in bycatch. In the events where there is no bycatch for specific fishing events, this should be noted in the comments on the `META` section of the reporting form. Should fishing events not be able to be identified, the absence of bycatch can be noted on a trip level. Any bycatch should be reported on the `E-SET-CATCHES` and `E-SET-CATCHES-SPECIMEN` sections.  

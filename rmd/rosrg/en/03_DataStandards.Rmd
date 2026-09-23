@@ -1,6 +1,6 @@
 # Treatment of Missing, Zero, and Unknown Data
 
-Missing data field should be left blank. Data fields should only be filled out as a zero, only if data value is a true zero.  Unknown values are defined by codes in individual code-lists for specific data fields. 
+Missing data field should be left blank. Data fields should only be filled out as a zero, only if data value is a true zero.  Unknown values are defined by codes in individual code-lists for specific data fields.
 
 # Data Submission Standards
 

@@ -1,4 +1,5 @@
 # Requirements by Gear {#Data}
+
 Some of the reporting requirements differ by gear, as specified by CMMs implemented by the IOTC. Some examples are described below, noting that requirements can vary in relation with the evolution of the CMMs.
 
 ```{r child = "04_03_LL.Rmd"}
