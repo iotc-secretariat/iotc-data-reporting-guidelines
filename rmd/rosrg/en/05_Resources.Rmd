@@ -1,0 +1,28 @@
+# Resources for Data Reporting
+
+The IOTC Secretariat maintains several resources to support CPCs in preparing and reviewing ROS data submissions.
+
+### Form Descriptions
+
+The [ROS Form Descriptions](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets) provide detailed documentation for each gear-specific reporting form. They describe the structure and contents of the forms and, for each data field, specify its reporting requirement, definition, expected format and an example of a valid value.
+
+CPCs should use the form descriptions as the primary technical reference when preparing ROS reporting forms and reviewing data prior to submission.
+
+### Reference Data Catalogue
+
+The IOTC [Reference Data Catalogue](https://iotc.org/data/reference) provides the code lists used to standardise coded values reported to the IOTC Secretariat. CPCs should ensure that values reported in coded fields correspond exactly to valid codes in the applicable code list.
+
+Code lists may be updated to reflect changes in IOTC reporting requirements, fishing practices, technologies or other data needs. Where no appropriate code is available, CPCs should contact the IOTC Secretariat rather than introducing an unregistered value.
+
+### Record of Authorised Vessels
+
+The IOTC [Record of Authorised Vessels (RAV)](https://rav.iotc.org/) provides reference information that may assist with the completion and verification of vessel identification and vessel attributes reported through the ROS forms. CPCs are responsible for maintaining the information concerning their authorised vessels in accordance with applicable IOTC requirements.
+
+### Observer Register
+
+The list of observers registered with the IOTC Secretariat is maintained through [e-MARIS](https://emaris.iotc.org/). CPCs are responsible for requesting the registration of new observers and updating the status of observers who are no longer active. The IOTC Secretariat assigns a unique *IOTC Observer ID* to each registered observer, including personnel responsible for reviewing EMS records where applicable.
+
+### ROS Glossary
+
+The ROS glossary provides definitions of terms used within the ROS reporting framework and associated resources. It supports consistent interpretation and use of terminology across the ROS data standards, reporting forms and related documentation.
+

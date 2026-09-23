@@ -1,5 +1,0 @@
-# Longline
-
-Longline vessel operating south of 25^°^ South latitude, must use at least two of the outlined mitigation devices or use a dehooker device as a standalone measure. `E-SET-MITIGATION-MEASURES` includes required fields for reporting the mitigation measures implemented. It is also mandatory to report if a bird scaring device was used during hauling operations.
-
-A specific CMM on the conservation on mako sharks indicates that any retention permissible shall be allowed only when the fish is dead at haulback, and the vessel has an observer or a functioning electronic monitoring system (EMS) on board to verify the condition of the sharks. This information shall be provided on the `E-SET-CATCHES` and `E-SET-CATCHES-SPECIMENS-SSI` section.

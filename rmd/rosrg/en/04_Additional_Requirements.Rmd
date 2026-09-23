@@ -1,0 +1,15 @@
+## Additional ROS Reporting Requirements
+
+### Observer Trip Reports
+
+In addition to the structured data submitted through the ROS reporting forms, observer trip reports shall be submitted to the IOTC Secretariat in accordance with the applicable ROS requirements.
+
+Observer trip reports provide summary information on the observed trip and complement the detailed information reported through the ROS forms. Where required, they also provide information on retained catches, discards and interactions with Species of Special Interest (SSIs), as well as narrative descriptions of relevant events or interactions observed during the trip.
+
+The IOTC [Observer Trip Report Template](https://iotc.org/sites/default/files/documents/ROS/Reporting/IOTC_Observer_Trip_Report_Template.docx) should be used for this purpose.
+
+### Electronic Monitoring Systems
+
+CPCs using Electronic Monitoring Systems (EMS) to meet ROS requirements shall provide the applicable [Vessel Monitoring Plans](https://iotc.org/sites/default/files/documents/ROS/Reporting/Vessels_monitoring_plans.pdf) and fleet-level ROS data collection information in accordance with the relevant IOTC electronic monitoring standards.
+
+The fleet-level data collection information identifies the ROS data fields to be collected and the method through which each field is obtained, including EMS, port sampling or other complementary data sources. This provides a documented mapping between ROS data requirements and the data collection methods implemented by the CPC.

@@ -1,0 +1,86 @@
+# Data Submission {#DataSubmissionSection}
+
+The [IOTC ROS forms](https://data.iotc.org/reference/latest/forms/#Regional_Observer_Scheme_Datasets) are the mandatory format for reporting ROS data to the IOTC Secretariat. Separate forms are available for each main fishing gear.
+
+## Submission Requirements and Deadlines
+
+In accordance with Resolution [25/06](https://doi.org/10.5281/zenodo.20484246), each observer shall provide a report to the flag CPC of the vessel within 30 days of completion of each trip. Where the vessel has fished within the exclusive economic zone (EEZ) of a coastal State, the part of the observer report covering fishing activities within that EEZ shall also be submitted to the coastal State.
+
+CPCs shall submit each observer report and the corresponding observer data for the previous year to the IOTC Secretariat no later than **30 June**, using the applicable IOTC ROS reporting templates and standards. For longline fisheries, **provisional data shall be submitted by 30 June**, and **final data no later than 30 December**.
+
+Where EMS are used to meet ROS requirements, data generated through the review of electronic monitoring records shall be reported to the IOTC Secretariat using the applicable ROS reporting forms and in accordance with the relevant IOTC electronic monitoring and [ROS data standards](https://iotc.org/sites/default/files/documents/ROS/Standards/Data_standard_ROS_fields.xlsx).
+
+## IOTC ROS Data Form Structure
+
+The ROS forms are XLSX workbooks comprising several worksheets, which vary according to the main fishing gear reported. Observer trip report templates are also available from the IOTC website.
+
+Within each form, worksheets, subsections and data fields are colour-coded according to their reporting requirements. At the field level, fields shown in blue are mandatory, while fields shown in green are optional. At the worksheet or subsection level, blue indicates that at least one field is mandatory, while green indicates that all fields are optional. Completion of optional fields is encouraged whenever the corresponding information is available.
+
+The forms organise data into a common hierarchical structure (**Figure 1**), progressing from information on the observed trip, observer and vessel, through fishing gear and individual fishing operations, to catch and specimen-level information. The observed trip represents the highest level of this hierarchy. Mandatory unique identifiers are used to establish relationships between the different levels and must be reported consistently across the relevant worksheets.
+
+```{r ROSdataHierarchy, fig.cap = "General structure and hierarchy of data in the IOTC ROS reporting forms", fig.align = "center"}
+knitr::include_graphics("../../inputs/charts/ROSFormHierarchy.png")
+```
+
+### Metadata (META)
+
+The first worksheet of each ROS form (`META`) contains information describing the data submission.
+
+### Observer Information (O-INFO)
+
+This section contains information identifying the observer assigned to the observed trip, including their *IOTC ID*, the period spent onboard the vessel, and a summary of the activities conducted while onboard.
+
+### Vessel Information (V-SHEETS)
+
+This section contains information identifying the vessel (`V-INFO`), the vessel trip (`V-TRIP`), and the main vessel attributes (`V-ATTRIBUTES`). A vessel trip is operationally defined as the period between a vessel's departure from port and its next arrival involving a landing, transshipment, or partial or complete cessation of fishing operations. The vessel trip may differ in duration from the observed trip, as the observer may be onboard for only part of the vessel trip. Vessel attributes include information on onboard electronic equipment, fish storage and preservation methods, and waste management capacity.
+
+### Gear Information (G-SHEETS)
+
+This section contains information on the main fishing gear used by the vessel, including its general and gear-specific configurations and, where applicable, mitigation devices, e.g., tori lines on longline vessels or mesh size information for nets aboard purse seine vessels.
+
+### Operations Information (E-SHEETS)
+
+Fishing operations are generally represented in the forms as sets, or as events where applicable. Setting operations (`E-SET` sections) are identified by information including the start time and location of each observed set. Gear information reported at this level describes the gear configuration used for the individual set. Depending on the gear, the sections describing fishing operations may also include information on bait, sighting cues, mitigation devices, and hauling operations.
+
+Catch information (`E-SET-CATCHES`) is recorded for a specific *Catch ID* and summarises the catch by species and fate, including the corresponding total weight. Subsequent sections provide more detailed information on individual specimens associated with the catch. Each sampled individual within a specific *Catch ID* is assigned a *Specimen ID* (`E-SET-CATCHES-SPECIMEN`), allowing information such as length, weight, maturity and sex to be reported. Additional fields allow the reporting of biological samples collected for scientific projects approved by the Scientific Committee.
+
+Additional information is required for [Species of Special Interest (SSIs)](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies) in the `E-SET-CATCHES-SPECIMEN-SSI` section.
+
+Specific unique identifiers (**Table 1**) are used to associate records across the different levels of the hierarchy. For example, an individual specimen can be linked to a specific catch, fishing operation, and observed trip.
+
+**Table 1**. Identifiers and descriptions of the different levels of data represented in the ROS reporting forms.
+
+| Data Level | Identifier | Description |
+| :------------ | :--------------: | :------------------------------------ |
+| Observed Trip | Observed Trip ID | The period during which an observer is assigned onboard a vessel to conduct observation activities during all or part of a vessel trip |
+| Set/Event | Set ID / Event ID | An individual fishing operation conducted within an observed trip. Fishing operations are recorded as sets for most gears and as events for pole-and-line fisheries |
+| Catch | Catch ID | The species- and fate-specific component of the catch recorded within a set or even |
+| Specimen | Specimen ID | An individual organism for which specimen-level data are recorded during a fishing operation, either as a discard or as an individual sampled from the retained catch |
+
+## Data Types and Formatting
+
+The ROS reporting forms include fields with different data types and formats, including text, integer, numeric and alphanumeric values. Data entries must conform to the format specified for each field in the reporting form and associated form descriptions.
+
+Particular attention should be given to standardised formats for dates and times, geographic coordinates and measurement units, including weights and lengths. Values that do not conform to the specified formats may prevent the data from being successfully validated and imported into the IOTC database.
+
+Examples of commonly used data formats are provided below.
+
+| Data type or format | Example field | Example value |
+| :--------| :----: | :----------------------- | 
+| String | Full name | e.g., `John Doe`  |
+| Integer | Reporting year | e.g., `1996` |
+| Alphanumeric | `observed_trip_id` | e.g., `2024-01-23/IOTC001/IOTC012345/PS` |
+| Decimal degrees, based on ISO 6709 [+/-DDD.DDDD] | `longitude` | e.g., `55.5312` |
+| Date and time in UTC, based on ISO 8601 | `date_time_utc`  | e.g., `2025-09-15T12:00Z` |
+| Numeric | `loa_m` | e.g., `84.1` |
+| Free text | Sample destination | e.g., `University of Tasmania` |
+
+## Treatment of Missing, Zero, and Unknown Data
+
+Missing data fields should be left blank. A value of zero (`0`) should only be reported when the observed or measured value is known to be zero and should not be used to represent missing or unknown information. Where an unknown value is permitted for a categorical field, the appropriate code for unknown data, as defined in the corresponding IOTC code list, should be used.
+
+## Submission through e-MARIS
+
+ROS reporting forms may contain data for multiple observed trips from the same data source (onboard observers or EMS) within a single submission file.
+
+ROS data and associated observer trip reports shall be submitted to the IOTC Secretariat through [e-MARIS](https://emaris.iotc.org/). CPC focal points receive notifications through e-MARIS concerning applicable ROS reporting requirements and submission deadlines.

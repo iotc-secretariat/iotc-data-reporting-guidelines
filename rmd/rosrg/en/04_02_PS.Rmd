@@ -1,5 +1,0 @@
-# Purse Seine 
-
-Purse seine fisheries data are to be stratified by fishing mode (e.g., free-swimming schools or schools associated with floating objects). The `E-SET` section of the reporting form includes data fields to reporting the sighting cues for the set, school types, and the detection method. Activities related to the use of Drifting Fish Aggregating Devices (DFADs) are an integral part of purse seine operations. DFAD data include the DFAD identifier, type, and design characteristics and can be reported on the `E-SET` sheet.
-
-CMM for the conservation of cetaceans states that the assessment of the life status of the individual upon release must be reported, included whether the cetacean was released alive but then died. These data fields can be found in the `E-SET-CATCHES-SPECIMENS-SSI` section. A description of the interaction is to be included in the trip report including the location, how and why it occurred, the steps taken to release the individual, and an assessment of the condition of the individual.

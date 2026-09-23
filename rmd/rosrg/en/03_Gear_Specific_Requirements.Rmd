@@ -1,0 +1,31 @@
+# Requirements by Gear
+
+While the ROS reporting forms follow a common structure, some data requirements and form sections are specific to particular fishing gears. These differences reflect the characteristics of each fishery as well as reporting requirements established through applicable IOTC CMMs.
+
+The following sections highlight the main gear-specific reporting requirements and indicate where the corresponding information should be reported in the ROS forms. As CMMs may be amended or superseded, CPCs should refer to the applicable CMMs for the current reporting obligations.
+
+## Longline {#LonglineSpecificDataRequirements}
+
+For longline fisheries, the ROS form includes gear-specific information on the configuration and operation of the longline gear, including the use of applicable mitigation measures. Mitigation measures implemented during setting operations are reported in `E-SET-MITIGATION-MEASURES`, while the use of bird-scaring devices during hauling operations is also reported where applicable.
+
+Additional information may be required for species subject to specific CMMs. For example, where mako sharks are retained under conditions requiring verification of their status at haulback by an onboard observer or functioning EMS, the relevant catch and specimen-level information should be reported in `E-SET-CATCHES` and `E-SET-CATCHES-SPECIMEN-SSI`.
+
+## Purse Seine {#PurseSeineSpecificDataRequirements} 
+
+For purse seine fisheries, fishing operations are characterised according to fishing mode, including sets on free-swimming schools and schools associated with floating objects. The `E-SET` section includes fields for reporting information such as school type, sighting cues, and detection methods.
+
+Information on activities involving Drifting Fish Aggregating Devices (DFADs) is also reported where applicable. This may include the DFAD identifier, type and design characteristics, together with information on the associated fishing operation.
+
+For interactions with cetaceans and other applicable [SSIs](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies), specimen-level information on the interaction and the condition of the individual, including its status upon release, is reported in `E-SET-CATCHES-SPECIMEN-SSI`. Where required, additional details of the interaction should be provided in the observer trip report, including the location and circumstances of the interaction, actions taken to release the individual and its condition upon release.
+
+## Pole-and-Line {#PoleAndLineSpecificDataRequirements}
+
+Pole-and-line fishing operations are reported as individual fishing events. Where no bycatch occurs during an observed fishing event, this may be recorded in the comments field of the `META` worksheet. Where individual fishing events cannot be identified, the absence of bycatch may instead be recorded at the observed-trip level.
+
+Where bycatch occurs, catch information should be reported in `E-SET-CATCHES`, with specimen-level information reported in `E-SET-CATCHES-SPECIMEN`, as applicable.
+
+## Gillnet {#GillnetSpecificDataRequirements}
+
+For gillnet fisheries, interactions with cetaceans and other applicable [SSIs](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies) should be reported at the relevant catch and specimen levels. The species and number of individuals involved are reported in `E-SET-CATCHES`, while additional information on individual condition and the nature of the gear interaction is reported in `E-SET-CATCHES-SPECIMEN-SSI`.
+
+Where required, the observer trip report should provide additional information on the interaction, including its location and circumstances, actions taken to release the individual and its condition upon release.
