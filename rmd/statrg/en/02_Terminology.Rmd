@@ -18,7 +18,7 @@ The 16 species and stocks managed by the IOTC – hereinafter referred as the IO
 dtfunction(PRIMARY_SPECIES)
 ```
 
-In addition, the IOTC identified a list of species, mostly composed of commonly caught [elasmobranch](#elasmobranchs) species, for which data reporting obligations apply as for the [IOTC species](#iotcSpecies). The Annex 2 of Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) provides this list of species and species groups by gear group and was further complemented for all manta rays through Res. [19/03](https://iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence).
+In addition, the IOTC identified a list of species, mostly composed of commonly caught [elasmobranch](#elasmobranchs) species, for which data reporting obligations apply as for the [IOTC species](#iotcSpecies). The Annex 2 of Res. [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence) provides this list of species and species groups by gear group and was further complemented for all manta rays through Res. [26/03](https://iotc.org/cmm/resolution-2603-conservation-mobulid-rays-caught-association-fisheries-managed-iotc).
 
 ```{r OtherSpecies, fig.cap = ""}
 dtfunction(OTHER_SPECIES)

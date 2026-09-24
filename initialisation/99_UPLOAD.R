@@ -84,7 +84,7 @@ initialize_folder = function(version, folder) {
   }
 }
 
-initialize_version = function(version) {
+initialize_version <- function(version) {
   check_connection()
   
   folder = full_folder(version)
@@ -98,8 +98,8 @@ initialize_version = function(version) {
   }
 }
 
-upload_docs = function(version, target_subfolder = "guidelines") {
-  remote_folder = paste0(full_folder(version), "/", target_subfolder)
+upload_stats_docs <- function(version, target_subfolder = "guidelines/stats") {
+  remote_folder <- paste0(full_folder(version), "/", target_subfolder)
   
   for(doc in list.files("./outputs/statrg/html/", pattern = "*.html")) {
     print(paste0("Uploading  document ", doc, " in ", remote_folder, "..."))
@@ -111,9 +111,23 @@ upload_docs = function(version, target_subfolder = "guidelines") {
   }
 }
 
-disseminate = function(version) {
-  upload_docs(version)
+upload_ros_docs <- function(version, target_subfolder = "guidelines/ros") {
+  remote_folder <- paste0(full_folder(version), "/", target_subfolder)
+  
+  for(doc in list.files("./outputs/rosrg/html/", pattern = "*.html")) {
+    print(paste0("Uploading  document ", doc, " in ", remote_folder, "..."))
+    
+    CURL_FTPu(
+      filename   = paste0("./outputs/rosrg/html/", doc), 
+      target_url = paste0(ftp_url(remote_folder), "/", doc) 
+    )
+  }
 }
 
-version = "1.0.0"
-disseminate(version) 
+disseminate <- function(version) {
+  upload_stats_docs(version)
+  upload_ros_docs(version)
+}
+
+guidelines_version <- "1.0.0"
+disseminate(guidelines_version) 

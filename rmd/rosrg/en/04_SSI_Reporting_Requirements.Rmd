@@ -1,0 +1,37 @@
+# Species of Special Interest Reporting Requirements {#SSIRequirements}
+
+The most commonly caught elasmobranch and endangered, threatened and protected (ETP) species were designated as Species of Special Interest ([SSIs](https://data.iotc.org/reference/latest/domain/biology/#SSIspecies)) by the IOTC Scientific Committee at its 21^st^ Session in 2018 to enhance the voluntary collection of information on the post-release mortality of discards ([IOTC 2021](https://iotc.org/documents/SC/21/Report_E)).
+
+The ROS reporting forms include additional fields for recording interactions with SSIs. Applicable IOTC CMMs establish specific data collection and reporting requirements for some species and species groups, which may also vary according to fishing gear.
+
+When an SSI is caught or interacts with the fishing gear, information is reported through the relevant catch and specimen sections of the ROS form, with additional information recorded in `E-SET-CATCHES-SPECIMEN-SSI`. Depending on the applicable CMM and the nature of the interaction, this may include information on the condition or life status of the individual, its fate, the nature of the interaction, and actions taken to release the animal. Additional requirements for specific species groups are described below.
+
+Reporting requirements for individual species or species groups may evolve following changes to IOTC CMMs. CPCs should therefore refer to the current IOTC reporting requirements and the latest ROS forms and associated documentation.
+
+## Sharks
+
+Interactions with sharks shall be reported through the applicable catch and specimen sections of the ROS form, including information on species, catch, fate and condition, where applicable. Information on discards should include their status as dead or alive.
+
+Additional information is required for some species. For whale shark interactions, information includes the number of individuals, circumstances and location of the interaction, actions taken to ensure safe release, and life status on release. For shortfin and longfin mako sharks, all catches, including dead discards and live releases, shall be recorded. Where a mako shark is retained, its condition at haulback must be verified by an onboard observer or functioning EMS.
+
+## Marine Turtles
+
+All interactions with marine turtles shall be recorded and reported through the applicable catch and specimen sections of the ROS form. Where possible, information should include the species, location of capture, condition and fate of the individual, actions taken onboard, and location of release.
+
+## Cetaceans
+
+Interactions with cetaceans shall be reported, including the species where known, number of individuals, circumstances and location of the interaction, gear type, actions taken to ensure safe release, and life status of the animal on release.
+
+The life status should also indicate, where known, whether an individual released alive subsequently died.
+
+## Seabirds
+
+Incidental catches of seabirds shall be recorded by species, where possible. Scientific observers should also photograph captured seabirds, where practicable, to support confirmation of species identification.
+
+Information on mitigation measures used during fishing operations is reported through the applicable mitigation fields of the ROS form.
+
+## Mobulid rays
+
+Interactions with mobulid rays shall be reported through the applicable catch and specimen sections of the ROS form, including the number of individuals discarded and released.
+
+Where biological samples are collected from mobulid rays that are dead at haulback, such sampling is permitted only as part of a research project approved by the IOTC Scientific Committee.

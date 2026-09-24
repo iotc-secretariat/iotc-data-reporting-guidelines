@@ -32,14 +32,17 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r child = "en/01_Purposes.Rmd"}
 ```
 
-```{r child = "en/02_Submission.Rmd"}
+```{r child = "en/02_Reporting.Rmd"}
 ```
 
-```{r child = "en/03_Gear_Specific_Requirements.Rmd"}
+```{r child = "en/03_Gear_Specific_Data_Requirements.Rmd"}
 ```
 
-```{r child = "en/04_Additional_Requirements.Rmd"}
+```{r child = "en/04_SSI_Reporting_Requirements.Rmd"}
 ```
 
-```{r child = "en/05_Resources.Rmd"}
+```{r child = "en/05_Additional_Reporting_Requirements.Rmd"}
+```
+
+```{r child = "en/06_Reporting_Resources.Rmd"}
 ```

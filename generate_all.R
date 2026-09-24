@@ -22,9 +22,6 @@ render("rmd/statrg/00_DOCX_HTML.Rmd",
 #        output_file   = paste0("index_fr.html")
 # )
 
-# Upload files on the server
-source("./initialisation/99_UPLOAD.R")
-
 # ## DOCX ####
 # OUTPUT_TABLE_FORMAT = "FT"
 # 
@@ -48,3 +45,5 @@ render("rmd/rosrg/00_DOCX_HTML.Rmd",
        output_file   = paste0("index.html")
 )
 
+# Upload files on the server
+source("./initialisation/99_UPLOAD.R")

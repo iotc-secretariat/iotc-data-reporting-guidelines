@@ -1,0 +1,33 @@
+# Gear-specific Reporting Requirements {#GearRequirements}
+
+While the ROS reporting forms share a common structure, some sections and data fields are specific to the characteristics and fishing operations of each gear. These include information on gear configuration and equipment, as well as operational information required to characterise fishing activities and effort. 
+
+Some forms also contain additional gear-specific worksheets. For purse seine and pole-and-line fisheries, the `D-ACTIVITIES` worksheet records activities during the observed trip, including their date and time, geographic position and activity type.
+
+The main gear-specific features are summarised below. Detailed definitions, reporting requirements, formats and valid values for individual fields are provided in the corresponding ROS Form Descriptions.
+
+## Longline {#LonglineSpecificDataRequirements}
+
+Longline-specific information includes the configuration of the mainline and branchlines, including leader materials, hooks and associated equipment, as well as mitigation devices at the vessel level. At the fishing-operation level, additional information is reported on hooks, bait, attached lights and mitigation measures used during individual sets. The form also provides for information on hauling operations and depredation events recorded during hauling.
+
+Detailed field definitions and formats are provided in the [Longline ROS Form Description](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-LL.html).
+
+## Purse Seine {#PurseSeineSpecificDataRequirements}
+
+Purse seine-specific information includes characteristics of the purse seine net and associated equipment, including mesh sizes and brailing capacity. At the fishing-operation level, the form records information used to characterise individual sets, including school type, sighting cues and detection methods, as well as information on brailing operations. For sets associated with Fish Aggregating Devices (FADs), additional information on FAD characteristics and design is reported where applicable.
+
+Detailed field definitions and formats are provided in the [Purse seine ROS Form Description](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-PS.html).
+
+## Pole-and-Line {#PoleAndLineSpecificDataRequirements}
+
+Pole-and-line-specific information includes vessel equipment and gear characteristics such as live-bait storage capacity, poles and hooks. Tuna fishing activities are reported as individual fishing events rather than sets, with information on school detection, target species, fishing effort and bait use. The form also includes dedicated sections for bait-fishing operations, including the fishing gear used and associated bait catches.
+
+Detailed field definitions and formats are provided in the [Pole-and-Line ROS Form Description](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-PL.html).
+
+## Gillnet {#GillnetSpecificDataRequirements}
+
+Gillnet-specific information includes the configuration and characteristics of the nets, including dimensions, mesh sizes and hanging ratios, as well as information on sinkers and associated equipment. At the fishing-operation level, the form records the characteristics of individual sets, including the gear configuration and mitigation measures used, together with information on hauling operations.
+
+Detailed field definitions and formats are provided in the [Gillnet ROS Form Description](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-GN.html).
+
+
