@@ -28,25 +28,25 @@ Estimates of the numbers of fishery vessels active during the year, stratified b
 
 ##### Main Elements
 
-- [Vessel types](../domain/fisheries/#vesselTypes)
-- [Vessel architectures](../domain/fisheries/#vesselArchitectures)
-- [Mechanisation types](../domain/fisheries/#mechanisationTypes)
-- [Vessel size class types](..domain/fisheries/#vesselSizeTypes)
-- [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
-- [Fish storage types](../domain/fisheries/#fishStorageTypes)
+- [Vessel types](../../domain/fisheries/index.html#vesselTypes)
+- [Vessel architectures](../../domain/fisheries/index.html#vesselArchitectures)
+- [Mechanisation types](../../domain/fisheries/index.html#mechanisationTypes)
+- [Vessel size class types](../../domain/fisheries/index.html#vesselSizeTypes)
+- [Fish preservation methods](../../domain/fisheries/index.html#fishPreservationMethods)
+- [Fish storage types](../../domain/fisheries/index.html#fishStorageTypes)
 
 ##### Original Data
 
-- [Types of data](../domain/data/#types)
-- [Data sources](../domain/data/#sourcesFC)
-- [Data processings ](../domain/data/#processingsFC)
+- [Types of data](../../domain/data/index.html#types)
+- [Data sources](../../domain/data/index.html#sourcesFC)
+- [Data processings ](../../domain/data/index.html#processingsFC)
 
 ##### Source Coverage
 
-- [Coverage types](../domain/data/#coverageTypes)
+- [Coverage types](../../domain/data/index.html#coverageTypes)
 
 #### Reporting Form Details
 
-Form [2FC](../forms/#Form_2FC)
+Form [2FC](../../forms/index.html#Form_2FC)
 
 <hr style="border:1.5px solid black">

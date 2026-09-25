@@ -38,23 +38,23 @@ Estimates of retained catches in live weight equivalent (metric tonnes; t) for t
 ##### Main Elements
 
 - Quarter
-- [Fisheries](../domain/fisheries/#fisheries)
-- [IOTC main areas](../domain/admin/#IOTCareasMain)
-- [Reasons for retaining](../domain/biology/#retainReasons)
-- [Species](../domain/biology/#All_Species)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [IOTC main areas](../../domain/admin/index.html#IOTCareasMain)
+- [Reasons for retaining](../../domain/biology/index.html#retainReasons)
+- [Species](../../domain/biology/index.html#All_Species)
 
 ##### Original Data
 
-- [Types of data](../domain/data/#types)
-- [Data sources](../domain/data/#sourcesRC)
-- [Data processings](../domain/data/#processingsRC)
+- [Types of data](../../domain/data/index.html#types)
+- [Data sources](../../domain/data/index.html#sourcesRC)
+- [Data processings](../../domain/data/index.html#processingsRC)
 
 ##### Source Coverage
 
-- [Coverage types](../domain/data/#coverageTypes)
+- [Coverage types](../../domain/data/index.html#coverageTypes)
 
 #### Reporting Form Details
 
-Form [1RC](../forms/#Form_1RC)
+Form [1RC](../../forms/index.html#Form_1RC)
 
 <hr style="border:1.5px solid black">

@@ -32,9 +32,9 @@ Geographic position and description of each fishing activity conducted around ea
 - Day of month
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
-- [Fisheries](../domain/fisheries/#fisheries)
-- [AFOB types](../domain/fisheries/#FOBtypes)
-- [AFOB activity types](../domain/fisheries/#FOBactivityTypes)
+- [Fisheries](../domain/fisheries/index.html#fisheries)
+- [AFOB types](../domain/fisheries/index.html#FOBtypes)
+- [AFOB activity types](../domain/fisheries/index.html#FOBactivityTypes)
 
 ##### Catch Main Stratum
 
@@ -42,17 +42,17 @@ Geographic position and description of each fishing activity conducted around ea
 - Day of month
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
-- [Fisheries](../domain/fisheries/#fisheries)
-- [Species](../domain/biology/#allSpecies)
-- [Types of fate](../domain/biology/#typesOfFate)
-- [Catch units](../domain/fisheries/#catchUnits)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [Species](../../domain/biology/index.html#allSpecies)
+- [Types of fate](../../domain/biology/index.html#typesOfFate)
+- [Catch units](../../domain/fisheries/index.html#catchUnits)
 
 ##### Source Coverage
 
-- [Raisings](../domain/data/#raisings)
+- [Raisings](../../domain/data/index.html#raisings)
 
 #### Reporting Form Details
 
-Form [3AA](../forms/#Form_3AA)
+Form [3AA](../../forms/index.html#Form_3AA)
 
 <hr style="border:1.5px solid black">

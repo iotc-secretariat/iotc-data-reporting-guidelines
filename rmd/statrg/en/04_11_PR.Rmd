@@ -34,14 +34,14 @@ currency,
 - Currency
 - Destination
 - Market
-- [IOTC Species](../domain/biology/#IOTC_Species)
-- [Fish processing types](../domain/fisheries/#fishProcessingTypes)
-- [Fish preservation methods](../domain/fisheries/#fishPreservationMethods)
+- [IOTC Species](../../domain/biology/index.html#IOTC_Species)
+- [Fish processing types](../../domain/fisheries/index.html#fishProcessingTypes)
+- [Fish preservation methods](../../domain/fisheries/index.html#fishPreservationMethods)
 - Weight class (lo)
 - Weight class (hi)
 
 #### Reporting Form Details
 
-Form [7PR](../forms/#Form_7PR)
+Form [7PR](../../forms/index.html#Form_7PR)
 
 <hr style="border:1.5px solid black">

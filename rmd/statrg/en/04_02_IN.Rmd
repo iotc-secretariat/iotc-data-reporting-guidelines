@@ -33,20 +33,20 @@ Number of interactions with marine turtles, seabirds, mobulid rays, cetaceans, a
 
 ##### Main Elements
 
-- [Fisheries](../domain/fisheries/#fisheries)
-- [IOTC main areas](../domain/admin/#IOareasMain)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [IOTC main areas](../../domain/admin/index.html#IOareasMain)
 - Species group: marine turtles, seabirds, mobulid rays, cetaceans, and whale sharks
 
 ##### Original Data
 
-- [Types of data](../domain/data/#types)
+- [Types of data](../../domain/data/index.html#types)
 
 ##### Source Coverage
 
-- [Coverage types](../domain/data/#coverageTypes)
+- [Coverage types](../../domain/data/index.html#coverageTypes)
 
 #### Reporting Form Details
 
-Form [1IN](../forms/#Form_1IN)
+Form [1IN](../../forms/index.html#Form_1IN)
 
 <hr style="border:1.5px solid black">

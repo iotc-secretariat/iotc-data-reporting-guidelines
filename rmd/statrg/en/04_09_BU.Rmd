@@ -34,6 +34,6 @@ Single daily buoy position (latitude and longitude in decimal degrees) for each 
 
 #### Reporting Form Details
 
-Form [3BU](../forms/#Form_3BU)
+Form [3BU](../../forms/index.html#Form_3BU)
 
 <hr style="border:1.5px solid black">

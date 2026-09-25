@@ -47,12 +47,12 @@ When present, information on buoy identifier, knowledge of the buoy position, an
 - UTC time
 - Latitude (in decimal degrees)
 - Longitude (in decimal degrees)
-- [Species](../domain/biology/#allSpecies)
-- [Types of fate](../domain/biology/#typesOfFate)
-- [Catch units](../domain/fisheries/#catchUnits)
+- [Species](../../domain/biology/index.html#allSpecies)
+- [Types of fate](../../domain/biology/index.html#typesOfFate)
+- [Catch units](../../domain/fisheries/index.html#catchUnits)
 
 #### Reporting Form Details
 
-Form [3DA](../forms/#Form_3DA)
+Form [3DA](../../forms/index.html#Form_3DA)
 
 <hr style="border:1.5px solid black">

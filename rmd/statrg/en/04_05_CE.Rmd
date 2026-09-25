@@ -83,33 +83,33 @@ Documentation describing the extrapolation procedures (including raising factors
 ##### Catch Main Elements
 
 - Month
-- [Fisheries](../domain/fisheries/#fisheries)
-- [Grids](../domain/admin/#IOTCgridsCESF)
-- [Estimations](../domain/data/#estimations)
-- [Species](../domain/biology/#allSpecies)  
-- [Catch units](../domain/fisheries/#catchUnits)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [Grids](../../domain/admin/index.html#IOTCgridsCESF)
+- [Estimations](../../domain/data/index.html#estimations)
+- [Species](../../domain/biology/index.html#allSpecies)  
+- [Catch units](../../domain/fisheries/index.html#catchUnits)
 
 ##### Effort Main Elements
 
 - Month
-- [Fisheries](../domain/fisheries/#fisheries)
-- [Grids](../domain/admin/#IOTCgridsCESF)
-- [Estimations](../domain/data/#estimations)
-- [Effort units](../domain/fisheries/#effortUnits)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [Grids](../../domain/admin/index.html#IOTCgridsCESF)
+- [Estimations](../../domain/data/index.html#estimations)
+- [Effort units](../../domain/fisheries/index.html#effortUnits)
 
 ##### Original Data
 
-- [Types of data](../domain/data/#types)
-- [Data sources](../domain/data/#sourcesCE)
-- [Data processings](../domain/data/#processingsCE)
+- [Types of data](../../domain/data/index.html#types)
+- [Data sources](../../domain/data/index.html#sourcesCE)
+- [Data processings](../../domain/data/index.html#processingsCE)
 
 ##### Source Coverage
 
-- [Coverage types](../domain/data/#coverageTypes)
-- [Raisings](../domain/data/#raisings)
+- [Coverage types](../../domain/data/index.html#coverageTypes)
+- [Raisings](../../domain/data/index.html#raisings)
 
 #### Reporting Form Details
 
-Form [3CE](../forms/#Form_3CE)
+Form [3CE](../../forms/index.html#Form_3CE)
 
 <hr style="border:1.5px solid black">

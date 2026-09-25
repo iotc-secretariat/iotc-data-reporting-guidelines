@@ -33,26 +33,26 @@ Estimates of discards in numbers or live weight equivalent for the IOTC species,
 ##### Main Elements
 
 - Quarter
-- [Fisheries](../domain/fisheries/#fisheries)
-- [IOTC main areas](../domain/admin/#IOareasMain)
-- [Reasons for discarding](../domain/biology/#discardReasons)
-- [Species](../domain/biology/#allSpecies)  
-- [Condition](../domain/biology/#individualConditions)
-- [Catch units](../domain/fisheries/#catchUnits)
+- [Fisheries](../../domain/fisheries/index.html#fisheries)
+- [IOTC main areas](../../domain/admin/index.html#IOareasMain)
+- [Reasons for discarding](../../domain/biology/index.html#discardReasons)
+- [Species](../../domain/biology/index.html#allSpecies)  
+- [Condition](../../domain/biology/index.html#individualConditions)
+- [Catch units](../../domain/fisheries/index.html#catchUnits)
 
 ##### Original Data
 
-- [Types of data](../domain/data/#types)
-- [Data sources](../domain/data/#sourcesDI)
-- [Data processings](../domain/data/#processingsDI)
+- [Types of data](../../domain/data/index.html#types)
+- [Data sources](../../domain/data/index.html#sourcesDI)
+- [Data processings](../../domain/data/index.html#processingsDI)
 
 ##### Source Coverage
 
-- [Coverage types](../domain/data/#coverageTypes)
-- [Raisings](../domain/data/#raisings)
+- [Coverage types](../domain/data/index.html#coverageTypes)
+- [Raisings](../../domain/data/index.html#raisings)
 
 #### Reporting Form Details
 
-Form [1DI](../forms/#Form_1DI)
+Form [1DI](../../forms/index.html#Form_1DI)
 
 <hr style="border:1.5px solid black">

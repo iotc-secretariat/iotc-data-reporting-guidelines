@@ -22,7 +22,7 @@ ii. The details of the new AFADs deployed within the EEZ of the CPCs that must b
 
 ## Semantics {#semantics}
 
-The [data reporting forms](https://data.iotc.org/reference/latest/forms/) are designed to facilitate the submission of comprehensive datasets. Except for the [forms 3BU](../forms/#Form_3BU), which contain data on [daily buoy positions](#BUdataset) and are expected to be submitted monthly, the Secretariat anticipates receiving for each fishing fleet the following with each annual submission:
+The [data reporting forms](https://data.iotc.org/reference/latest/forms/index.html) are designed to facilitate the submission of comprehensive datasets. Except for the [forms 3BU](../forms/#Form_3BU), which contain data on [daily buoy positions](#BUdataset) and are expected to be submitted monthly, the Secretariat anticipates receiving for each fishing fleet the following with each annual submission:
 
 - One single [form 1DR](../forms/#Form_1DR) to report data on [species presence in the catch](#DRdataset) for all gear groups
 - One single [form 1IN](../forms/#Form_1IN) to report data on [interactions with ETP species](#INdataset) for all fisheries
@@ -36,11 +36,13 @@ The [data reporting forms](https://data.iotc.org/reference/latest/forms/) are de
 
 ## Data Revisions {#revisions}
 
-If it is not possible to submit the final statistics by the specified deadline (see section [Data submission cycle](#submissioncycle))), then at least preliminary statistics should be provided. Data revisions can be performed at any time by re-submitting updated IOTC forms through [e-Maris](#emaris). To facilitate tracking changes, certain versions of the forms have been designed to allow submission of only the updated components of the dataset:
+If it is not possible to submit the final statistics by the specified deadline (see section [Data submission cycle](#submissioncycle))), then at least preliminary statistics should be provided. Data revisions can be performed at any time by re-submitting updated IOTC forms through [e-Maris](#emaris).
 
-- Form [3CE-update](../forms/Form_3CE_update.html) for a given fishery;
-- Form [4SF-update](../forms/Form_4SF_update.html) for a given fishery and species;
-- Form [3AA-update](../forms/Form_3AA_update.html) for a given fishery;
-- Form [3DA-update](../forms/Form_3DA_update.html) for a given vessel.
+<!-- To facilitate tracking changes, certain versions of the forms have been designed to allow submission of only the updated components of the dataset: -->
+
+<!-- - Form [3CE-update](../forms/Form_3CE_update.html) for a given fishery; -->
+<!-- - Form [4SF-update](../forms/Form_4SF_update.html) for a given fishery and species; -->
+<!-- - Form [3AA-update](../forms/Form_3AA_update.html) for a given fishery; -->
+<!-- - Form [3DA-update](../forms/Form_3DA_update.html) for a given vessel. -->
 
 If revisions to historical data are made beyond a delay of two years, they must be formally reported and properly justified. These reports should be submitted using forms provided by the IOTC Secretariat and will be reviewed by the IOTC Scientific Committee. The committee will then advise the IOTC Secretariat on whether the revisions can be accepted for scientific use.

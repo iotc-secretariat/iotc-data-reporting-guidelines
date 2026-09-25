@@ -41,32 +41,32 @@ For each stratum, data coverage -- i.e., the percentage (%) of catch/effort samp
 ##### Main Stratum
 
 -   Month
--   [Grids](../domain/admin/#IOTCgridsCESF)
--   [Species](../domain/biology/#allSpecies)
--   [Sexes](../domain/biology/#sex)
--   [Types of fate](../domain/biology/#typesOfFate)
--   [Fates](../domain/biology/#fates)
+-   [Grids](../../domain/admin/index.html#IOTCgridsCESF)
+-   [Species](../../domain/biology/index.html#allSpecies)
+-   [Sexes](.././domain/biology/index.html#sex)
+-   [Types of fate](../../domain/biology/index.html#typesOfFate)
+-   [Fates](../../domain/biology/index.html#fates)
 
 ##### Original Data
 
--   [Types of data](../domain/data/#types)
--   [Data sources](../domain/data/#sourcesSF)
--   [Data processings](../domain/data/#processingsSF)
+-   [Types of data](../../domain/data/index.html#types)
+-   [Data sources](../../domain/data/index.html#sourcesSF)
+-   [Data processings](../../domain/data/index.html#processingsSF)
 
 ##### Source Coverage
 
--   [Estimations](../domain/data/#estimations)
--   [Coverage types](../domain/data/#coverageTypes)
--   [Raisings](../domain/data/#raisings)
+-   [Estimations](../../domain/data/index.html#estimations)
+-   [Coverage types](../../domain/data/index.html#coverageTypes)
+-   [Raisings](../../domain/data/index.html#raisings)
 
 ##### Measurement
 
--   [Types of measurement](../domain/biology/#typesOfMeasurement)
--   [Measurements](../domain/biology/#allMeasurementTypes)
--   [Tools](../domain/biology/#allMeasurementTools)
+-   [Types of measurement](../../domain/biology/index.html#typesOfMeasurement)
+-   [Measurements](../../domain/biology/index.html#allMeasurementTypes)
+-   [Tools](../../domain/biology/index.html#allMeasurementTools)
 
 #### Reporting Form Details
 
-Form [4SF](../forms/#Form_4SF)
+Form [4SF](../../forms/index.html#Form_4SF)
 
 <hr style="border:1.5px solid black">

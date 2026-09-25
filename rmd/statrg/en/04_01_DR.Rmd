@@ -27,12 +27,12 @@ Matrix table with species in rows and gear groups in columns. For each species/g
 
 #### Data Dimensions
 
-- [Species](../domain/biology/#allSpecies)
-- [Gear groups](../domain/fisheries/#gearGroups)
-- [Fishery categories](../domain/fisheries/#fisheryCategories)
+- [Species](../../domain/biology/index.html#allSpecies)
+- [Gear groups](../../domain/fisheries/index.html#gearGroups)
+- [Fishery categories](../../domain/fisheries/index.html#fisheryCategories)
 
 #### Reporting Form Details
 
-Form [1DR](../forms/#Form_1DR)
+Form [1DR](../../forms/index.html#Form_1DR)
 
 <hr style="border:1.5px solid black">
